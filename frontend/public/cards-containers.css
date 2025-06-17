@@ -1,0 +1,591 @@
+/* Cards and Containers CSS */
+
+/* Authentication Container */
+.auth-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.auth-container.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.auth-popup {
+  background: var(--Neutral-00);
+  border-radius: 8px;
+  padding: 24px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  width: 90%;
+  text-align: center;
+  transform: translateY(-20px);
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.auth-container.visible .auth-popup {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.auth-popup h2 {
+  color: var(--Neutral-80);
+  font-family: var(--font-heading);
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.auth-popup p {
+  color: var(--Neutral-60);
+  margin-bottom: 24px;
+  line-height: 1.5;
+}
+
+/* Profile Container */
+.profile-container {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 100;
+}
+
+.profile-menu {
+  position: absolute;
+  top: 48px;
+  right: 0;
+  background: var(--Neutral-00);
+  border: 1px solid var(--Neutral-20);
+  border-radius: 8px;
+  padding: 8px;
+  min-width: 200px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  gap: 8px;
+  border-bottom: 1px solid var(--Neutral-20);
+  margin-bottom: 8px;
+}
+
+.user-avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 16px;
+  object-fit: cover;
+}
+
+.user-email {
+  color: var(--Neutral-80);
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#userAvatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Preview Area Styles */
+.preview-area {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: none; /* Hide by default */
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+  padding: 2rem;
+  transition: background-color 0.8s ease;
+}
+
+.preview-area.results-mode {
+  background-color: var(--Neutral-00); /* White background after submission */
+}
+
+/* Show preview area when not hidden */
+.preview-area:not(.hidden) {
+  display: flex;
+}
+
+/* Layout for the results view */
+.results-layout {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+  padding: 0 2rem;
+  position: relative;
+  transition: justify-content 0.8s ease;
+}
+
+.results-layout.results-mode {
+  justify-content: center;
+}
+
+.preview-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.8s ease;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.results-mode .preview-container {
+  justify-content: center;
+  padding-right: 0;
+  left: 30%;
+  transform: translate(-50%, -50%);
+}
+
+.preview-area img {
+  max-width: 90%;
+  max-height: 70vh;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin-bottom: 1.5rem; /* Add margin to create space for buttons below */
+}
+
+/* Attributes Container */
+.attributes-container {
+  opacity: 0; /* Start hidden */
+  transition: opacity 0.8s ease;
+  display: none;
+  position: absolute;
+  top: 50%;
+  right: 5%;
+  transform: translateY(-50%);
+  width: 50%;
+  max-width: 550px;
+  z-index: 100;
+}
+
+.results-mode .attributes-container {
+  display: block;
+}
+
+/* Attributes Display Styles */
+.attributes-display {
+  margin-top: 1.5rem;
+  padding: 1.5rem;
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  width: 90%;
+  max-width: 500px;
+}
+
+.attributes-display.hidden {
+  display: none;
+}
+
+.attributes-display h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #1f2937;
+  font-family: var(--font-heading);
+}
+
+.attributes-display div {
+  margin-bottom: 0.75rem;
+  font-size: 1rem;
+  color: #4b5563;
+}
+
+.attributes-display div span {
+  font-weight: 500;
+  color: #2563eb;
+}
+
+/* Attributes Decision Styles */
+.attributes-decision {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+  width: 90%;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  transform: translateX(-5%); /* Move buttons slightly to the left */
+}
+
+/* Candidates Section */
+.candidates-section {
+  position: absolute;
+  top: 50%;
+  right: 5%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  max-width: 550px;
+  transition: opacity 0.5s ease;
+  z-index: 100;
+}
+
+.candidates-section.hidden {
+  display: none;
+}
+
+.candidates-section.fade-in {
+  opacity: 1;
+}
+
+/* Embeddings Explanation Section */
+.embeddings-explanation {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  max-width: 800px;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 2rem;
+  opacity: 0;
+  transition: opacity 0.8s ease;
+}
+
+.embeddings-explanation.visible {
+  opacity: 1;
+}
+
+.embeddings-explanation.hidden {
+  display: none;
+}
+
+.embeddings-title {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #1f2937;
+  text-align: center;
+  margin-bottom: 1rem;
+  opacity: 0;
+}
+
+.embeddings-title.animate {
+  animation: sequentialFadeIn 1s forwards;
+}
+
+.embeddings-image-container {
+  width: 100%;
+  max-width: 700px;
+  margin: 0;
+  padding-left: 40px; /* Move the image slightly to the right */
+  opacity: 0;
+}
+
+.embeddings-image-container.animate {
+  animation: sequentialFadeIn 1s forwards;
+  animation-delay: 1s;
+}
+
+.embeddings-image {
+  width: 100%;
+  height: 300px; /* Fixed height to allow cropping */
+  object-fit: cover; /* Crop the image to fill the container */
+  object-position: center 40%; /* Adjust vertical position to crop more from top than bottom */
+  border-radius: 0;
+}
+
+/* Override the general preview-area img styles for embeddings image */
+.embeddings-explanation .embeddings-image {
+  box-shadow: none;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.embeddings-text {
+  font-size: 1.2rem;
+  color: #4b5563;
+  text-align: center;
+  margin-top: 0.25rem;
+  opacity: 0;
+}
+
+.embeddings-text.animate {
+  animation: sequentialFadeIn 1s forwards;
+  animation-delay: 2s;
+}
+
+/* Rankings Section */
+.rankings-section {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  z-index: 2000;
+  opacity: 0;
+  transition: opacity 0.8s ease;
+}
+
+.rankings-section.visible {
+  opacity: 1;
+}
+
+.rankings-section.hidden {
+  display: none;
+}
+
+.rankings-section .preview-container {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.8s ease;
+}
+
+.rankings-section .preview-container img {
+  max-width: 90%;
+  max-height: 70vh;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.rankings-container {
+  position: absolute;
+  top: 50%;
+  right: 5%;
+  transform: translateY(-50%);
+  width: 50%;
+  max-width: 550px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: opacity 0.5s ease;
+  z-index: 100;
+}
+
+.rankings-card {
+  width: 100%;
+  padding: 1.5rem;
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+.rankings-card h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #1f2937;
+  font-family: var(--font-heading);
+}
+
+/* Rankings table styling - strong first row, weaker others */
+#rankingsList tr:nth-child(1) {
+  background-color: rgba(52, 168, 83, 0.4); /* Strong green */
+}
+
+#rankingsList tr:nth-child(n+2) {
+  background-color: rgba(52, 168, 83, 0.1); /* Considerably weaker green for all other rows */
+}
+
+#rankingsList td:last-child {
+  font-weight: 600;
+  color: #34a853; /* Green color for the distance value */
+}
+
+/* Match Candidates Container */
+.match-candidates-container {
+  padding: 1.5rem;
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  width: 100%;
+  transition: opacity 0.5s ease;
+}
+
+.match-candidates-container.fade-in {
+  opacity: 1;
+}
+
+.match-candidates-container h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #1f2937;
+  font-family: var(--font-heading);
+}
+
+/* Make match candidates header match the attributes display header */
+.attributes-display h3,
+.match-candidates-container h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #1f2937;
+  font-family: var(--font-heading);
+}
+
+/* Logger */
+.logger {
+  color: var(--gray-500);
+  width: 100%;
+  max-width: 100%;
+  display: block;
+}
+
+.logger-list {
+  padding: 0 0px 0 25px;
+  overflow-x: hidden;
+  width: calc(100% - 45px);
+}
+
+.rich-log {
+  display: block;
+}
+
+.rich-log h4 {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 8px 0;
+  margin: 0;
+  font-family: var(--font-heading);
+  color: var(--Neutral-60);
+}
+
+.rich-log h5 {
+  margin: 0;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--Neutral-20);
+  font-family: var(--font-heading);
+  color: var(--Neutral-80);
+}
+
+.rich-log .part {
+  background: var(--Neutral-5);
+  padding: 14px;
+  margin-bottom: 4px;
+  color: var(--Neutral-80);
+  border-radius: 8px;
+}
+
+.plain-log {
+  display: block;
+  padding: 8px 0;
+  color: var(--Neutral-50);
+  font-family: "Space Mono";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.plain-log > * {
+  padding-right: 4px;
+}
+
+.plain-log .timestamp {
+  width: 70px;
+  flex-grow: 0;
+  flex-shrink: 0;
+  color: var(--Neutral-50);
+}
+
+.plain-log .source {
+  flex-shrink: 0;
+  font-weight: bold;
+}
+
+.source-server,
+.receive {
+  color: var(--Blue-500);
+}
+
+.source-client,
+.send:not(.source-server) {
+  color: var(--Green-500);
+}
+
+.count {
+  background-color: var(--Neutral-5);
+  font-size: x-small;
+  padding: 0.3em 0.5em;
+  line-height: 1em;
+  vertical-align: middle;
+  border-radius: 8px;
+  color: var(--Blue-500);
+}
+
+/* Side Panel (Hidden) */
+.side-panel {
+  display: none !important;
+}
+
+/* Tooltip Styling */
+.detail-tooltip {
+  position: absolute;
+  background-color: white;
+  border: 1px solid var(--Neutral-30);
+  border-radius: 4px;
+  padding: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  z-index: 2000; /* Increased z-index to ensure it appears above other elements */
+  max-width: 100%;
+  width: auto;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease, visibility 0.2s ease;
+}
+
+.detail-tooltip.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.tooltip-content {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px 16px;
+}
+
+.tooltip-content div {
+  font-size: 14px;
+  line-height: 1.4;
+}

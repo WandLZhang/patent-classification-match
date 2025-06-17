@@ -1,0 +1,19 @@
+[
+  {"name": "patient_name", "type": "STRING"},
+  {"name": "dob", "type": "DATE"},
+  {"name": "age", "type": "INTEGER"},
+  {"name": "referring_facility", "type": "STRING"},
+  {"name": "referring_facility_phone", "type": "STRING"},
+  {"name": "referring_facility_fax", "type": "STRING"},
+  {"name": "referring_provider", "type": "STRING"},
+  {"name": "npi", "type": "STRING"},
+  {"name": "priority", "type": "STRING"},
+  {"name": "provisional_diagnosis", "type": "STRING"},
+  {"name": "referral_date", "type": "DATE"},
+  {"name": "clinically_indicated_date", "type": "DATE"},
+  {"name": "referral_expiration_date", "type": "DATE"},
+  {"name": "referral_category", "type": "STRING"},
+  {"name": "level_of_care_coordination", "type": "STRING"},
+  {"name": "category_of_care", "type": "STRING"},
+  {"name": "service_requested", "type": "STRING"}
+]

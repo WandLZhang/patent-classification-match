@@ -1,0 +1,25 @@
+# Dependencies
+node_modules
+__pycache__
+*.pyc
+
+# Project specific
+backend/archive
+backend/create-rag-datastore/processed_documents
+backend/image-inspection/test1/
+frontend/test/template_app.txt
+
+# Environment Variables
+**/.env
+**/.env.local
+**/.env.development
+**/.env.production
+**/.env.test
+!**/.env.example
+
+# Logs and debug files
+*.log
+firebase-debug.log*
+frontend/firebase-debug.log
+backend/function-site-check/javascript-function/.env.gemini-med-lit-review
+frontend/.firebase/hosting.cHVibGlj.cache
