@@ -1,0 +1,1 @@
+Notebook[List[Cell[BoxData[FormBox[RowBox[List[RowBox[List["f", "(", SubscriptBox["x", "i"], ")"]], "=", FractionBox[SuperscriptBox["e", "x"], RowBox[List[SubscriptBox[RowBox[List["\[Sum]", " "]], "i"], SubscriptBox["x", "i"]]]]]], TraditionalForm]], "Input"]]]

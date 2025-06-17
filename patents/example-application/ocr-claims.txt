@@ -1,0 +1,231 @@
+
+            
+               
+                  
+                  
+                  
+               
+               
+                  
+                  
+                     Claims
+                  
+               
+               
+                  1. An apparatus for standardization of electrocardiogram signal images, the apparatus comprising:
+                        
+                        an imaging device;
+                        
+                        at least a processor; and
+                        
+                        a memory communicatively connected to the at least a processor, the memory containing instructions configuring the at least
+                           a processor to:
+                           
+                           receive an overlay image from the imaging device;
+                           
+                           identify a captured fixed background image and a captured primary image within the overlay image, wherein the captured primary
+                              image comprises a plurality of electrocardiogram signals;
+                           
+                           
+                           compare the captured fixed background image to one or more image quality thresholds;
+                           
+                           determine an image quality score of the captured primary image as a function of the comparison of the captured fixed background
+                              image to the one or more image quality thresholds; and
+                           
+                           
+                           output one or more image modification datum as a function of the image quality score.
+                           
+                        
+                        
+                     
+                  
+               
+               
+                  2. The apparatus of claim 1, wherein outputting the one or more image modification datum as a function of the image quality score comprises generating
+                        an updated overlay image as a function of the overlay image and the image quality score.
+                     
+                  
+               
+               
+                  3. The apparatus of claim 1, wherein the captured fixed background image comprises a color gamut.
+                     
+                  
+               
+               
+                  4. The apparatus of claim 1, wherein the captured fixed background image comprises a reference electrocardiogram signal.
+                     
+                  
+               
+               
+                  5. The apparatus of claim 1, wherein comparing the captured fixed background image to the one or more image quality thresholds comprises comparing the
+                        captured fixed background image to a fixed reference image.
+                     
+                  
+               
+               
+                  6. The apparatus of claim 1, wherein outputting the one or more image modification datum as a function of the image quality score comprises generating
+                        one or more image modification parameters for the imaging device.
+                     
+                  
+               
+               
+                  7. The apparatus of claim 1, further comprising iteratively determining an updated image quality score of the captured primary image as a function of
+                        the one or more image modification datum.
+                     
+                  
+               
+               
+                  8. The apparatus of claim 1, further comprising an input device, the input device comprising:
+                        
+                        a transparent panel configured to secure a primary image atop a fixed background image;
+                        
+                        a light source configured to illuminate the primary image and the fixed background image; and
+                        
+                        the imaging device positioned proximal to the transparent panel, wherein the imaging device is configured to capture the fixed
+                           background image and the primary image.
+                        
+                        
+                     
+                  
+               
+               
+                  9. The apparatus of claim 8, wherein comparing the captured fixed background image to the one or more image quality thresholds comprises:
+                        
+                        generating a two dimensional matrix of a position of one or more geometric patterns of the captured fixed background image;
+                           and
+                        
+                        
+                        comparing the two dimensional matrix to one or more image quality thresholds.
+                        
+                     
+                  
+               
+               
+                  10. The apparatus of claim 1, wherein outputting the one or more image modification datum as a function of the image quality score comprises:
+                        
+                        training a modification machine learning model as a function of modification training data comprising a plurality of image
+                           quality scores correlated to a plurality of image modification datums;
+                        
+                        
+                        iteratively generating the one or more image modification datum as a function of the modification machine learning model and
+                           the modification training data;
+                        
+                        
+                        iteratively generating an updated overlay image as a function of the one or more image modification datum comprising an updated
+                           fixed background image and an updated primary image; and
+                        
+                        
+                        iteratively determining an updated image quality score of the updated primary image as a function of the updated fixed background
+                           image.
+                        
+                        
+                     
+                  
+               
+               
+                  11. A method for standardization of electrocardiogram signal images, the method comprising:
+                        
+                        receiving, by an imaging device, an overlay image;
+                        
+                        identifying, by at least a processor, a captured fixed background image and a captured primary image within the overlay image,
+                           wherein the captured primary image comprises a plurality of electrocardiogram signals;
+                        
+                        
+                        comparing, by the at least a processor, the captured fixed background image to one or more image quality thresholds;
+                        
+                        determining, by the at least a processor, an image quality score of the captured primary image as a function of the comparison
+                           of the captured fixed background image to the one or more image quality thresholds; and
+                        
+                        
+                        outputting, by the at least a processor, one or more image modification datum as a function of the image quality score.
+                        
+                     
+                  
+               
+               
+                  12. The method of claim 11, wherein outputting, by the at least a processor, the one or more image modification datum as a function of the image quality
+                        score comprises generating an updated overlay image as a function of the overlay image and the image quality score.
+                     
+                  
+               
+               
+                  13. The method of claim 11, wherein the captured fixed background image comprises a color gamut.
+                     
+                  
+               
+               
+                  14. The method of claim 11, wherein the captured fixed background image comprises a reference electrocardiogram signal.
+                     
+                  
+               
+               
+                  15. The method of claim 11, wherein comparing, by the at least a processor, the captured fixed background image to the one or more image quality thresholds
+                        comprises comparing the captured fixed background image to a fixed reference image.
+                     
+                  
+               
+               
+                  16. The method of claim 11, wherein outputting, by the at least a processor, the one or more image modification datum as a function of the image quality
+                        score comprises generating one or more image modification parameters for the imaging device.
+                     
+                  
+               
+               
+                  17. The method of claim 11, further comprising determining, by the at least a processor, an updated image quality score of the captured primary image
+                        as a function of the one or more image modification datum.
+                     
+                  
+               
+               
+                  18. The method of claim 11, wherein receiving, by the imaging device, the overlay image comprises:
+                        
+                        securing, using a transparent panel, a primary image atop a fixed background image;
+                        
+                        illuminating, using a light source, the primary image and the fixed background image; and
+                        
+                        capturing, using the imaging device, the fixed background image and the primary image wherein the imaging device is positioned
+                           proximal to the transparent panel.
+                        
+                        
+                     
+                  
+               
+               
+                  19. The method of claim 18, wherein comparing, by the at least a processor, the captured fixed background image to the one or more image quality thresholds
+                        comprises:
+                        
+                        generating a two dimensional matrix of a position of one or more geometric patterns of the captured fixed background image;
+                           and
+                        
+                        
+                        comparing the two dimensional matrix to one or more image quality thresholds.
+                        
+                     
+                  
+               
+               
+                  20. The method of claim 11, wherein outputting, by the at least a processor, the one or more image modification datum as a function of the image quality
+                        score comprises:
+                        
+                        training a modification machine learning model as a function of modification training data comprising a plurality of image
+                           quality scores correlated to a plurality of image modification datums;
+                        
+                        
+                        iteratively generating the one or more image modification datum as a function of the modification machine learning model and
+                           the modification training data;
+                        
+                        
+                        iteratively generating an updated overlay image as a function of the one or more image modification datum comprising an updated
+                           fixed background image and an updated primary image; and
+                        
+                        
+                        iteratively determining an updated image quality score of the updated primary image as a function of the updated fixed background
+                           image.
+                        
+                        
+                     
+                  
+               
+            
+         
+         

@@ -1,0 +1,1 @@
+Notebook[List[Cell[BoxData[FormBox[RowBox[List[FractionBox[RowBox[List[SuperscriptBox["e", "x"], "-", SuperscriptBox["e", RowBox[List["-", "x"]]]]], RowBox[List[SuperscriptBox["e", RowBox[List["x", " "]]], "+", SuperscriptBox["e", RowBox[List["-", "x"]]]]]], ","]], TraditionalForm]], "Input"]]]

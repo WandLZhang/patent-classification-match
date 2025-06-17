@@ -1,0 +1,1 @@
+Notebook[List[Cell[BoxData[FormBox[RowBox[List[SubscriptBox["X", "new"], "-", RowBox[List[FractionBox[RowBox[List["X", "-", SubscriptBox["X", "mean"]]], "\[Sigma]"], "."]]]], TraditionalForm]], "Input"]]]
