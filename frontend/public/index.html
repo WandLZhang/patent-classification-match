@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Patient Referral Match</title>
+    <title>Patent Classification Match</title>
     <link rel="stylesheet" href="base.css">
     <link rel="stylesheet" href="animations-buttons.css">
     <link rel="stylesheet" href="cards-containers.css">
     <link rel="stylesheet" href="tables-data.css">
+    <link rel="stylesheet" href="patent-info.css">
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=block" rel="stylesheet">
 </head>
 <body>
@@ -29,7 +30,7 @@
                         <button id="captureButton" class="action-button" disabled data-label="Take picture">
                             <span class="material-symbols-outlined">camera</span>
                         </button>
-                        <input type="file" id="fileInput" accept="image/*" class="file-input" style="display:none;">
+                        <input type="file" id="fileInput" accept="application/pdf" class="file-input" style="display:none;">
                         <label for="fileInput" class="action-button" data-label="Upload">
                             <span class="material-symbols-outlined">upload</span>
                         </label>
@@ -41,7 +42,21 @@
     <div id="previewArea" class="preview-area hidden">
         <div class="results-layout">
             <div class="preview-container">
-                <img id="imagePreview" alt="Captured document">
+                <img id="imagePreview" alt="Captured document" style="display:none;">
+                <div id="pdfViewerContainer" style="width: 100%; height: 500px; display: none; position: relative; overflow: hidden;">
+                    <canvas id="pdfCanvas" style="border: 1px solid #ccc; display: block; margin: 0 auto;"></canvas>
+                    <div id="pdfNavigation" style="margin-top: 10px; display: flex; justify-content: center; align-items: center; gap: 10px;">
+                        <button id="prevPage" class="action-button" style="margin-right: 10px;">
+                            <span class="material-symbols-outlined">arrow_back</span>
+                        </button>
+                        <span style="margin: 0 10px; vertical-align: middle;">
+                            Page <span id="currentPageNum">1</span> of <span id="totalPagesNum">1</span>
+                        </span>
+                        <button id="nextPage" class="action-button" style="margin-left: 10px;">
+                            <span class="material-symbols-outlined">arrow_forward</span>
+                        </button>
+                    </div>
+                </div>
                 <div class="button-container">
                     <button id="retakeButton" class="action-button">
                         <span class="material-symbols-outlined">refresh</span>
@@ -65,6 +80,36 @@
                     <button id="submitAttributesButton" class="action-button submit-button">
                         <span class="material-symbols-outlined">check</span>
                     </button>
+                </div>
+            </div>
+            <div id="patentInfoContainer" class="patent-info-container hidden">
+                <h3>Extracted Patent Information:</h3>
+                <div class="patent-section" data-section="abstract">
+                    <h4>Abstract</h4>
+                    <div class="patent-content-preview" id="patentAbstractPreview">
+                        <!-- Short preview of abstract -->
+                    </div>
+                    <div class="patent-content-full hidden" id="patentAbstractFull">
+                        <!-- Full abstract content, scrollable -->
+                    </div>
+                </div>
+                <div class="patent-section" data-section="description">
+                    <h4>Description</h4>
+                    <div class="patent-content-preview" id="patentDescriptionPreview">
+                        <!-- Short preview of description -->
+                    </div>
+                    <div class="patent-content-full hidden" id="patentDescriptionFull">
+                        <!-- Full description content, scrollable -->
+                    </div>
+                </div>
+                <div class="patent-section" data-section="claims">
+                    <h4>Claims</h4>
+                    <div class="patent-content-preview" id="patentClaimsPreview">
+                        <!-- Short preview of claims -->
+                    </div>
+                    <div class="patent-content-full hidden" id="patentClaimsFull">
+                        <!-- Full claims content, scrollable -->
+                    </div>
                 </div>
             </div>
         </div>
@@ -132,6 +177,11 @@
             </div>
         </div>
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.min.js"></script>
+    <script>
+        // Required for PDF.js to work
+        pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.worker.min.js';
+    </script>
     <script src="app.js"></script>
 </body>
 </html>

@@ -161,9 +161,20 @@
 
 .results-mode .preview-container {
   justify-content: center;
-  padding-right: 0;
-  left: 30%;
-  transform: translate(-50%, -50%);
+  left: 4%; /* Position from left edge with a 4% margin */
+  width: 42%; /* Define width for the left column */
+  transform: translateY(-50%); /* Only Y transform needed now */
+}
+
+/* Add positioning for patent info container in results mode */
+.results-layout.results-mode #patentInfoContainer {
+  position: absolute;
+  right: 2%; /* Position from right edge with a 2% margin */
+  width: 45%; /* Define width for the right column */
+  top: 50%;
+  transform: translateY(-50%);
+  margin-top: 0; /* Override default margin from patent-info.css for better centering */
+  max-width: 600px; /* Ensure it doesn't get too wide on large screens */
 }
 
 .preview-area img {

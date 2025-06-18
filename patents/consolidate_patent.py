@@ -44,7 +44,7 @@ def main():
         print("  You can install it with: pip install xhtml2pdf")
         
     print("\nChecking patent directory contents...")
-    patent_dir = Path("example-application")
+    patent_dir = Path("patents/example-application")
     
     if not patent_dir.exists():
         print(f"Error: Directory {patent_dir} does not exist!")
@@ -93,7 +93,6 @@ def main():
         with open(xml_file, 'r', encoding='utf-8') as f:
             xml_content = f.read()
             # Extract title and basic info
-            import re
             title_match = re.search(r'<invention-title[^>]*>(.*?)</invention-title>', xml_content)
             title = title_match.group(1) if title_match else "Unknown Patent"
             

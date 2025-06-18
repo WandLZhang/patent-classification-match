@@ -1,8 +1,0 @@
-functions-framework==3.*
-Flask==3.1.0
-Pillow==10.1.0
-google-cloud-discoveryengine==0.13.5
-google-cloud-storage==2.14.0
-google-cloud-bigquery==3.21.0
-google-genai
-vertexai==1.71.1

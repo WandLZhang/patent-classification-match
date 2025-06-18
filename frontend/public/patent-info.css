@@ -1,0 +1,133 @@
+/* Patent Information Container Styles */
+.patent-info-container {
+    background: white;
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    max-width: 800px;
+    transition: opacity 0.3s ease;
+}
+
+.patent-info-container h3 {
+    color: #1976d2;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+.patent-section {
+    margin-bottom: 30px;
+    padding: 16px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background: #fafafa;
+    position: relative;
+    transition: all 0.3s ease;
+}
+
+.patent-section:hover {
+    background: #f5f5f5;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.patent-section h4 {
+    color: #333;
+    margin-bottom: 12px;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.patent-content-preview {
+    color: #666;
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+
+.patent-content-full {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: white;
+    border: 2px solid #1976d2;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+    max-height: 400px;
+    overflow-y: auto;
+    z-index: 10;
+    color: #333;
+    line-height: 1.6;
+    font-size: 0.95rem;
+}
+
+/* Custom scrollbar for patent content */
+.patent-content-full::-webkit-scrollbar {
+    width: 8px;
+}
+
+.patent-content-full::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+.patent-content-full::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+.patent-content-full::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Show full content on hover */
+.patent-section:hover .patent-content-preview {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.patent-section:hover .patent-content-full {
+    display: block !important;
+}
+
+.patent-content-full.hidden {
+    display: none;
+}
+
+/* Fade in animation */
+.patent-info-container.fade-in {
+    animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .patent-info-container {
+        padding: 16px;
+        margin: 10px;
+    }
+    
+    .patent-section {
+        margin-bottom: 20px;
+        padding: 12px;
+    }
+    
+    .patent-content-full {
+        position: fixed;
+        top: 10%;
+        left: 5%;
+        right: 5%;
+        bottom: 10%;
+        max-height: 80vh;
+    }
+}

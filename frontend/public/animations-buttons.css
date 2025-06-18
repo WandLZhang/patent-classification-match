@@ -20,7 +20,7 @@
 
 @keyframes slideLeft {
   from { transform: translate(-50%, -50%); }
-  to { transform: translate(-80%, -50%); }
+  to { transform: translateY(-50%); }
 }
 
 @keyframes fadeIn {

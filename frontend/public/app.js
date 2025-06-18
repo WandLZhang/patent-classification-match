@@ -21,6 +21,22 @@ let isCameraOn = false;
 let mediaStream = null;
 let capturedImage = null;
 
+// PDF.js state variables
+let pdfDoc = null;
+let currentPageNum = 1;
+let pageRendering = false;
+let pageNumPending = null;
+const PDF_SCALE = 0.8;
+
+// PDF DOM elements (will be initialized after DOM loads)
+let pdfViewerContainer = null;
+let pdfCanvas = null;
+let pdfCtx = null;
+let prevButton = null;
+let nextButton = null;
+let currentPageNumSpan = null;
+let totalPagesNumSpan = null;
+
 // Camera Controls
 async function toggleCamera() {
     if (!isCameraOn) {
@@ -68,17 +84,15 @@ function captureFrame() {
     showPreview(capturedImage);
 }
 
+// State variable to store the current PDF file
+let currentPdfFile = null;
+
 // Handle file upload
 fileInput.addEventListener('change', (e) => {
     const file = e.target.files[0];
-    if (file) {
-        const reader = new FileReader();
-        reader.onload = (e) => {
-            capturedImage = e.target.result;
-            showPreview(capturedImage);
-            console.log('Image loaded from file, preview should be visible now');
-        };
-        reader.readAsDataURL(file);
+    if (file && file.type === 'application/pdf') {
+        currentPdfFile = file; // Store the PDF file
+        loadAndRenderPdfFromFile(file);
     }
 });
 
@@ -94,10 +108,143 @@ function showPreview(imageData) {
     console.log('previewArea classes:', previewArea.className);
 }
 
+// Load and render PDF from file
+async function loadAndRenderPdfFromFile(file) {
+    const fileURL = URL.createObjectURL(file);
+    
+    try {
+        // Load the PDF document
+        pdfDoc = await pdfjsLib.getDocument(fileURL).promise;
+        currentPageNum = 1;
+        
+        // Update total pages
+        if (totalPagesNumSpan) {
+            totalPagesNumSpan.textContent = pdfDoc.numPages;
+        }
+        
+        // Show the PDF viewer and hide the image preview
+        if (imagePreview) imagePreview.style.display = 'none';
+        if (pdfViewerContainer) pdfViewerContainer.style.display = 'block';
+        
+        // Show the preview area
+        camera.classList.add('hidden');
+        placeholderMessage.classList.add('hidden');
+        previewArea.classList.remove('hidden');
+        
+        // Use requestAnimationFrame to ensure the browser has calculated the container dimensions
+        requestAnimationFrame(async () => {
+            // Render the first page
+            await renderPdfPage(currentPageNum);
+            
+            // After rendering the first page, capture it as an image for backend
+            capturedImage = pdfCanvas.toDataURL('image/jpeg');
+        });
+        
+    } catch (error) {
+        console.error('Error loading PDF:', error);
+        alert('Error loading PDF file. Please try again.');
+    } finally {
+        URL.revokeObjectURL(fileURL);
+    }
+}
+
+// Render a specific page of the PDF
+async function renderPdfPage(num) {
+    if (!pdfDoc || pageRendering) return;
+    
+    pageRendering = true;
+    
+    try {
+        // Get the page
+        const page = await pdfDoc.getPage(num);
+        
+        // Calculate scale based on fixed height
+        const desiredHeight = pdfViewerContainer.clientHeight - 70; // Subtract some space for navigation
+        const viewportAtScale1 = page.getViewport({ scale: 1.0 });
+        const scale = desiredHeight / viewportAtScale1.height;
+        
+        // Get viewport with calculated scale
+        const viewport = page.getViewport({ scale: scale });
+        
+        // Set canvas dimensions
+        pdfCanvas.height = viewport.height;
+        pdfCanvas.width = viewport.width;
+        
+        // Set canvas style dimensions to match
+        pdfCanvas.style.height = viewport.height + 'px';
+        pdfCanvas.style.width = viewport.width + 'px';
+        
+        // Render PDF page into canvas context
+        const renderContext = {
+            canvasContext: pdfCtx,
+            viewport: viewport
+        };
+        
+        await page.render(renderContext).promise;
+        
+        // Update page counter
+        if (currentPageNumSpan) {
+            currentPageNumSpan.textContent = num;
+        }
+        
+        // Enable/disable navigation buttons
+        if (prevButton) {
+            prevButton.disabled = (num <= 1);
+        }
+        if (nextButton) {
+            nextButton.disabled = (num >= pdfDoc.numPages);
+        }
+        
+        pageRendering = false;
+        
+        // If there's a pending page render, do it now
+        if (pageNumPending !== null) {
+            renderPdfPage(pageNumPending);
+            pageNumPending = null;
+        }
+        
+    } catch (error) {
+        console.error('Error rendering page:', error);
+        pageRendering = false;
+    }
+}
+
+// Queue page rendering
+function queueRenderPage(num) {
+    if (pageRendering) {
+        pageNumPending = num;
+    } else {
+        renderPdfPage(num);
+    }
+}
+
+// Previous page
+function onPrevPage() {
+    if (currentPageNum <= 1) return;
+    currentPageNum--;
+    queueRenderPage(currentPageNum);
+}
+
+// Next page
+function onNextPage() {
+    if (!pdfDoc || currentPageNum >= pdfDoc.numPages) return;
+    currentPageNum++;
+    queueRenderPage(currentPageNum);
+}
+
 // Retake photo
 function retakePhoto() {
     capturedImage = null;
     previewArea.classList.add('hidden');
+    
+    // Reset PDF state
+    pdfDoc = null;
+    currentPageNum = 1;
+    
+    // Hide PDF viewer and show image preview
+    if (pdfViewerContainer) pdfViewerContainer.style.display = 'none';
+    if (imagePreview) imagePreview.style.display = 'block';
+    
     if (isCameraOn) {
         camera.classList.remove('hidden');
     } else {
@@ -106,11 +253,58 @@ function retakePhoto() {
     fileInput.value = '';
 }
 
+
 // Confirm photo
 function confirmPhoto() {
     console.log('Photo confirmed. Ready for processing.');
 
-    if (capturedImage) {
+    // Check if we have a PDF file loaded
+    if (currentPdfFile) {
+        // Show loading state
+        const confirmButton = document.getElementById('confirmButton');
+        confirmButton.disabled = true;
+        confirmButton.innerHTML = '<span class="material-symbols-outlined">hourglass_empty</span>';
+
+        // Read the PDF file as base64
+        const reader = new FileReader();
+        reader.onload = function(e) {
+            const base64Data = e.target.result; // This includes the data:application/pdf;base64, prefix
+
+            // Send PDF to the new patent processing endpoint
+            fetch('https://patent-classification-match-934163632848.us-central1.run.app/process-patent-pdf', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ pdf_data: base64Data })
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok: ' + response.statusText);
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log('Patent Information Extracted:', data);
+
+                // Hide the old attributes container and show patent info
+                displayPatentInformation(data);
+            })
+            .catch(error => {
+                console.error('Error processing PDF:', error);
+                alert('Error processing PDF: ' + error.message);
+            })
+            .finally(() => {
+                // Reset button state
+                confirmButton.disabled = false;
+                confirmButton.innerHTML = '<span class="material-symbols-outlined">check</span>';
+            });
+        };
+        
+        reader.readAsDataURL(currentPdfFile);
+        
+    } else if (capturedImage) {
+        // Original image processing logic (kept for backward compatibility)
         // Show loading state
         const confirmButton = document.getElementById('confirmButton');
         confirmButton.disabled = true;
@@ -178,7 +372,69 @@ function confirmPhoto() {
             confirmButton.innerHTML = '<span class="material-symbols-outlined">check</span>';
         });
     } else {
-        alert('No image captured.');
+        alert('No document captured.');
+    }
+}
+
+// Function to display patent information
+function displayPatentInformation(patentData) {
+    // Apply animations for the transition
+    const buttonContainer = document.querySelector('.button-container');
+    const previewArea = document.getElementById('previewArea');
+    const resultsLayout = document.querySelector('.results-layout');
+    const previewContainer = document.querySelector('.preview-container');
+    const patentInfoContainer = document.getElementById('patentInfoContainer');
+    const attributesContainer = document.querySelector('.attributes-container');
+    
+    // Hide the attributes container
+    if (attributesContainer) {
+        attributesContainer.style.display = 'none';
+    }
+    
+    // Update patent content
+    updatePatentSection('Abstract', patentData.abstract);
+    updatePatentSection('Description', patentData.description);
+    updatePatentSection('Claims', patentData.claims);
+    
+    // First fade out the buttons
+    buttonContainer.classList.add('fade-out');
+    
+    // After a short delay, switch to results mode layout and animate
+    setTimeout(() => {
+        // Add the results-mode class to change the layout and background
+        previewArea.classList.add('results-mode');
+        resultsLayout.classList.add('results-mode');
+        
+        // Slide the preview to the left
+        previewContainer.classList.add('slide-left');
+        
+        // Show and fade in the patent info container
+        setTimeout(() => {
+            patentInfoContainer.classList.remove('hidden');
+            patentInfoContainer.classList.add('fade-in');
+            
+            // Re-initialize patent hover handlers after the content is displayed
+            initializePatentHoverHandlers();
+        }, 300);
+    }, 500);
+}
+
+// Function to update individual patent sections
+function updatePatentSection(sectionName, content) {
+    const sectionId = 'patent' + sectionName;
+    const previewId = sectionId + 'Preview';
+    const fullId = sectionId + 'Full';
+    
+    const previewElement = document.getElementById(previewId);
+    const fullElement = document.getElementById(fullId);
+    
+    if (previewElement && fullElement) {
+        // Create preview (first 150 characters)
+        const previewText = content ? content.substring(0, 150) + (content.length > 150 ? '...' : '') : 'No content found';
+        previewElement.textContent = previewText;
+        
+        // Set full content
+        fullElement.textContent = content || 'No content found';
     }
 }
 
@@ -554,7 +810,12 @@ function handleBlueArrowClick() {
         console.log('Semantic search results:', data);
         
         // Copy the current image to the rankings image preview
-        rankingsImagePreview.src = imagePreview.src;
+        // If we have a PDF loaded, use the canvas, otherwise use the image preview
+        if (pdfDoc && pdfCanvas) {
+            rankingsImagePreview.src = pdfCanvas.toDataURL('image/jpeg');
+        } else {
+            rankingsImagePreview.src = imagePreview.src;
+        }
         
         // Populate the rankings list
         populateRankings(data.rankings || []);
@@ -643,6 +904,34 @@ function populateRankings(rankings) {
     });
 }
 
+// Initialize patent section hover handlers
+function initializePatentHoverHandlers() {
+    const patentSections = document.querySelectorAll('.patent-section');
+    
+    patentSections.forEach(section => {
+        const preview = section.querySelector('.patent-content-preview');
+        const full = section.querySelector('.patent-content-full');
+        
+        // Ensure proper initial state
+        if (preview && full) {
+            preview.style.transition = 'opacity 0.3s ease';
+            full.classList.add('hidden');
+            
+            section.addEventListener('mouseenter', () => {
+                preview.style.opacity = '0';
+                preview.style.visibility = 'hidden';
+                full.classList.remove('hidden');
+            });
+            
+            section.addEventListener('mouseleave', () => {
+                preview.style.opacity = '1';
+                preview.style.visibility = 'visible';
+                full.classList.add('hidden');
+            });
+        }
+    });
+}
+
 // Initialize the app
 document.addEventListener('DOMContentLoaded', () => {
     captureButton.disabled = true; // Disable capture button until camera is on
@@ -652,4 +941,26 @@ document.addEventListener('DOMContentLoaded', () => {
         previewArea.classList.add('hidden');
         console.log('Preview area hidden on page load');
     }
+    
+    // Initialize PDF DOM elements
+    pdfViewerContainer = document.getElementById('pdfViewerContainer');
+    pdfCanvas = document.getElementById('pdfCanvas');
+    if (pdfCanvas) {
+        pdfCtx = pdfCanvas.getContext('2d');
+    }
+    prevButton = document.getElementById('prevPage');
+    nextButton = document.getElementById('nextPage');
+    currentPageNumSpan = document.getElementById('currentPageNum');
+    totalPagesNumSpan = document.getElementById('totalPagesNum');
+    
+    // Add event listeners for PDF navigation
+    if (prevButton) {
+        prevButton.addEventListener('click', onPrevPage);
+    }
+    if (nextButton) {
+        nextButton.addEventListener('click', onNextPage);
+    }
+    
+    // Initialize patent section hover handlers
+    initializePatentHoverHandlers();
 });
