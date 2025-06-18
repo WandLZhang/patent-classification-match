@@ -38,6 +38,22 @@ let nextButton = null;
 let currentPageNumSpan = null;
 let totalPagesNumSpan = null;
 
+// State variables for ranked patent PDF viewer
+let rankedPdfDoc = null;
+let rankedCurrentPageNum = 1;
+let rankedPageRendering = false;
+let rankedPageNumPending = null;
+const RANKED_PDF_SCALE = 0.6;
+
+// DOM elements for ranked patent PDF viewer (will be initialized after DOM loads)
+let rankedPdfViewerContainer = null;
+let rankedPdfCanvas = null;
+let rankedPdfCtx = null;
+let rankedPrevButton = null;
+let rankedNextButton = null;
+let rankedCurrentPageNumSpan = null;
+let rankedTotalPagesNumSpan = null;
+
 // Camera Controls
 async function toggleCamera() {
     if (!isCameraOn) {
@@ -254,6 +270,118 @@ function retakePhoto() {
     fileInput.value = '';
 }
 
+// Load and render ranked patent PDF from URL
+async function loadAndRenderRankedPdf(pdfUrl) {
+    try {
+        // Load the PDF document
+        rankedPdfDoc = await pdfjsLib.getDocument(pdfUrl).promise;
+        rankedCurrentPageNum = 1;
+        
+        // Update total pages
+        if (rankedTotalPagesNumSpan) {
+            rankedTotalPagesNumSpan.textContent = rankedPdfDoc.numPages;
+        }
+        
+        // Show the ranked PDF viewer
+        if (rankedPdfViewerContainer) {
+            rankedPdfViewerContainer.style.display = 'block';
+        }
+        
+        // Use requestAnimationFrame to ensure the browser has calculated the container dimensions
+        requestAnimationFrame(async () => {
+            // Render the first page
+            await renderRankedPdfPage(rankedCurrentPageNum);
+        });
+        
+    } catch (error) {
+        console.error('Error loading ranked PDF:', error);
+        alert('Error loading patent PDF. Please try again.');
+    }
+}
+
+// Render a specific page of the ranked PDF
+async function renderRankedPdfPage(num) {
+    if (!rankedPdfDoc || rankedPageRendering) return;
+    
+    rankedPageRendering = true;
+    
+    try {
+        // Get the page
+        const page = await rankedPdfDoc.getPage(num);
+        
+        // Calculate scale based on fixed height
+        const desiredHeight = rankedPdfViewerContainer.clientHeight - 80; // Subtract space for navigation and title
+        const viewportAtScale1 = page.getViewport({ scale: 1.0 });
+        const scale = Math.min(RANKED_PDF_SCALE, desiredHeight / viewportAtScale1.height);
+        
+        // Get viewport with calculated scale
+        const viewport = page.getViewport({ scale: scale });
+        
+        // Set canvas dimensions
+        rankedPdfCanvas.height = viewport.height;
+        rankedPdfCanvas.width = viewport.width;
+        
+        // Set canvas style dimensions to match
+        rankedPdfCanvas.style.height = viewport.height + 'px';
+        rankedPdfCanvas.style.width = viewport.width + 'px';
+        
+        // Render PDF page into canvas context
+        const renderContext = {
+            canvasContext: rankedPdfCtx,
+            viewport: viewport
+        };
+        
+        await page.render(renderContext).promise;
+        
+        // Update page counter
+        if (rankedCurrentPageNumSpan) {
+            rankedCurrentPageNumSpan.textContent = num;
+        }
+        
+        // Enable/disable navigation buttons
+        if (rankedPrevButton) {
+            rankedPrevButton.disabled = (num <= 1);
+        }
+        if (rankedNextButton) {
+            rankedNextButton.disabled = (num >= rankedPdfDoc.numPages);
+        }
+        
+        rankedPageRendering = false;
+        
+        // If there's a pending page render, do it now
+        if (rankedPageNumPending !== null) {
+            renderRankedPdfPage(rankedPageNumPending);
+            rankedPageNumPending = null;
+        }
+        
+    } catch (error) {
+        console.error('Error rendering ranked page:', error);
+        rankedPageRendering = false;
+    }
+}
+
+// Queue ranked page rendering
+function queueRenderRankedPage(num) {
+    if (rankedPageRendering) {
+        rankedPageNumPending = num;
+    } else {
+        renderRankedPdfPage(num);
+    }
+}
+
+// Previous page for ranked PDF
+function onRankedPrevPage() {
+    if (rankedCurrentPageNum <= 1) return;
+    rankedCurrentPageNum--;
+    queueRenderRankedPage(rankedCurrentPageNum);
+}
+
+// Next page for ranked PDF
+function onRankedNextPage() {
+    if (!rankedPdfDoc || rankedCurrentPageNum >= rankedPdfDoc.numPages) return;
+    rankedCurrentPageNum++;
+    queueRenderRankedPage(rankedCurrentPageNum);
+}
 
 // Confirm photo
 function confirmPhoto() {
@@ -983,6 +1111,26 @@ function populateRankings(rankings) {
         row.addEventListener('mouseenter', showDetailTooltip);
         row.addEventListener('mouseleave', hideDetailTooltip);
         
+        // Add click event listener to load patent PDF
+        row.addEventListener('click', () => {
+            // Check if this ranking has a pdf_url
+            if (ranking.pdf_url) {
+                // Highlight the selected row
+                document.querySelectorAll('#rankingsList tr').forEach(r => {
+                    r.style.outline = 'none';
+                });
+                row.style.outline = '2px solid var(--accent-blue, #4285f4)';
+                
+                // Load the patent PDF
+                loadAndRenderRankedPdf(ranking.pdf_url);
+            } else {
+                console.warn('No PDF URL available for this patent');
+            }
+        });
+        
+        // Add cursor pointer style to indicate clickability
+        row.style.cursor = 'pointer';
+        
         rankingsList.appendChild(row);
     });
 }
@@ -1112,6 +1260,25 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     if (nextButton) {
         nextButton.addEventListener('click', onNextPage);
+    }
+    
+    // Initialize ranked PDF DOM elements
+    rankedPdfViewerContainer = document.getElementById('rankedPatentPdfViewerContainer');
+    rankedPdfCanvas = document.getElementById('rankedPatentPdfCanvas');
+    if (rankedPdfCanvas) {
+        rankedPdfCtx = rankedPdfCanvas.getContext('2d');
+    }
+    rankedPrevButton = document.getElementById('rankedPrevPage');
+    rankedNextButton = document.getElementById('rankedNextPage');
+    rankedCurrentPageNumSpan = document.getElementById('rankedCurrentPageNum');
+    rankedTotalPagesNumSpan = document.getElementById('rankedTotalPagesNum');
+    
+    // Add event listeners for ranked PDF navigation
+    if (rankedPrevButton) {
+        rankedPrevButton.addEventListener('click', onRankedPrevPage);
+    }
+    if (rankedNextButton) {
+        rankedNextButton.addEventListener('click', onRankedNextPage);
     }
     
     // Initialize patent section hover handlers
