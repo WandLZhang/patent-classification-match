@@ -16,6 +16,8 @@ const rankingsSection = document.getElementById('rankingsSection');
 const rankingsImagePreview = document.getElementById('rankingsImagePreview');
 const rankingsList = document.getElementById('rankingsList');
 const patentInfoNextArrow = document.getElementById('patentInfoNextArrow');
+const rankingsToCpcArrow = document.getElementById('rankingsToCpcArrow');
+const cpcDecisionContainer = document.getElementById('cpcDecisionContainer');
 
 // State
 let isCameraOn = false;
@@ -914,6 +916,59 @@ embeddingsBlueArrow.addEventListener('click', handleBlueArrowClick);
 if (patentInfoNextArrow) {
     patentInfoNextArrow.addEventListener('click', handlePatentInfoNextArrowClick);
 }
+if (rankingsToCpcArrow) {
+    rankingsToCpcArrow.addEventListener('click', handleRankingsToCpcTransition);
+}
+
+// Handle rankings to CPC arrow click transition
+function handleRankingsToCpcTransition() {
+    console.log('Rankings to CPC arrow clicked');
+
+    const rankingsContainer = document.getElementById('rankingsContainer');
+    const rankingsPreviewContainer = rankingsSection.querySelector('.preview-container');
+
+    if (!rankingsPreviewContainer) {
+        console.error('rankingsPreviewContainer (left PDF/image) not found. Check selector.');
+        return;
+    }
+    if (!rankingsContainer) {
+        console.error('rankingsContainer (table card) not found.');
+        return;
+    }
+    if (!cpcDecisionContainer) {
+        console.error('cpcDecisionContainer (new CPC card) not found.');
+        return;
+    }
+
+    // 1. Fade out the PDF viewer preview on the left
+    rankingsPreviewContainer.classList.add('fade-out');
+    setTimeout(() => {
+        rankingsPreviewContainer.style.display = 'none';
+        rankingsPreviewContainer.classList.add('hidden');
+        rankingsPreviewContainer.classList.remove('fade-out');
+    }, 500); // Match fadeOut CSS animation duration
+
+    // 2. Start animations for rankingsContainer and cpcDecisionContainer
+    //    after a slight delay to let the preview fade start.
+    setTimeout(() => {
+        // Slide rankings card to the left (but keep it visible)
+        rankingsContainer.classList.add('slide-out-left');
+
+        // Prepare and slide in the new CPC card
+        cpcDecisionContainer.classList.remove('hidden');
+        cpcDecisionContainer.classList.add('visible'); // Add visible class
+        cpcDecisionContainer.classList.add('slide-in-right');
+
+        // After animation completes, load backend data
+        setTimeout(() => {
+            // Simulate backend calls
+            document.getElementById('cpcCurrentPatents').textContent = 'Backend function output will appear here';
+            document.getElementById('cpcSchemeDefinition').textContent = 'Backend function output will appear here';
+            document.getElementById('cpcFinalRecommendation').textContent = 'Backend function output will appear here';
+        }, 800); // Match CSS transition duration
+
+    }, 100); // Small delay for staggering
+}
 
 // Handle right arrow click to change text and apply date filtering
 function handleRightArrowClick() {
@@ -1257,6 +1312,7 @@ function populatePatentRankings(rankings) {
         distanceCell.textContent = distanceValue;
         distanceCell.title = `Semantic Distance: ${distanceValue}`; // Add title attribute for native tooltip
         distanceCell.style.minWidth = '100px';
+        distanceCell.style.fontWeight = '600';
         
         // Append cells to row
         row.appendChild(titleCell);
@@ -1266,16 +1322,26 @@ function populatePatentRankings(rankings) {
         row.appendChild(ipcCell);
         row.appendChild(distanceCell);
         
+        // Apply color gradient based on row position (evenly distributed)
+        const totalRows = rankings.length;
+        const normalized = index / (totalRows - 1 || 1); // Normalize to 0-1 range
+        const color = getRowPositionColor(normalized);
+        
+        // Apply color to entire row
+        row.style.backgroundColor = color.background;
+        const allCells = row.querySelectorAll('td');
+        allCells.forEach(cell => {
+            cell.style.color = color.text;
+        });
+        
         // Store all attributes as data attributes for hover display
         Object.keys(ranking).forEach(key => {
             row.dataset[key] = ranking[key] || '';
         });
         
-        // Add hover event listeners for tooltip with full content
-        row.addEventListener('mouseenter', (event) => {
-            const targetCell = event.target;
-            if (targetCell.tagName === 'TD') {
-                const cellIndex = Array.from(targetCell.parentNode.children).indexOf(targetCell);
+        // Add hover event listeners to individual cells for better tooltip handling
+        allCells.forEach((cell, cellIndex) => {
+            cell.addEventListener('mouseenter', (event) => {
                 let fullContent = '';
                 let label = '';
                 
@@ -1294,11 +1360,11 @@ function populatePatentRankings(rankings) {
                         break;
                     case 3:
                         fullContent = Array.isArray(ranking.cpc_code) ? ranking.cpc_code.join(', ') : (ranking.cpc_code || 'N/A');
-                        label = 'CPC Codes';
+                        label = 'CPC';
                         break;
                     case 4:
                         fullContent = Array.isArray(ranking.ipc_code) ? ranking.ipc_code.join(', ') : (ranking.ipc_code || 'N/A');
-                        label = 'IPC Codes';
+                        label = 'IPC';
                         break;
                     case 5:
                         fullContent = ranking.semantic_distance ? ranking.semantic_distance.toFixed(4) : 'N/A';
@@ -1306,13 +1372,22 @@ function populatePatentRankings(rankings) {
                         break;
                 }
                 
-                if (fullContent && fullContent !== 'N/A') {
+                // Only show tooltip if content is truncated or if it's a long value
+                // Always show tooltips for CPC and IPC codes
+                const cellText = cell.textContent;
+                const isTruncated = cellText.includes('...') || fullContent.length > 50;
+                const isCodeColumn = cellIndex === 3 || cellIndex === 4; // CPC or IPC codes
+                
+                console.log('Hover event - Cell:', cellIndex, 'Label:', label, 'Truncated:', isTruncated, 'Content length:', fullContent.length);
+                
+                if (fullContent && fullContent !== 'N/A' && (isTruncated || isCodeColumn)) {
+                    console.log('Showing tooltip for:', label);
                     showPatentCellTooltip(event, label, fullContent);
                 }
-            }
+            });
+            
+            cell.addEventListener('mouseleave', hidePatentCellTooltip);
         });
-        
-        row.addEventListener('mouseleave', hidePatentCellTooltip);
         
         // Add click event listener to load patent PDF if available
         row.addEventListener('click', () => {
@@ -1340,24 +1415,32 @@ function populatePatentRankings(rankings) {
 
 // Show tooltip for patent cell content
 function showPatentCellTooltip(event, label, content) {
-    // Create tooltip if it doesn't exist
-    let tooltip = document.getElementById('patentCellTooltip');
-    if (!tooltip) {
-        tooltip = document.createElement('div');
-        tooltip.id = 'patentCellTooltip';
-        tooltip.className = 'detail-tooltip';
-        tooltip.style.maxWidth = '500px';
-        tooltip.style.maxHeight = '400px';
-        tooltip.style.overflow = 'auto';
-        tooltip.style.padding = '12px';
-        tooltip.style.backgroundColor = 'white';
-        tooltip.style.border = '1px solid #ddd';
-        tooltip.style.borderRadius = '4px';
-        tooltip.style.boxShadow = '0 2px 8px rgba(0,0,0,0.15)';
-        tooltip.style.position = 'absolute';
-        tooltip.style.zIndex = '1000';
-        document.body.appendChild(tooltip);
-    }
+    console.log('showPatentCellTooltip called - Label:', label);
+    
+    // Remove any existing tooltip first
+    hidePatentCellTooltip();
+    
+    // Create new tooltip
+    const tooltip = document.createElement('div');
+    tooltip.id = 'patentCellTooltip';
+    
+    // Remove all CSS class dependencies - use only inline styles
+    tooltip.style.cssText = `
+        position: fixed !important;
+        max-width: 500px !important;
+        max-height: 400px !important;
+        overflow: auto !important;
+        padding: 12px !important;
+        background-color: white !important;
+        border: 1px solid #ddd !important;
+        border-radius: 4px !important;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.15) !important;
+        z-index: 99999 !important;
+        opacity: 1 !important;
+        visibility: visible !important;
+        display: block !important;
+        pointer-events: none !important;
+    `;
     
     // Set tooltip content
     tooltip.innerHTML = `
@@ -1365,31 +1448,97 @@ function showPatentCellTooltip(event, label, content) {
         <div style="white-space: pre-wrap; word-wrap: break-word; color: #666;">${content}</div>
     `;
     
-    // Position the tooltip near the mouse cursor
-    const rect = event.target.getBoundingClientRect();
-    tooltip.style.top = `${rect.bottom + window.scrollY + 5}px`;
-    tooltip.style.left = `${rect.left + window.scrollX}px`;
+    // Append to body
+    document.body.appendChild(tooltip);
     
-    // Ensure tooltip doesn't go off-screen
+    // Position the tooltip using mouse coordinates
+    const mouseX = event.clientX;
+    const mouseY = event.clientY;
+    
+    // Calculate position with offset
+    let left = mouseX + 10;
+    let top = mouseY + 10;
+    
+    // Get tooltip dimensions
     const tooltipRect = tooltip.getBoundingClientRect();
-    if (tooltipRect.right > window.innerWidth) {
-        tooltip.style.left = `${window.innerWidth - tooltipRect.width - 10}px`;
+    
+    // Adjust if tooltip goes off-screen horizontally
+    if (left + tooltipRect.width > window.innerWidth) {
+        left = mouseX - tooltipRect.width - 10;
     }
     
-    // Show the tooltip
-    tooltip.classList.add('visible');
+    // Adjust if tooltip goes off-screen vertically
+    if (top + tooltipRect.height > window.innerHeight) {
+        top = mouseY - tooltipRect.height - 10;
+    }
+    
+    tooltip.style.left = `${left}px`;
+    tooltip.style.top = `${top}px`;
+    
+    console.log('Tooltip created and positioned at:', left, top);
 }
 
 // Hide patent cell tooltip
 function hidePatentCellTooltip() {
     const tooltip = document.getElementById('patentCellTooltip');
     if (tooltip) {
-        tooltip.classList.remove('visible');
-        setTimeout(() => {
-            tooltip.style.top = '-9999px';
-            tooltip.style.left = '-9999px';
-        }, 200);
+        tooltip.remove();
     }
+}
+
+// Function to calculate color gradient based on row position
+function getRowPositionColor(normalized) {
+    // normalized is 0-1 where 0 is top row (best) and 1 is bottom row (worst)
+    
+    // Very subtle gradient from medium-light green to very light green
+    // Matching the previous 6th row to 10th row appearance
+    
+    const hue = 120; // Pure green
+    const saturation = 34.44 - (normalized * 4.44); // 34.44% to 30% (very subtle change)
+    const lightness = 62.8 + (normalized * 22.2); // 62.8% to 85% (light to very light)
+    
+    const backgroundColor = `hsl(${hue}, ${saturation}%, ${lightness}%)`;
+    
+    // Text color: always dark green for these light backgrounds
+    const textColor = '#2d5a3d';
+    
+    return {
+        background: backgroundColor,
+        text: textColor
+    };
+}
+
+// Function to calculate color gradient for semantic distance
+function getSemanticDistanceColor(distance) {
+    // Expected range: 0.1046 (best) to 0.4121 (worst)
+    const minDistance = 0.1046;
+    const maxDistance = 0.4121;
+    
+    // Normalize the distance to 0-1 range
+    const normalized = (distance - minDistance) / (maxDistance - minDistance);
+    
+    // Clamp to 0-1 range in case of outliers
+    const clamped = Math.max(0, Math.min(1, normalized));
+    
+    // Create a gradient from deep green (best match) to light green/yellow (worst match)
+    // Using HSL color space for smooth transitions
+    // Hue: 120 (green) to 60 (yellow-green)
+    // Saturation: 70% to 40% (less vibrant for worse matches)
+    // Lightness: 35% to 85% (darker for better matches)
+    
+    const hue = 120 - (clamped * 60); // 120 to 60
+    const saturation = 70 - (clamped * 30); // 70% to 40%
+    const lightness = 35 + (clamped * 50); // 35% to 85%
+    
+    const backgroundColor = `hsl(${hue}, ${saturation}%, ${lightness}%)`;
+    
+    // Text color: dark for light backgrounds, white for dark backgrounds
+    const textColor = lightness > 60 ? '#1a4d2e' : '#ffffff';
+    
+    return {
+        background: backgroundColor,
+        text: textColor
+    };
 }
 
 // Initialize patent section hover handlers

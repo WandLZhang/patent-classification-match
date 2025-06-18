@@ -368,6 +368,7 @@
   z-index: 2000;
   opacity: 0;
   transition: opacity 0.8s ease;
+  overflow: visible; /* Changed from hidden to allow CPC container to slide in */
 }
 
 .rankings-section.visible {
@@ -401,7 +402,7 @@
 
 .rankings-container {
   position: absolute;
-  top: 16%; /* Moved up from 50% to center the table better */
+  top: 10%; /* Optimal vertical positioning for centering with content */
   left: 35%; /* Start after the image container (30% width + 3% left + 2% gap) */
   right: 3%; /* Margin from the right edge */
   width: auto; /* Let left and right define the width (approx. 62% of viewport) */
@@ -410,7 +411,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  transition: opacity 0.5s ease;
+  transition: left 0.8s ease, right 0.8s ease, transform 0.8s ease; /* Smooth transitions */
   z-index: 100;
 }
 
@@ -475,6 +476,87 @@
   margin-bottom: 1rem;
   color: #1f2937;
   font-family: var(--font-heading);
+}
+
+/* CPC Decision Container */
+.cpc-decision-container {
+  position: absolute;
+  top: 10%; /* Match rankings container vertical position */
+  left: 100%; /* Start off-screen to the right */
+  right: 3%;
+  width: auto;
+  max-width: 800px;
+  transform: translateY(-50%);
+  padding: 1.5rem;
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  opacity: 0;
+  transition: left 0.8s ease, opacity 0.8s ease, transform 0.8s ease; /* Smooth transitions */
+  z-index: 100;
+  display: none; /* Start hidden */
+}
+
+.cpc-decision-container.visible {
+  display: flex !important; /* Ensure it stays visible */
+}
+
+.cpc-decision-container h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  color: #1f2937;
+  font-family: var(--font-heading);
+  text-align: center;
+}
+
+.cpc-output {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background-color: #f9fafb;
+  border-radius: 0.5rem;
+  border: 1px solid #e5e7eb;
+}
+
+.cpc-output p {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #374151;
+  line-height: 1.6;
+}
+
+.cpc-output .cpc-value {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  color: #1a73e8;
+  font-weight: 500;
+}
+
+/* Animation classes for the transition */
+.rankings-container.slide-out-left {
+  left: 3% !important; /* Move to left side */
+  right: 52% !important; /* Make room for CPC on right */
+}
+
+/* Remove the slideOutLeft keyframe animation - we'll use CSS transitions instead */
+
+.cpc-decision-container.slide-in-right {
+  left: 52% !important; /* Position on right side */
+  opacity: 1 !important;
+}
+
+/* Remove the slideInRight keyframe animation - we'll use CSS transitions instead */
+
+/* Ensure rankings-card is positioned relative for absolute arrow positioning */
+.rankings-card {
+  position: relative;
+  width: 100%;
+  padding: 1.5rem;
+  background-color: white;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
 }
 
 /* Logger */

@@ -16,20 +16,20 @@
 
 .candidates-table th {
   background-color: var(--Neutral-10);
-  padding: 8px;
+  padding: 10px;
   text-align: left;
   font-weight: 500;
   position: sticky;
   top: 0;
   z-index: 10;
-  font-size: 0.9rem; /* Slightly smaller than default */
+  font-size: 1rem; /* Slightly smaller than default */
   font-family: var(--font-heading);
 }
 
 .candidates-table td {
-  padding: 6px 8px; /* Smaller padding */
+  padding: 10px 8px; /* Smaller padding */
   border-top: 1px solid var(--Neutral-20);
-  font-size: 0.8rem; /* Smaller than header font */
+  font-size: 0.9rem; /* Smaller than header font */
 }
 
 /* Date columns width */
@@ -336,7 +336,7 @@
 #rankingsContainer .candidates-table td:nth-child(1) { width: 20%; } /* Title */
 
 #rankingsContainer .candidates-table th:nth-child(2),
-#rankingsContainer .candidates-table td:nth-child(2) { width: 25%; } /* Description */
+#rankingsContainer .candidates-table td:nth-child(2) { width: 20%; } /* Description */
 
 #rankingsContainer .candidates-table th:nth-child(3),
 #rankingsContainer .candidates-table td:nth-child(3) { width: 20%; } /* Claims */
@@ -348,7 +348,12 @@
 #rankingsContainer .candidates-table td:nth-child(5) { width: 12%; } /* IPC Codes */
 
 #rankingsContainer .candidates-table th:nth-child(6),
-#rankingsContainer .candidates-table td:nth-child(6) { width: 11%; } /* Semantic Distance */
+#rankingsContainer .candidates-table td:nth-child(6) { width: 16%; } /* Semantic Distance */
+
+/* Allow the Semantic Distance header to wrap */
+#rankingsContainer .candidates-table th:nth-child(6) {
+  white-space: normal;
+}
 
 /* Add position relative to cells for potential tooltips */
 #rankingsContainer .candidates-table td {

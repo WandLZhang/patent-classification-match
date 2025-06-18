@@ -168,8 +168,8 @@
                                     <th>Title</th>
                                     <th>Description</th>
                                     <th>Claims</th>
-                                    <th>CPC Codes</th>
-                                    <th>IPC Codes</th>
+                                    <th>CPC</th>
+                                    <th>IPC</th>
                                     <th>Semantic Distance</th>
                                 </tr>
                             </thead>
@@ -193,6 +193,21 @@
                             </button>
                         </div>
                     </div>
+                    <div id="rankingsToCpcArrow" class="blue-arrow" style="position: absolute; right: 15px; top: -20px; z-index: 100;">
+                        <span class="material-symbols-outlined">arrow_forward</span>
+                    </div>
+                </div>
+            </div>
+            <div id="cpcDecisionContainer" class="cpc-decision-container hidden">
+                <h3>CPC Analysis & Recommendation</h3>
+                <div class="cpc-output">
+                    <p><strong>CPC decision based on current patents:</strong> <span id="cpcCurrentPatents" class="cpc-value">Loading...</span></p>
+                </div>
+                <div class="cpc-output">
+                    <p><strong>CPC decision based on scheme definition:</strong> <span id="cpcSchemeDefinition" class="cpc-value">Loading...</span></p>
+                </div>
+                <div class="cpc-output">
+                    <p><strong>Final recommendation:</strong> <span id="cpcFinalRecommendation" class="cpc-value">Loading...</span></p>
                 </div>
             </div>
         </div>
