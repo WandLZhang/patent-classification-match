@@ -12,6 +12,7 @@ from pypdf import PdfReader, PdfWriter
 
 from google import genai
 from google.cloud import storage
+from google.cloud import bigquery
 from google.genai import types
 
 # Configure logging
@@ -32,6 +33,9 @@ genai_client = genai.Client(
 # Initialize GCS client
 storage_client = storage.Client()
 BUCKET_NAME = "gps-rit-patent-classification-match"
+
+# Initialize BigQuery client
+bigquery_client = bigquery.Client()
 
 def _process_pdf_chunk(pdf_chunk_bytes, chunk_number):
     """
@@ -66,7 +70,11 @@ CRITICAL INSTRUCTIONS:
 - The Description section should contain ONLY narrative paragraphs that describe the invention in prose form
 - If a chunk contains ONLY figures/drawings with their labels and NO continuous prose text, return empty strings
 - If you cannot find substantial narrative text (full sentences forming paragraphs), return empty string
-- For the "abstract", "description", and "claims" fields, ensure the generated text for each field is 7000 tokens or less
+- IMPORTANT LENGTH CONSTRAINTS: Keep responses CONCISE to reduce latency:
+  * Abstract: Maximum 500 characters (brief summary only)
+  * Description: Maximum 2000 characters (key technical details only)
+  * Claims: Maximum 2000 characters (main claims only)
+- If content exceeds these limits, summarize or extract only the most important parts
 
 For each section, provide ONLY the continuous prose text that forms the body of that section. Return the results in a JSON format with these exact keys:
 {
@@ -107,7 +115,7 @@ Remember: Extract ONLY substantial narrative text, NOT figure labels or componen
             config=types.GenerateContentConfig(
                 temperature=1,
                 top_p=0.95,
-                max_output_tokens=65535,  # Maximum output for long patent documents
+                max_output_tokens=8192,  # Limit output to reduce latency and enforce conciseness
                 safety_settings=[
                     types.SafetySetting(
                         category="HARM_CATEGORY_HATE_SPEECH",
@@ -152,7 +160,50 @@ Remember: Extract ONLY substantial narrative text, NOT figure labels or componen
         print(f"Chunk {chunk_number} - Claims length: {len(patent_info['claims'])}")
         
         return patent_info
+        
+    except json.JSONDecodeError as je:
+        print(f"JSONDecodeError for chunk {chunk_number}: {je}")
+        print(f"Original LLM response snippet: '{response.text[:500]}...'")
+        
+        # Check if it's an unterminated string error
+        if "Unterminated string" in str(je):
+            print(f"Attempting to salvage JSON for chunk {chunk_number} due to 'Unterminated string' error.")
+            
+            # Attempt to repair the JSON by closing the unterminated string and object
+            # This assumes the truncation happened at the end of a string value
+            repaired_text = response.text + "\"}"
+            
+            try:
+                print(f"Trying to parse repaired text (adding closing quotes and braces)")
+                parsed_response = json.loads(repaired_text)
+                
+                patent_info = {
+                    "abstract": parsed_response.get("abstract", ""),
+                    "description": parsed_response.get("description", ""),
+                    "claims": parsed_response.get("claims", "")
+                }
+                
+                print(f"Successfully salvaged data for chunk {chunk_number} after JSON repair")
+                print(f"Salvaged - Abstract length: {len(patent_info['abstract'])}")
+                print(f"Salvaged - Description length: {len(patent_info['description'])}")
+                print(f"Salvaged - Claims length: {len(patent_info['claims'])}")
+                
+                return patent_info
+                
+            except json.JSONDecodeError as sje:
+                print(f"Salvage attempt failed for chunk {chunk_number}: {sje}")
+                print(f"Repaired text snippet: '{repaired_text[:500]}...'")
+        
+        # Fallback if not an "Unterminated string" error, or if salvage failed
+        print(f"Returning empty patent info for chunk {chunk_number} due to JSON parsing issues")
+        return {
+            "abstract": "",
+            "description": "",
+            "claims": ""
+        }
+        
     except Exception as e:
+        # Catch other potential errors (e.g., during the Gemini API call itself)
         print(f"Error processing chunk {chunk_number}: {str(e)}")
         return {
             "abstract": "",
@@ -217,12 +268,12 @@ def extract_patent_information(pdf_data):
         
         # Process chunks concurrently
         with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
-            # Submit both chunks for processing
-            future1 = executor.submit(_process_pdf_chunk, chunk1_bytes, 1)
-            future2 = executor.submit(_process_pdf_chunk, chunk2_bytes, 2)
+            # Submit both chunks for processing - chunk 2 first, then chunk 1
+            future_chunk2 = executor.submit(_process_pdf_chunk, chunk2_bytes, 2)
+            future_chunk1 = executor.submit(_process_pdf_chunk, chunk1_bytes, 1)
             
             # Process results as they complete
-            for future in concurrent.futures.as_completed([future1, future2]):
+            for future in concurrent.futures.as_completed([future_chunk2, future_chunk1]):
                 try:
                     result = future.result()
                     
@@ -252,15 +303,99 @@ def extract_patent_information(pdf_data):
         print("Falling back to processing entire PDF")
         return _process_pdf_chunk(base64.b64decode(pdf_data), "full")
 
+
+def perform_patent_vector_search(query_text):
+    """
+    Perform vector search using BigQuery to find matching patents based on query text.
+    
+    Args:
+        query_text: Combined text of abstract, description, and claims to search for
+        
+    Returns:
+        list: List of patent records from vector search with similarity scores
+    """
+    print(f"Performing patent vector search with query text length: {len(query_text)}")
+    
+    if not query_text:
+        print("No query text provided for vector search")
+        return []
+    
+    try:
+        # Vector search query
+        query = """
+-- Use a WITH clause for the query string embedding
+WITH query_embedding AS (
+  SELECT ml_generate_embedding_result
+  FROM
+    ML.GENERATE_EMBEDDING(
+      MODEL `gemini-med-lit-review.patents.gemini_embedding_model`,
+      (SELECT @query_string AS content)  -- Parameter from frontend
+    )
+)
+-- Perform the vector search
+SELECT 
+  base.*,
+  distance
+FROM 
+  VECTOR_SEARCH(
+    TABLE `gemini-med-lit-review.patents.patent_records`,
+    'content_embedding',
+    (SELECT ml_generate_embedding_result FROM query_embedding),
+    top_k => 10,
+    distance_type => 'COSINE'
+  )
+"""
+        
+        print("Using hardcoded vector search query")
+        
+        # Set up the query parameters
+        job_config = bigquery.QueryJobConfig(
+            query_parameters=[
+                bigquery.ScalarQueryParameter("query_string", "STRING", query_text)
+            ]
+        )
+        
+        # Execute the query
+        print("Executing BigQuery vector search")
+        query_job = bigquery_client.query(query, job_config=job_config)
+        
+        # Convert the results to a list of dictionaries
+        results = []
+        for row in query_job:
+            # Convert each row to a dictionary
+            result = {}
+            for key, value in row.items():
+                # Handle different data types appropriately
+                if isinstance(value, (int, float, str, bool)) or value is None:
+                    result[key] = value
+                else:
+                    # Convert non-primitive types to string representation
+                    result[key] = str(value)
+            
+            # Ensure we have the expected fields
+            # Rename 'distance' to 'semantic_distance' for clarity in frontend
+            if 'distance' in result:
+                result['semantic_distance'] = result['distance']
+                del result['distance']
+            
+            results.append(result)
+        
+        print(f"Found {len(results)} vector search results")
+        return results
+    
+    except Exception as e:
+        print(f"Error performing patent vector search: {str(e)}")
+        return []
+
+
 @functions_framework.http
 def handle_patent_submission(request):
     """
     Handle patent submission requests.
     
-    Processes PDF patent documents and extracts key information:
-    1. Abstract
-    2. Description
-    3. Claims
+    Endpoints:
+    1. /process-patent-pdf: Process PDF patent documents and extract key information
+    2. /semantic-patent-search: Perform semantic search based on extracted patent information
     
     The PDF is also uploaded to Google Cloud Storage for archival purposes.
     """
@@ -278,48 +413,85 @@ def handle_patent_submission(request):
         return ('', 204, headers)
 
     # Handle POST requests
-    if request.method == 'POST' and request.path == '/process-patent-pdf':
+    if request.method == 'POST':
         headers['Content-Type'] = 'application/json'
-        try:
-            request_json = request.get_json()
-            if not request_json:
-                return jsonify({'error': 'No JSON data received'}), 400, headers
-            
-            print("Processing patent PDF request")
-            
-            # Get PDF data from request
-            pdf_data = request_json.get('pdf_data', '').split(',')[1] if ',' in request_json.get('pdf_data', '') else request_json.get('pdf_data', '')
-            if not pdf_data:
-                return jsonify({'error': 'Missing PDF data'}), 400, headers
+        
+        # Handle PDF processing endpoint
+        if request.path == '/process-patent-pdf':
+            try:
+                request_json = request.get_json()
+                if not request_json:
+                    return jsonify({'error': 'No JSON data received'}), 400, headers
+                
+                print("Processing patent PDF request")
+                
+                # Get PDF data from request
+                pdf_data = request_json.get('pdf_data', '').split(',')[1] if ',' in request_json.get('pdf_data', '') else request_json.get('pdf_data', '')
+                if not pdf_data:
+                    return jsonify({'error': 'Missing PDF data'}), 400, headers
 
-            # Initialize GCS bucket
-            bucket = storage_client.bucket(BUCKET_NAME)
-            
-            # Delete all existing objects in the bucket
-            print(f"Deleting all existing objects in bucket {BUCKET_NAME}")
-            blobs = bucket.list_blobs()
-            for blob in blobs:
-                blob.delete()
-                print(f"Deleted blob {blob.name}")
-            
-            # Generate unique filename and upload PDF to GCS
-            filename = f"patent_application_{uuid.uuid4()}.pdf"
-            blob = bucket.blob(filename)
-            
-            # Upload PDF to GCS
-            pdf_bytes = base64.b64decode(pdf_data)
-            blob.upload_from_string(pdf_bytes, content_type='application/pdf')
-            print(f"PDF uploaded to gs://{BUCKET_NAME}/{filename}")
-            
-            # Extract patent information from the PDF
-            patent_info = extract_patent_information(pdf_data)
-            
-            # Return the extracted patent information
-            return jsonify(patent_info), 200, headers
+                # Initialize GCS bucket
+                bucket = storage_client.bucket(BUCKET_NAME)
+                
+                # Delete all existing objects in the bucket
+                print(f"Deleting all existing objects in bucket {BUCKET_NAME}")
+                blobs = bucket.list_blobs()
+                for blob in blobs:
+                    blob.delete()
+                    print(f"Deleted blob {blob.name}")
+                
+                # Generate unique filename and upload PDF to GCS
+                filename = f"patent_application_{uuid.uuid4()}.pdf"
+                blob = bucket.blob(filename)
+                
+                # Upload PDF to GCS
+                pdf_bytes = base64.b64decode(pdf_data)
+                blob.upload_from_string(pdf_bytes, content_type='application/pdf')
+                print(f"PDF uploaded to gs://{BUCKET_NAME}/{filename}")
+                
+                # Extract patent information from the PDF
+                patent_info = extract_patent_information(pdf_data)
+                
+                # Return the extracted patent information
+                return jsonify(patent_info), 200, headers
 
-        except Exception as e:
-            logger.error(f"Error processing request: {str(e)}")
-            return jsonify({"error": str(e)}), 500, headers
+            except Exception as e:
+                logger.error(f"Error processing PDF request: {str(e)}")
+                return jsonify({"error": str(e)}), 500, headers
+        
+        # Handle semantic search endpoint
+        elif request.path == '/semantic-patent-search':
+            try:
+                request_json = request.get_json()
+                if not request_json:
+                    return jsonify({'error': 'No JSON data received'}), 400, headers
+                
+                print("Processing semantic patent search request")
+                
+                # Get patent attributes from request
+                abstract = request_json.get('abstract', '')
+                description = request_json.get('description', '')
+                claims = request_json.get('claims', '')
+                
+                print(f"Received search request - Abstract length: {len(abstract)}, Description length: {len(description)}, Claims length: {len(claims)}")
+                
+                # Combine all text for vector search
+                query_text = f"{abstract}\n\n{description}\n\n{claims}".strip()
+                
+                if not query_text:
+                    return jsonify({'error': 'No patent content provided for search'}), 400, headers
+                
+                # Perform vector search
+                search_results = perform_patent_vector_search(query_text)
+                
+                # Return the search results
+                return jsonify({
+                    'rankings': search_results
+                }), 200, headers
+                
+            except Exception as e:
+                logger.error(f"Error processing semantic search request: {str(e)}")
+                return jsonify({"error": str(e)}), 500, headers
 
     # If not OPTIONS or valid POST, return method not allowed
     return jsonify({"error": "Method not allowed or invalid endpoint"}), 405, headers

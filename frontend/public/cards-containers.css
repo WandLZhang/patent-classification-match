@@ -381,8 +381,9 @@
 .rankings-section .preview-container {
   position: absolute;
   top: 50%;
-  left: 30%;
-  transform: translate(-50%, -50%);
+  left: 3%; /* Margin from the left edge */
+  width: 30%; /* Allocate ~30% width for the image */
+  transform: translate(0, -50%); /* Keep Y centering, X is now based on left */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -400,11 +401,12 @@
 
 .rankings-container {
   position: absolute;
-  top: 50%;
-  right: 5%;
+  top: 16%; /* Moved up from 50% to center the table better */
+  left: 35%; /* Start after the image container (30% width + 3% left + 2% gap) */
+  right: 3%; /* Margin from the right edge */
+  width: auto; /* Let left and right define the width (approx. 62% of viewport) */
+  max-width: 1000px; /* Increase maximum width substantially */
   transform: translateY(-50%);
-  width: 50%;
-  max-width: 550px;
   display: flex;
   flex-direction: column;
   align-items: center;

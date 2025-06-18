@@ -1,0 +1,8 @@
+[
+  {"name": "patent_title", "type": "STRING"},
+  {"name": "cpc_code", "type": "STRING", "mode": "REPEATED"},
+  {"name": "ipc_code", "type": "STRING", "mode": "REPEATED"},
+  {"name": "abstract", "type": "STRING"},
+  {"name": "description", "type": "STRING"},
+  {"name": "claims", "type": "STRING"}
+]

@@ -120,6 +120,13 @@ function showPreview(imageData) {
     camera.classList.add('hidden');
     placeholderMessage.classList.add('hidden');
     previewArea.classList.remove('hidden');
+    
+    // Ensure patent info arrow is hidden during preview
+    if (patentInfoNextArrow) {
+        patentInfoNextArrow.classList.add('hidden');
+        patentInfoNextArrow.classList.remove('fade-in');
+    }
+    
     console.log('Preview area should now be visible, hidden class removed');
     console.log('previewArea element:', previewArea);
     console.log('previewArea classes:', previewArea.className);
@@ -130,6 +137,12 @@ async function loadAndRenderPdfFromFile(file) {
     const fileURL = URL.createObjectURL(file);
     
     try {
+        // Ensure patent info arrow is hidden during PDF loading
+        if (patentInfoNextArrow) {
+            patentInfoNextArrow.classList.add('hidden');
+            patentInfoNextArrow.classList.remove('fade-in');
+        }
+        
         // Load the PDF document
         pdfDoc = await pdfjsLib.getDocument(fileURL).promise;
         currentPageNum = 1;
@@ -261,6 +274,12 @@ function retakePhoto() {
     // Hide PDF viewer and show image preview
     if (pdfViewerContainer) pdfViewerContainer.style.display = 'none';
     if (imagePreview) imagePreview.style.display = 'block';
+    
+    // Hide the patent info next arrow
+    if (patentInfoNextArrow) {
+        patentInfoNextArrow.classList.add('hidden');
+        patentInfoNextArrow.classList.remove('fade-in');
+    }
     
     if (isCameraOn) {
         camera.classList.remove('hidden');
@@ -552,6 +571,14 @@ function displayPatentInformation(patentData) {
             patentInfoContainer.classList.remove('hidden');
             patentInfoContainer.classList.add('fade-in');
             
+            // Show the patent info next arrow after the container is displayed
+            if (patentInfoNextArrow) {
+                setTimeout(() => {
+                    patentInfoNextArrow.classList.remove('hidden');
+                    patentInfoNextArrow.classList.add('fade-in');
+                }, 200);
+            }
+            
             // Re-initialize patent hover handlers after the content is displayed
             initializePatentHoverHandlers();
         }, 300);
@@ -809,6 +836,12 @@ function handlePatentInfoNextArrowClick() {
     const previewArea = document.getElementById('previewArea');
 
     if (patentInfoContainer && embeddingsExplanation && previewContainer && previewArea) {
+        // Hide the patent info next arrow
+        if (patentInfoNextArrow) {
+            patentInfoNextArrow.classList.add('hidden');
+            patentInfoNextArrow.classList.remove('fade-in');
+        }
+
         // Fade out the current patent information card
         patentInfoContainer.classList.remove('fade-in');
         patentInfoContainer.classList.add('fade-out');
@@ -1000,16 +1033,22 @@ function handleBlueArrowClick() {
     embeddingsBlueArrow.classList.add('loading');
     embeddingsBlueArrow.querySelector('.material-symbols-outlined').textContent = 'hourglass_empty';
     
-    // Get the procedure date from the attributes display
-    const procedureDateText = document.getElementById('attributeProcedureDate').querySelector('span').textContent;
+    // Get the patent information from the stored data
+    const abstractText = document.getElementById('patentAbstractFull')?.textContent || '';
+    const descriptionText = document.getElementById('patentDescriptionFull')?.textContent || '';
+    const claimsText = document.getElementById('patentClaimsFull')?.textContent || '';
     
-    // Call the backend to get semantic search rankings
-    fetch('https://patient-referral-match-934163632848.us-central1.run.app/semantic-search', {
+    // Call the backend to get semantic search rankings for patents
+    fetch('https://patent-classification-match-934163632848.us-central1.run.app/semantic-patent-search', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
         },
-        body: JSON.stringify({ date_of_first_procedure: procedureDateText })
+        body: JSON.stringify({ 
+            abstract: abstractText,
+            description: descriptionText,
+            claims: claimsText
+        })
     })
     .then(response => {
         if (!response.ok) {
@@ -1018,7 +1057,7 @@ function handleBlueArrowClick() {
         return response.json();
     })
     .then(data => {
-        console.log('Semantic search results:', data);
+        console.log('Patent semantic search results:', data);
         
         // Copy the current image to the rankings image preview
         // If we have a PDF loaded, use the canvas, otherwise use the image preview
@@ -1028,8 +1067,14 @@ function handleBlueArrowClick() {
             rankingsImagePreview.src = imagePreview.src;
         }
         
-        // Populate the rankings list
-        populateRankings(data.rankings || []);
+        // Update the rankings header text
+        const rankingsHeader = document.querySelector('#rankingsContainer h3');
+        if (rankingsHeader) {
+            rankingsHeader.textContent = 'Based on semantic search, here are the rankings of best matches';
+        }
+        
+        // Populate the rankings list with patent data
+        populatePatentRankings(data.rankings || []);
         
         // Fade out the embeddings explanation
         const embeddingsExplanation = document.getElementById('embeddingsExplanation');
@@ -1053,8 +1098,8 @@ function handleBlueArrowClick() {
         }, 500);
     })
     .catch(error => {
-        console.error('Error getting semantic search rankings:', error);
-        alert('Error getting semantic search rankings: ' + error.message);
+        console.error('Error getting patent semantic search rankings:', error);
+        alert('Error getting patent semantic search rankings: ' + error.message);
     })
     .finally(() => {
         // Reset the arrow state
@@ -1133,6 +1178,218 @@ function populateRankings(rankings) {
         
         rankingsList.appendChild(row);
     });
+}
+
+// Populate patent rankings list
+function populatePatentRankings(rankings) {
+    rankingsList.innerHTML = ''; // Clear existing items
+    
+    // If no rankings, show a message
+    if (!rankings.length) {
+        const row = document.createElement('tr');
+        const cell = document.createElement('td');
+        cell.colSpan = 4;
+        cell.textContent = 'No matching patents found';
+        cell.style.textAlign = 'center';
+        row.appendChild(cell);
+        rankingsList.appendChild(row);
+        return;
+    }
+    
+    // Add each ranking item as a table row
+    rankings.forEach((ranking, index) => {
+        const row = document.createElement('tr');
+        
+        // Helper function to truncate text and add ellipsis
+        const truncateText = (text, maxLength = 100) => {
+            if (!text) return 'N/A';
+            return text.length > maxLength ? text.substring(0, maxLength) + '...' : text;
+        };
+        
+        // Create cells for each column: title, description, claims, cpc_codes, ipc_codes, semantic_distance
+        const titleCell = document.createElement('td');
+        const fullTitle = ranking.patent_title || 'Untitled Patent';
+        titleCell.textContent = truncateText(fullTitle, 50);
+        titleCell.title = fullTitle; // Add title attribute for native tooltip
+        titleCell.style.maxWidth = '200px';
+        titleCell.style.overflow = 'hidden';
+        titleCell.style.textOverflow = 'ellipsis';
+        titleCell.style.whiteSpace = 'nowrap';
+        
+        const descriptionCell = document.createElement('td');
+        const fullDescription = ranking.description || 'No description available';
+        descriptionCell.textContent = truncateText(fullDescription, 80);
+        descriptionCell.title = fullDescription; // Add title attribute for native tooltip
+        descriptionCell.style.maxWidth = '300px';
+        descriptionCell.style.overflow = 'hidden';
+        descriptionCell.style.textOverflow = 'ellipsis';
+        descriptionCell.style.whiteSpace = 'nowrap';
+        
+        const claimsCell = document.createElement('td');
+        const fullClaims = ranking.claims || 'No claims available';
+        claimsCell.textContent = truncateText(fullClaims, 80);
+        claimsCell.title = fullClaims; // Add title attribute for native tooltip
+        claimsCell.style.maxWidth = '300px';
+        claimsCell.style.overflow = 'hidden';
+        claimsCell.style.textOverflow = 'ellipsis';
+        claimsCell.style.whiteSpace = 'nowrap';
+        
+        const cpcCell = document.createElement('td');
+        const fullCpcText = Array.isArray(ranking.cpc_code) ? ranking.cpc_code.join(', ') : (ranking.cpc_code || 'N/A');
+        cpcCell.textContent = truncateText(fullCpcText, 60);
+        cpcCell.title = fullCpcText; // Add title attribute for native tooltip
+        cpcCell.style.maxWidth = '200px';
+        cpcCell.style.overflow = 'hidden';
+        cpcCell.style.textOverflow = 'ellipsis';
+        cpcCell.style.whiteSpace = 'nowrap';
+        
+        const ipcCell = document.createElement('td');
+        const fullIpcText = Array.isArray(ranking.ipc_code) ? ranking.ipc_code.join(', ') : (ranking.ipc_code || 'N/A');
+        ipcCell.textContent = truncateText(fullIpcText, 60);
+        ipcCell.title = fullIpcText; // Add title attribute for native tooltip
+        ipcCell.style.maxWidth = '200px';
+        ipcCell.style.overflow = 'hidden';
+        ipcCell.style.textOverflow = 'ellipsis';
+        ipcCell.style.whiteSpace = 'nowrap';
+        
+        const distanceCell = document.createElement('td');
+        const distanceValue = ranking.semantic_distance ? ranking.semantic_distance.toFixed(4) : 'N/A';
+        distanceCell.textContent = distanceValue;
+        distanceCell.title = `Semantic Distance: ${distanceValue}`; // Add title attribute for native tooltip
+        distanceCell.style.minWidth = '100px';
+        
+        // Append cells to row
+        row.appendChild(titleCell);
+        row.appendChild(descriptionCell);
+        row.appendChild(claimsCell);
+        row.appendChild(cpcCell);
+        row.appendChild(ipcCell);
+        row.appendChild(distanceCell);
+        
+        // Store all attributes as data attributes for hover display
+        Object.keys(ranking).forEach(key => {
+            row.dataset[key] = ranking[key] || '';
+        });
+        
+        // Add hover event listeners for tooltip with full content
+        row.addEventListener('mouseenter', (event) => {
+            const targetCell = event.target;
+            if (targetCell.tagName === 'TD') {
+                const cellIndex = Array.from(targetCell.parentNode.children).indexOf(targetCell);
+                let fullContent = '';
+                let label = '';
+                
+                switch(cellIndex) {
+                    case 0:
+                        fullContent = ranking.patent_title || 'Untitled Patent';
+                        label = 'Title';
+                        break;
+                    case 1:
+                        fullContent = ranking.description || 'No description available';
+                        label = 'Description';
+                        break;
+                    case 2:
+                        fullContent = ranking.claims || 'No claims available';
+                        label = 'Claims';
+                        break;
+                    case 3:
+                        fullContent = Array.isArray(ranking.cpc_code) ? ranking.cpc_code.join(', ') : (ranking.cpc_code || 'N/A');
+                        label = 'CPC Codes';
+                        break;
+                    case 4:
+                        fullContent = Array.isArray(ranking.ipc_code) ? ranking.ipc_code.join(', ') : (ranking.ipc_code || 'N/A');
+                        label = 'IPC Codes';
+                        break;
+                    case 5:
+                        fullContent = ranking.semantic_distance ? ranking.semantic_distance.toFixed(4) : 'N/A';
+                        label = 'Semantic Distance';
+                        break;
+                }
+                
+                if (fullContent && fullContent !== 'N/A') {
+                    showPatentCellTooltip(event, label, fullContent);
+                }
+            }
+        });
+        
+        row.addEventListener('mouseleave', hidePatentCellTooltip);
+        
+        // Add click event listener to load patent PDF if available
+        row.addEventListener('click', () => {
+            // Check if this ranking has a pdf_url
+            if (ranking.pdf_url) {
+                // Highlight the selected row
+                document.querySelectorAll('#rankingsList tr').forEach(r => {
+                    r.style.outline = 'none';
+                });
+                row.style.outline = '2px solid var(--accent-blue, #4285f4)';
+                
+                // Load the patent PDF
+                loadAndRenderRankedPdf(ranking.pdf_url);
+            } else {
+                console.log('Patent details:', ranking);
+            }
+        });
+        
+        // Add cursor pointer style to indicate clickability
+        row.style.cursor = 'pointer';
+        
+        rankingsList.appendChild(row);
+    });
+}
+
+// Show tooltip for patent cell content
+function showPatentCellTooltip(event, label, content) {
+    // Create tooltip if it doesn't exist
+    let tooltip = document.getElementById('patentCellTooltip');
+    if (!tooltip) {
+        tooltip = document.createElement('div');
+        tooltip.id = 'patentCellTooltip';
+        tooltip.className = 'detail-tooltip';
+        tooltip.style.maxWidth = '500px';
+        tooltip.style.maxHeight = '400px';
+        tooltip.style.overflow = 'auto';
+        tooltip.style.padding = '12px';
+        tooltip.style.backgroundColor = 'white';
+        tooltip.style.border = '1px solid #ddd';
+        tooltip.style.borderRadius = '4px';
+        tooltip.style.boxShadow = '0 2px 8px rgba(0,0,0,0.15)';
+        tooltip.style.position = 'absolute';
+        tooltip.style.zIndex = '1000';
+        document.body.appendChild(tooltip);
+    }
+    
+    // Set tooltip content
+    tooltip.innerHTML = `
+        <div style="margin-bottom: 8px; font-weight: bold; color: #333;">${label}</div>
+        <div style="white-space: pre-wrap; word-wrap: break-word; color: #666;">${content}</div>
+    `;
+    
+    // Position the tooltip near the mouse cursor
+    const rect = event.target.getBoundingClientRect();
+    tooltip.style.top = `${rect.bottom + window.scrollY + 5}px`;
+    tooltip.style.left = `${rect.left + window.scrollX}px`;
+    
+    // Ensure tooltip doesn't go off-screen
+    const tooltipRect = tooltip.getBoundingClientRect();
+    if (tooltipRect.right > window.innerWidth) {
+        tooltip.style.left = `${window.innerWidth - tooltipRect.width - 10}px`;
+    }
+    
+    // Show the tooltip
+    tooltip.classList.add('visible');
+}
+
+// Hide patent cell tooltip
+function hidePatentCellTooltip() {
+    const tooltip = document.getElementById('patentCellTooltip');
+    if (tooltip) {
+        tooltip.classList.remove('visible');
+        setTimeout(() => {
+            tooltip.style.top = '-9999px';
+            tooltip.style.left = '-9999px';
+        }, 200);
+    }
 }
 
 // Initialize patent section hover handlers

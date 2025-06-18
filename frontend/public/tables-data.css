@@ -311,3 +311,46 @@
   outline: none;
   border-color: var(--accent-blue);
 }
+
+/* Rankings table specific styling */
+#rankingsContainer .candidates-table-container {
+  max-height: 65vh; /* 65% of viewport height for more rows */
+  min-height: 400px; /* Ensure decent minimum height */
+  overflow-y: auto; /* Keep vertical scroll if needed */
+}
+
+#rankingsContainer .candidates-table {
+  table-layout: fixed; /* Crucial for predictable column widths */
+  width: 100%;
+}
+
+#rankingsContainer .candidates-table th,
+#rankingsContainer .candidates-table td {
+  white-space: nowrap; /* Prevent text wrapping */
+  overflow: hidden; /* Hide overflowed text */
+  text-overflow: ellipsis; /* Show '...' for truncated text */
+}
+
+/* Define percentage-based widths for the 6 columns */
+#rankingsContainer .candidates-table th:nth-child(1),
+#rankingsContainer .candidates-table td:nth-child(1) { width: 20%; } /* Title */
+
+#rankingsContainer .candidates-table th:nth-child(2),
+#rankingsContainer .candidates-table td:nth-child(2) { width: 25%; } /* Description */
+
+#rankingsContainer .candidates-table th:nth-child(3),
+#rankingsContainer .candidates-table td:nth-child(3) { width: 20%; } /* Claims */
+
+#rankingsContainer .candidates-table th:nth-child(4),
+#rankingsContainer .candidates-table td:nth-child(4) { width: 12%; } /* CPC Codes */
+
+#rankingsContainer .candidates-table th:nth-child(5),
+#rankingsContainer .candidates-table td:nth-child(5) { width: 12%; } /* IPC Codes */
+
+#rankingsContainer .candidates-table th:nth-child(6),
+#rankingsContainer .candidates-table td:nth-child(6) { width: 11%; } /* Semantic Distance */
+
+/* Add position relative to cells for potential tooltips */
+#rankingsContainer .candidates-table td {
+  position: relative;
+}

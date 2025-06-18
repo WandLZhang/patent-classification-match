@@ -1,9 +1,9 @@
 -- First, add the embedding column to the table
-ALTER TABLE `patient_records.referrals`
+ALTER TABLE `gemini-med-lit-review.patents.patent_records`
 ADD COLUMN IF NOT EXISTS content_embedding ARRAY<FLOAT64>;
 
 -- Then, update the table with embeddings
-UPDATE `patient_records.referrals` r
+UPDATE `gemini-med-lit-review.patents.patent_records` r
 SET r.content_embedding = e.ml_generate_embedding_result
 FROM (
   SELECT 
@@ -11,46 +11,24 @@ FROM (
     ml_generate_embedding_result
   FROM
     ML.GENERATE_EMBEDDING(
-      MODEL `patient_records.multimodal_embedding_model`,
+      MODEL `patents.gemini_embedding_model`,
       (SELECT 
         CONCAT(
-          patient_name, " ",
-          dob, " ",
-          CAST(age AS STRING), " ",
-          referring_facility, " ",
-          referring_facility_phone, " ",
-          referring_facility_fax, " ",
-          referring_provider, " ",
-          npi, " ",
-          priority, " ",
-          provisional_diagnosis, " ",
-          referral_date, " ",
-          clinically_indicated_date, " ",
-          referral_expiration_date, " ",
-          referral_category, " ",
-          level_of_care_coordination, " ",
-          category_of_care, " ",
-          service_requested
+          patent_title, " ",
+          ARRAY_TO_STRING(cpc_code, " "), " ",
+          ARRAY_TO_STRING(ipc_code, " "), " ",
+          abstract, " ",
+          description, " ",
+          claims
         ) as content 
-      FROM `patient_records.referrals`)
+      FROM `gemini-med-lit-review.patents.patent_records`)
     )
 ) e
 WHERE CONCAT(
-  r.patient_name, " ",
-  r.dob, " ",
-  CAST(r.age AS STRING), " ",
-  r.referring_facility, " ",
-  r.referring_facility_phone, " ",
-  r.referring_facility_fax, " ",
-  r.referring_provider, " ",
-  r.npi, " ",
-  r.priority, " ",
-  r.provisional_diagnosis, " ",
-  r.referral_date, " ",
-  r.clinically_indicated_date, " ",
-  r.referral_expiration_date, " ",
-  r.referral_category, " ",
-  r.level_of_care_coordination, " ",
-  r.category_of_care, " ",
-  r.service_requested
+  r.patent_title, " ",
+  ARRAY_TO_STRING(r.cpc_code, " "), " ",
+  ARRAY_TO_STRING(r.ipc_code, " "), " ",
+  r.abstract, " ",
+  r.description, " ",
+  r.claims
 ) = e.content;

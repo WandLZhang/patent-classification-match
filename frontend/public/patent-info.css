@@ -111,6 +111,19 @@
     }
 }
 
+/* Patent Info Next Arrow - positioned to the right of the card */
+#patentInfoNextArrow {
+    position: absolute;
+    right: -70px; /* Position outside the card to the right */
+    top: 50%;
+    transform: translateY(-50%);
+    /* Override the .blue-arrow position values that were set for viewport positioning */
+}
+
+#patentInfoNextArrow.hidden {
+    display: none;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     .patent-info-container {
@@ -130,5 +143,10 @@
         right: 5%;
         bottom: 10%;
         max-height: 80vh;
+    }
+    
+    /* Adjust arrow position for mobile */
+    #patentInfoNextArrow {
+        right: -50px; /* Closer on mobile due to limited space */
     }
 }
