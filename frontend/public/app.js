@@ -15,6 +15,7 @@ const embeddingsBlueArrow = document.getElementById('embeddingsBlueArrow');
 const rankingsSection = document.getElementById('rankingsSection');
 const rankingsImagePreview = document.getElementById('rankingsImagePreview');
 const rankingsList = document.getElementById('rankingsList');
+const patentInfoNextArrow = document.getElementById('patentInfoNextArrow');
 
 // State
 let isCameraOn = false;
@@ -670,6 +671,75 @@ function hideDetailTooltip() {
     }
 }
 
+// Handle patent info next arrow click to navigate to embeddings explainer
+function handlePatentInfoNextArrowClick() {
+    console.log('Patent Info Next Arrow clicked');
+
+    const patentInfoContainer = document.getElementById('patentInfoContainer');
+    const embeddingsExplanation = document.getElementById('embeddingsExplanation');
+    const previewContainer = document.querySelector('.preview-container');
+    const previewArea = document.getElementById('previewArea');
+
+    if (patentInfoContainer && embeddingsExplanation && previewContainer && previewArea) {
+        // Fade out the current patent information card
+        patentInfoContainer.classList.remove('fade-in');
+        patentInfoContainer.classList.add('fade-out');
+
+        // Also fade out the left-side preview container (PDF/image)
+        if (!previewContainer.classList.contains('hidden') && previewContainer.style.display !== 'none') {
+            previewContainer.classList.add('fade-out');
+        }
+
+        // Add fade-to-white background effect
+        previewArea.classList.add('fade-to-white');
+
+        setTimeout(() => {
+            // Hide the patent info card and preview container after fade-out
+            patentInfoContainer.classList.add('hidden');
+            patentInfoContainer.classList.remove('fade-out');
+
+            if (previewContainer.classList.contains('fade-out')) {
+                previewContainer.style.display = 'none';
+                previewContainer.classList.remove('fade-out');
+            }
+
+            // Ensure the main area is in 'results-mode'
+            if (!previewArea.classList.contains('results-mode')) {
+                previewArea.classList.add('results-mode');
+            }
+            
+            // Show the embeddings explanation card
+            embeddingsExplanation.classList.remove('hidden');
+            embeddingsExplanation.classList.add('visible');
+
+            // Trigger animations for the embeddings explanation content
+            const embeddingsTitle = embeddingsExplanation.querySelector('.embeddings-title');
+            const embeddingsImageContainer = embeddingsExplanation.querySelector('.embeddings-image-container');
+            const embeddingsText = embeddingsExplanation.querySelector('.embeddings-text');
+
+            // Reset animations by removing and re-adding class to ensure they play
+            if (embeddingsTitle) {
+                embeddingsTitle.classList.remove('animate');
+                void embeddingsTitle.offsetWidth; // Force reflow
+                embeddingsTitle.classList.add('animate');
+            }
+            if (embeddingsImageContainer) {
+                embeddingsImageContainer.classList.remove('animate');
+                void embeddingsImageContainer.offsetWidth; // Force reflow
+                embeddingsImageContainer.classList.add('animate');
+            }
+            if (embeddingsText) {
+                embeddingsText.classList.remove('animate');
+                void embeddingsText.offsetWidth; // Force reflow
+                embeddingsText.classList.add('animate');
+            }
+
+        }, 500); // This duration should match your CSS fade-out animation time
+    } else {
+        console.error('One or more elements for patent info to embeddings transition are missing.');
+    }
+}
+
 // Event Listeners
 cameraToggle.addEventListener('click', toggleCamera);
 captureButton.addEventListener('click', captureFrame);
@@ -680,6 +750,9 @@ submitAttributesButton.addEventListener('click', submitAttributes);
 const rightArrow = document.getElementById('rightArrow');
 rightArrow.addEventListener('click', handleRightArrowClick);
 embeddingsBlueArrow.addEventListener('click', handleBlueArrowClick);
+if (patentInfoNextArrow) {
+    patentInfoNextArrow.addEventListener('click', handlePatentInfoNextArrowClick);
+}
 
 // Handle right arrow click to change text and apply date filtering
 function handleRightArrowClick() {
