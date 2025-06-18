@@ -260,10 +260,14 @@ function confirmPhoto() {
 
     // Check if we have a PDF file loaded
     if (currentPdfFile) {
-        // Show loading state
+        // Show loading state with hourglass animation
         const confirmButton = document.getElementById('confirmButton');
         confirmButton.disabled = true;
+        confirmButton.classList.add('loading-hourglass');
         confirmButton.innerHTML = '<span class="material-symbols-outlined">hourglass_empty</span>';
+
+        // Start the PDF scanning animation
+        startPdfScanningAnimation();
 
         // Read the PDF file as base64
         const reader = new FileReader();
@@ -287,16 +291,22 @@ function confirmPhoto() {
             .then(data => {
                 console.log('Patent Information Extracted:', data);
 
+                // Stop the scanning animation
+                stopPdfScanningAnimation();
+
                 // Hide the old attributes container and show patent info
                 displayPatentInformation(data);
             })
             .catch(error => {
                 console.error('Error processing PDF:', error);
                 alert('Error processing PDF: ' + error.message);
+                // Stop the scanning animation on error
+                stopPdfScanningAnimation();
             })
             .finally(() => {
                 // Reset button state
                 confirmButton.disabled = false;
+                confirmButton.classList.remove('loading-hourglass');
                 confirmButton.innerHTML = '<span class="material-symbols-outlined">check</span>';
             });
         };
@@ -930,6 +940,76 @@ function initializePatentHoverHandlers() {
             });
         }
     });
+}
+
+// PDF scanning animation variables
+let scanningInterval = null;
+let currentScanPage = 1;
+
+// Start PDF scanning animation
+function startPdfScanningAnimation() {
+    if (!pdfViewerContainer || !pdfDoc) return;
+    
+    // Create overlay container
+    const overlay = document.createElement('div');
+    overlay.id = 'pdfScannerOverlay';
+    overlay.className = 'pdf-scanner-overlay';
+    pdfViewerContainer.appendChild(overlay);
+    
+    // Reset to first page
+    currentScanPage = 1;
+    if (currentPageNum !== 1) {
+        queueRenderPage(1);
+    }
+    
+    // Function to animate scanner bar on current page
+    function animateScannerBar() {
+        // Create scanner bar
+        const scannerBar = document.createElement('div');
+        scannerBar.className = 'scanner-bar';
+        overlay.appendChild(scannerBar);
+        
+        // Remove scanner bar after animation completes
+        scannerBar.addEventListener('animationend', () => {
+            scannerBar.remove();
+            
+            // Move to next page if available
+            if (currentScanPage < pdfDoc.numPages) {
+                currentScanPage++;
+                queueRenderPage(currentScanPage);
+                // Wait a bit before starting next scan
+                setTimeout(animateScannerBar, 500);
+            } else {
+                // Loop back to first page
+                currentScanPage = 1;
+                queueRenderPage(1);
+                setTimeout(animateScannerBar, 500);
+            }
+        });
+    }
+    
+    // Start the first scan
+    setTimeout(animateScannerBar, 100);
+}
+
+// Stop PDF scanning animation
+function stopPdfScanningAnimation() {
+    // Clear any intervals
+    if (scanningInterval) {
+        clearInterval(scanningInterval);
+        scanningInterval = null;
+    }
+    
+    // Remove overlay
+    const overlay = document.getElementById('pdfScannerOverlay');
+    if (overlay) {
+        overlay.remove();
+    }
+    
+    // Reset to first page
+    if (currentPageNum !== 1) {
+        queueRenderPage(1);
+    }
 }
 
 // Initialize the app
