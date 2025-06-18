@@ -66,6 +66,7 @@ CRITICAL INSTRUCTIONS:
 - The Description section should contain ONLY narrative paragraphs that describe the invention in prose form
 - If a chunk contains ONLY figures/drawings with their labels and NO continuous prose text, return empty strings
 - If you cannot find substantial narrative text (full sentences forming paragraphs), return empty string
+- For the "abstract", "description", and "claims" fields, ensure the generated text for each field is 7000 tokens or less
 
 For each section, provide ONLY the continuous prose text that forms the body of that section. Return the results in a JSON format with these exact keys:
 {
