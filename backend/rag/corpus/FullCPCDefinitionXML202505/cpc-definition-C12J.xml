@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2020-02-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">C12J</classification-symbol><definition-title>VINEGAR; PREPARATION OR PURIFICATION THEREOF</definition-title></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">C12J1/00</classification-symbol><definition-title>Vinegar; Preparation or purification thereof</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Any vinegar , i.e. from fermentation processes, synthetic vinegar based on synthetic acetic acid, and methods for the preparation thereof, including purification.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Salad dressings</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A23L27/60</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12J1/02</classification-symbol><definition-title>from wine</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods for preparing vinegar from wine and wine vinegar prepared thereby.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparation of wine and sparkling wine</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12G1/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12J1/04</classification-symbol><definition-title>from alcohol</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods for preparing vinegar from alcohol and vinegar prepared thereby.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12J1/06</classification-symbol><definition-title>from milk</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods for preparing vinegar from milk and vinegar prepared thereby.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Milk</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A23C</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12J1/08</classification-symbol><definition-title>Addition of flavouring ingredients</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods for preparing vinegar by addition of flavouring ingredients and flavoured vinegar prepared thereby.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Flavouring agents for non-alcoholic beverages</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A23L2/56</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Beer flavouring preparations</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C5/026</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Flavouring ingredients for alcoholic beverages other than wine and beer</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12G3/06</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12J1/10</classification-symbol><definition-title>Apparatus</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus for preparing vinegar.</paragraph-text></section-body>
+    </definition-statement></definition-item></definitions>

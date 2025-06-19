@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">D02H</classification-symbol><definition-title>WARPING, BEAMING OR LEASING</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatuses and methods for warping, beaming and leasing of warp yarns in preparation of the weaving process.</paragraph-text>
+      </section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Warping</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">comprises winding parts of the warp yarns, normally from bobbins, on a warping beam, whereby sequential parts are wound next to each other until the full weaving width is covered. The warping beam is then normally in a next step of warp preparation used for beaming</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Beaming</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">comprises winding the full width of the warp yarns in a single winding operation on the weaving beam (i.e. the beam which is to be placed on the loom). The warp yarns can be wound from a creel or a warping beam.</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Leasing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">comprises inserting lease cords between the warp yarns to separate groups of warp yarns.</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Fibre</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">a relatively-short, elongated member of natural or artificial material</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Filament:</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">an endless or quasi-endless, elongated member of natural (e.g. silk) or artificial material</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Yarn</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">a unitary assembly of fibres, usually produced by spinning</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Thread:</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">an assembly of yarns or filaments, usually produced by twisting</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02H1/00</classification-symbol><definition-title>Creels, i.e. apparatus for supplying a multiplicity of individual threads</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Structures with yarn packages for supplying a multiplicity of individual threads in particular to warping machines or looms.</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group (EP-A1-0 732 433):</paragraph-text>
+        <paragraph-text type="body"><media id="media0.jpg" file-name="cpc-def-D02H-0000.jpg" type="jpeg"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Methods and apparatus with yarn packages for supplying individual threads (i.e. creels in general)</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H49/02</class-ref>, <class-ref scheme="cpc">B65H49/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Controlling warp tension if the warp is supplied to the weaving machine by a creel</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D03D49/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02H3/00</classification-symbol><definition-title>Warping machines</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatuses and methods for winding warps normally from a creel on a beam (from where it is, as a next step, normally wound on the warp beam of the loom).</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02H3/02</classification-symbol><definition-title>{Sectional warpers}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Sectional warpers which normally feature a large drum and feeding warp threads perpendicular to the drum axis from a bobbin creel.</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group (EP-A2-1 510 605):</paragraph-text>
+        <paragraph-text type="body"><media id="media1.jpg" file-name="cpc-def-D02H-0001.jpg" type="jpeg"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02H3/04</classification-symbol><definition-title>{Sample warpers}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Warpers for warping relatively short lengths of warp threads which are used for weaving a sample fabric. These warpers are normally sectional warpers with sideways winding from a bobbin creel.</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group (DE-A1-102006023496):</paragraph-text>
+        <paragraph-text type="body"><media id="media2.jpg" file-name="cpc-def-D02H-0002.jpg" type="jpeg"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02H5/00</classification-symbol><definition-title>Beaming machines</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatuses and methods for beaming whereby a full width of warp yarns is wound in a single winding operation on the weaving beam (i.e. the beam to be placed in the loom). The warp yarns can be unwound from a creel (i.e. direct beaming) or from a warping beam.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02H7/00</classification-symbol><definition-title>Combined warping and beaming machines</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Machines wherein the functions of warping and beaming are united, e.g. by using sectional beaming to create a beam which can be directly used in a weaving machine.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Direct beaming wherein the whole width of warp yarns is beamed at once</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D02H5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02H9/00</classification-symbol><definition-title>Leasing</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatuses and methods for inserting lease cords between the warp yarns to separate groups of warp yarns.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02H11/00</classification-symbol><definition-title>Methods or apparatus not provided for in the preceding groups, e.g. for cleaning the warp</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods or apparatus not provided for in the groups <class-ref scheme="cpc">D02H1/00</class-ref> - <class-ref scheme="cpc">D02H9/00</class-ref>, e.g. for cleaning the warp.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02H13/00</classification-symbol><definition-title>Details of machines of the preceding groups</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Details of machines of the groups <class-ref scheme="cpc">D02H1/00</class-ref> - <class-ref scheme="cpc">D02H11/00</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02H13/02</classification-symbol><definition-title>Stop motions</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Applications of devices for metering predetermined lengths of running material</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H61/00</class-ref> </paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Warning or safety devices, e.g. stop-motions</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H63/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02H13/12</classification-symbol><definition-title>Variable-speed driving mechanisms</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Adjusting or controlling tension in filamentary material in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H59/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02H13/16</classification-symbol><definition-title>Reeds, combs, or other devices for determining the spacing of threads</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Reeds or beat-up combs in looms</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"> <class-ref scheme="cpc">D03D49/62</class-ref> or <class-ref scheme="cpc">D03D49/68</class-ref>. </paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02H13/22</classification-symbol><definition-title>Tensioning devices</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Adjusting or controlling tension in filamentary material in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H59/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

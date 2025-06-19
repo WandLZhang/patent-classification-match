@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B41K</classification-symbol><definition-title>STAMPS; STAMPING OR NUMBERING APPARATUS OR DEVICES  (marking meat <class-ref scheme="cpc">A22C17/10</class-ref>; embossing combined with printing <class-ref scheme="cpc">B41F19/00</class-ref>; selective printing mechanisms <class-ref scheme="cpc">B41J</class-ref>; embossing decorations or marks <class-ref scheme="cpc">B44B5/00</class-ref>; marking or coding completed packages <class-ref scheme="cpc">B65B61/26</class-ref>; ticket printing and issuing, fare registering, nonprinting aspects of franking apparatus <class-ref scheme="cpc">G07B</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Hand-operated devices and machines always including a static stamping element carrying a graphical and/or numerical design, e.g. a single letter or number in the form of a raised part forming the stamping image. This raised part has usually elastic properties, e.g. it comprises mainly an elastomeric material. After applying ink on the surface of said stamping form, said inked image is applied by contact pressure onto the surface of a substrate of any dimension, which will form a stamped subject-matter, portable devices or machines as a whole as well as all parts, details and objects specifically adapted for use in such devices or machines, e.g.</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">handles,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">stands,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">labelling means,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">inking devices,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">stamping surfaces,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">means for handling or deforming or punching or cutting or severing of</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">substrates to be stamped,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">safety devices and</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">counting devices,</paragraph-text>
+          </list-item>
+        </list>
+        <paragraph-text type="body">feeding and/or handling of substrates to be stamped upon is covered from the in-feed device through the whole machine down to the delivery device.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Cutting or perforating apparatus and processes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26D</class-ref>, <class-ref scheme="cpc">B26F</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Relief or letterpress printing machines in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Flexographic printing machines in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F5/24</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Offset or lithographic printing machines in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Intaglio printing machines in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Inking devices in printing machines in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F31/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Stencil printing machines in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41L13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Printing, duplicating, marking, or copying processes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41M</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Printing plates or foils per se; materials therefore in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41N1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Implements for writing drawing in general, e.g. pens, pencils</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K1/00</class-ref> - <class-ref scheme="cpc">B43K27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Combination of writing implements with stamping means</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K29/013</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Stamping or pressing processes by merely deforming substrates without use of ink or colour</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44C1/24</class-ref>, <class-ref scheme="cpc">B44C3/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Labelling or tagging machines, apparatus or processes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65C</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.57cm">
+              <paragraph-text type="body">Feeding and/or handling of sheet or web-like substrates in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H1/00</class-ref> - <class-ref scheme="cpc">B65H47/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Stamping</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">always including use of ink or colour</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41K1/00</classification-symbol><definition-title>Portable hand-operated devices without means for supporting or locating the articles to be stamped, i.e. hand stamps; Inking devices or other accessories therefor</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">portable numbering devices,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">hand stamps combined with other devices, and</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">stands for keeping hand stamps within easy reach.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Combination or writing implements with hand stamps</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K29/013</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41K3/00</classification-symbol><definition-title>Apparatus for stamping articles having integral means for supporting the articles to be stamped  (means for printing on articles of special shape or having a surface of particular configuration <class-ref scheme="cpc">B41F17/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Stamping apparatus in combination with means for deforming or punching substrate material,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Accessories specifically adapted for said stamping apparatus, e.g. counting means, cutting or severing apparatus and safety devices e.g. for preventing machine failure, and</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Numbering devices.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41K5/00</classification-symbol><definition-title>Plier-like tools for stamping, or stamping and delivering, tickets or the like</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Accessories specifically adapted for use with said tools, e.g.</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">recording means and</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">counting means.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Labelling or tagging devices or apparatus having plier-like tools</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65C</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Delivering articles from cutting or line-perforating machines in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H35/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Article or web delivery apparatus incorporating devices for performing specified auxiliary operations in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H37/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Ticket printing and issuing devices being part of franking apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G07B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41K99/00</classification-symbol><definition-title>Subject matter not provided for in other groups of this subclass</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Portable hand-operated devices without means for supporting or locating the articles to be stamped, i.e. hand stamps; inking devices or accessories therefore</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41K1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Apparatus for stamping articles having integral means for supporting the articles to be stamped</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41K3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Plier-like tools for stamping, or stamping and delivering, tickets or the like</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41K5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item></definitions>

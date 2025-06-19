@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">F28G</classification-symbol><definition-title>CLEANING OF INTERNAL OR EXTERNAL SURFACES OF HEAT-EXCHANGE OR HEAT-TRANSFER CONDUITS, e.g. WATER TUBES OR BOILERS  (cleaning pipes or tubes in general <class-ref scheme="cpc">B08B9/02</class-ref>; devices or arrangements for removing water, minerals, or sludge from boilers while the boiler is in operation, or which remain in position while the boiler is in operation, or are specifically adapted to boilers without any other utility <class-ref scheme="cpc">F22B37/48</class-ref>; removal or treatment of combustion products or combustion residues <class-ref scheme="cpc">F23J</class-ref>; removing ice from heat-exchange apparatus <class-ref scheme="cpc">F28F17/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Apparatus and methods for removing deposits from surfaces in contact with heat-exchange media.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning tubes or pipes in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B08B9/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Removing incrustation in apparatus for thermal non-catalytic cracking of hydrocarbon oils </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C10G9/12</class-ref>, <class-ref scheme="cpc">C10G9/16</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Non-mechanical removal of metallic material from surfaces</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C23F</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning metallic materials by chemical methods</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C23G</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning engines cooling systems </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F01P11/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Devices for removing water, salt, or sludge from boilers </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F22B37/48</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning combustion chambers </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F23J</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning arrangements for water heaters</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F24H9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Removing ice from heat exchanger </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28F17/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Preventing the formation of deposits or corrosion</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28F19/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28G1/00</classification-symbol><definition-title>Non-rotary, e.g. reciprocated, appliances  (<class-ref scheme="cpc">F28G3/00</class-ref> takes precedence)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Cleaning devices comprising a non-rotary cleaning element, e.g. arranged for linear motion or for back and forth movement.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning the internal surfaces of tubes by the mechanical action of a moving fluid, e.g. by flushing</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B08B9/032</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">The cleaning devices being moved along the pipes by a fluid and conforming to, or being conformable to substantially the same cross-section of the pipes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B08B9/055</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Pigs or moles, i.e. devices movable in a pipe or conduit with or without self-contained propulsion means</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16L55/26</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Soot-blowers for cleaning furnaces</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F23J3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28G3/00</classification-symbol><definition-title>Rotary appliances</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Cleaning devices comprising rotatable cleaning elements, e.g. arranged for turning arount at least one axis; Cleaning devices comprising movable cleaning elements, wherein the movement is a combination of a non-rotary movement and a rotary movement.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28G5/00</classification-symbol><definition-title>Cleaning by distortion  (by vibration <class-ref scheme="cpc">F28G7/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Cleaning devices performing a cleaning action by deforming the heat exchange surfaces.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning by vibration</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28G7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28G7/00</classification-symbol><definition-title>Cleaning by vibration {or pressure waves}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Cleaning devices performing a cleaning action by producing vibrations on the heat exchange surfaces, e.g. by using knocking devices, or by using pressure pulses, or by producing detonations or explosions.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning by distortion </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28G5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Method and apparatus for producing mechanical vibrations</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B06B1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning by distortion, beating, or vibration of the surface to be cleaned</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B08B7/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28G9/00</classification-symbol><definition-title>Cleaning by flushing or washing, e.g. with chemical solvents  (appliances using jets of fluid for removing debris <class-ref scheme="cpc">F28G1/16</class-ref>, <class-ref scheme="cpc">F28G3/16</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Cleaning devices performing a cleaning action by contacting the heat exchange surfaces with a solvent and/or by flowing a washing fluid through the heat exchange conduits.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning by using appliances using jets of fluids for removing debris</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28G1/16</class-ref>, <class-ref scheme="cpc">F28G3/16</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning tubes by the mechanical action of a moving fluid, e.g. by flushing </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B08B9/032</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Treatment of water with complexing chemicals or other solubilising agents for softening, scale prevention or scale removal, e.g. adding sequestering agents </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C02F5/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning metal pipes by chemical methods</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C23G3/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Devices for preventing or removing corrosion, slime or scale from water heaters</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="not-mapped">F24H19/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28G11/00</classification-symbol><definition-title>Cleaning by combustion, e.g. using squibs, using travelling burners {(<class-ref scheme="cpc">F28G7/005</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Cleaning devices, performing a cleaning action by contacting the heat exchange surfaces with flames or high temperature fumes for burning the deposits.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning by detonations</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28G7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cleaning by increasing temperature of heat exchange surfaces</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28G13/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28G13/00</classification-symbol><definition-title>Appliances or processes not covered by groups <class-ref scheme="cpc">F28G1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">F28G11/00</class-ref>; Combinations of appliances or processes covered by groups <class-ref scheme="cpc">F28G1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">F28G11/00</class-ref></definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Other cleaning devices or processes, e.g. cleaning by laser, cleaning by oxidation, cleaning by action of bubbles</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28G15/00</classification-symbol><definition-title>Details  (measuring thickness of deposit <class-ref scheme="cpc">G01B</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Details of cleaning devices, e.g. control arrangements.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Measuring thickness of deposits</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G01B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item></definitions>

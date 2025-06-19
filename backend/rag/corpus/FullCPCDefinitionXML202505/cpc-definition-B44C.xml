@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2018-01-01" publication-type="official">
+<definition-item date-revised="2017-05-01"><classification-symbol scheme="cpc">B44C</classification-symbol><definition-title>PRODUCING DECORATIVE EFFECTS  (processes for applying liquids or other fluent materials to surfaces, in general <class-ref scheme="cpc">B05D</class-ref>; shaping of plastics or substances in a plastic state <class-ref scheme="cpc">B29C</class-ref>; printing processes to produce transfer pictures <class-ref scheme="cpc">B41M3/12</class-ref>; thermographic duplication or marking methods <class-ref scheme="cpc">B41M5/00</class-ref>); MOSAICS; TARSIA WORK  (imitation of mosaic or tarsia work patterns <class-ref scheme="cpc">B44F11/04</class-ref>); PAPERHANGING {(labels <class-ref scheme="cpc">G09F</class-ref>; multi-step processes for making paper labels or tags <class-ref scheme="cpc">B31D1/02</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Processes and apparatuses for producing decorative surface effects e.g. decalcomanias, for producing ornamental structures e.g. mosaics, and for producing special ornamental bodies, e. g. ornamental plaques so far as the matter produces an effect or mark meant to be judged by the eye and so far as such processes or apparatus are not specifically provided for elsewhere.</paragraph-text>
+        <paragraph-text type="body">Paperhanging</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Processes for applying liquids or other fluent material to a surface</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B05D</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Shaping of plastics or other substances in plastic state</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B29C</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Multi-step processes for making paper labels or tags</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31D1/02</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Layered products, manufacture thereof</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">B32B</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Printing processes to produce transfer pictures</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B41M3/12</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Thermographic duplication or marking methods</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B41M5/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Imitation of mosaic or tarsia work patterns</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B44F1/04</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Layering of ceramics</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">C04B41/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Coating processes for photomechanical production of textured or patterned surfaces; apparatus therefor</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">G03F7/16</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Labels</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">G09F</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Decorative effects</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Covers also &quot;information&quot;, when used in connection with the expressions &quot;transfer picture&quot; or &quot;decalcomanias&quot;,</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44C1/00</classification-symbol><definition-title>Processes, not specifically provided for elsewhere, for producing decorative surface effects  (decorating textiles <class-ref scheme="cpc">D06Q</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">processes for altering locally the surface material, for applying flat material, for applying transfer pictures or the like, for applying ornamental structures, for applying plastic materials and superficially modelling their surface, for removing surface material, for pressing or stamping ornamental designs on surfaces, for inlaying with ornamental structures, for uniting ornamental elements on a support.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Paperhanging </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44C7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Decorating or marking of tyres</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60C13/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Decalcomanias on ceramics</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C04B41/45</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Decorating textiles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D06Q1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Apparatus for floating transfer sheets</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05C11/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Processes for floating transfer sheets</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05D1/20</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Ablation by laser radiation</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K26/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Abrasive blasting</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B24C1/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Laminates essentially comprising wood layers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B32B21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Laminates characterised by particular surface features</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B32B33/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Machines for embossing and printing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F19/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Embossing and printing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41M1/24</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Transfer pictures or the like</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41M3/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">After-treatments of prints, e.g. protective layers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41M7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Elements for body-finishing, identifying or decorating cars</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60R13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Machines or apparatus for applying decalcomanias</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65C9/00</class-ref>, <class-ref scheme="cpc">B65C11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Adhesive foils</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C09J7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Producing precipitations by electrolysis</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C25D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Holograms</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03H1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44C3/00</classification-symbol><definition-title>Processes, not specifically provided for elsewhere, for producing ornamental structures</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Superimposing layers, modelling plastic materials, sculpturing, stamping or bending, producing and filling perforations, uniting ornamental elements to structures.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Cult objects</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47G33/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Coffins, funeral urns and wrappings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61G17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Toy moulds</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A63H33/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Producing shaped ceramic or clay articles in moulds </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B28B5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Monuments, tombs</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04H13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44C5/00</classification-symbol><definition-title>Processes for producing special ornamental bodies</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">ornamental bodies comprising inserts, mountings for objects, e.g. pictures and of horns on plates, ornamental plaques, e.g. decorative panels and veneers, natural ornaments and imitations thereof, leaded lights</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Furniture panels</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B96/20</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Mounting for pictures</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47G1/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Cult objects</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47G33/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Coffins, funeral urns and wrappings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61G17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Structures applied on surfaces by special manufacturing processes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21H27/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Coverings or linings for walls and ceilings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04F13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Flooring</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04F15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Monuments, tombs</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04H13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Doors</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="not-mapped">E06B5/70</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2018-01-01"><classification-symbol scheme="cpc">B44C7/00</classification-symbol><definition-title>Paperhanging</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Machines, apparatus, tools and accessories for paperhanging, for applying adhesives, for applying the paper to the surface to be covered, for finishing operations.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Cleaning walls and wall coverings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47L11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Printing of wallpaper</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41M3/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Apparatus for removing paint adhering to a surface</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44D3/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Adhesives on paper</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C09J7/21</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Coated paper with special visual effects</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21H19/66</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Wallpaper</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21H27/20</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B68C</classification-symbol><definition-title>SADDLES; STIRRUPS</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Saddling equipment for riding- or pack-animals; stirrups; covers for riding or pack animals when working.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="7.32cm">
+              <paragraph-text type="body">Toy saddles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A63H33/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B68C1/00</classification-symbol><definition-title>Saddling equipment for riding- or pack-animals</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Saddle-racks for supporting or cleaning purposes; devices for positioning the saddle more to the rear; saddles, bottom pads for saddles; saddle cloths; saddle covers or similar; belts or straps for saddles and tighteners therefor; devices for fastening stirrups to saddles; stirrup leathers; pockets, receptacles, or other supporting devices attached or attachable to saddles (e.g. for the insertion of arms); safety release mechanisms (e.g. for rodeo); saddle horns.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B68C5/00</classification-symbol><definition-title>Covers for animals when working, e.g. for protecting</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="7.32cm">
+              <paragraph-text type="body">Protective coverings for animals when not working (e.g. horse blankets)</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01K13/006</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item></definitions>

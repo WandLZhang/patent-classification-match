@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">F15C</classification-symbol><definition-title>FLUID-CIRCUIT ELEMENTS PREDOMINANTLY USED FOR COMPUTING OR CONTROL PURPOSES  (transducers <class-ref scheme="cpc">F15B5/00</class-ref>, {<class-ref scheme="cpc">F15B21/00</class-ref>}; fluid dynamics in general <class-ref scheme="cpc">F15D</class-ref>; computer comprising fluid elements <class-ref scheme="cpc">G06D</class-ref>, <class-ref scheme="cpc">G06G</class-ref>; {electric control by means of electro-hydraulic or electro-pneumatic amplifiers <class-ref scheme="cpc">G05B7/02</class-ref>})</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Components for fluidic logic systems (fluidics), i.e. for systems using a fluid to perform analog or digital operations similar to those performed with electronics.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Devices using the coanda effect for purposes other than for computing are classified in the place of the application.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body">Nozzles for windscreens</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60S1/52</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item></definitions>

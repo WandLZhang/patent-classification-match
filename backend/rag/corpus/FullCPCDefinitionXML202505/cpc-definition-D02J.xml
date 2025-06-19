@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">D02J</classification-symbol><definition-title>FINISHING OR DRESSING OF FILAMENTS, YARNS, THREADS, CORDS, ROPES OR THE LIKE  (curling or crimping <class-ref scheme="cpc">D02G</class-ref>; by treatment with liquids, gases or vapours <class-ref scheme="cpc">D06B</class-ref>; finishing other than by liquid treatment, of yarns in warp or sheet form <class-ref scheme="cpc">D06C</class-ref>; for chemical matters, see <class-ref scheme="cpc">D06L</class-ref>, <class-ref scheme="cpc">D06M</class-ref>, <class-ref scheme="cpc">D06P</class-ref>, <class-ref scheme="cpc">D06Q</class-ref>; treatment during rope-making, apparatus for treating ropes auxiliary to rope-making <class-ref scheme="cpc">D07B</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Changing the physical characteristics or properties of filaments, yarns, threads, cords, ropes or the like</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">There maybe an overlap with <class-ref scheme="cpc">D02G1/00</class-ref>; crimping and curling of fibres, filaments and yarns. For chemical matters, see <class-ref scheme="cpc">D06L</class-ref>, <class-ref scheme="cpc">D06M</class-ref>, <class-ref scheme="cpc">D06P</class-ref>, <class-ref scheme="cpc">D06Q</class-ref>; treatment.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Producing crimped or curled fibres, filaments, yarns or threads, giving them latent characteristics</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D02G1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Treatment with liquids, gases or vapours</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D06B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Finishing other than by liquid treatment, of yarns in warp or sheet form</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D06C</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Chemical bleaching, dry-cleaning or washing fibres, threads, yarns, fabrics</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D06L</class-ref> </paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Dyeing or printing textiles</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D06P</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Decorating textiles</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D06Q</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Treatment during rope-making, apparatus for treating ropes auxiliary to rope-making</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D07B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Details of, or auxiliary devices incorporated in rope-making machines for softening, lubricating or impregnating ropes or component strands thereof</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D07B7/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Treatment, not provided for elsewhere in class <class-ref scheme="cpc">D06</class-ref>, of fibres, threads, yarns, fabrics, feathers or fibrous goods made from such materials </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D06M</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Bulking</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">making the filaments and yarns more voluminous by changing the structure</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Slub</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">a thick lumpy knot along the length of the yarn</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Drawing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">stretching and elongating the yarns or filaments</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Draft</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">the amount to which the yarn or filament is drawn</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Fibre</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">a relatively-short, elongated member of natural or artificial material</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Filament</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">an endless or quasi-endless, elongated member of natural (e.g. silk) or artificial material</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Yarn</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">a unitary assembly of fibres, usually produced by spinning</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Thread</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">an assembly of yarns or filaments, usually produced by twisting</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02J3/00</classification-symbol><definition-title>Modifying the surface</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatuses and methods for treatments of finishing of filaments, yarns, threads, cords, ropes or the like by modifying the surface, e.g. by mechanical action through abrading or indenting the surface.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Apparatuses and methods for treatments modifying, retaining, or restoring the physical form or cross-sectional shape, e.g. by use of dies or squeeze roller</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D02J1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02J3/02</classification-symbol><definition-title>by abrading, scraping, scuffing, cutting, or nicking  (preliminary roughening of fibres, e.g. for spinning, <class-ref scheme="cpc">D01G3/00</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Treatments for modifying the surface of textile fabrics by abrading, napping, teasing, etc</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D06C11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Scuffing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">an abrasive wear</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Nicking </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">is an abrasive wear by small cuts</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02J3/18</classification-symbol><definition-title>Treating with particulate, semi-solid, or solid substances, e.g. wax  (during package formation <class-ref scheme="cpc">B65H71/00</class-ref>; waxing yarns or the like as incidental measures during spinning or twisting <class-ref scheme="cpc">D01H13/30</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Waxing filamentary material as additional measures during package formation</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H71/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Waxing yarns in twisting or spinning machines</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D01H13/308</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D02J7/00</classification-symbol><definition-title>Cleaning, e.g. removing dust, loose fibres, charred ends  (in combination with the shearing, singeing, or otherwise removing of projecting fibre ends <class-ref scheme="cpc">D02J3/12</class-ref>, <class-ref scheme="cpc">D02J3/14</class-ref>, <class-ref scheme="cpc">D02J3/16</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Physical treatment of artificial filaments or the like during manufacture, i.e. during a continuous production process before the filaments have been collected</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D01D10/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

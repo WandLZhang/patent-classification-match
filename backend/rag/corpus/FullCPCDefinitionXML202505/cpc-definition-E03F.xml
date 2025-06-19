@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">E03F</classification-symbol><definition-title>SEWERS; CESSPOOLS</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and installations for conveying waste water and precipitation water towards treatment installations and/or natural flowing bodies.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Methods and installations for the treatment of such used water which are not part of the conveying system are classified in <class-ref scheme="cpc">C02F</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Methods and installations for treatment of sewage</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C02F</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">E03F1/00</classification-symbol><definition-title>Methods, systems, or installations for draining-off sewage or storm water</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for conveying used water pneumatically; disposing sewage into the landscape.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Constructional details of cesspools</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E03F11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Underground watering of plants</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01G25/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Methods and installations for treatment of water </paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C02F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Drainage of water</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E02B11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Arrangement of water closets specially adapted to motor vehicles or trailers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60R15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Arrangement of water closets specially adapted to railway carriages</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61D35/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Flushed water closets specially adapted to ships</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B63B29/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Flushed water closets specially adapted to aircrafts </paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B64D11/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></application-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Conveying materials through pipes by aire</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65G53/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Constructional details of down-pipes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04D13/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Service stations for fresh and used water, e.g. for camping sites, are classified in <class-ref scheme="cpc">E03F1/00</class-ref> and in <class-ref scheme="cpc">E02B9/02</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Means for distributing outflowing water from roof down-pipes onto the ground are classified in <class-ref scheme="cpc">E03F1/00</class-ref>. Means integrated into the downpipe are classified in <class-ref scheme="cpc">E04D13/08</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">E03F3/00</classification-symbol><definition-title>Sewer pipe-line systems</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Lay-out and constructional details of pipe systems specially adapted to sewage.</paragraph-text>
+        <paragraph-text type="body">Arrangements of cables within sewer pipes, e.g. for electricity or telecommunication.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Manufacture of concrete tubes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B28B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Constructional details of pipes and pipe fittings in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16L</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E03F5/00</classification-symbol><definition-title>Sewerage structures</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Component parts of sewer systems other than conveying pipes.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Inspection of sewers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E03F7/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Mechanical filtering in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D21/00</class-ref>, <class-ref scheme="cpc">B01D29/00</class-ref>, <class-ref scheme="cpc">B01D33/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Large underground containers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65D88/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Details of pavings and gutters</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01C11/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Making sewers in situ</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E02D29/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Manhole shafts and covers not specially adapted to sewage</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E02D29/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Digging of trenches</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E02F5/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Methods of laying pipes underground</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21B7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Devices for covering leaks in pipes </paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16L55/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Control of flow in general , e.g. throttles </paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G05D7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Connection of manhole covers to shaft</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E02D29/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Elongated water inlet structures with gratings are classified in <class-ref scheme="cpc">E03F3/046</class-ref> and in <class-ref scheme="cpc">E03F5/06</class-ref>, if details of both parts of the structure are disclosed.</paragraph-text>
+        <paragraph-text type="body">Documents describing grinding of sewage are classified in <class-ref scheme="cpc">E03F5/22</class-ref> and <class-ref scheme="cpc">E03F5/26</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">E03F5/12</classification-symbol><definition-title>Emergency outlets</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Sewer channels or stormwater holding tanks with means for allowing surplus water to be discharged in a controlled way.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Devices for separating unwanted substances from flowing sewage which are integrated in the sewer system </paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E03F5/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E03F7/00</classification-symbol><definition-title>Other installations or implements for operating sewer systems, e.g. for preventing or indicating stoppage; Emptying cesspools</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices for ensuring functioning of a sewer system.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Devices for refurbishing sewers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E03F3/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Devices for cleaning sewers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E03F9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Refuse vehicles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65F3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E03F7/12</classification-symbol><definition-title>Installations enabling inspection personnel to drive along sewer canals</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices enabling inspection of interior of sewer canals, whether or not manned and whether or not moved through the canal.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Devices for repairing or refurbishing sewer canals</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E03F3/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Devices for cleaning the interior of sewer canals</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E03F9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E03F9/00</classification-symbol><definition-title>Arrangements or fixed installations {methods or devices} for cleaning {or clearing} sewer pipes, e.g. by flushing  (sediment traps, rakes, screens, or the like, arranged in sewer lines <class-ref scheme="cpc">E03F5/14</class-ref>; cleaning pipes in general, devices for cleaning pipes <class-ref scheme="cpc">B08B9/02</class-ref>{; gullies provided with flushing means for cleaning or emptying <class-ref scheme="cpc">E03F5/0402</class-ref>; devices to remove obstructions in waste-pipes or sinks <class-ref scheme="cpc">E03C1/30</class-ref>})</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices for cleaning the interior of a sewer canal in order to improve flow through the canal.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Sediment traps, rakes, screens, or the like, arranged in sewer lines </paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E03F5/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Cleaning of inner side of hollow articles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B08B9/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Devices for cleaning or clearing domestic waste pipes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E03C1/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Devices for clearing obstructions in water closets</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E03D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Devices which can be used for sewer canals and domestic drain pipes are classified here.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">E03F11/00</classification-symbol><definition-title>Cesspools  (emptying cesspools <class-ref scheme="cpc">E03F7/00</class-ref>; features relating to treatment of sewage <class-ref scheme="cpc">C02F</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Constructional details of cesspools and other sewage holding tanks.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Methods and devices for treatment of water in a cesspool: <class-ref scheme="cpc">C02F</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Hand implements for emptying cesspools</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E03F7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Vehicles for emptying cesspools</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E03F7/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Water treatment tanks</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C02F</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item></definitions>

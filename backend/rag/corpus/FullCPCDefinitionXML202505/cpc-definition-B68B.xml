@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B68B</classification-symbol><definition-title>HARNESS; DEVICES USED IN CONNECTION THEREWITH; WHIPS OR THE LIKE</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Harnesses and devices used in connection therewith that are suitable for horses or other traction animals; whips in general, e.g. horsewhips, riding crops.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Leads or collars for other animals</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01K27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B68B1/00</classification-symbol><definition-title>Devices in connection with harness, for hitching, reining, training, breaking or quietening horses or other traction animals  (devices of this kind combined with traction harness <class-ref scheme="cpc">B68B3/00</class-ref>; stable equipment <class-ref scheme="cpc">A01K1/00</class-ref>; devices forming part of a vehicle <class-ref scheme="cpc">B62C</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Halters; bridles; reins; bits; stranglers; blinkers; devices for preventing bolting; hobbling devices; vaulting harnesses; longeing equipment.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Devices of this kind combined with a traction harness</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B68B3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Devices for unhitching bolting traction animals</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B68B5/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Stable equipment</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01K</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Devices for preventing the animal from cribbing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01K13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Devices forming part of a vehicle</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B68B3/00</classification-symbol><definition-title>Traction harnesses; Traction harnesses combined with devices referred to in group <class-ref scheme="cpc">B68B1/00</class-ref></definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Yokes; horse collars; manufacturing of horse collars; locks for horse collars; breast collars; cruppers; breechings; traces; trace holders.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Devices forming part of a vehicle</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62C</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Manufacturing of belts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C14B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Manufacturing of ropes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D07</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Devices in connection with harnesses</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.94cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B68B1/00</class-ref> </paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B68B5/00</classification-symbol><definition-title>Details or accessories  (haberdashery <class-ref scheme="cpc">A44</class-ref>); Fastening devices for bridles, reins, harnesses, or the like  (devices forming part of a vehicle <class-ref scheme="cpc">B62C</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Fastening devices for traces; tail holders as part of harness; devices for fastening special articles on harnesses, bridles or the like (e.g. feed bags, badges, rosettes); devices for unhitching bolting traction animals.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Resilient attachments</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B68B7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Haberdashery</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A44B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Devices forming part of a vehicle</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B68B7/00</classification-symbol><definition-title>Horse protectors, e.g. resilient attachments  (protective covers <class-ref scheme="cpc">B68C5/00</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Protective coverings for animals when not working (e.g. horse blankets)</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01K13/006</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Protective covers for animals when working</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B68C5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B68B9/00</classification-symbol><definition-title>Devices specially adapted for supporting harnesses when not in use</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Saddle-racks</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B68C1/002</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item></definitions>

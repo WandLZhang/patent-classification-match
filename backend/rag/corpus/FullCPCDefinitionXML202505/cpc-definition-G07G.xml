@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">G07G</classification-symbol><definition-title>REGISTERING THE RECEIPT OF CASH, VALUABLES, OR TOKENS  (digital computing in general <class-ref scheme="cpc">G06C</class-ref>, <class-ref scheme="cpc">G06F</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Digital computing in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="7.86cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06C</class-ref>, <class-ref scheme="cpc">G06F</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07G1/00</classification-symbol><definition-title>Cash registers  (alarm indicators <class-ref scheme="cpc">G07G3/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Electronic cash registers (ECR) or Point of Sale machines (POS). Checkout arrangements and systems for shopping required for registration of payment operations and receipt of cash or equivalent . Constructional details of parts of such apparatus and installations. Functioning of such mechanical, electrical and electronic systems.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Alarm indicators </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.04cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G07G3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Security of cash registers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.04cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G07G3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Supermarket weighing within a registration operation </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.04cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G01G19/415</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Furniture and constructions of checkout counters </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.04cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A47F9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Interface and construction details of such apparatus as computers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.04cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06F1/00</class-ref>, <class-ref scheme="cpc">G06F3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Data processing for shopping and supermarket payment </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.04cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06Q20/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">Data processing of payment transactions by means of such an apparatus or device will be classified in <class-ref scheme="cpc">G06Q20/20</class-ref>.</paragraph-text>
+         </section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">ECR</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Electronic Cash Register</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">POS</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Point of Sale Terminal</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Scanner</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Any reader for acquiring the code identifying the article or object to be registered</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </section-body>
+      </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><abbreviations><paragraph-text type="preamble">In patent documents, the following abbreviations are often used:</paragraph-text>
+            <table>
+               <table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">POS</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.04cm">
+                     <paragraph-text type="body">Point of Sale</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">ECR</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.04cm">
+                     <paragraph-text type="body">Caisse enregistreuse</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </abbreviations></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07G1/0018</classification-symbol><definition-title>{Constructional details, e.g. of drawer, printing means, input means}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Constructive details of cash registers such as keyboard or drawer details.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Details of the display of data</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.04cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G07G1/01</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Printing of receipts</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.04cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G07G5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Constructional details of computers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.04cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06F1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Constructional details of I/O devices for computers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.04cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06F3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Constructional details of security arrangements for computers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.04cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06F21/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07G1/0036</classification-symbol><definition-title>{Checkout procedures}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">ECR serving as part of a complete checkout procedure and system.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Constructional details of supermarket checkout counters</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.0cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A47F9/047</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07G1/0045</classification-symbol><definition-title>{with a code reader for reading of an identifying code of the article to be registered, e.g. barcode reader or radio-frequency identity [RFID] reader}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">RFID coded articles registration as well.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07G1/145</classification-symbol><definition-title>{PLU-management}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Details relating to the Price LookUp Table common to a network of ECRs or used by a single one.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07G3/00</classification-symbol><definition-title>Alarm indicators, e.g. bells</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Security systems or arrangements for checkouts, supermarket payment. Theft detection, false operation management.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Security and alarms</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="7.76cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G08B13/24</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">Anti-theft control in <class-ref scheme="cpc">G07G3/003</class-ref> takes precedence on information and detection of false operation in <class-ref scheme="cpc">G07G3/006</class-ref> </paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07G5/00</classification-symbol><definition-title>Receipt-giving machines  (cash registers giving receipts <class-ref scheme="cpc">G07G1/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Systems for dispensing receipts for payments made.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Cash registers giving receipts</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="7.57cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G07G1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="7.39cm">
+                     <paragraph-text type="body">Printing of receipts</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="7.57cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B41J</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">Printing of discount coupons may be classified in <class-ref scheme="cpc">G06Q30/0207</class-ref> or <class-ref scheme="cpc">G07F17/42</class-ref> for paper-version of vouchers and paper coupons.</paragraph-text>
+            <paragraph-text type="body">The subgroups in <class-ref scheme="cpc">G07G</class-ref> (cash registers) are classified according to the updated applications of the cash register as opposed to mechanical features of the cash register as classified in <class-ref scheme="not-mapped">235/7R</class-ref>, <class-ref scheme="not-mapped">6-28</class-ref>, <class-ref scheme="not-mapped">7A</class-ref>.</paragraph-text>
+            <paragraph-text type="body">The features of the cash register (part of a check-out counter) can be formed as some sub-subgroups under <class-ref scheme="cpc">G07G5/00</class-ref>.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item></definitions>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B27H</classification-symbol><definition-title>BENDING WOOD OR SIMILAR MATERIAL; COOPERAGE; MAKING WHEELS FROM WOOD OR SIMILAR MATERIAL</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Bending, cooperage, wheel-making by working of wood</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27H1/00</classification-symbol><definition-title>Bending wood stock, e.g. boards</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Bending solid wood stock as well as bending plywood and bending glued laminated wood.</paragraph-text>
+        <paragraph-text type="body">Illustrative examples: Shaping plywood</paragraph-text>
+        <paragraph-text type="body"><media id="media0.png" file-name="cpc-def-B27H-0000.png" type="png" preferred-width="6.27cm" preferred-height="6.64cm"/></paragraph-text>
+        <paragraph-text type="body">Glued laminated wood which is bent</paragraph-text>
+        <paragraph-text type="body"><media id="media1.jpg" file-name="cpc-def-B27H-0001.jpg" type="jpeg" preferred-width="6.37cm" preferred-height="7.78cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.02cm">
+              <paragraph-text type="body">Shaping plywood</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.12cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27D1/08</class-ref> </paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.02cm">
+              <paragraph-text type="body">Presses specially designed for making shaped plywood articles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.12cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27D1/083</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.02cm">
+              <paragraph-text type="body">Glued laminated wood which is bent</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.12cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27M3/0053</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.02cm">
+              <paragraph-text type="body">Bending railings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.12cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27M3/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.02cm">
+              <paragraph-text type="body">Umbrella handles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.12cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27M3/38</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27H3/00</classification-symbol><definition-title>Manufacture of constructional elements of tubes, coops, or barrels  (assembly, e.g. coopering, <class-ref scheme="cpc">B27H5/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">This subclass covers the manufacture of constructional elements of woodenstaved tubes, woodenstaved vessels of a conical form, of greater length than breadth, bound together with hoops and possessing flat ends or heads. Examples include but are not limited to casks, barrels, buckets, tubs, butter churns, hogsheads, firkins, tierces, rundlets, puncheons, pipes, tuns, butts, pins and breakers.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.08cm">
+              <paragraph-text type="body">Assembly, e.g. coopering</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.06cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27H5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Cooper</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Traditionally, a cooper is someone who makes woodenstaved vessels of a conical form, of greater length than breadth, bound together with hoops and possessing flat ends or heads. Examples of a cooper&apos;s work include but are not limited to casks, barrels, buckets, tubs, butter churns, hogsheads, firkins, tierces, rundlets, puncheons, pipes, tuns, butts, pins and breakers.</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Coop</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">refers to the iron band holding a set of staves together. </paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27H5/00</classification-symbol><definition-title>Manufacture of tubes, coops, or barrels  (from veneer strips or sheets <class-ref scheme="cpc">B27D1/00</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="7.03cm">
+              <paragraph-text type="body">Tubes from spirally wound veneer</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.1cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27D1/086</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27H7/00</classification-symbol><definition-title>Manufacture of wood-rimmed wheels, e.g. cart wheels, steering wheels {(<class-ref scheme="cpc">B23B3/265</class-ref>, <class-ref scheme="cpc">B23B5/38</class-ref>, <class-ref scheme="cpc">B23B41/06</class-ref> take precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Manufacture of wood-rimmed wheels, e.g. cart wheels, steering wheels</paragraph-text>
+      </section-body>
+    </definition-statement><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">B23B3/265</class-ref>, <class-ref scheme="cpc">B23B5/38</class-ref>, <class-ref scheme="cpc">B23B41/06</class-ref> take precedence.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item></definitions>

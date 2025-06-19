@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B29L</classification-symbol><definition-title>INDEXING SCHEME ASSOCIATED WITH SUBCLASS <class-ref scheme="cpc">B29C</class-ref>, RELATING TO PARTICULAR ARTICLES</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">In accordance with the Note to <class-ref scheme="cpc">B29</class-ref> and the corresponding note to the subclass <class-ref scheme="cpc">B29C</class-ref>, the Indexing Codes of this subclass provide information concerning the articles or parts thereof by the techniques classified in subclass <class-ref scheme="cpc">B29C</class-ref>.</paragraph-text>
+        <paragraph-text type="body">This subclass also provides Indexing Codes for the recovery of waste products containing plastics as classified in <class-ref scheme="cpc">B29B17/00</class-ref>. The waste product is identified by the Indexing Code.</paragraph-text>
+      </section-body>
+    </definition-statement><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">It is desirable to apply the Indexing Codes provided in this subclass to identify any additional information complementing the invention information in the fields <class-ref scheme="cpc">B29B17/00</class-ref> and <class-ref scheme="cpc">B29C</class-ref>, mentioned in the claims or in the unclaimed disclosures, if it is useful for search purposes.</paragraph-text>
+        <paragraph-text type="body">The classifier should therefore identify additional information that is neither implicit from the allocated <class-ref scheme="cpc">B29B17/00</class-ref> or <class-ref scheme="cpc">B29C</class-ref> classification symbols, nor implicit from the applied technology as such. The mere identification of products by extensive lists does not necessarily imply that this information is useful for search purposes. The disclosure of products, which have some relation with the alleged invention are considered to be useful for search and should be identified by the allocation of the corresponding Indexing Code or codes provided in <class-ref scheme="cpc">B29L</class-ref>, as long as they are not implicit from the allocated <class-ref scheme="cpc">B29B17/00</class-ref> or <class-ref scheme="cpc">B29C</class-ref> classification symbols or from the applied technology as such.</paragraph-text>
+        <paragraph-text type="body">Examples:</paragraph-text>
+        <paragraph-text type="body">The manufacture by resin transfer moulding using fibres and a thermoplastic matrix is described as being applicable to the manufacture of aircraft, rail or car components. In this case, the broad list of different products which could be manufactured by the claimed process does not constitute additional information. The Indexing Codes for these applications will give no information for the search, and should therefore not be applied.</paragraph-text>
+        <paragraph-text type="body">In another example a manufacturing process using resin transfer moulding using fibres and a thermoplastic matrix is described. The preferred embodiments disclose all the manufacture of an aircraft. The allocation of Indexing Code <class-ref scheme="cpc">B29L2031/3076</class-ref> is considered to be useful additional information for the searcher and should be allocated.</paragraph-text>
+        <paragraph-text type="body">Parts of specified articles are indexed with the same index codes as the articles.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item></definitions>

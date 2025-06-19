@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B44B</classification-symbol><definition-title>MACHINES, APPARATUS OR TOOLS FOR ARTISTIC WORK, e.g. FOR SCULPTURING, GUILLOCHING, CARVING, BRANDING, INLAYING  (processes for producing decorative effects <class-ref scheme="cpc">B44C</class-ref>; embossing leather <class-ref scheme="cpc">C14B</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Artist&apos;s machines or apparatus equipped with tools or work holders moving or able to be controlled three-dimensionally for making single sculptures or models,</paragraph-text>
+            <paragraph-text type="body">artist&apos;s machines or apparatus equipped with tools or work holders moving or able to be controlled substantially two-dimensionally for carving, engraving, or guilloching shallow ornamenting or markings,</paragraph-text>
+            <paragraph-text type="body">machines or apparatus for embossing decorations or marks, e.g. embossing coins,</paragraph-text>
+            <paragraph-text type="body">machines, apparatus or hand tools for branding,</paragraph-text>
+            <paragraph-text type="body">machines or apparatus for inlaying with ornamental structures, e.g. tarsia or mosaic work,</paragraph-text>
+            <paragraph-text type="body">artist&apos;s hand tools for sculpturing, kneading, carving, engraving, guilloching or embossing; accessories therefor</paragraph-text>
+         </section-body>
+      </definition-statement><relationship>
+         <section-title>Relationships with other classification places</section-title>
+         <section-body>
+            <paragraph-text type="body">Attention is drawn to the fact that class <class-ref scheme="cpc">B44</class-ref> is related to any machine, apparatus, tool or process so far as the matter produces an effect or product meant to be judged by eye, whereby human emotions or intellect may be influenced or affected.</paragraph-text>
+            <paragraph-text type="body">General relationship of <class-ref scheme="cpc">B44B</class-ref> with <class-ref scheme="cpc">B41</class-ref></paragraph-text>
+            <paragraph-text type="body"> <class-ref scheme="cpc">B41C</class-ref> and <class-ref scheme="cpc">B41D</class-ref> cover processes and apparatus for the reproduction of printing surfaces; <class-ref scheme="cpc">B41F</class-ref>, <class-ref scheme="cpc">B41J</class-ref>, <class-ref scheme="cpc">B41K</class-ref> and <class-ref scheme="cpc">B41M</class-ref> cover embossing combined with application of ink, type marking presses, selective embossing mechanisms.</paragraph-text>
+            <paragraph-text type="body">General relationship of <class-ref scheme="cpc">B44B</class-ref> with <class-ref scheme="cpc">B44C</class-ref>, <class-ref scheme="cpc">B44D</class-ref> and <class-ref scheme="cpc">B44F</class-ref> </paragraph-text>
+            <paragraph-text type="body"> <class-ref scheme="cpc">B44C</class-ref> covers processes for producing decorative surface effects or ornamental structures by removing surface material e.g. by engraving, pressing or stamping, by pyrography and by uniting ornamental elements to mosaics or mosaic plates in <class-ref scheme="cpc">B44C1/00</class-ref> and <class-ref scheme="cpc">B44C3/00</class-ref>, and for producing special ornamental bodies in <class-ref scheme="cpc">B44C5/00</class-ref>.</paragraph-text>
+            <paragraph-text type="body"> <class-ref scheme="cpc">B44D</class-ref> covers artist&apos;s accessories or implements for use in connection with painting or artistic drawing, accessories and implements for removing dry paint from surfaces, e.g. by scraping or burning, and surface treatment to obtain artistic effects or finishes or treatment for preserving or restoring paintings.</paragraph-text>
+            <paragraph-text type="body"> <class-ref scheme="cpc">B44F</class-ref> covers special designs or pictures, e.g. special or unusual light effects and designs imitating natural patterns.</paragraph-text>
+         </section-body>
+      </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Marking or engraving machining specially adapted for treating particular metal objects or for obtaining special effects or results on metal object by the action of a high concentration of electric current</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B23H9/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Working of wood not provided for in subclasses <class-ref scheme="cpc">B27B</class-ref>- <class-ref scheme="cpc">B27L</class-ref> by burning or charring, e.g. cutting with hot wire </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27M1/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Printing, duplicating, marking or copying processes; colour printing combined with embossing</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B41M1/24</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Machines for ornamenting, producing designs, embossing of leather surfaces</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C14B1/56</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Mechanical treatment for finishing or producing designs or patterns on leather</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C14B15/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Working or processing of sheet metal or metal tubes , rods or profiles without essentially removing material</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B21D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Control systems or devices for copying directly from a pattern or master model</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B23Q35/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Surface shaping of plastics or of substances in a plastic state by mechanical means, e.g. embossing; apparatus therefor</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B29C59/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Embossing of paper of cardboard without removing material included combined deformation and laminating</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B31F1/07</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Processes for the manufacture or reproduction of printing surfaces; engraving</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B41C1/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Processes or the manufacture or reproduction of printing surfaces by embossing, e.g. with a typewriter</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B41C1/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Printing machines or presses; apparatus or machines for carrying out printing operations combined with embossing</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B41F19/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Typewriters; selective printing mechanisms for embossing</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B41J3/38</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Stamps; stamping or numbering apparatus or devices with means for offset or intaglio stamping</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B41K1/30</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Stamps; stamping or numbering apparatus or devices with means for relief stamping</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B41K3/14</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Stamps; stamping or numbering apparatus or devices with means for deforming or punching the copy matter</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B41K3/36</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Hand tools specially adapted for the treatment of hides, skins or leather</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C14B19/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Photomechanical production of textured or patterned surfaces, e.g. for printing, for processing of semiconductor devices, apparatus specially adapted therefor; exposure</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G03F7/20</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Decorative arts</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> Crafts or arts providing an effect or product meant to be judged by eye, whereby human emotions or intellect may be influenced or affected.Such crafts or arts may comprise techniques such as sculpturing, kneading, carving, engraving, guilloching, embossing, branding, inlaying.</paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Artistic work</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> Work performed by craftsmen or artists to provide an effect or product meant to be judged by eye, whereby human emotions or intellect may be influenced or affected.Artistic work may comprise techniques such as sculpturing, kneading, carving, engraving, guilloching, embossing, branding, inlaying.</paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44B1/00</classification-symbol><definition-title>Artist&apos;s machines or apparatus equipped with tools or work holders moving or able to be controlled three-dimensionally for making single sculptures or models  (copying devices for machine tool use <class-ref scheme="cpc">B23Q35/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Artist&apos;s machines or apparatus equipped with tools or work holders moving or able to be controlled three-dimensionally for making single sculptures or models</paragraph-text>
+            <paragraph-text type="body"> <media id="media0.png" file-name="cpc-def-B44B-0000.png" type="png" preferred-width="16.47cm" preferred-height="7.28cm"/> </paragraph-text>
+            <paragraph-text type="body">US3975983</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44B3/00</classification-symbol><definition-title>Artist&apos;s machines or apparatus equipped with tools or work holders moving or able to be controlled substantially two- dimensionally for carving, engraving, or guilloching shallow ornamenting or markings  (marking or engraving metal by the action of a high concentration of electric current <class-ref scheme="cpc">B23H9/06</class-ref>; forme engraving <class-ref scheme="cpc">B41C</class-ref>, <class-ref scheme="cpc">B41D</class-ref>; engraving by photomechanical reproduction <class-ref scheme="cpc">G03F</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Artist&apos;s machines or apparatus equipped with tools or work holders moving or able to be controlled substantially two-dimensionally for carving, engraving or guilloching shallow ornamenting or markings</paragraph-text>
+            <paragraph-text type="body"> <media id="media1.png" file-name="cpc-def-B44B-0001.png" type="png" preferred-width="6.22cm" preferred-height="9.98cm"/> </paragraph-text>
+            <paragraph-text type="body">US2561436</paragraph-text>
+            <paragraph-text type="body"> <media id="media2.png" file-name="cpc-def-B44B-0002.png" type="png" preferred-width="6.37cm" preferred-height="7.18cm"/> </paragraph-text>
+            <paragraph-text type="body">GB679787</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44B5/00</classification-symbol><definition-title>Machines or apparatus for embossing decorations or marks, e.g. embossing coins  (corrugating sheet metal or metal tubes, embossing combined with sheet-metal working operations <class-ref scheme="cpc">B21D</class-ref>; embossing plastics or substances in a plastic state, in general <class-ref scheme="cpc">B29C59/00</class-ref>; embossing of paper or cardboard in general <class-ref scheme="cpc">B31F1/07</class-ref>; forme embossing <class-ref scheme="cpc">B41C1/08</class-ref>; embossing combined with application of ink, type marking presses, selective embossing mechanisms <class-ref scheme="cpc">B41F</class-ref>, <class-ref scheme="cpc">B41J</class-ref>, <class-ref scheme="cpc">B41K</class-ref>, <class-ref scheme="cpc">B41M</class-ref>; embossing leather <class-ref scheme="cpc">C14B</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Machines or apparatus for embossing decorations or marks, e.g. embossing coins, embossing dies and accessories for holding work or loading and discharging arrangements</paragraph-text>
+            <paragraph-text type="body"> <media id="media3.png" file-name="cpc-def-B44B-0003.png" type="png" preferred-width="10.78cm" preferred-height="8.81cm"/> </paragraph-text>
+            <paragraph-text type="body">US20070275169</paragraph-text>
+            <paragraph-text type="body"> <media id="media4.png" file-name="cpc-def-B44B-0004.png" type="png" preferred-width="10.79cm" preferred-height="8.89cm"/> </paragraph-text>
+            <paragraph-text type="body">DE2146865</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44B7/00</classification-symbol><definition-title>Machines, apparatus or hand tools for branding, {e.g. using radiant energy such as laser beams} (burning or charring wood stock <class-ref scheme="cpc">B27M1/06</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Machines, apparatus or hand tools for branding essentially by using heat to create a desing on the surface of a workpiece, e.g. by partially burning the surface layer</paragraph-text>
+            <paragraph-text type="body"> <media id="media5.png" file-name="cpc-def-B44B-0005.png" type="png" preferred-width="16.13cm" preferred-height="10.03cm"/>US3732908</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44B9/00</classification-symbol><definition-title>Machines or apparatus for inlaying with ornamental structures, e.g. tarsia or mosaic work  (uniting ornamental elements, on a support <class-ref scheme="cpc">B44C1/28</class-ref>, to structures <class-ref scheme="cpc">B44C3/12</class-ref>; imitation of mosaic or tarsia work patterns <class-ref scheme="cpc">B44F11/04</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Uniting ornamental elements on a support</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B44C1/28</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Uniting ornaments elements to structures</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B44C3/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Imitation of mosaic or tarsia work patterns</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B44F11/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44B11/00</classification-symbol><definition-title>Artists&apos; hand tools for sculpturing, kneading, carving, engraving, guilloching or embossing; Accessories therefor</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Artist&apos;s hand tools for sculpturing, kneading, carving, engraving, guilloching or embossing essentially creating a surface relief onto a workpiece</paragraph-text>
+            <paragraph-text type="body"> <media id="media6.png" file-name="cpc-def-B44B-0006.png" type="png" preferred-width="16.48cm" preferred-height="4.31cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item></definitions>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2022-01-01" publication-type="official">
+<definition-item date-revised="2022-01-01"><classification-symbol scheme="cpc">C14B</classification-symbol><definition-title>MECHANICAL TREATMENT OR PROCESSING OF SKINS, HIDES OR LEATHER IN GENERAL; PELT-SHEARING MACHINES; INTESTINE-SPLITTING MACHINES  (making leather substitutes <class-ref scheme="cpc">B29</class-ref>, <class-ref scheme="cpc">D06N</class-ref>; making articles from leather <class-ref scheme="cpc">B68F</class-ref>; mechanical cleaning of hides or the like <class-ref scheme="cpc">D06G</class-ref>; artificial leather <class-ref scheme="cpc">D06N</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods and apparatuses for the mechanical treatment or processing of skins, hides or leather in general and furs</paragraph-text><paragraph-text type="body">Pelt-shearing machines</paragraph-text><paragraph-text type="body">Intestine-splitting machine</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Working leather specifically for footwear</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">A43D</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Mechanical or pressure cleaning of hides or other skin</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">D06G</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Footwear made of animal fibres</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A43B1/023</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Making leather substitutes by plastic moulding processes <class-ref scheme="cpc">B29</class-ref>, e.g.</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">B29C45/14811</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Making articles from leather</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">B68F</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Artificial leather</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">D06N3/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pelt </paragraph-text></table-column><table-column><paragraph-text type="body">the skin of an animal with the fur, wool or hair still on it.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B1/00</classification-symbol><definition-title>Manufacture of leather; Machines or devices therefor {(machines specially adapted for forming upper shoe blanks or shoe leggings by stretching <class-ref scheme="cpc">A43D8/003</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods and machines for manufacturing leather. The machines can be in combination with other machines such as machines used for punching holes in belts, however such specific machines should be also classified for example in <class-ref scheme="cpc">C14B5/04</class-ref></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">If the machine is clearly a machine for working leather, though leather per se may not be specifically mentioned, it should also be classified here. However, no machines should be classified here which are merely suitable to work leather, but not specially adapted to do so.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B1/44</classification-symbol><definition-title>Mechanical treatment of leather surfaces</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Surface finishing of leather by chemical treatment</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">C14C11/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Special processes of dyeing leather</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">D06P3/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B1/46</classification-symbol><definition-title>Fluffing, buffing, or sanding</definition-title><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Buffing, fluffing and sanding</paragraph-text></table-column><table-column><paragraph-text type="body">are all abrasive treatments.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item date-revised="2018-08-01"><classification-symbol scheme="cpc">C14B1/56</classification-symbol><definition-title>Ornamenting, producing designs, embossing  (pressing or rolling in general <class-ref scheme="cpc">C14B1/30</class-ref>; producing design on furs <class-ref scheme="cpc">C14B15/12</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Ornamentation shoe part blanks</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">A43D8/16</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Working leather by laser beam</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">B23K26/402</class-ref>, <class-ref scheme="cpc">B23K2103/34</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Inking and printing with a printer&apos;s forme on leather</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">B41M1/38</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Process for producing decorative surface effects in general</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">B44C1/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Removing surface-material, e.g. by engraving, by etching, by laser radiation in general</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">B44C1/22</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Chemical surface finishing of leather</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">C14C11/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Dyeing leather</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">D06P3/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B3/00</classification-symbol><definition-title>Milling leather</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">methods and apparatuses for milling leather.</paragraph-text></section-body>
+      </definition-statement><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Milling</paragraph-text></table-column><table-column><paragraph-text type="body">is a process wherein the leather is rotated in a machine, comparable to a large clothes dryer just with the absence of air and heat. Through the soft falling action the natural fine lines in the leather are intensified.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item date-revised="2018-08-01"><classification-symbol scheme="cpc">C14B5/00</classification-symbol><definition-title>Clicking, perforating, or cutting leather  (for shoe parts, e.g. soles, <class-ref scheme="cpc">A43D</class-ref>; apparatus not specially adapted for leather <class-ref scheme="cpc">B26D</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">methods and apparatuses for clicking, perforating or cutting leather.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Working leather by laser beam</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">B23K26/402</class-ref>, <class-ref scheme="cpc">B23K2103/34</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Removing surface-material, e.g. by engraving, by etching, by laser radiation for producing decorative surface effects in general</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">B44C1/22</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Clicking</paragraph-text></table-column><table-column><paragraph-text type="body"> die cutting of leather.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B5/02</classification-symbol><definition-title>Stamps or dies for leather articles</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Perforating, punching, cutting-out, stamping-out in general</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">B26F1/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Cutters or dies therefore</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">B26F1/44</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B7/00</classification-symbol><definition-title>Special leathers and their manufacture</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">special leathers, methods and apparatuses for manufacturing special leathers, e.g. leather composites, fish skin leather, snake leather, powdered leather.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Layered products comprising leather</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">B32B9/02</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B9/00</classification-symbol><definition-title>Making driving belts or other leather belts or strips</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">methods and apparatuses for making driving belts or other leather belts or strips.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B11/00</classification-symbol><definition-title>Finishing the edges of leather pieces, e.g. by folding, by burning  (milling <class-ref scheme="cpc">C14B3/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">methods and apparatuses for finishing the edges of leather pieces, e.g. by folding, by burning.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Folding the edges of covers in manufacturing bookbinding cases or covers of loose-leaf binders</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">B42C7/006</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Ornamenting the sole bottoms in footwear, e.g. finishing the edges of soles</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">A43D95/06</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Machines for burnishing the edges of soles</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">A43D95/22</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B13/00</classification-symbol><definition-title>Shredding hides or leather  (shredding in general <class-ref scheme="cpc">B02C</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">methods and apparatuses for shredding hides or leather.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Shredding in general</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">B02C</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Shredding</paragraph-text></table-column><table-column><paragraph-text type="body">cutting or tearing in small pieces. In case of leather the shredded particles are usually used to make leather composites with a binder.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B15/00</classification-symbol><definition-title>Mechanical treatment of furs</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">methods and apparatuses for mechanical treatment of furs.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B15/12</classification-symbol><definition-title>Finishing, e.g. pointing furs; Producing designs or patterns</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Ornamenting, producing designs, embossing in leather</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">C14B1/56</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pointing furs</paragraph-text></table-column><table-column><paragraph-text type="body">relates to a method whereby the furs are made by setting light coloured hairs in the fur skin.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B17/00</classification-symbol><definition-title>Details of apparatus or machines for manufacturing or treating skins, hides, leather, or furs</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">details of apparatus or machines for manufacturing or treating skins, hides, leather, or furs.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B19/00</classification-symbol><definition-title>Hand tools specially adapted for the treatment of hides, skins, or leather in the manufacture of leather and furs  (equipment and tools for saddlery <class-ref scheme="cpc">B68C</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">hand tools specially adapted for the treatment of hides, skins, or leather in the manufacture of leather and furs.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B21/00</classification-symbol><definition-title>Splitting intestines; Cutting intestines longitudinally  (cleaning or cutting intestines during processing of meat <class-ref scheme="cpc">A22C17/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">methods and apparatuses for splitting intestines or cutting intestines longitudinally.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.75cm"><paragraph-text type="body">Cleaning or cutting intestines during processing meat</paragraph-text></table-column><table-column preferred-width="6.64cm"><paragraph-text type="body"><class-ref scheme="cpc">A22C17/14</class-ref> or <class-ref scheme="cpc">A22C17/16</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C14B99/00</classification-symbol><definition-title>Subject matter not provided for in other groups of this subclass</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">subject matter not provided for in the preceding groups of this subclass.</paragraph-text></section-body>
+      </definition-statement></definition-item></definitions>

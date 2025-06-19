@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B27F</classification-symbol><definition-title>DOVETAILED WORK; TENONS; SLOTTING MACHINES FOR WOOD OR SIMILAR MATERIAL; NAILING OR STAPLING MACHINES  (hand-held nailing or stapling tools <class-ref scheme="cpc">B25C</class-ref>; manufacture of cases, trunks or boxes from wood <class-ref scheme="cpc">B27M3/34</class-ref>; connections for building structures in general, e.g. dowels for use in building constructions <class-ref scheme="cpc">E04B1/38</class-ref>; jointing elements in general, e.g. dowels in general, <class-ref scheme="cpc">F16B</class-ref> {; manufacture of long strips or planks by bonding together pieces of wood, e.g. by glueing, <class-ref scheme="cpc">B27M3/0013</class-ref>})</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="10.77cm">
+                     <paragraph-text type="body">Hand-held nailing or stapling tools</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.23cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="10.77cm">
+                     <paragraph-text type="body">Manufacture of long strips of planks by bonding together pieces of wood e.g. by glueing</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.23cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27M3/002</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="10.77cm">
+                     <paragraph-text type="body">Manufacture of cases, boxes, or trunks from wood</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.23cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27M3/34</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="10.77cm">
+                     <paragraph-text type="body">Jointing elements</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.23cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text>This subclass deals with machines and methods, not products per se.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27F1/00</classification-symbol><definition-title>Dovetailed work; Tenons; Making tongues or grooves  (slotting <class-ref scheme="cpc">B27F5/00</class-ref>); Groove- and- tongue jointed work; Finger- joints  (machines or devices for working mitred joints <class-ref scheme="cpc">B27G5/00</class-ref>; cutting tools for cutting grooves or tenons <class-ref scheme="cpc">B27G13/14</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="10.77cm">
+                     <paragraph-text type="body">Slotting</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.23cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27F5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="10.77cm">
+                     <paragraph-text type="body">Machines or devices for working mitred joints</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.23cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27G5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="10.77cm">
+                     <paragraph-text type="body">Cutting tools for cutting grooves or tenons</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.23cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27G13/14</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27F4/00</classification-symbol><definition-title>Machines for inserting dowels, with or without drilling equipment  (manufacture of wooden dowels <class-ref scheme="cpc">B27M3/28</class-ref> {; dowels <class-ref scheme="cpc">F16B</class-ref>; for use in building constructions <class-ref scheme="cpc">E04B1/38</class-ref>; drills for making holes for dowels})</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="10.77cm">
+                     <paragraph-text type="body">Manufacture of wooden dowels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.23cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27M3/28</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="10.77cm">
+                     <paragraph-text type="body">For use in building constructions</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.23cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E04B1/38</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="10.77cm">
+                     <paragraph-text type="body">Dowels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.23cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2015-09-01"><classification-symbol scheme="cpc">B27F5/00</classification-symbol><definition-title>Slotted or mortised work  (hand mortising chisels <class-ref scheme="cpc">B25D3/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Machines and methods for slotting or mortising, so not products per se.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="10.77cm">
+                     <paragraph-text type="body">Hand mortising chisels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.23cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25D3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27F7/00</classification-symbol><definition-title>Nailing or stapling; Nailed or stapled work</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Machines and methods for nailing or stapling, so not prodcucts per se.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item></definitions>

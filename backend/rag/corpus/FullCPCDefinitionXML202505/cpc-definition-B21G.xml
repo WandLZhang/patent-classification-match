@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B21G</classification-symbol><definition-title>MAKING NEEDLES, PINS OR NAILS OF METAL</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices and processes for the manufacture of needles, pins or nails by metal forming operations such as forging.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.1cm">
+              <paragraph-text type="body">Manufacture of metal wires, rods, tubes by drawing or extrusion</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.93cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B21C</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.1cm">
+              <paragraph-text type="body">Working of metal wires</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.93cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B21F</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.1cm">
+              <paragraph-text type="body">Forging</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.93cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B21J</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.1cm">
+              <paragraph-text type="body">Forging operations, specially adapted for the manufacture of particular objects like rivets or bolts </paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.93cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B21K</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.1cm">
+              <paragraph-text type="body">Polishing; grinding</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.93cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B24B</class-ref>, <class-ref scheme="cpc">B24D</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.1cm">
+              <paragraph-text type="body">Nails per se</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.93cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16L</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21G1/00</classification-symbol><definition-title>Making needles used for performing operations  (forming heads on pin-like needles <class-ref scheme="cpc">B21G3/12</class-ref>; making U-shaped hairpins <class-ref scheme="cpc">B21G7/04</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices and processes for making needles. The feature of the title &#8220;for performing operations&#8221; does not imply any particular restriction.</paragraph-text>
+        <paragraph-text type="body"><media id="media0.jpg" file-name="cpc-def-B21G-0000.jpg" type="jpeg" preferred-width="6.01cm" preferred-height="4.59cm"/></paragraph-text>
+        <paragraph-text type="body">Source: EP0650698</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21G1/08</classification-symbol><definition-title>of hollow needles or needles with hollow end, e.g. hypodermic needles, larding-needles  (<class-ref scheme="cpc">B21G1/10</class-ref> takes precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices and processes for making surgical needles, hollow needles, needles with hollow end, hypodermic needles, larding needles.</paragraph-text>
+        <paragraph-text type="body"><media id="media1.jpg" file-name="cpc-def-B21G-0001.jpg" type="jpeg" preferred-width="7.62cm" preferred-height="4.79cm"/></paragraph-text>
+        <paragraph-text type="body">Source: US5649961</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="7.32cm">
+              <paragraph-text type="body">Surgical needles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61B17/06066</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21G3/00</classification-symbol><definition-title>Making pins, nails, or the like  (of pins with individual caps <class-ref scheme="cpc">B21G5/00</class-ref>; of U-like shape <class-ref scheme="cpc">B21G7/00</class-ref>; of split-pins <class-ref scheme="cpc">B21G7/08</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices and processes for making pins and nails or the like.</paragraph-text>
+        <paragraph-text type="body"><media id="media2.jpg" file-name="cpc-def-B21G-0002.jpg" type="jpeg" preferred-width="4.23cm" preferred-height="7.55cm"/></paragraph-text>
+        <paragraph-text type="body">Source: GB330409</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21G5/00</classification-symbol><definition-title>Making pins or nails with attached caps or with coated heads</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices and processes for making pins or nails of the type with attached caps or with coated heads.</paragraph-text>
+        <paragraph-text type="body"><media id="media3.jpg" file-name="cpc-def-B21G-0003.jpg" type="jpeg" preferred-width="4.66cm" preferred-height="7.43cm"/></paragraph-text>
+        <paragraph-text type="body">Source: US5031262</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21G7/00</classification-symbol><definition-title>Making pins of U-like shape or split-pins  (of paper fasteners or staples <class-ref scheme="cpc">B21D53/46</class-ref>, <class-ref scheme="cpc">B21F45/16</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices and processes for making pins of U-like shape or split pins.</paragraph-text>
+        <paragraph-text type="body"><media id="media4.jpg" file-name="cpc-def-B21G-0004.jpg" type="jpeg" preferred-width="4.49cm" preferred-height="5.79cm"/></paragraph-text>
+        <paragraph-text type="body">Source: US5404707</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item></definitions>

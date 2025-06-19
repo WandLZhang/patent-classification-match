@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">C25F</classification-symbol><definition-title>PROCESSES FOR THE ELECTROLYTIC REMOVAL OF MATERIALS FROM OBJECTS; APPARATUS THEREFOR</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Electrolytic cleaning, degreasing, pickling or descaling</paragraph-text>
+        <paragraph-text type="body">Electrolytic etching or polishing</paragraph-text>
+        <paragraph-text type="body">Polishing or etching using a plasma which is generated at the surface of the workpiece by a voltage applied thereto in an electrolyte</paragraph-text>
+        <paragraph-text type="body">Electrolytic stripping of metallic layers or coatings</paragraph-text>
+        <paragraph-text type="body">Constructional parts, or assemblies thereof, of cells for electrolytic removal of material from objects, servicing or operating</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Working of metal by the action of electric current on a workpiece, electrochemical machining, electrolytic grinding, electro-erosion</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23H</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Non-mechanical removal of metallic material from surfaces</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C23F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Inhibiting corrosion of metals by anodic or cathodic protection</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C23F13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Constructional parts or assemblies thereof, of cells for both electrolytic coating and removal</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C25D17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Wafer treatment</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H01L21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Processes specially adapted for treatment of semi-conductors or solid state devices, e.g. electrolytic etching</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H01L21/306</class-ref>, <class-ref scheme="cpc">H01L21/465</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Chemical cleaning involving a liquid and additional treatment, e.g. electricity</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B08B3/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Polishing or grinding with abrasive particles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B24B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Lapping machines u sing both abrasives substances and theapplication of electrical current</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B24B37/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">After-treatment of articles using an electrical field, without altering their shape or form</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B29C71/0081</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Polishing compositions</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C09G</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Multistep processes for surface treatment of metallic material</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C23F17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Measuring using electrical means</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01B7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Analyzing materials with electro- chemical means</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01N27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Non-contact plasma polishing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H01J37/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25F1/00</classification-symbol><definition-title>Electrolytic cleaning, degreasing, pickling or descaling</definition-title><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Electrolytic cleaning</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">removing impurities from a surface by electrolytic action</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Electrolytic degreasing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">removing grease from a surface by electrolytic action</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Electrolytic pickling or de-scaling</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">removing oxide or scale from a surface by electrolytic action</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Melt</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">molten salt or ionic liquid or fused bath</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25F3/00</classification-symbol><definition-title>Electrolytic etching or polishing</definition-title><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Methods of polishing or grinding using electric current where the electrolyte comprises abrasive material would be classified in <class-ref scheme="cpc">B24B37/046</class-ref></paragraph-text>
+      </section-body>
+    </relationship><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">An electrolyte specified in a document is classified in <class-ref scheme="cpc">C25F3/00</class-ref> even when it concerns one of the fields listed under &quot;references&quot; of subclass <class-ref scheme="cpc">C25F</class-ref>. Exception: electrolytes comprising abrasive material are not classified in <class-ref scheme="cpc">C25F3/00</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Electrolytic etching</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">dissolving by - electrolytic action or - a plasma which is generated at the surface of the workpiece by a voltage applied to the electrodes in the electrolyte, such that a rough surface is obtained </paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Electrolytic polishing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">dissolving by - electrolytic action or - by a plasma which is generated at the surface of the workpiece by a voltage applied to the electrodes in the electrolyte, such that a smooth surface is obtained</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25F3/12</classification-symbol><definition-title>of semiconducting materials</definition-title><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Semiconducting material</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">the material as such, not a workpiece which is a semiconductor (e.g. a wafer)</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25F3/14</classification-symbol><definition-title>locally</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Locally electrolytic etching where the portions to be etched are determined only by a mask or a template</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25F3/30</classification-symbol><definition-title>of semiconducting materials</definition-title><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Semiconducting material</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">the material as such, not a workpiece which is a semiconductor (e.g. a wafer)</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25F5/00</classification-symbol><definition-title>Electrolytic stripping of metallic layers or coatings</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Removing an entire layer or coating, even when this layer or coating is already partially damaged (e.g. removing NiCrAlY from a turbine blade to be reworked)</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item></definitions>

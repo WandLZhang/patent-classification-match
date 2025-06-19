@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">G04D</classification-symbol><definition-title>APPARATUS OR TOOLS SPECIALLY DESIGNED FOR MAKING OR MAINTAINING CLOCKS OR WATCHES</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatus, devices, tools and machines for manufacturing, processing, assembling, lubricating and testing clocks or watches and units thereof.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">The general aspects of machine tools or metal-working not specially adapted for <class-ref scheme="cpc">G04D</class-ref> are covered by class <class-ref scheme="cpc">B23</class-ref>. Grinding and polishing in general are covered by class <class-ref scheme="cpc">B24</class-ref>. The general aspects of hand tools, portable power-driven tools, handles for hand implements or manipulators are covered by class <class-ref scheme="cpc">B25</class-ref> .</paragraph-text>
+      </section-body>
+    </relationship><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In horology only a low percentage of patent applications deal with machines and tools, however manufacturing methods have become very popular: these are normally classified in <class-ref scheme="cpc">G04B</class-ref> (for example <class-ref scheme="cpc">G04B17/066</class-ref>: manufacture of the spiral spring) however the working process of the machine may suggest a manufacturing process, so please consider searching in the relevant <class-ref scheme="cpc">G04D</class-ref> subgroup when dealing with a manufacturing method.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item date-revised="2016-05-01"><classification-symbol scheme="cpc">G04D1/00</classification-symbol><definition-title>Gripping, holding, or supporting devices {(stands in general <class-ref scheme="cpc">F16M</class-ref>; for instruments <class-ref scheme="cpc">G01D11/30</class-ref>, <class-ref scheme="cpc">B01L</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Tools for assembling, disassembling and mounting such as tweezers, vice clamps; Supporting and holding devices for clockworks or parts of time-pieces; Equipment for opening or closing watch bottoms or covers.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Surgical pinsetters</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61B17/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Vices, hand vices, pliers, work holders or positioners in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B25B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Manipulators</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B25J</class-ref> </paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Supports in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16M</class-ref> </paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Supports specially adapted for an instruments or a set of instruments</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01D11/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Mounting the clockwork in the cases</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G04B37/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Component assemblies of electronic time-pieces</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G04G17/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Resilient or clamping means for holding component to structure</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H05K7/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G04D3/00</classification-symbol><definition-title>Watchmakers&apos; or watch-repairers&apos; machines or tools for working materials {(metal working in general class <class-ref scheme="cpc">B23</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Machines and tools for burnishing, lathing, gauging, lapping or for other processes of treatment of clocks or watches; Devices for fixing bearing jewels, placing the elements of bearings; Devices for shaping or setting watch glasses; Machines or apparatus for cleaning.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Tools for setting gems in jewellery</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.65cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A44C17/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Making jewellery or other personal adornments</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.65cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A44C27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Cleaning in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.65cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B08B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Setting gems or the like on metal parts, e.g. diamonds on tools</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.65cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23P5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Machines for assembling or disassembling parts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.65cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23P19/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Bearings and details thereof</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.65cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16C15/00</class-ref> - <class-ref scheme="cpc">F16C33/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Jewel bearings for mechanical watches</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.65cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G04B31/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Sealing watch crystals or glasses</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.65cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G04B39/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Automatically operating machines in a manufacturing environment</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.65cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G05B19/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G04D5/00</classification-symbol><definition-title>Oiling devices; Special lubricant containers for watchmakers {(bearings constructed with regard to oiling of the clockwork <class-ref scheme="cpc">G04B31/08</class-ref>; oilcans for lubricating in general <class-ref scheme="cpc">F16N3/04</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices or arrangements for lubricating; Special lubricant containers for watchmakers.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Arrangements for lubricating tools or work</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23Q11/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Special parts or details of bearings in view of lubrication</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16C33/66</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Lubricating in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16N</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Lubrication of bearings using in clocks or watches</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G04B31/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G04D7/00</classification-symbol><definition-title>Measuring, counting, calibrating, testing or regulating apparatus {(measuring devices and calibers in general <class-ref scheme="cpc">G01B</class-ref>; counters in general <class-ref scheme="cpc">H03K</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Arrangements or apparatus used for measuring, counting, calibrating, testing or regulating of clock&#8217;s units or parts, e.g. such as gearworks, balance wheels or hairsprings.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Instruments for measuring linear dimensions, angles, length or thickness</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Instruments for measuring stress, force or torque in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01L1/00</class-ref> - <class-ref scheme="cpc">G01L3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Instruments for measuring torque, adapted for special purposes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01L5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Testing static or dynamic balance of machines or structures</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01M1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Arrangements for measuring frequencies of electronic signals</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01R23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Adjusting escapements</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G04B15/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Mechanisms for setting frequency of mechanically-driven clocks or watches</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G04B18/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Time-interval measuring</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G04F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G04D9/00</classification-symbol><definition-title>Demagnetising devices</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices or apparatus used for removing the magnetic field from clocks or watches or from parts thereof.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Demagnetising devices in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H01F13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

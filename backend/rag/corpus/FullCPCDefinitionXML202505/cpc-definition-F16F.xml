@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">F16F</classification-symbol><definition-title>SPRINGS; SHOCK-ABSORBERS; MEANS FOR DAMPING VIBRATION</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Springs, shock-absorbers or vibration-dampers;</paragraph-text>
+        <paragraph-text type="body">Their arrangement in, or adaptation for, particular apparatus if not provided for in the subclasses covering said apparatus.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Spring mattresses</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47C23/00</class-ref> - <class-ref scheme="cpc">A47C27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Springs or shock-absorbers for protheses</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61F2/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Vibration dampers in skis</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A63C5/075</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Vehicle suspensions</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60G</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Mounting of bumpers on vehicles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60R19/24</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Rail vehicle suspensions</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Buffers for railway or tramway vehicles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61G11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Vehicle chassis frames having impact absorbing means</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62D21/15</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Resiliently mounted saddles on cycles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62J1/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Steering dampers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62K21/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Anti-vibration mounting of marine propulsion plant in ships</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B63H21/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Arrangement of shock-absorbers or springs in aeroplane alighting gear</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B64C25/58</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Containers, packing elements or packages with shock-absorbing means</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65D81/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Resilient mountings in washing machines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D06F37/20</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Resilient mountings in domestic spin-dryers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D06F49/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Protection of buildings against vibrations or shocks</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04B1/98</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Braking devices with springs structurally combined with hinges</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E05D7/086</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Spring motors</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F03G1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Pipe or cable supports</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16L3/20</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Resilient mounting of lighting devices</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F21V15/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Gun cradles to permit recoil</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F41A25/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Vibration dampers for archery bows</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F41B5/1426</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Weighing apparatus, e.g. arrangement of shock-absorbers in weighing apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01G21/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Springs for clocks or watches</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G04B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Damping of movements in instruments</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G12B3/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Disposition of shock-absorbing devices for displaceable control elements in nuclear reactors</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G21C7/20</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.98cm">
+              <paragraph-text type="body">Arrangements or devices for damping mechanical oscillations of power lines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.44cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H02G7/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></application-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Indicating or recording in connection with measuring</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.45cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01D11/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">For the whole <class-ref scheme="cpc">F16F</class-ref> range, consider the indexing range <class-ref scheme="cpc">F16F2222/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">F16F2238/045</class-ref></paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Steel or metal</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Mention of &#8220;steel&#8221; or &#8220;metal&#8221; in groups <class-ref scheme="cpc">F16F</class-ref>, unless specific mention is made otherwise, should be seen in the light of the title of group <class-ref scheme="cpc">F16F1/00</class-ref>, i.e. material having low internal friction. This normally includes composite materials such as fibre-reinforced plastics. </paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Rubber or plastics</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Mention of &#8220;rubber&#8221; or &#8220;plastics&#8221; in group <class-ref scheme="cpc">F16F</class-ref>, unless specific mention is made otherwise, should be seen in the light of the title of group <class-ref scheme="cpc">F16F1/36</class-ref>, i.e. material having high internal friction. This normally does NOT include composite materials such as fibre-reinforced plastics except in the case of groups <class-ref scheme="cpc">F16F1/366</class-ref> - <class-ref scheme="cpc">F16F1/3686</class-ref> and <class-ref scheme="cpc">F16F15/305</class-ref>. </paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">F16F1/00</classification-symbol><definition-title>Springs  (working with fluid <class-ref scheme="cpc">F16F5/00</class-ref>, <class-ref scheme="cpc">F16F9/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Springs and spring elements made of elastic material</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Springs working with fluid </paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16F5/00</class-ref>, <class-ref scheme="cpc">F16F9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F16F3/00</classification-symbol><definition-title>Spring units consisting of several springs, e.g. for obtaining a desired spring characteristic  ({<class-ref scheme="cpc">F16F1/32</class-ref>, <class-ref scheme="cpc">F16F1/34</class-ref>, <class-ref scheme="cpc">F16F7/14</class-ref> take precedence } ; if including fluid springs <class-ref scheme="cpc">F16F5/00</class-ref>, <class-ref scheme="cpc">F16F13/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Spring units comprising several springs made of elastic material, e.g. springs which are superposed upon each other or springs arranged in parallel</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Springs working with fluid or including fluid spring </paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16F5/00</class-ref>, <class-ref scheme="cpc">F16F9/00</class-ref>, <class-ref scheme="cpc">F16F13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F16F5/00</classification-symbol><definition-title>Liquid springs in which the liquid works as a spring by compression, e.g. combined with throttling action; Combinations of devices including liquid springs {(dampers with solid or semi-solid material <class-ref scheme="cpc">F16F9/30</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Spring devices in which the compressibility of the liquid (specifically not a gas) is a key feature</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Dampers with solid or semi solid material </paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16F9/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F16F6/00</classification-symbol><definition-title>Magnetic springs{(magnetic spring arrangements for the suppression of vibration in systems <class-ref scheme="cpc">F16F15/03</class-ref>)}; Fluid magnetic springs{, i.e. magnetic spring combined with a fluid}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Spring device in which the spring effect is given by magnetic attraction or repulsion; the device may work with permanent magnets or electromagnets</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Magnetic spring arrangements for the suppression of vibration in systems </paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16F15/03</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F16F7/00</classification-symbol><definition-title>Vibration-dampers; Shock-absorbers  (using fluid <class-ref scheme="cpc">F16F5/00</class-ref>, <class-ref scheme="cpc">F16F9/00</class-ref>; specific for rotary systems <class-ref scheme="cpc">F16F15/10</class-ref>{; belt tensioners <class-ref scheme="cpc">F16H7/12</class-ref>})</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">One shot absorbers</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Vibration dampers using friction between particles</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Vibration dampers using friction between surfaces</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Vibration dampers using inertia effect</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Vibration dampers or shock absorbers using plastic deformation</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Vibration dampers of cable support type</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.91cm">
+              <paragraph-text type="body">Vibration dampers using fluid </paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.12cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16F5/00</class-ref>, <class-ref scheme="cpc">F16F9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.91cm">
+              <paragraph-text type="body">Vibration dampers specific for rotary systems</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.12cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16F15/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F16F9/00</classification-symbol><definition-title>Springs, vibration-dampers, shock-absorbers, or similarly-constructed movement-dampers using a fluid or the equivalent as damping medium  (<class-ref scheme="cpc">F16F5/00</class-ref> takes precedence; connection of valves to inflatable elastic bodies <class-ref scheme="cpc">B60C29/00</class-ref>; {braking devices, stops or buffers for wing-operating appliances <class-ref scheme="cpc">E05F3/00</class-ref>, <class-ref scheme="cpc">E05F5/00</class-ref>})</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Movement-dampers using a fluid (i.e.: compressible or incompressible) as damping medium</paragraph-text>
+        <paragraph-text type="body">Some examples:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">gas springs,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">hydraulic shock absorbers using liquid only, the damping effect being achieved by throttling or viscous shear</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">hydraulic shock absorbers using liquid and gas in combination</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Using liquid springs </paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16F5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Connection of valves to inflatable elastic bodies</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60C29/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Braking devices, stops or buffers for wing-operating appliances</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E05F3/00</class-ref>, <class-ref scheme="cpc">E05F5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F16F13/00</classification-symbol><definition-title>Units comprising springs of the non-fluid type as well as vibration-dampers, shock-absorbers, or fluid springs  (<class-ref scheme="cpc">F16F5/00</class-ref>, {<class-ref scheme="cpc">F16F6/00</class-ref>, <class-ref scheme="cpc">F16F9/003</class-ref>} take precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices comprising a combination of a plastic springs (e.g. elastomeric springs) and dampers using friction or fluid</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Using liquid springs</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16F5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Unit comprising a magnetic spring</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16F6/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Device comprising a sponge rubber as pressure absorbing means</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16F9/003</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F16F15/00</classification-symbol><definition-title>Suppression of vibrations in systems  ({damping of non-rotary systems using inertia effect <class-ref scheme="cpc">F16F7/10</class-ref>; prevention or isolation of vibrations in machine tools <class-ref scheme="cpc">B23Q11/0032</class-ref>; suppression of driveline vibrations in hybrid vehicle transmissions <class-ref scheme="cpc">B60W30/20</class-ref>} ; vehicle seat suspension devices <class-ref scheme="cpc">B60N2/50</class-ref>; {methods or devices for protecting against, or damping of, acoustic waves, e.g. sound <class-ref scheme="cpc">G10K11/16</class-ref>}); Means or arrangements for avoiding or reducing out-of-balance forces, e.g. due to motion  ({vibration absorbing or balancing means for aircraft propellers <class-ref scheme="cpc">B64C11/008</class-ref>, for rotorcraft rotors <class-ref scheme="cpc">B64C27/001</class-ref>} ; testing static and dynamic balance of machines or structures <class-ref scheme="cpc">G01M1/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Suppression of vibrations in rotating as well non rotating systems; and means or arrangements for avoiding or reducing out-of-balance forces; some examples:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Systems characterised by the control method or their control circuitry</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Systems using electro- or magnetostrictive actuation means</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Suppression of vibrations of non-rotating, e.g. reciprocating systems</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Suppression of vibrations of rotating systems by use of members not moving with the rotating systems</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Suppression of vibrations in rotating systems by making use of members moving with the system</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Suppression of vibrations of rotating systems by favourable grouping or relative arrangements of the moving members of the system or systems</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Compensation of inertia forces</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Additional weights counterbalancing inertia forces induced by the reciprocating movement of masses in the system</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Flywheels</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Damping of non-rotary systems using inertia effect</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16F7/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Prevention or isolation of vibrations in machine tools</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23Q11/0032</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Vehicle seat suspension devices</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60N2/50</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Absorbing or balancing means for aircraft propellers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B64C11/008</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Absorbing or balancing means for rotorcraft rotors</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B64C27/001</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Methods or devices for protecting against, or damping of, acoustic waves, e.g. sound</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G10K11/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.99cm">
+              <paragraph-text type="body">Testing static and dynamic balance of machines or structures</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.45cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01M1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B41C</classification-symbol><definition-title>PROCESSES FOR THE MANUFACTURE OR REPRODUCTION OF PRINTING SURFACES  (photomechanical processes for producing printing surfaces <class-ref scheme="cpc">G03F</class-ref>; photoelectrical processes for producing printing surfaces <class-ref scheme="cpc">G03G</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Processes for the manufacture or reproduction of printing surfaces.</paragraph-text>
+        <paragraph-text type="body">Printing forme precursors and printing formes.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Photomechanical production of textured or patterned surfaces</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Electrography; electrophotography; magnetography</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03G</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41C1/00</classification-symbol><definition-title>Forme preparation</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Printing formes and methods of making the same for printing methods using said formes.</paragraph-text>
+        <paragraph-text type="body">Methods for making printing plate precursors and printing plates wherein the imaging exposure is heat or infrared light.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Group <class-ref scheme="cpc">B41M1/00</class-ref> and its hierarchical lower subgoups cover the printing methods using the printing formes made in accordance with the methods as covered by <class-ref scheme="cpc">B41C1/00</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus for applying liquids or other fluent materials to surfaces, in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05C</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Processes for applying liquids or other fluent materials to surfaces, in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05D</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Stamps; Stamping</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41K</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Photomechanical production of textured or patterned surfaces by UV exposure; Apparatus therefor</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F7/20</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Processing photosensitive materials for the production of textured or patterned surfaces; Apparatus therefor</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F7/26</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41C1/003</classification-symbol><definition-title>{the relief or intaglio pattern being obtained by imagewise deposition of a liquid, e.g. by an ink jet}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods for preparing relief printing formes, flexographic printing formes, intaglio printing formes and.</paragraph-text>
+        <paragraph-text type="body">gravure printing formes.</paragraph-text>
+        <paragraph-text>Printing formes obtained by said methods.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41C1/006</classification-symbol><definition-title>{the relief or intaglio pattern being obtained by abrasive means, e.g. by sandblasting}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods for preparing relief printing formes, flexographic printing formes intaglio printing formes and</paragraph-text>
+        <paragraph-text type="body">gravure printing formes.</paragraph-text>
+        <paragraph-text type="body">Printing formes obtained by said methods.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41C1/06</classification-symbol><definition-title>Transferring  (<class-ref scheme="cpc">B41C1/10</class-ref>, <class-ref scheme="cpc">B41C1/18</class-ref> take precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods for preparing printing formes by transferring the design to the printing forme, e.g. transferring by heat or by pressure.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">B41C1/10</classification-symbol><definition-title>for lithographic printing; Master sheets for transferring a lithographic image to the forme {(chemical or electrical pretreatment <class-ref scheme="cpc">B41N3/03</class-ref>)} (neutralising or similar differentiation treatments of lithographic printing formes <class-ref scheme="cpc">B41N3/08</class-ref>)</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">The compositions of the different types of image-forming layers.</paragraph-text>
+    <paragraph-text type="body">The following table shows the relevant classification places for different layers of lithographic printing plate precursors and lithographic printing plates:</paragraph-text>
+    <table>
+      <table-row>
+        <table-column preferred-width="4.92cm">
+          <paragraph-text type="body">Layer</paragraph-text>
+        </table-column>
+        <table-column preferred-width="7.04cm">
+          <paragraph-text type="body">CPC main trunk symbol; CPC indexing code (2000-series)</paragraph-text>
+        </table-column>
+      </table-row>
+      <table-row>
+        <table-column preferred-width="4.92cm">
+          <paragraph-text type="body">Protective layer(s); Cover layer(s)</paragraph-text>
+        </table-column>
+        <table-column preferred-width="7.04cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B41C1/1016</class-ref>; <class-ref scheme="cpc">B41C2201/02</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      <table-row>
+        <table-column preferred-width="4.92cm">
+          <paragraph-text type="body">Imageable layer</paragraph-text>
+        </table-column>
+        <table-column preferred-width="7.04cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B41C1/1008</class-ref>; <class-ref scheme="cpc">B41C1/1025</class-ref>; <class-ref scheme="cpc">B41C1/1033</class-ref>; <class-ref scheme="cpc">B41C1/1041</class-ref>; <class-ref scheme="cpc">B41C1/105</class-ref>; <class-ref scheme="cpc">B41C1/1058</class-ref>; <class-ref scheme="cpc">B41C1/1066</class-ref>; subgroups of <class-ref scheme="cpc">B41C2210/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      <table-row>
+        <table-column preferred-width="4.92cm">
+          <paragraph-text type="body">2nd/3rd imageable layer</paragraph-text>
+        </table-column>
+        <table-column preferred-width="7.04cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B41C1/1016</class-ref>; <class-ref scheme="cpc">B41C2210/14</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      <table-row>
+        <table-column preferred-width="4.92cm">
+          <paragraph-text type="body">Intermediate layer</paragraph-text>
+        </table-column>
+        <table-column preferred-width="7.04cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B41C1/1016</class-ref>; <class-ref scheme="cpc">B41C2201/04</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      <table-row>
+        <table-column preferred-width="4.92cm">
+          <paragraph-text type="body">Hydrophilic layer</paragraph-text>
+        </table-column>
+        <table-column preferred-width="7.04cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B41N3/034</class-ref>; <class-ref scheme="cpc">B41N3/036</class-ref>; <class-ref scheme="cpc">B41N3/038</class-ref>; <class-ref scheme="cpc">B41C2201/04</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      <table-row>
+        <table-column preferred-width="4.92cm">
+          <paragraph-text type="body">Substrate</paragraph-text>
+        </table-column>
+        <table-column preferred-width="7.04cm">
+          <paragraph-text type="body"> <class-ref scheme="cpc">B41N1/08</class-ref>; <class-ref scheme="cpc">B41N1/083</class-ref>; <class-ref scheme="cpc">B41N1/086</class-ref>; <class-ref scheme="cpc">B41N1/14</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      <table-row>
+        <table-column preferred-width="4.92cm">
+          <paragraph-text type="body">Backcoat layer(s)</paragraph-text>
+        </table-column>
+        <table-column preferred-width="7.04cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B41C1/1016</class-ref>; <class-ref scheme="cpc">B41C2201/06</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+    </table>
+    
+    
+    <paragraph-text type="body">*If the invention lies in the constituents of the non-imaging layers, Indexing Codes <class-ref scheme="cpc">B41C2201/10</class-ref>, <class-ref scheme="cpc">B41C2201/12</class-ref> and/or <class-ref scheme="cpc">B41C2201/14</class-ref> shall be given accordingly in addition to the Indexing Codes specifying the location or the type of the layers.</paragraph-text>
+    
+    </section-body></definition-statement></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">B41C1/1008</classification-symbol><definition-title>{by removal or destruction of lithographic material on the lithographic support, e.g. by laser or spark ablation; by the use of materials rendered soluble or insoluble by heat exposure, e.g. by heat produced from a light to heat transforming system; by on-the-press exposure or on-the-press development, e.g. by the fountain of photolithographic materials}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods for preparing lithographic printing formes by removal or destruction of lithographic material on the lithographic support, e.g. by laser or spark ablation; by the use of materials rendered soluble or insoluble by heat exposure, e.g. by heat produced from a light to theat transforming system; by on the press exposure or on the press development, e.g. by the fountain of photolithographic materials.</paragraph-text>
+        <paragraph-text type="body">Lithographic printing forme precursors and lithographic printing formes characterised by the compositions of the image-forming layers. Said compositions of the image-forming layers are specifically adapted to the methods for preparing lithographic printing formes covered by this group.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references><section-title>Informative
+    references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table><table-row>
+        <table-column>
+          <paragraph-text type="body">Printing plates or foils; Materials therefor (i.e. substrates of printing plate precursors or printing plates)</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">B41N1/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      
+    </table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41C1/1016</classification-symbol><definition-title>{characterised by structural details, e.g. protective layers, backcoat layers or several imaging layers}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The lithographic printing plates or the plate precursors with different layers including particular details to the different layers not including the single imaging layer.</paragraph-text>
+      </section-body>
+    </definition-statement><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Usually the hydrophilic coating of the substrate is classified in <class-ref scheme="cpc">B41N3/03</class-ref> and its hierarchical lower subgroups (see the table in the definition statement of the subgroup <class-ref scheme="cpc">B41C1/10</class-ref>). However, if an application claims a conventional method for making lithographic printing plates having a highly unusual hydrophilic layer, then the appropriate classification entry is <class-ref scheme="cpc">B41C1/1016</class-ref>, since <class-ref scheme="cpc">B41N3/03</class-ref> does not relate to the preparation of printing plates per se.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41C1/1075</classification-symbol><definition-title>{Mechanical aspects of on-press plate preparation  (<class-ref scheme="cpc">B41C1/1008</class-ref>&#160;-&#160;<class-ref scheme="cpc">B41C1/1066</class-ref> take precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatuses for lithographic printing plate preparation when using heat or infrared exposure.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Printing machines or presses</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41C1/1083</classification-symbol><definition-title>{Mechanical aspects of off-press plate preparation  (<class-ref scheme="cpc">B41C1/1008</class-ref>&#160;-&#160;<class-ref scheme="cpc">B41C1/1066</class-ref> take precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatuses for lithographic printing plate preparation when using heat or infrared exposure.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41C1/1091</classification-symbol><definition-title>{by physical transfer from a donor sheet having an uniform coating of lithographic material using thermal means as provided by a thermal head or a laser; by mechanical pressure, e.g. from a typewriter by electrical recording ribbon therefor}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Only forme preparation for lithographic printing.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Thermographic and transfer processes for producing other than lithographic printing formes are classified in <class-ref scheme="cpc">B41C1/055</class-ref> and <class-ref scheme="cpc">B41C1/06</class-ref>. If an independent claim is directed to such a process in general either group <class-ref scheme="cpc">B41C1/055</class-ref> or <class-ref scheme="cpc">B41C1/06</class-ref> is given. If a dependent claim concerns lithography then the Indexing Code <class-ref scheme="cpc">B41C1/1091</class-ref> is given.</paragraph-text>
+      </section-body>
+    </relationship></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41C1/182</classification-symbol><definition-title>{Sleeves; Endless belts}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The sleeves and endless belts having a printing layer thereon.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41C3/00</classification-symbol><definition-title>Reproduction or duplicating of printing formes</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Reproduction or duplicating of printing formes, including:</paragraph-text>
+        <paragraph-text type="body">stereotyping, reproduction or duplicating of printing formes to produce rubber printing blocks or to produce printing blocks from plastics. And further, electrotyping and application of backing layers thereon.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Shaping elastic or deformable material, e.g. rubber, plastics material, to form printing surfaces</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41D7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Stamps</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41K</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

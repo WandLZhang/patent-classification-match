@@ -481,11 +481,11 @@
 /* CPC Decision Container */
 .cpc-decision-container {
   position: absolute;
-  top: 10%; /* Match rankings container vertical position */
+  top: 50%; /* Match rankings container vertical position */
   left: 100%; /* Start off-screen to the right */
   right: 3%;
   width: auto;
-  max-width: 800px;
+  max-width: 600px; /* Reduced from 800px to make it narrower */
   transform: translateY(-50%);
   padding: 1.5rem;
   background-color: white;
@@ -495,6 +495,7 @@
   transition: left 0.8s ease, opacity 0.8s ease, transform 0.8s ease; /* Smooth transitions */
   z-index: 100;
   display: none; /* Start hidden */
+  flex-direction: column; /* Stack sections vertically */
 }
 
 .cpc-decision-container.visible {
@@ -511,7 +512,7 @@
 }
 
 .cpc-output {
-  margin-bottom: 1.5rem;
+  margin-bottom: 2rem; /* Increased from 1.5rem for better spacing */
   padding: 1rem;
   background-color: #f9fafb;
   border-radius: 0.5rem;
@@ -535,14 +536,15 @@
 
 /* Animation classes for the transition */
 .rankings-container.slide-out-left {
-  left: 3% !important; /* Move to left side */
-  right: 52% !important; /* Make room for CPC on right */
+  left: 2% !important; /* Keep some space from the left edge */
+  right: 51% !important; /* Give more room for rankings card */
 }
 
 /* Remove the slideOutLeft keyframe animation - we'll use CSS transitions instead */
 
 .cpc-decision-container.slide-in-right {
-  left: 52% !important; /* Position on right side */
+  left: 55% !important; /* Move further right to reduce crowding */
+  right: 2% !important; /* Keep some space from the right edge */
   opacity: 1 !important;
 }
 

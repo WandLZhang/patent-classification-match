@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">D03J</classification-symbol><definition-title>AUXILIARY WEAVING APPARATUS; WEAVERS&apos; TOOLS; SHUTTLES</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Auxiliary apparatus combined with or associated with looms of subclass <class-ref scheme="cpc">D03D</class-ref> not covered by the groups of that subclass. This aspect is covered by the main group <class-ref scheme="cpc">D03J1/00</class-ref>.</paragraph-text>
+        <paragraph-text type="body">All tools for working on and setting-up the loom. This aspect is covered by the main group <class-ref scheme="cpc">D03J3/00</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Shuttles for weft insertion. This aspect is covered by the main group <class-ref scheme="cpc">D03J5/00</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/00</classification-symbol><definition-title>Auxiliary apparatus combined with or associated with looms</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatuses which are closely associated with the loom but which are not covered by the groups of subclass <class-ref scheme="cpc">D03D</class-ref>. These apparatuses are mounted normally on the loom and are often part of the loom.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/001</classification-symbol><definition-title>{Cloth or warp beam replacement}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices, often carriages, to replace the warp beam or the cloth beam.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/002</classification-symbol><definition-title>{Climatic conditioning or removing lint or dust}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Arrangements for confining or removing dust in winding, coiling, or depositing filamentary materia</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H54/702</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Arrangements for confining or removing dust, fly, or the like in spinning machines</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D01H11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Devices for removing lint or fluff in knitting machines</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D04B35/32</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/005</classification-symbol><definition-title>{Displays or displaying data}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Displaying weft insertion data for pneumatic looms (i.e. weft projected in the shed by gas jet)</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D03D47/3093</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/006</classification-symbol><definition-title>{Controlling a group of looms}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The control of a group of looms, often according to an optimisation routine.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/007</classification-symbol><definition-title>{Fabric inspection on the loom and associated loom control}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Inspecting textile materials (not on the loom)</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D06H3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/008</classification-symbol><definition-title>{Cooling systems}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Cooling systems present on machines of classes <class-ref scheme="cpc">D02H</class-ref> (i.e. warpers, beaming machines etc), <class-ref scheme="cpc">D03C</class-ref> (i.e. shedding mechanisms) and <class-ref scheme="cpc">D03D</class-ref> (i.e. looms).</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/02</classification-symbol><definition-title>for treating warp, e.g. cleaning, moistening</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Auxiliary apparatus combined with or associated with the loom for treating weft yarns</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D03J1/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Moistening, sizing, oiling, waxing, colouring or drying filamentary material as additional measures during package formation s</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H71/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/04</classification-symbol><definition-title>for treating weft</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Auxiliary apparatus combined with or associated with the loom for treating warp yarns</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D03J1/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Moistening, sizing, oiling, waxing, colouring or drying filamentary material as additional measures during package formation</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H71/00</class-ref> </paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/08</classification-symbol><definition-title>for slitting fabric</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Cutting-off of selvedges</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D03D47/40</class-ref>, <class-ref scheme="cpc">D03D49/70</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Apparatus or processes for cutting, or otherwise severing, specially adapted for the cutting, or otherwise severing, of textile materials longitudinally</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D06H7/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/12</classification-symbol><definition-title>transferring bobbins between loom and winding station  (bobbin-winding machines <class-ref scheme="cpc">B65H</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Skips, cages, racks, or containers, adapted solely for the transport or storage of bobbins, cops or the like</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H49/38</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/13</classification-symbol><definition-title>for leasing warp  (leasing in general <class-ref scheme="cpc">D02H9/00</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Leasing in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D02H9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/16</classification-symbol><definition-title>Apparatus for joining warp ends  (knot-tying tools <class-ref scheme="cpc">D03J3/00</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Methods of, or devices for, interconnecting successive lengths of material</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H69/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J1/22</classification-symbol><definition-title>Temples</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices and methods for width-wide spreading of the cloth on the loom.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Tretching, tentering, or spreading textile fabrics by rotary disc, roller, or like apparatus in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D06C3/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J3/00</classification-symbol><definition-title>Weavers&apos; tools, e.g. knot-tying tools</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">All tools used for working on and setting-up the loom.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D03J5/00</classification-symbol><definition-title>Shuttles  (swivel shuttles <class-ref scheme="cpc">D03D31/00</class-ref>; shuttles for smallware looms <class-ref scheme="cpc">D03D35/00</class-ref>; circular loom shuttles <class-ref scheme="cpc">D03D37/00</class-ref>; selvedge shuttles <class-ref scheme="cpc">D03D47/46</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Shuttles, normally carrying a bobbin, for weft insertion.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Swivel shuttles</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D03D31/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Shuttles for smallware looms</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D03D35/005</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Shuttles for circular looms</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D03D37/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Selvedge shuttles</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D03D47/46</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item></definitions>

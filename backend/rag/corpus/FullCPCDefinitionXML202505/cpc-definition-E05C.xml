@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">E05C</classification-symbol><definition-title>BOLTS OR FASTENING DEVICES FOR WINGS, SPECIALLY FOR DOORS OR WINDOWS  (latching means for sideboard or tailgate structures for vehicles <class-ref scheme="cpc">B62D</class-ref>, {<class-ref scheme="cpc">B62D33/02</class-ref>}; fastening devices for constructional or engineering elements <class-ref scheme="cpc">E04</class-ref>, <class-ref scheme="cpc">F16B</class-ref>; locks, fastening devices structurally or operatively combined or having significant cooperation with locks <class-ref scheme="cpc">E05B</class-ref>; means for operating or controlling wing fasteners in conjunction with mechanisms for moving the wing <class-ref scheme="cpc">E05F</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Bolts or fastening devices for swingable, slidable, or otherwise movable wings, e.g. doors or windows. This subclass has the following structure:</paragraph-text>
+            <paragraph-text type="body"> <class-ref scheme="cpc">E05C1/00</class-ref> - <class-ref scheme="cpc">E05C5/00</class-ref> </paragraph-text>
+            <paragraph-text type="body">Fastening devices characterised by the way the bolt is moved.</paragraph-text>
+            <paragraph-text type="body"> <class-ref scheme="cpc">E05C7/00</class-ref> </paragraph-text>
+            <paragraph-text type="body">Fastening devices specially adapted for two wings.</paragraph-text>
+            <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/00</class-ref> </paragraph-text>
+            <paragraph-text type="body">Arrangements of simultaneously actuated bolts or other securing devices at well separated positions on the same wing.</paragraph-text>
+            <paragraph-text type="body"> <class-ref scheme="cpc">E05C17/00</class-ref> </paragraph-text>
+            <paragraph-text type="body">Fastening devices for holding wings open.</paragraph-text>
+            <paragraph-text type="body"> <class-ref scheme="cpc">E05C19/00</class-ref>, <class-ref scheme="cpc">E05C21/00</class-ref> </paragraph-text>
+            <paragraph-text type="body">Other devices specially designed for securing wings.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Buckles; Similar fasteners for interconnecting straps or the like, e.g. for safety belts</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A44B11/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Hinges or pivots</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05D1/00</class-ref> - <class-ref scheme="cpc">E05D7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Accessories for sliding or lifting wings</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05D13/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Suspension arrangements for wings</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05D15/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Closers or openers for wings, braking devices</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05F1/00</class-ref> - <class-ref scheme="cpc">E05F7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Operating mechanisms for wings</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05F9/00</class-ref> - <class-ref scheme="cpc">E05F17/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Sealing arrangements for wings</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E06B7/16</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Devices for fastening or securing constructional elements or machine parts together</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+               
+               
+            </table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locking devices for vehicle seats</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60N2/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Latching means of sideboard or tailgate structures</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B62D33/037</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locking devices for container closures</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65D55/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locking or fastening means for lids or covers of refuse receptacles</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65F1/1615</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Connections for building structures</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E04B1/38</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+            </table></section-body></application-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">In this subclass, only the movement essential for securing the wing is considered, e.g. a sliding bolt which is rotated on its axis to prevent its withdrawal is classified as having only a sliding movement.</paragraph-text>
+         </section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Wing</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">General term for swingable, slidable, or otherwise movable doors or windows. This term also includes other movable structures such as drawers, lids of chests, car boots, or car bonnets, to which the operating, mounting, latching, or locking means covered by this class may be applied.</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Frame </paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Any member to which a wing may be held by a fastening device. It does not include a framework forming part of the wing, but it may be another wing.</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Lock</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Primarily a device for releasing or securing any member, which requires a key or a permutation mechanism for release. </paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Bolt </paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">A sliding, pivoted, or otherwise movable member such as is normally carried by a door to hold it shut by engagement with a keeper on the frame. It may be operated by hand directly or through mechanism or by a key; it may be a latch (see below);</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Latch </paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">A bolt arranged to be moved to the releasing position against the force of a spring, or some other returning force, when a wing meets the frame on closing, so that it does not have to be operated by hand to secure the wing, but only to open it.</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Hasp</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">A member hinged to the frame or wing so that it can be moved towards the face of the wing or frame and secured thereto, e.g. by a turn-button, by a padlock and staple.</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </section-body>
+      </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms>
+   <paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text>
+   
+   
+   <list>
+      <list-item><paragraph-text type="body">&quot;espagnolette lock&quot;, &quot;multi-point lock&quot; and &quot;multipoint locking system&quot; to indicate locks with simultaneously actuated bolts, e.g. by means of transmission bars, at well separated positions on the same wing.</paragraph-text></list-item>
+   </list>
+   
+   </synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">E05C1/00</classification-symbol><definition-title>Fastening devices with bolts moving rectilinearly</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Fastening devices comprising a rectilinearly movable bolt. The bolt can have either latching or non latching action. The bolt can be moved with an operating handle or equivalent member moving rigidly or non rigidly with the bolt. This group also cover cylindrical or tubular latches.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Arrangements of simultaneously actuated bolts at well-separated positions on the same frame</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Devices for holding a wing open comprising a sliding securing member</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C17/48</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Automatic catches with sliding bolts</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C19/028</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks in which a sliding latch is used also as a locking bolt</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B55/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Lock with a sliding bolt without provision of latching</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B63/0017</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Vehicle locks with a rectilinearly movable bolt</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B85/22</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Cylindrical or tubular locks</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B55/005</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E05C3/00</classification-symbol><definition-title>Fastening devices with bolts moving pivotally or rotatively</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Fastening devices comprising a pivotally or rotatively movable bolt. The bolt can have either latching or non latching action. The bolt can be moved with an operating handle or equivalent member moving rigidly or non rigidly with the bolt.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Arrangements of simultaneously actuated bolts at well-separated positions on the same frame</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Devices for holding a wing open comprising a single pivoting securing member</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C17/50</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Latches with wedging action, tilt-plates</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C19/008</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Automatic catches with a bifurcated latch</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C19/024</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">In which the securing part is formed or carried by a spring and moves only by distortion of the spring, e.g. snaps</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C19/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks in which a pivoted latch is used also as locking means</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B57/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks with rotary bolt without provision for latching</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B63/0013</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks for refrigerators with a bifurcated bolt</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B65/0046</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks for sliding wings with pivoting bolts</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B65/0811</class-ref>, <class-ref scheme="cpc">E05B65/0835</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks for sliding wings with double hook-like pivoting members</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B65/0858</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks for car boot lids</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B83/18</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks for car bonnets</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B83/24</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Vehicle locks with a bolt turning around an axis</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B85/24</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Vehicle locks in which the member engaging the keeper is shaped as a toothed wheel or the like</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B85/28</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Hook-like fastening</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C19/10</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks with circular bolts</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B63/123</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E05C5/00</classification-symbol><definition-title>Fastening devices with bolts moving otherwise than only rectilinearly and only pivotally or rotatively {(<class-ref scheme="cpc">E05C9/1883</class-ref>, <class-ref scheme="cpc">E05C19/009</class-ref>, <class-ref scheme="cpc">E05B63/125</class-ref>, <class-ref scheme="cpc">E05B63/126</class-ref>, <class-ref scheme="cpc">E05B63/127</class-ref> take precedence; pivotally-mounted hooks-like fastenings with toggle action <class-ref scheme="cpc">E05C19/14</class-ref>; bayonet-type locks <class-ref scheme="cpc">E05B63/125</class-ref>; locks for sliding wings, with additional movement <class-ref scheme="cpc">E05B65/0817</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Fastening devices with bolts moving otherwise than only rectilinearly and only pivotally or rotatively, e.g. bolts moving axially and turning about their axis to secure the wing.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Espagnolette locks with a pivoting bolt on actuating bar</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/1883</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Latches with floating bolts, e.g. rings, ballls</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C19/009</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Hook fastenings with toggle action</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C19/14</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Fastening devices with means carried by the bolt for interlocking with the keeper comprising a sliding bolt rotating about its axis, i.e. of bayonet type</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B63/125</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Fastening devices with means carried by the bolt for interlocking with the keeper, the bolt having an additional sliding bolt or movement </paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B63/126</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Fastening devices with means carried by the bolt for interlocking with the keeper, the bolt having an additional rotating bolt or movement</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B63/127</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks for sliding doors with a pivoting bolt having an additional movement</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B65/0817</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Hook-like fastening</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C19/10</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks with circular bolts</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B63/123</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">E05C7/00</classification-symbol><definition-title>Fastening devices specially adapted for two wings</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Fastening devices specially adapted for two wings. It includes locks for sluice doors, for doors having upper and lower wings, for doors which lie one behind the other when closed, and for doors which abut when closed.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locking one wing by shutting another in vehicles</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B77/52</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks for pillar-less vehicles</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B83/38</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Container apertures for pressure vessels of nuclear reactors</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21C13/0285</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table></section-body></application-references></references></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">E05C9/00</classification-symbol><definition-title>Arrangements of simultaneously actuated bolts or other securing devices at well-separated positions on the same wing  ({Locking, cross or security bars <class-ref scheme="cpc">E05C19/003</class-ref>; locks for safes or the like <class-ref scheme="cpc">E05B65/0075</class-ref>; of the vertical-rod type for panic or emergency doors <class-ref scheme="cpc">E05B65/1006</class-ref>}; similar constructions for engineering closures <class-ref scheme="cpc">F16J13/08</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Locks with simultaneously actuated bolts, e.g. by means of transmission bars, at well separated positions on the same wing.</paragraph-text>
+            <paragraph-text type="body">This group has the following main structure:</paragraph-text>
+            <table>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Automatic, i.e. actuated by closing the wing</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/002</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Faceplates; fixing the faceplates to the wing</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/004</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Details of bars; bar guiding means</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/006</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">With one sliding bar for fastening when moved in one direction and unfastening when moved in opposite direction; with two sliding bars moved in the same direction when fastening or unfastening</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">With two sliding bars moved in opposite directions when fastening or unfastening</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Actuating mechanisms for bars</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/10</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Details of fastening means or of the fixed retaining means for the ends of the bars</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/18</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Keepers</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/1808</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Fastening means</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/1825</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Coupling means for sliding bars, rods or cables</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C9/20</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Bolts extending nearly along the whole length of the wing</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C19/001</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locking bars, cross bars, security bars</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05C19/003</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Face plates or front plates for non-espagnolette locks</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B9/002</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Striker plates for non-espagnolette locks </paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B15/0205</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Operation of locks by flexible means, e.g. by cables</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B53/003</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Operation of locks by flexible means, e.g. by Bowden cables</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B53/005</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Arrangements of several locks or locks with several bolts</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B63/14</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Panic locks of the vertical rod type</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B65/1006</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Drawer interlock mechanism with rotary locking bars</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B65/465</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks for a plurality of drawers using a rotary lock bar</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B65/468</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Connecting vehicle lock parts using connecting rods</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B79/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks for vehicles with at least one elongated bar for actuating the fastening means</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B83/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks for vehicles with a rotary bar for actuating the fastening means</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B83/10</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Means for transmitting movements between vertical and horizontal sliding bars</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05F7/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            </table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Arrangements of watertight doors in bulkheads</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B63B43/24</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Covers or similar closure members for pressure vessels</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16J3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table></section-body></application-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks for safes</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B65/0075</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Locks for lockers </paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E05B65/025</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item></definitions>

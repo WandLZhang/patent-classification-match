@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">B41D</classification-symbol><definition-title>APPARATUS FOR THE MECHANICAL REPRODUCTION OF PRINTING SURFACES FOR STEREOTYPE PRINTING; SHAPING ELASTIC OR DEFORMABLE MATERIAL TO FORM PRINTING SURFACES  ({engraving by spark erosion <class-ref scheme="cpc">B23H</class-ref>;} marking or engraving metal by the action of a high concentration of electric current <class-ref scheme="cpc">B23H9/06</class-ref>; type, machines or accessories for making, setting, or distributing type <class-ref scheme="cpc">B41B</class-ref>; processes for the manufacture or reproduction of printing surfaces <class-ref scheme="cpc">B41C</class-ref>; machines or apparatus for engraving in general, or for embossing <class-ref scheme="cpc">B44B3/00</class-ref>, <class-ref scheme="cpc">B44B5/00</class-ref>; chemical etching of metal <class-ref scheme="cpc">C23F1/00</class-ref>; electrolytic etching <class-ref scheme="cpc">C25F3/00</class-ref>; photomechanical reprodcution <class-ref scheme="cpc">G03F</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Making of stereotype printing surfaces, means for casting stereotype plates including machines, moulds and accessories, processes for handling and treating stereotype plates, and processes for preparing stereotype matrices.</paragraph-text>
+        <paragraph-text type="body">Means and processes for shaping into relief form elastic or deformable material like rubber or plastics. The raised parts having an almost flat top surface define the image to be printed, e.g. alphanumerical or decorative symbols, in relief or letterpress type printing apparatus.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Foundry moulding in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Casting of metals in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Shaping or joining of plastics in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B29C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Producing particular articles from plastics including rubber</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B29D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Flat type-bed letterpress or relief printing presses in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F1/02</class-ref>- <class-ref scheme="cpc">B41F1/14</class-ref>, <class-ref scheme="cpc">B41F3/02</class-ref>- <class-ref scheme="cpc">B41F3/28</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Rotary letterpress machines in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Flexographic rotary letter press machines in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F5/24</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Letterpress printing apparatus specifically adapted for office or other commercial purposes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41L15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Stereotype printing plates per se in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41N1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Printing plates having elastic or deformable material in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41N1/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Stereotype mats</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41N11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Stereotype plates</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">stiff metallic plates cast from a multilayer tissue paper and/or plaster containing matrix. This latter matrix is produced by applying fluid plaster or said multilayer tissue paper by using contact pressure onto the surface of a type bed being filled with a prearranged set of printing types carrying alphanumerical or decorative symbols representing e.g. a full page to be printed, fixed together in an open frame.</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Stereotype printing surfaces</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">letterpress or relief type printing devices used in flat type bed printing presses and in rotary letterpress machines.</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;stereotype printing surfaces&quot;, &quot;stereoplate&quot; and &quot;clich&#233;&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41D1/00</classification-symbol><definition-title>Preparing or treating stereotype matrices</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Shaping the matrices by exerting pressure and further secondary treating steps like cleaning, moistening or drying the matrices, specific technology mostly used until year 2000.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41D3/00</classification-symbol><definition-title>Casting stereotype plates; Machines, moulds, or devices therefor</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Machines, casting and moulding devices specifically adapted for manufacturing stereotype printing plates, specific technology mostly used until the year 2000.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41D5/00</classification-symbol><definition-title>Working, treating, or handling stereotype plates</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Deforming, e.g. bending, and transporting flat or curved stereotype plates, specific technology mostly used until the year 2000.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41D7/00</classification-symbol><definition-title>Shaping elastic or deformable material, e.g. rubber, plastics material, to form printing surfaces  (making rubber printing blocks <class-ref scheme="cpc">B41C3/04</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Shaping of rubber or plastics exclusively for manufacturing of relief type or of letterpress type printing surfaces, e.g. flexographic printing plates, mechanical apparatus for said shaping of rubber or plastics.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Shaping or joining of plastics in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B29C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Producing particular articles from plastics including rubber</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B29D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Chemical treatment of plastics or rubber for manufacturing printing surfaces in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41C1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Processes for reproduction or duplicating to produce printing blocks from plastics</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41C3/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Relief type printing surfaces</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">printing surfaces that are defined by raised parts having an almost flat top surface defining an alphanumerical letter or defining any other design or symbol.</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41D99/00</classification-symbol><definition-title>Subject matter not provided for in other groups of this subclass</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Preparing or treating sterotype matrices</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41D1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Casting sterotype plates; machines, moulds, or devices therefore</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41D3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Working, treating, or handling strereotype plates</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Shaping elastic or deformable material, e.g. rubber, plastic material, to form printing surfaces</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41D7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item></definitions>

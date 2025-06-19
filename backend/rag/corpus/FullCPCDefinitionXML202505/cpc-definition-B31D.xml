@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31D</classification-symbol><definition-title>MAKING ARTICLES OF PAPER, CARDBOARD OR MATERIAL WORKED IN A MANNER ANALOGOUS TO PAPER, NOT PROVIDED FOR IN SUBCLASSES <class-ref scheme="cpc">B31B</class-ref> OR <class-ref scheme="cpc">B31C</class-ref>  (manufacture by dry processes of articles made from particles or fibres consisting of wood or other lignocellulosic or like organic material <class-ref scheme="cpc">B27N</class-ref>; making layered products not composed wholly of paper or cardboard <class-ref scheme="cpc">B32B</class-ref>; making articles from cellulosic fibrous suspensions, e.g. wood pulp, <class-ref scheme="cpc">D21J</class-ref>)</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Making, otherwise than by winding, of articles other than boxes, cartons, envelopes, bags, and tubes from paper, other than from paper pulp.</paragraph-text>
+    </section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+    <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+    <table>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Manufacture by dry processes of articles made from particles or fibres consisting of wood or other lignocellulosic or like organic material</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">B27N</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Making layered products not composed wholly of paper or cardboard</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">B32B</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Making articles from cellulosic fibrous suspensions, e.g. wood pulp</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">D21J</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></limiting-references><residual-references><section-title>References out of a residual place</section-title><section-body>
+    <paragraph-text type="preamble">Examples of places in relation to which this place is residual:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Making boxes, cartons, envelopes or bags</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31B</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Making wound articles</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31C</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></residual-references><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Making cardboard or paper</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">D21F</class-ref>, <class-ref scheme="cpc">D21H</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31D1/00</classification-symbol><definition-title>Multiple-step processes for making flat articles {; Making flat articles}</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Making flat paper articles</paragraph-text>
+    </section-body></definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31D1/0043</classification-symbol><definition-title>{the articles being box parts not otherwise provided for}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+    <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Partitions or inserts for boxes</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31D5/0004</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31D1/005</classification-symbol><definition-title>{making bottoms or caps}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Making of boxes involving bottoms and caps</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31B2105/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31D1/0075</classification-symbol><definition-title>{by assembling, e.g. by laminating  (<class-ref scheme="cpc">B31D1/0012</class-ref>&#160;-&#160;<class-ref scheme="cpc">B31D1/0068</class-ref> take precedence)}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Methods or apparatus for making layered products</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B32B37/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31D1/02</classification-symbol><definition-title>the articles being labels or tags</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Label applying devices</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B65C1/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Labels</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">G09F3/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31D1/04</classification-symbol><definition-title>the articles being napkins, handkerchiefs, towels, doilies, or the like</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Absorbant articles</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">A47K10/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Embossing foil material</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31F1/07</class-ref>, <class-ref scheme="cpc">B31F2201/07</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31D3/00</classification-symbol><definition-title>Making articles of cellular structure, e.g. insulating board</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Foaming of plastics or material in a plastic state</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B29C44/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31D3/005</classification-symbol><definition-title>{Making cellular structures from corrugated webs or sheets}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Corrugating</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31F1/20</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31D3/007</classification-symbol><definition-title>{by cutting corrugated webs longitudinally into strips, piling these strips and uniting them}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Making corrugated cardboard of composite structure</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31F1/2813</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">B31D5/00</classification-symbol><definition-title>Multiple-step processes for making three-dimensional articles {; Making three-dimensional articles}</definition-title><references><section-title>References</section-title><application-references><section-title>Application-oriented references</section-title><section-body>
+    <paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text>
+    <table>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Assembly or manufacture of garlands</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">A41G1/04</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></application-references><residual-references><section-title>References out of a residual place</section-title><section-body>
+    <paragraph-text type="preamble">Examples of places in relation to which this place is residual:</paragraph-text>
+    <table>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Making receptacles or containers</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">B31B</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Making tubes</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">B31B</class-ref>, <class-ref scheme="cpc">B31C</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></residual-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31D5/0004</classification-symbol><definition-title>{for making inserts, e.g. partitions, for boxes}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Making boxes with partitions, inserting partitions into boxes</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31B2120/20</class-ref>, <class-ref scheme="cpc">B31B2105/00</class-ref>, <class-ref scheme="cpc">B31B2120/25</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31D5/0039</classification-symbol><definition-title>{for making dunnage or cushion pads}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Embedding contents in shock-absorbing media</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B65B55/20</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references><special-rules><section-title>Special rules of classification</section-title><section-body>
+    <paragraph-text type="body">Additional classification by allocating the appropriate deep Indexing Codes as provided in <class-ref scheme="cpc">B31D2205/00</class-ref> and subgroups is mandatory</paragraph-text>
+    </section-body></special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31D5/0073</classification-symbol><definition-title>{including pillow forming}</definition-title><glossary-of-terms><section-title>Glossary of terms</section-title><section-body>
+    <paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+    <table>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Pillow</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body">refers to an inflated pouch or to an array of inflated pouches</paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31D5/0078</classification-symbol><definition-title>{and filling with a material other than air or gas}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Foaming of plastics or material in a plastic state</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B29C44/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31D5/0082</classification-symbol><definition-title>{Making filter elements, e.g. pleated}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Flat coffee filters</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31D1/0006</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31D5/04</classification-symbol><definition-title>including folding or pleating, e.g. Chinese lanterns</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+    <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+    <table>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Multiple-step processes for making dunnage or cushion pads</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">B31D5/0039</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></limiting-references><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Toys made by folding paper</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">A63H33/16</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Folding thin material in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B65H45/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31D99/00</classification-symbol><definition-title>Subject matter not provided for in other groups of this subclass</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Making, otherwise than by winding, of articles other than boxes, cartons, envelopes, bags, and tubes from paper, other than from paper pulp and not provided for in any of the groups <class-ref scheme="cpc">B31D1/00</class-ref> - <class-ref scheme="cpc">B31D5/00</class-ref></paragraph-text>
+    </section-body></definition-statement></definition-item></definitions>

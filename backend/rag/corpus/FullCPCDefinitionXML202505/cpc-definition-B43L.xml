@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B43L</classification-symbol><definition-title>ARTICLES FOR WRITING OR DRAWING UPON; {WRITING OR DRAWING AIDS;} ACCESSORIES FOR WRITING OR DRAWING  (workshop equipment for marking-out work <class-ref scheme="cpc">B25H7/00</class-ref>; teaching hand-writing or drawing <class-ref scheme="cpc">G09B11/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">boards, e.g. blackboards or whiteboards, or tablets of large scale and small scale, e.g. portable, having essentially a planar surface specifically adapted to be written upon by manual operation using a writing implement, e.g. chalk sticks or colouring pens</paragraph-text>
+        <paragraph-text type="body">accessories, e.g. underlays, for supporting all kind of substrates upon which writing or drawing operations have to be executed</paragraph-text>
+        <paragraph-text type="body">blotters for writing inks or colours in form of single paper sheets, rolled-up paper, non-paper sheets or rolls and blotting pads forming specific underlays</paragraph-text>
+        <paragraph-text type="body">writing or drawing aids including rulers, templates and all kind of drawing instruments including specifically adapted accessories therefore, e.g. means to prevent slippage during writing or drawing operations or facilitating supports for attachment to hands or arms</paragraph-text>
+        <paragraph-text type="body">writing or drawing accessories, e.g.:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">rubbers</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">erasing devices for manual or automated operations</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">writing board cleaning devices including accessories therefore</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">sharpeners for pencils or single leads</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">ink receptacles for writing inks in fluid, solid or powdered form, including caps, closure means and filling devices</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">and ink stands also supporting ink receptacles.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Wall mounting or suspension arrangements for blackboards or the like, e.g. easels or stands</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B97/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body"> Implements for writing or drawing in generale.g. pens, pencils</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Devices used for both teaching and facilitating writing or drawing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G09B11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Bracelets with means for attaching a writing or a memo pad </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A44C5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Drawing desks or tables in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Tables convertible into drawing-desks</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B85/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Accessories for furniture in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B97/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Apparatus for applying liquids/fluids in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Processes for applying liquids/fluids in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Cleaning devices and processes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B08B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Arrangements for copying in machine tools</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23Q</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Cutting, perforating, punching, stamping-out in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26D</class-ref>, <class-ref scheme="cpc">B26F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Printing machines or presses in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Selective printing mechanisms having selectively activated printing elements, e.g. ink jet or thermal print heads, for consecutively printing character by character and line by line</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41J</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Devices for manifolding, e.g. assemblies in the form of pads or books of single sheets, or in the form of continuous assemblies of webs</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41L1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Stencilling apparatus for office or other commercial use</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41L13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Printing, duplicating, marking or copying processes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41M</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Stencils, stencil materials and carriers for stencils used in printing apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41N1/24</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Permanently attaching together sheets, quires or signatures</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Bookbinding</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Books, book covers, printed matter of special format or style not otherwise provided for</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Sheets temporarily attached together, filing appliances</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Bureau accessories not otherwise provided for, opening or closing of envelopes, inserting documents in envelopes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43M</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Machines, apparatus or tools for sculpturing, carving, engraving, guilloching in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44B1/00</class-ref>, <class-ref scheme="cpc">B44B3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Machines or apparatus for embossing in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44B5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Producing decorative effects, mosaics, paperhanging</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Performing artistic painting or drawing in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Performing artistic painting or drawing using at least one stencil</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44D2/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Kits having at least one stencil for painting or drawing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44D2/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Special designs or patterns in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Supporting attachments to shopping trolleys</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62B3/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Liquid receptacles in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65D1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Coating compositions: inks, paints, varnishes, lacquers, pastes or solids for printing, writing and marking</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C09D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Adhesives</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C09J</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Making blotting paper</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21F11/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Special paper substrates</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21H27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Patterns or templates; jointing rulers for finishing work on buildings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04F21/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Measuring, testing in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Measuring scales or marks for direct reading</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Apparatus for recording measured values</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Optical systems or apparatus in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G02B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Projectors in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Controlling, regulating in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G05B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Electric digital data processing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G06F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Control systems for drawing machines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G06F3/13</class-ref> , <class-ref scheme="cpc">G06K15/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Educational or demonstration appliances in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G09B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Displaying, advertising, signs, labels</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G09F</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Writing or drawing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">always encompasses applying ink or colour or coloured material</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L1/00</classification-symbol><definition-title>Repeatedly-usable boards or tablets for writing or drawing  (drawing-boards <class-ref scheme="cpc">B43L5/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">blackboards or whiteboards in rigid or flexible form,</paragraph-text>
+        <paragraph-text type="body">slates,</paragraph-text>
+        <paragraph-text type="body">special writing surfaces also including translucent surfaces in cooperation with backing members,</paragraph-text>
+        <paragraph-text type="body">writing boards having additional magnetic action,</paragraph-text>
+        <paragraph-text type="body">chemical details of boards or writing surfaces,</paragraph-text>
+        <paragraph-text type="body">accessories, e.g. illuminating devices.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Tables in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B1/00</class-ref> - <class-ref scheme="cpc">A47B37/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Structural combinations of lighting devices with other articles in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F21V</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Supporting, suspending, or attaching arrangements for lighting devices</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F21V21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Displaying or advertising in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G09F</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Blackboard</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">reusable board having a dark coloured writing surface, e.g. adapted to be written upon by use of a stick of chalk</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Whiteboard</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">reusable board having a clear coloured, almost white writing surface, e.g. adapted to be written upon by use of a colour pen</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L3/00</classification-symbol><definition-title>Writing or drawing underlays, e.g. blotting pads  (blotters <class-ref scheme="cpc">B43L17/00</class-ref>; {supports for note pads: <class-ref scheme="cpc">B42D5/005</class-ref>})</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">rigid or flexible sheet-like substrates having a single layer structure or a multilayer structure</paragraph-text>
+        <paragraph-text type="body">support structures for underlays in portable form or fixed to another substrate or device</paragraph-text>
+        <paragraph-text type="body">accessories like casings, illuminating devices, luminescent substances, rain or moisture protection means.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Blotters in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43L17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Clip boards and covers with clamping backs in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Bracelets with means for attaching a writing instrument or a memo pad</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A44C5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Luggage and hand carried bags in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A45C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Supports for note pads</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Structural combinations of lighting devices with other articles in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F21V</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Supporting, suspending, or attaching arrangements for lighting devices</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F21V21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L5/00</classification-symbol><definition-title>Drawing boards  (drawing desks or tables <class-ref scheme="cpc">A47B27/00</class-ref>, <class-ref scheme="cpc">A47B85/02</class-ref>; stands for drawing-boards <class-ref scheme="cpc">A47B97/04</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">usually portable boards,</paragraph-text>
+        <paragraph-text type="body">pivotable drawing surface,</paragraph-text>
+        <paragraph-text type="body">drawing copying devices using a transparency,</paragraph-text>
+        <paragraph-text type="body">also including means for clamping sheets of paper thereto e.g. by magnets, suction devices.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Sheets temporarily attached together</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F1/00</class-ref>, <class-ref scheme="cpc">B42F3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Sheets and objects temporarily attached together and means therefore</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Drawing-pins per se</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43M15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L7/00</classification-symbol><definition-title>Straightedges  (guides; curve rulers or templets <class-ref scheme="cpc">B43L13/20</class-ref>; straightedges characterised by the provision of indicia or the like for measuring, e.g. rulers or tapes with measuring scales or marks for direct reading, <class-ref scheme="cpc">G01B</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">single rectangular shaped straightedges,</paragraph-text>
+        <paragraph-text type="body">T-shaped and L-shaped straightedges,</paragraph-text>
+        <paragraph-text type="body">plural non-adjustable straightedges, e.g. triangles, forming right and/or other angles,</paragraph-text>
+        <paragraph-text type="body">plural straightedges including squares pivotably or slidably movable relative to each other,</paragraph-text>
+        <paragraph-text type="body">accessories, e.g. rollers, holding means,</paragraph-text>
+        <paragraph-text type="body">combined with other drawing aids,</paragraph-text>
+        <paragraph-text type="body">combined with drawing equipment, e.g. for hatching, dotting.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Jointing rulers for finishing work on buildings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04F21/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Rulers with scales or marks for direct reading</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01B3/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L9/00</classification-symbol><definition-title>Circular curve-drawing or like instruments  (curve rulers or templets <class-ref scheme="cpc">B43L13/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">compasses in form of beam compasses, having parallel legs or legs formed by flat springs,</paragraph-text>
+        <paragraph-text type="body">dividers,</paragraph-text>
+        <paragraph-text type="body">proportional compasses or dividers,</paragraph-text>
+        <paragraph-text type="body">changeable leg ends for conversion into compasses, dividers, and callipers,</paragraph-text>
+        <paragraph-text type="body">common features of compasses, dividers, and callipers,</paragraph-text>
+        <paragraph-text type="body">e.g. legs, pivots, angle adjustments, mountings for points or writing appliances,</paragraph-text>
+        <paragraph-text type="body">perforated or marked discs or rulers.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Compasses for drawing ellipses</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43L11/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Compasses for drawing spirals</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43L11/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L11/00</classification-symbol><definition-title>Non-circular-curve-drawing instruments  (curve rulers or templets <class-ref scheme="cpc">B43L13/20</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">instruments for drawing conic sections, e.g. for drawing ellipses by having a compass, having stencils, having cords or similar devices, having gears, having guides,</paragraph-text>
+        <paragraph-text type="body">instruments for drawing spirals,</paragraph-text>
+        <paragraph-text type="body">instruments for drawing involutes.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L12/00</classification-symbol><definition-title>Means to prevent slippage</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">devices forming part of drawing or writing appliances,</paragraph-text>
+        <paragraph-text type="body">separate devices used for cooperation with writing or drawing appliances,</paragraph-text>
+        <paragraph-text type="body">specific materials, e.g. magnetic.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Other bureau accessories in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43M99/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L13/00</classification-symbol><definition-title>Drawing instruments, or writing or drawing appliances or accessories not otherwise provided for  (stencils for surface decoration <class-ref scheme="cpc">B44D</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">automatic draughting machines and hand held drawing devices for keeping parallelism, including specific components like:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">drawing heads</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">guides for rulers</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">protractor heads including angle adjustment,</paragraph-text>
+          </list-item>
+        </list>
+        <paragraph-text type="body">pantographic instruments for copying, enlarging or diminishing,</paragraph-text>
+        <paragraph-text type="body">devices for drawing in perspective including:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">two-dimensional devices</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">three-dimensional devices</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">free-hand devices possibly with optical or projecting equipment</paragraph-text>
+          </list-item>
+        </list>
+        <paragraph-text type="body">mathematical drawing instruments</paragraph-text>
+        <paragraph-text type="body">contour tracing devices</paragraph-text>
+        <paragraph-text type="body">automated and manual lettering devices</paragraph-text>
+        <paragraph-text type="body">curve rulers or templets:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">including stencils for drawing figures, objects</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">adjustable</paragraph-text>
+          </list-item>
+        </list>
+        <paragraph-text type="body">hatching devices, which means devices generating stepwise movement of drawing equipment.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Straightedges</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43L7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Circular curve-drawing or like equipment</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43L9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Non-circular-curve-drawing instruments</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43L11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Means to prevent slippage</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43L12/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L15/00</classification-symbol><definition-title>Supports for attachment to hands or arms for facilitating writing or drawing</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">bracelets and/or wrist straps possibly including fastening means,</paragraph-text>
+        <paragraph-text type="body">rigid ring-like or flexible supports.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Bracelets or wrist straps in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A44C5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Fasteners for bracelets or wrist straps in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A44C5/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Holders or supports or connectors for writing implements in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Holders for writing implements for assisting handicapped or disabled persons</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K23/004</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Holders for writing implements comprising finger grips</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K23/008</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Holders for writing implements for attachment to finger tips</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K23/012</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Holders for crayons or chalks</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K23/016</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L17/00</classification-symbol><definition-title>Blotters  (blotting pads <class-ref scheme="cpc">B43L3/00</class-ref>; combined with writing implements <class-ref scheme="cpc">B43K29/04</class-ref>; making blotting paper <class-ref scheme="cpc">D21F11/14</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">blotting paper sheets also including hand held use,</paragraph-text>
+        <paragraph-text type="body">reeled blotting paper also including roller blotters,</paragraph-text>
+        <paragraph-text type="body">use of blotting material other than paper.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Erasers or erasing devices for written, coloured material on paper or paper-like substrates in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43L19/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Devices for manifolding, e.g. assemblies in the form of pads or books of single sheets, or in the form of continuous assemblies of webs</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41L1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Coated paper per se, coating material</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21H19/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L19/00</classification-symbol><definition-title>Erasers, rubbers, or erasing devices; Holders therefor  (rubbers or erasing knives combined with writing implements <class-ref scheme="cpc">B43K29/02</class-ref>, <class-ref scheme="cpc">B43K29/18</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">erasing knives,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">fibrous erasers,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">erasing with fluids,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">erasing by electronic or electrolytic means,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">motor-driven erasers,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">eraser or rubber material, e.g. comprising hard or magnetic particles,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">magnetic or hand-held holders for erasers,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">finger mounted erasers,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">eraser shields,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">eraser cleaners,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">assembling, repairing, or finishing of erasers.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Knives, cutting devices in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Devices, non-fluid media or methods for cancelling or correcting errors in typewriters or selective printing mechanisms</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41J29/26</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Hand or desk devices of the office or personal type, e.g. having rollers or pads, for applying liquid other than ink</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43M11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Web delivery apparatus, also including hand-held apparatus, for applying correction coatings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H37/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Rubber material in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C08L7/00</class-ref> - <class-ref scheme="cpc">C08L21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L21/00</classification-symbol><definition-title>Blackboard or slate cleaning devices</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">hand-held devices,</paragraph-text>
+        <paragraph-text type="body">automatic cleaning devices,</paragraph-text>
+        <paragraph-text type="body">auxiliary means for absorbing chalk dust,</paragraph-text>
+        <paragraph-text type="body">wiper holders.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Implements for removing dry paint from surfaces</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44D3/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Chemical paint or ink removers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C09D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L23/00</classification-symbol><definition-title>Sharpeners for pencils or leads  (grinding or cutting tools in general <class-ref scheme="cpc">B24</class-ref>; <class-ref scheme="cpc">B26</class-ref>; combined with writing implements <class-ref scheme="cpc">B43K29/06</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">motor driven sharpeners,</paragraph-text>
+        <paragraph-text type="body">hand-held sharpeners,</paragraph-text>
+        <paragraph-text type="body">sharpeners with gearing, e.g. with cranked handles,</paragraph-text>
+        <paragraph-text type="body">with continuous conveying means for the pencil,</paragraph-text>
+        <paragraph-text type="body">with radial cutting blades,</paragraph-text>
+        <paragraph-text type="body">with rasping surfaces,</paragraph-text>
+        <paragraph-text type="body">with rotating cutting bodies,</paragraph-text>
+        <paragraph-text type="body">only axial movement against cutting blades for sharpening pencils or leads,</paragraph-text>
+        <paragraph-text type="body">mainly rotational movement against cutting blades for sharpening pencils or leads,</paragraph-text>
+        <paragraph-text type="body">cutting blades for shaping the writing point.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Manufacture of wooden products having special shapes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27L</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Making slate-pencil writing-cores</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B28D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Assembling, finishing, or repairing pens</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Making non-propelling pencils</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K19/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Making pencil writing cores</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K19/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L25/00</classification-symbol><definition-title>Ink receptacles  (liquid receptacles in general <class-ref scheme="cpc">B65D</class-ref>, e.g. <class-ref scheme="cpc">B65D1/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">portable ink receptacles,</paragraph-text>
+        <paragraph-text type="body">ink receptacles incorporated in a table or bench,</paragraph-text>
+        <paragraph-text type="body">ink receptacles having:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">wick feed,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">adjustable depth of dipping,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">separate dipping-cups,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">arrangements for dissolving ink powder,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">means for holding other objects,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">pen-wiping means,</paragraph-text>
+          </list-item>
+        </list>
+        <paragraph-text type="body">accessories, e.g.:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">caps or closures,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">filling devices.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Inking devices for portable hand-operated stamps</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41K1/40</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Filling devices for writing implements in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Desk sets or desk-receptacles, e.g. for holding writing appliances, forming bureau accessories in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43M99/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Closure members for containers in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65D39/00</class-ref> - <class-ref scheme="cpc">B65D55/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B43L27/00</classification-symbol><definition-title>Ink stands</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">supports for a single ink receptacle or a plurality of ink receptacles,</paragraph-text>
+        <paragraph-text type="body">portable supports,</paragraph-text>
+        <paragraph-text type="body">supports fixedly mounted e.g. on a desk or a table,</paragraph-text>
+        <paragraph-text type="body">supports for ink receptacles having means for securing other objects thereon.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Desk sets or desk-receptacles, e.g. for holding writing appliances, forming bureau accessories in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B43M99/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

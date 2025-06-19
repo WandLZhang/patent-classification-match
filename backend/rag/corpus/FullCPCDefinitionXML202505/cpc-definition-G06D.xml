@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">G06D</classification-symbol><definition-title>DIGITAL FLUID-PRESSURE COMPUTING DEVICES</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">All devices in which at least one computing function is performed by hydraulic or pneumatic means.</paragraph-text>
+        <paragraph-text type="body">Fluid computers.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.8cm">
+              <paragraph-text type="body">Fluid-circuit elements</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.23cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F15C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+        <paragraph-text type="body">&#160;</paragraph-text>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G06D1/00</classification-symbol><definition-title>Details, e.g. functional units  (individual logic elements <class-ref scheme="cpc">F15C</class-ref>; valves <class-ref scheme="cpc">F16K</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="7.32cm">
+              <paragraph-text type="body">Individual logic elements</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F15C</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="7.32cm">
+              <paragraph-text type="body">Valves</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.71cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16K</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item></definitions>

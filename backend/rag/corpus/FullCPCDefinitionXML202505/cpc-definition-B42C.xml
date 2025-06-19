@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B42C</classification-symbol><definition-title>BOOKBINDING  (cutting or perforating machines, devices or tools <class-ref scheme="cpc">B26</class-ref>; folding sheets or webs <class-ref scheme="cpc">B31F</class-ref>; ornamenting books <class-ref scheme="cpc">B44</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Particular operations and machines peculiar to bookbinding for obtaining books as final products:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">providing or preparing book blocks and bookbinding cases as input material for bookbinding</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">applying glue or adhesive</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">casing-in, .i.e. applying covers to fillings</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">jacketing books</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">rebinding books</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">multi-step processes for making books</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">residual operations for bookbinding not provided for in other places</paragraph-text>
+          </list-item>
+        </list>
+        <paragraph-text type="body">Some operations and machines similar to bookbinding operations for obtaining related final products:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">making booklets, pads or form sets from multiple webs</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">manufacturing covers of filing appliances, e.g. of loose-leaf binders or suspended filing appliances</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Binding and bookbinding</paragraph-text>
+        <paragraph-text type="body">Subclass <class-ref scheme="cpc">B42B</class-ref> covers binding, especially stitching, processes for permanently attaching together sheets, quires or signatures by which book blocks can be obtained.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Cutting or perforating operations, machines or devices</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26D</class-ref>, <class-ref scheme="cpc">B26F</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Folding sheets or webs</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B31F1/00</class-ref>, <class-ref scheme="cpc">B65H45/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Apparatus for artistic work</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Processes for decorating in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44C</class-ref>, <class-ref scheme="cpc">B44D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42C1/00</classification-symbol><definition-title>Collating or gathering sheets combined with processes for permanently attaching together sheets or signatures or for interposing inserts  (collating or gathering sheets or signatures without permanently attaching them together <class-ref scheme="cpc">B65H39/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Gathering and collating are typical for bookbinding in order to arrange the printed pages in a predetermined sequence to obtain the book block.</paragraph-text>
+        <paragraph-text type="body">Gathering sheets means associating and registering folded printed sheets in the correct sequence to obtain a folded quire as a section of a book, collating means associating and registering sections, e.g. folded signatures or folded quires, in the proper sequence for the book block.</paragraph-text>
+        <paragraph-text type="body">Gathering covers as well associating and registering flat or folded sheets to a single copy of a publication, e.g. for subsequent stapling.</paragraph-text>
+        <paragraph-text type="body">Collating covers as well examining the associated section or set of sections, after gathering but before attaching, for proper sequence, e.g. by examining step marks on the back of the folded sheets.</paragraph-text>
+        <paragraph-text type="body">Interposing inserts means inserting separately printed flat or folded sheets, e.g. of different paper or print quality for advertisement, into the gathered or collated main publication for becoming a permanent part of the final product.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Permanently attaching together sheets, quires, or signatures </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Supports or magazines for piles from which sheets are to be separated; Separating sheets from piles; Feeding sheets separated from piles; Feeding sheets to machines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H1/00</class-ref> - <class-ref scheme="cpc">B65H5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Delivering or advancing sheets from machines; Advancing sheets to or into piles; Pile receivers; Forming counted batches in delivery pile or stream of sheets </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H29/00</class-ref> - <class-ref scheme="cpc">B65H33/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Article or web delivery apparatus incorporating devices for securing together articles or webs, e.g. by adhesive, stitching or stapling </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H37/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Associating, collating, or gathering sheets, quires or signatures without permanently attaching them together, e.g. from single or several sources, like piles or delivery streams </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H39/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Devices for collating and binding sets of sheets, e.g. by stapling, gluing, in electrographic, e.g. xerographic, printing machines </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03G15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42C3/00</classification-symbol><definition-title>Making booklets, pads, or form sets from multiple webs</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Involves associating, registering and cutting one or more webs in multiple layers, usually printed, to obtain sets of flat or folded sheets in a correct predetermined sequence as a single copy of the final product, e.g. of a booklet, for simultaneous or subsequent binding.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Printing apparatus for printing books, manifolding sets or calendars</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F17/02</class-ref>, <class-ref scheme="cpc">B41F17/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Manifolding pads or books</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41L1/24</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Sheets united without binding to form pads or blocks, e.g. form sets or calendar blocks</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Associating sheets from a single source, e.g. to form a writing pad</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H39/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Associating two or more webs</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H39/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42C5/00</classification-symbol><definition-title>Preparing the edges or backs of leaves or signatures for binding</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Preparing the edges or backs of a set of flat or folded sheets or signatures, usually a book block or fillings, prior to associating it with a case or cover.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.6cm">
+              <paragraph-text type="body">Cutting of the book block</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.43cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26D</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.6cm">
+              <paragraph-text type="body">Decoration of the edges of book block, e.g. by colouring or gold foil</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.43cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.6cm">
+              <paragraph-text type="body">Loose leaves modified for binding</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.43cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42C7/00</classification-symbol><definition-title>Manufacturing bookbinding cases or covers of {books or} loose-leaf binders  (book covers <class-ref scheme="cpc">B42D3/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Bookbinding cases are usually manufactured as a separate unit to be associated with the fillings of a book.</paragraph-text>
+        <paragraph-text type="body">Cases for hard cover books, or covers for loose-leave binders, are typically produced by printing a rectangular sheet of paper, cloth or leather, known as the cover material, and subsequently gluing the cover material to a pair of rigid panels and a spine.</paragraph-text>
+        <paragraph-text type="body">Soft covers, e.g. for books, folders (<class-ref scheme="cpc">B42F7/00</class-ref> etc.) or suspension files (<class-ref scheme="cpc">B42F15/00</class-ref>), are made from foldable sheet material, e.g. as unitary cover from a single printed blank of cover material.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Joint-creasing equipment for bookbinding </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42C13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Book covers </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Covers of loose-leaf binders </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Covers of suspended files </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F15/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42C9/00</classification-symbol><definition-title>Applying glue or adhesive peculiar to bookbinding</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for applying adhesive, e.g. glue or paste,</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text>to obtain adhesively bound stacks of sheets or book blocks, e.g. by applying adhesive to the back of a stack of sheets or subsequently to individual sheets prior or during stacking,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text>to join tape or covers by adhesive to a stack of sheets or a book block, e.g. by applying adhesive to the tape or cover, or by activating adhesive pre-coated on a tape or cover,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text>to bond sheets together or a cover with a stack of sheets, e.g. by fusing plastic sheet or cover material or by fusing a binding material, e.g. a pre-applied binding agent or a material added to fill cavities in the sheets,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text>for securing strips, ribbons or end papers to book blocks, e.g. back linings, bookmarkers, headbands or guards,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text>for otherwise applying adhesive peculiar to bookbinding.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Machines or equipment for attaching end papers to book blocks and casing-in </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42C11/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Machines or equipment for casing-in by welding plastic materials </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42C11/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Permanently attaching together sheets, quires, or signatures by adhesive or welding </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42B5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Devices for pasting common to machines for permanently attaching together sheets, quires, or signatures, or for permanently attaching objects thereto </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42B9/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42C9/0006</classification-symbol><definition-title>{by applying adhesive to a stack of sheets}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices to apply adhesive to a collated or gathered stack of sheets for attaching them together, for uniting it with a cover, or both. Usually, the adhesive is applied by a roller, whereby the roller is moved along a stack in a rest position or the stacks are continuously moved along a stationary applicator, as in industrial perfect binders.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.61cm">
+              <paragraph-text type="body">Binding sets of sheets, e.g. by gluing, applied in electro-photographic printers </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.42cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03G15/6541</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42C9/0093</classification-symbol><definition-title>{by fusing, welding sheets together}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="12.49cm">
+              <paragraph-text type="body">Joining, e.g. welding, plastic sheets by heating, with or without pressure</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.54cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B29C65/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42C9/02</classification-symbol><definition-title>for securing back linings, strips, ribbons or headbands</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="12.3cm">
+              <paragraph-text type="body">Machines or equipment for attaching end papers to book blocks and casing-in</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42C11/045</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42C11/00</classification-symbol><definition-title>Casing-in</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Associating a book block or other fillings with a bookbinding case or cover.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Applying glue or adhesive peculiar to bookbinding </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42C9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Devices for pasting common to machines for permanently attaching together sheets, quires, or signatures, or for permanently attaching objects thereto </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42B9/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Books or other bound products in which the fillings and covers are connected by end papers, secured integrally or united by other means </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D1/02</class-ref> - <class-ref scheme="cpc">B42D1/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Covers or strips provided with adhesive for binding </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42C13/00</classification-symbol><definition-title>Bookbinding presses  (general features of presses <class-ref scheme="cpc">B30B</class-ref>); Joint-creasing equipment for bookbinding; Drying or setting devices for books</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The machines, devices or equipment covered by this group is particularly used for treating, e.g. shaping, the book obtained from casing-in operations.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Creasing the back of covers during the manufacture thereof</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42C7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">General features of presses</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B30B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42C15/00</classification-symbol><definition-title>Jacketing books</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Applying a protective book jacket to a bound book, typically an attractive detachable paper cover.</paragraph-text>
+        <paragraph-text type="body">Covers as well applying protective adhesive or heat sealable foils and inserting books into protective cases.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Joining sheets or webs to each other or to substantially flat surfaces </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B29C65/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Protective jackets for books </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D3/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Protective cases for books </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D3/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Packaging articles in general </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Packaging elements or packages in general </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42C17/00</classification-symbol><definition-title>Rebinding books</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Replacement of book covers or fillings of bound books.</paragraph-text>
+        <paragraph-text type="body">Reuse of book covers or fillings for bookbinding.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Files with adhesive strips for mounting papers </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D1/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Loose book covers </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D3/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42C19/00</classification-symbol><definition-title>Multi-step processes for making books</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Bookbinding processes comprising a plurality of operations which are not fully covered by a single other group of this subclass and machines performing such sequences of operations. The format of the starting printing substrate (single sheets, signatures, webs) determines the steps required to obtain a book block, especially the type of collating operation.</paragraph-text>
+        <paragraph-text type="body">The multi-step processes comprise operations covered by other places of subclass <class-ref scheme="cpc">B42C</class-ref> as a process step and may include as well bookbinding steps not covered by this subclass, such as folding (<class-ref scheme="cpc">B65H45/00</class-ref>, <class-ref scheme="cpc">B31F1/00</class-ref>), collating (<class-ref scheme="cpc">B65H39/00</class-ref>), stitching with thread (<class-ref scheme="cpc">B42B</class-ref>), cutting (<class-ref scheme="cpc">B26D</class-ref>) or decorating (<class-ref scheme="cpc">B44</class-ref>), as well as particular handling and conveying steps therefor (<class-ref scheme="cpc">B65H</class-ref>, <class-ref scheme="cpc">B65G</class-ref>).</paragraph-text>
+        <paragraph-text type="body">They may further comprise printing steps adapted for obtaining books, for forme printing (<class-ref scheme="cpc">B41F17/02</class-ref>), for electrographic printing (<class-ref scheme="cpc">G03G</class-ref>) or selective printing (<class-ref scheme="cpc">B41J</class-ref>), including the forme preparation (<class-ref scheme="cpc">B41C</class-ref>) or the preprocessing of the content (<class-ref scheme="cpc">G06K15/00</class-ref>, <class-ref scheme="cpc">G06F3/12</class-ref>, <class-ref scheme="cpc">H04N1/00</class-ref>).</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Collating or gathering sheets combined with processes permanently attaching together sheets or signatures or for interposing inserts </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42C1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Making booklets, pads, or form sets from multiple webs </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42C3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Manufacturing bookbinding cases </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42C7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Applying glue or adhesive for bookbinding and subsequently applying a cover </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42C9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Conveying in general </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65G</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">A22B</classification-symbol><definition-title>SLAUGHTERING</definition-title></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B1/00</classification-symbol><definition-title>Apparatus for fettering animals to be slaughtered</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Devices for collecting, confining, transporting, loading, unloading, guiding and/or leading animals to be slaughtered.</paragraph-text>
+            <paragraph-text>Illustrative examples of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media0.jpg" file-name="cpc-def-A22B-0000.jpg" type="jpeg"/> US200516462</paragraph-text>
+            <paragraph-text type="body"> <media id="media1.jpg" file-name="cpc-def-A22B-0001.jpg" type="jpeg"/> EP0852115</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B3/00</classification-symbol><definition-title>Slaughtering or stunning  ({anaesthetising animals <class-ref scheme="cpc">A61D7/04</class-ref>}; cutting in general <class-ref scheme="cpc">B26</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Slaughtering or stunning of animals.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text>Anaesthetising of animals</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">A61D7/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Cutting in general</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B26</class-ref>, <class-ref scheme="cpc">B26B</class-ref>, and <class-ref scheme="cpc">B26D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Pistols</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F41C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body></limiting-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+               <table-row>
+                  <table-column>
+                     <paragraph-text>Stunning</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text>Rendering animals immobile or unconscious, without killing the animal, prior to their being slaughtered for food</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B3/02</classification-symbol><definition-title>by means of bolts, e.g. slaughtering pistols, cartridges {(pistols <class-ref scheme="cpc">F41C</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Pistols and cartridges used for stunning and slaughtering of animals. Devices hitting the animal generally on the head with or without penetration.</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media2.jpg" file-name="cpc-def-A22B-0002.jpg" type="jpeg"/> US4757627</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B3/04</classification-symbol><definition-title>Masks for animals to be slaughtered; Masks combined with stunning arrangements</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Masks for animals to be slaughtered, combined or not with stunning arrangements.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B3/06</classification-symbol><definition-title>Slaughtering or stunning by electric current  (electric circuits therefor <class-ref scheme="cpc">H05C</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media3.jpg" file-name="cpc-def-A22B-0003.jpg" type="jpeg"/> FR2750295</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B3/08</classification-symbol><definition-title>for poultry or fish, e.g. slaughtering pliers, slaughtering shears</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Illustrative examples of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media4.jpg" file-name="cpc-def-A22B-0004.jpg" type="jpeg"/> US2010107986</paragraph-text>
+            <paragraph-text type="body"> <media id="media5.jpg" file-name="cpc-def-A22B-0005.jpg" type="jpeg"/> WO2010133379</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B3/12</classification-symbol><definition-title>Kosher slaughtering devices</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Kosher, halal and other ritual slaughtering devices.</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media6.jpg" file-name="cpc-def-A22B-0006.jpg" type="jpeg"/> EP2003981</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/00</classification-symbol><definition-title>Accessories for use during or after slaughtering</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Accessories used during the operations carried out in a slaughterhouse.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text>Cleaning and disinfecting poultry carcasses</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">A22C21/0061</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text> Chilling or lowering the temperature of carcasses <class-ref scheme="cpc">A22B5/0076</class-ref> </paragraph-text>
+            <paragraph-text>Cleaning or disinfecting carcasses <class-ref scheme="cpc">A22B5/0082</class-ref> </paragraph-text>
+            <paragraph-text> Electric stimulation of carcasses <class-ref scheme="cpc">A22B5/0088</class-ref> </paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/0005</classification-symbol><definition-title>{Eviscerating devices, e.g. removing rectum, anus, intestines, brain tissue, hypophysis  (for poultry <class-ref scheme="cpc">A22C21/06</class-ref>; for fish <class-ref scheme="cpc">A22C25/14</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Devices for eviscerating slaughtered animals.</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media7.jpg" file-name="cpc-def-A22B-0007.jpg" type="jpeg"/> JP9028283</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text>Eviscerating poultry</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">A22C21/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Eviscerating fish</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A22C25/14</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/0017</classification-symbol><definition-title>{Apparatus for cutting, dividing or deboning carcasses}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Performing cutting operations on animal carcasses</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text>Splitting carcasses</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">A22B5/20</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Deboning meat</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A22C17/004</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/0023</classification-symbol><definition-title>{Cutting open the abdominal cavity of a carcass}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media8.jpg" file-name="cpc-def-A22B-0008.jpg" type="jpeg"/> EP0743006</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/0029</classification-symbol><definition-title>{Cutting through or detaching portions of a carcass  (splitting carcasses <class-ref scheme="cpc">A22B5/20</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media9.jpg" file-name="cpc-def-A22B-0009.jpg" type="jpeg"/> EP1740053</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/0035</classification-symbol><definition-title>{Deboning or obtaining boneless pieces of meat from a carcass  (devices for deboning meat <class-ref scheme="cpc">A22C17/004</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Deboning carcasses and/or obtaining boneless portions of a carcass</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/0041</classification-symbol><definition-title>{Electronic, robotic or computer assisted cutting, dividing or deboning carcasses}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media10.jpg" file-name="cpc-def-A22B-0010.jpg" type="jpeg"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/0047</classification-symbol><definition-title>{Hand-tools for deboning, cutting or dividing carcasses}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media11.jpg" file-name="cpc-def-A22B-0011.jpg" type="jpeg"/> US2006070502</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/0052</classification-symbol><definition-title>{Severing the head or the jaw of a carcass, slaughterhouse operations on animal heads}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media12.jpg" file-name="cpc-def-A22B-0012.jpg" type="jpeg"/> EP0849995</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/0058</classification-symbol><definition-title>{Removing feet or hooves from carcasses}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media13.jpg" file-name="cpc-def-A22B-0013.jpg" type="jpeg"/> US2004116061</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/0064</classification-symbol><definition-title>{for classifying or grading carcasses; for measuring back fat}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Means and methods for classifying carcasses according to different parameters, including non-invasive scanning of meat or carcasses using image recognition, tomography, x-rays, ultrasound or similar techniques to classify the animal/cut according to its physiological characteristics.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text>Image analysis</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">G06T7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text>Analysing meat e.g. searching for foreign embedded objects</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">G01N33/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/02</classification-symbol><definition-title>Slaughtering pens</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Pens and boxes for supporting, restraining and/or immobilising animals to be slaughtered.</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media14.jpg" file-name="cpc-def-A22B-0014.jpg" type="jpeg"/> EP0570851</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/04</classification-symbol><definition-title>Blood-collecting apparatus; Blood-stirring devices</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Devices and methods for bleeding slaughtered animals, collecting their blood, or assisting and checking the bleeding process.</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media15.jpg" file-name="cpc-def-A22B-0015.jpg" type="jpeg"/> EP0843970</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/06</classification-symbol><definition-title>Slaughtering stands or spreaders for cattle</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Spreaders and stands for supporting big animals in order to perform slaughtering operations thereon.</paragraph-text>
+            <paragraph-text>Illustrative examples of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media16.jpg" file-name="cpc-def-A22B-0016.jpg" type="jpeg"/> US2009143001</paragraph-text>
+            <paragraph-text>This class includes spreaders for big game animals, which can be used both indoors and outdoors and that can be portable or not.</paragraph-text>
+            <paragraph-text type="body"> <media id="media17.jpg" file-name="cpc-def-A22B-0017.jpg" type="jpeg"/> </paragraph-text>
+            <paragraph-text type="body"> US7059956</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/08</classification-symbol><definition-title>Scalding; Scraping; Dehairing; Singeing  (treatment of hides or skins <class-ref scheme="cpc">C14B</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Scalding or burning the skin of slaughtered animals for dehairing or removing residues. Skin cleaning devices.</paragraph-text>
+            <paragraph-text>Illustrative examples of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media18.jpg" file-name="cpc-def-A22B-0018.jpg" type="jpeg"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Plucking poultry</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A22C21/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Scalding or singeing poultry</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A22C21/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text>Treatment of hides or skins</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">C14B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text> Hand-operated instruments <class-ref scheme="cpc">A22B5/10</class-ref> </paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media19.jpg" file-name="cpc-def-A22B-0019.jpg" type="jpeg"/> </paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/14</classification-symbol><definition-title>Clips for the tongue; Arrangements for closing the throat</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Means for closing the throat, trachea or oesophagus of a carcass animal in order to so as to prevent the contents of the stomach spilling onto the carcass and/or ground when the animal carcass is suspended</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media20.jpg" file-name="cpc-def-A22B-0020.jpg" type="jpeg"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media21.jpg" file-name="cpc-def-A22B-0021.jpg" type="jpeg"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/16</classification-symbol><definition-title>Skinning instruments or knives</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Devices and methods for removing the skin from slaughtered animals</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text>Skinning poultry</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">A22C21/0092</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Skinning fish</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A22C25/17</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Motor-driven hand tools with disc blades</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B26B25/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Motor-driven tools with annular blades</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B26B25/002</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text>Disc cutters</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">B26D1/14</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/161</classification-symbol><definition-title>{Methods or means for pulling the hide from carcasses}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media22.jpg" file-name="cpc-def-A22B-0022.jpg" type="jpeg"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/163</classification-symbol><definition-title>{Skinning knives with disc-shaped blades  (disc cutters <class-ref scheme="cpc">B26D1/14</class-ref>; motor-driven hand tools with disc blades <class-ref scheme="cpc">B26B25/00</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media23.jpg" file-name="cpc-def-A22B-0023.jpg" type="jpeg"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/165</classification-symbol><definition-title>{Ring knives specially adapted for skinning  (motor driven tools with annular blades <class-ref scheme="cpc">B26B25/002</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media24.jpg" file-name="cpc-def-A22B-0024.jpg" type="jpeg"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/166</classification-symbol><definition-title>{Drum skinners}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media25.jpg" file-name="cpc-def-A22B-0025.jpg" type="jpeg"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/168</classification-symbol><definition-title>{Hand tools specially adapted for skinning carcasses}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media26.jpg" file-name="cpc-def-A22B-0026.jpg" type="jpeg"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/18</classification-symbol><definition-title>Cleaning the stomach of slaughtered animals</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Treating in general and cleaning in particular the stomach and intestines of slaughtered animals. Recovering objects (e.g. capsules) thereof and extracting products therefrom. Separating the stomach from the rest of entrails (e.g. extracting poultry gizzards)</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B5/20</classification-symbol><definition-title>Splitting instruments {(cutting operations on carcasses other than splitting <class-ref scheme="cpc">A22B5/0017</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Cutting the backbone of a carcass in order to split it in two halves</paragraph-text>
+            <paragraph-text>Illustrative examples of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media27.jpg" file-name="cpc-def-A22B-0027.jpg" type="jpeg"/> </paragraph-text>
+            <paragraph-text>Also includes:</paragraph-text>
+            <paragraph-text>Removing spinal cord and other medullar tissue</paragraph-text>
+            <paragraph-text type="body"> <media id="media28.jpg" file-name="cpc-def-A22B-0028.jpg" type="jpeg"/> </paragraph-text>
+            <paragraph-text> Meat saws: band saws, disc saws, reciprocating saws and manual saws</paragraph-text>
+            <paragraph-text type="body"> <media id="media29.jpg" file-name="cpc-def-A22B-0029.jpg" type="jpeg"/> </paragraph-text>
+            <paragraph-text>Guides and holders for supporting the carcass during the splitting operation</paragraph-text>
+            <paragraph-text type="body"> <media id="media30.jpg" file-name="cpc-def-A22B-0030.jpg" type="jpeg"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text type="body">Cutting, dividing or deboning carcasses</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A22B5/0017</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column>
+                     <paragraph-text>Splitting of hides</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">C14B17/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text>Knives</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">B26B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B7/00</classification-symbol><definition-title>Slaughterhouse arrangements</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Further slaughterhouse arrangements not directly related to the operations performed on the carcass</paragraph-text>
+            <paragraph-text>Also comprising mobile slaughtering units</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media31.jpg" file-name="cpc-def-A22B-0031.jpg" type="jpeg"/> US5538466</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text>Poultry shackles</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">A22C21/0007</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text>Overhead conveyors</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">B65G17/20</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text>Conveying arrangements <class-ref scheme="cpc">A22B7/001</class-ref>, comprising also:</paragraph-text>
+            <paragraph-text>gambrels, hooks and other arrangements for suspending carcasses</paragraph-text>
+            <paragraph-text>Illustrative examples of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media32.jpg" file-name="cpc-def-A22B-0032.jpg" type="jpeg"/> WO0074491</paragraph-text>
+            <paragraph-text>Means for identifying or containing information relative to the carcass or piece of meat that can be attached or are embedded in the conveying means</paragraph-text>
+            <paragraph-text type="body"> <media id="media33.jpg" file-name="cpc-def-A22B-0033.jpg" type="jpeg"/> WO9836645</paragraph-text>
+            <paragraph-text>Means for positioning, orienting and supporting carcasses as they are being conveyed</paragraph-text>
+            <paragraph-text type="body"> <media id="media34.jpg" file-name="cpc-def-A22B-0034.jpg" type="jpeg"/> US3736622</paragraph-text>
+            <paragraph-text>rail configurations and connections for conveying suspended carcasses</paragraph-text>
+            <paragraph-text type="body"> <media id="media35.jpg" file-name="cpc-def-A22B-0035.jpg" type="jpeg"/> GB2111928</paragraph-text>
+            <paragraph-text>hooking, unhooking and transfer means to transfer carcasses from one conveying unit onto a different one</paragraph-text>
+            <paragraph-text type="body"> <media id="media36.jpg" file-name="cpc-def-A22B-0036.jpg" type="jpeg"/> US4838036</paragraph-text>
+            <paragraph-text>Transportation of carcasses by means of trolleys or special vehicles as well as by manual means</paragraph-text>
+            <paragraph-text type="body"> <media id="media37.jpg" file-name="cpc-def-A22B-0037.jpg" type="jpeg"/> FR2648100</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">A22B7/008</classification-symbol><definition-title>{for temporary storage, disposal, cooling or removal of cadavers, carrion, offal or similar slaughterhouse waste}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Methods and machinery for receiving the viscera and entrails of a carcass</paragraph-text>
+            <paragraph-text>Illustrative example of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media38.jpg" file-name="cpc-def-A22B-0038.jpg" type="jpeg"/> US4090275</paragraph-text>
+            <paragraph-text>Methods and machinery for cleaning slaughterhouse installations and treating its residues and waste</paragraph-text>
+            <paragraph-text>Illustrative examples of subject matter classfied in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media39.jpg" file-name="cpc-def-A22B-0039.jpg" type="jpeg"/> WO2009156972</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column>
+                     <paragraph-text>Furnaces for the cremation of carcasses</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">F23G1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item></definitions>

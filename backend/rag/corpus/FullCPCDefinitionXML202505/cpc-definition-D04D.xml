@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2018-01-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">D04D</classification-symbol><definition-title>TRIMMINGS; RIBBONS, TAPES OR BANDS, NOT OTHERWISE PROVIDED FOR  (fittings or trimmings for hats, e.g. hat bands <class-ref scheme="cpc">A42C5/00</class-ref>; decorating art <class-ref scheme="cpc">B44</class-ref>; yarns or threads <class-ref scheme="cpc">D02G</class-ref>; weaving <class-ref scheme="cpc">D03</class-ref>; braid or lace <class-ref scheme="cpc">D04C</class-ref>; non-woven fabrics <class-ref scheme="cpc">D04H</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">tuft strings and elongated pile articles serving other than decorative purposes.</paragraph-text>
+            <paragraph-text type="body">These aspect are covered by <class-ref scheme="cpc">D04D3/00</class-ref>.</paragraph-text>
+            <paragraph-text type="body">textile decorative or ornamental articles of rope or ribbon shape with decorative properties imparted during textile formation</paragraph-text>
+            <paragraph-text type="body">flat or three dimensional articles made up from such materials</paragraph-text>
+            <paragraph-text type="body">textile forming processes other that weaving, knitting, crocheting or braiding providing these articles</paragraph-text>
+            <paragraph-text type="body">machines for making these articles</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Fittings or trimmings for hats, e.g. hat bands</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A42C5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Making jewellery or other personal adornments</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A44C27/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Products obtained by processes producing special ornamental surface effects</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B44C1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Special ornamental bodies and processes of making same</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B44C5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Flexible elongated elements, e.g. straps, for bundling or supporting articles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65D63/10</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Decorative textiles by mechanical or chemical treatment</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D06Q</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Load bearing band type slings</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B66C1/18</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Load bearing rope bands</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D07B5/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Trimmings</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">are decorative or ornamental articles made wholly or partly of textile or analogous material, or strips of textile or analogous material, intended to be used for decorative or ornamental purposes, not otherwise provided for.</paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D1/00</classification-symbol><definition-title>Ropes or like decorative or ornamental elongated trimmings made from filamentary material  (ropes or cords in general <class-ref scheme="cpc">D07B</class-ref>)</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">elongated textile decorative articles.</paragraph-text>
+   <paragraph-text type="body"> <media id="media0.jpg" file-name="cpc-def-D04D-0000.jpg" type="jpeg" preferred-width="2.0cm" preferred-height="7.03cm"/> <media id="media1.jpg" file-name="cpc-def-D04D-0001.jpg" type="jpeg" preferred-width="7.51cm" preferred-height="5.27cm"/> </paragraph-text>
+   </section-body> </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D1/02</classification-symbol><definition-title>by twisting strands around centrally arranged cores</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">decorative ropes wrapped for aesthetic purposes.</paragraph-text>
+   <paragraph-text type="body"> <media id="media2.jpg" file-name="cpc-def-D04D-0002.jpg" type="jpeg" preferred-width="7.95cm" preferred-height="2.23cm"/> </paragraph-text>
+   </section-body> </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D1/04</classification-symbol><definition-title>by threading or stringing pearls or beads on filamentary material</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">articles comprising beads or pearls incorporated during the textile forming process, e.g. stringing of beads.</paragraph-text>
+   <paragraph-text type="body"> <media id="media3.jpg" file-name="cpc-def-D04D-0003.jpg" type="jpeg" preferred-width="4.16cm" preferred-height="3.39cm"/> </paragraph-text>
+   </section-body> </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Textile articles with decorative attachments, e.g. beads, applied after the textile forming process</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.85cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A41D27/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04D3/00</classification-symbol><definition-title>Chenille trimmings  (chenille yarns <class-ref scheme="cpc">D02G</class-ref>; making chenille trimmings by weaving <class-ref scheme="cpc">D03D</class-ref>)</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body>
+   <paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">elongated articles including transversely oriented fibrous material, e.g. pile yarns, not strictly limited to a decorative purpose.</paragraph-text>
+   <paragraph-text type="body"> <media id="media4.jpg" file-name="cpc-def-D04D-0004.jpg" type="jpeg" preferred-width="11.33cm" preferred-height="2.09cm"/> </paragraph-text>
+   <paragraph-text type="body"> <media id="media5.jpg" file-name="cpc-def-D04D-0005.jpg" type="jpeg" preferred-width="11.36cm" preferred-height="4.59cm"/> </paragraph-text>
+   <paragraph-text type="body"> <media id="media6.jpg" file-name="cpc-def-D04D-0006.jpg" type="jpeg" preferred-width="11.38cm" preferred-height="6.56cm"/> </paragraph-text>
+   </section-body> </definition-statement><references><section-title>References</section-title><informative-references> <section-title>Informative references</section-title> <section-body>
+   <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+   <table>
+<table-row>
+         <table-column preferred-width="9.29cm">
+            <paragraph-text type="body">Processes and machines for making chenille trimmings not provided for under <class-ref scheme="cpc">D03</class-ref>, <class-ref scheme="cpc">D04B</class-ref>, <class-ref scheme="cpc">D04C</class-ref> or <class-ref scheme="cpc">D05C</class-ref> </paragraph-text>
+         </table-column>
+         <table-column preferred-width="5.74cm">
+            <paragraph-text type="body"> <class-ref scheme="cpc">D04D11/00</class-ref> </paragraph-text>
+         </table-column>
+      </table-row></table>
+   </section-body> </informative-references></references><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms>
+   <paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text>
+   <list>
+      <list-item> <paragraph-text type="body">&quot;pile element&quot; or &quot;tuftstring&quot;</paragraph-text> </list-item>
+   </list>
+   </synonyms></synonyms-keywords></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04D5/00</classification-symbol><definition-title>Fringes  (tasselled <class-ref scheme="cpc">D04D7/08</class-ref>)</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body>
+   <paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">ribbons including transversely oriented non pile-forming material, e.g. strips, bands or cords.</paragraph-text>
+   <paragraph-text type="body"> <media id="media7.jpg" file-name="cpc-def-D04D-0007.jpg" type="jpeg" preferred-width="5.81cm" preferred-height="6.72cm"/> </paragraph-text>
+   </section-body> </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+   <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+   <table>
+<table-row>
+         <table-column preferred-width="9.29cm">
+            <paragraph-text type="body">Chenille fringes</paragraph-text>
+         </table-column>
+         <table-column preferred-width="5.74cm">
+            <paragraph-text type="body"> <class-ref scheme="cpc">D04D3/00</class-ref> </paragraph-text>
+         </table-column>
+      </table-row>
+<table-row>
+         <table-column preferred-width="9.29cm">
+            <paragraph-text type="body">Tasselled fringes</paragraph-text>
+         </table-column>
+         <table-column preferred-width="5.74cm">
+            <paragraph-text type="body"> <class-ref scheme="cpc">D04D7/08</class-ref> </paragraph-text>
+         </table-column>
+      </table-row></table>
+   </section-body></limiting-references><informative-references> <section-title>Informative references</section-title> <section-body>
+   <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+   <table>
+<table-row>
+         <table-column preferred-width="9.29cm">
+            <paragraph-text type="body">Processes and machines for making chenille trimmings not provided for under <class-ref scheme="cpc">D03</class-ref>, <class-ref scheme="cpc">D04B</class-ref>, <class-ref scheme="cpc">D04C</class-ref> or <class-ref scheme="cpc">D05C</class-ref> </paragraph-text>
+         </table-column>
+         <table-column preferred-width="5.74cm">
+            <paragraph-text type="body"> <class-ref scheme="cpc">D04D11/00</class-ref> </paragraph-text>
+         </table-column>
+      </table-row></table>
+   </section-body> </informative-references></references><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms>
+   <paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text>
+   <list>
+      <list-item> <paragraph-text type="body">&quot;fringe&quot;, &quot;valance&quot;, &quot;festoon&quot;</paragraph-text> </list-item>
+   </list>
+   </synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D7/00</classification-symbol><definition-title>Decorative or ornamental textile articles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">decorative textile articles, processes of making same and devices for performing said processes.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Undergarments</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A41B9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Garment accessories</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A41D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D7/02</classification-symbol><definition-title>Flat articles</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">flat structures assembled from elongated textile decorative articles, e.g. beaded strings.</paragraph-text>
+   <paragraph-text type="body"> <media id="media8.jpg" file-name="cpc-def-D04D-0008.jpg" type="jpeg" preferred-width="6.7cm" preferred-height="5.79cm"/> </paragraph-text>
+   </section-body> </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Fabrics with embellishments attached after the fabric forming process, e.g. by sewing or gluing</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A41D27/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Fabrics with embellishments made by altering locally the surface material</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B44C1/005</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Fabrics with embellishments incorporated by weaving</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D03D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Fabrics with embellishments incorporated by knitting</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D04B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Fabrics with embellishments applied by embroiding</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D05C17/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Making patterns or designs on fabrics </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D06C23/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D7/04</classification-symbol><definition-title>Three-dimensional articles  (ornamental buttons <class-ref scheme="cpc">A44B1/04</class-ref>)</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">three dimensional decorative structures composed of one or more elongated textile articles.</paragraph-text>
+   <paragraph-text type="body"> <media id="media9.jpg" file-name="cpc-def-D04D-0009.jpg" type="jpeg" preferred-width="3.2cm" preferred-height="2.26cm"/> </paragraph-text>
+   </section-body> </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Elongated flexible Christmas tree decoration, e.g. tinsels, garlands, chains</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A47G33/0863</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D7/06</classification-symbol><definition-title>Ball-like tufts, e.g. pompons</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Decorative articles with pile fibres, filaments, tapes or yarns arranged in an approximately spherical three-dimensional configuration.</paragraph-text>
+            <paragraph-text type="body"> <media id="media10.png" file-name="cpc-def-D04D-0010.png" type="png" preferred-width="5.76cm" preferred-height="3.69cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D7/08</classification-symbol><definition-title>Tassels or tasselled fringes</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">decorative rope or strip bundles combined at one end or united at an intermediate portion.</paragraph-text>
+            <paragraph-text type="body"> <media id="media11.jpg" file-name="cpc-def-D04D-0011.jpg" type="jpeg" preferred-width="3.06cm" preferred-height="7.38cm"/> <media id="media12.jpg" file-name="cpc-def-D04D-0012.jpg" type="jpeg" preferred-width="5.19cm" preferred-height="7.53cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D7/10</classification-symbol><definition-title>Decorative bow structures  (neckties with ready-made knots or bows <class-ref scheme="cpc">A41D25/02</class-ref>)</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">three dimensional adornments including bunching tapes.</paragraph-text>
+   <paragraph-text type="body"> <media id="media13.jpg" file-name="cpc-def-D04D-0013.jpg" type="jpeg" preferred-width="4.76cm" preferred-height="3.58cm"/> </paragraph-text>
+   </section-body> </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D7/105</classification-symbol><definition-title>{made by means of a drawstring or drawstrip}</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">decorative bow structures formed or shaped by pulling one or more of the constituents.</paragraph-text>
+   <paragraph-text type="body"> <media id="media14.png" file-name="cpc-def-D04D-0014.png" type="png" preferred-width="6.23cm" preferred-height="7.69cm"/> <media id="media15.jpg" file-name="cpc-def-D04D-0015.jpg" type="jpeg" preferred-width="3.32cm" preferred-height="7.92cm"/> </paragraph-text>
+   </section-body> </definition-statement></definition-item>
+<definition-item date-revised="2018-01-01"><classification-symbol scheme="cpc">D04D9/00</classification-symbol><definition-title>Ribbons, tapes, welts, bands, beadings, or other decorative or ornamental strips, not otherwise provided for  (made by laminating <class-ref scheme="cpc">B32B</class-ref>; binders for packaging purposes <class-ref scheme="cpc">B65D</class-ref>; adhesive tape <class-ref scheme="cpc">C09J7/20</class-ref>; made by weaving <class-ref scheme="cpc">D03</class-ref>; made by braiding <class-ref scheme="cpc">D04C</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">decorative or ornamental textile strips not provided for in one of the subclasses, and textile processes of making same.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Laminated tapes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B32B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Flexible elongated elements, e.g. straps, for bundling or supporting articles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65D63/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Adhesive tapes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body">  <class-ref scheme="cpc">C09J7/20</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Woven curtain heading tapes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D03D1/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Woven tapes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D03D3/005</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Knitted or crocheted tapes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D04B1/22</class-ref>, <class-ref scheme="cpc">D04B21/20</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Braided tapes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D04C1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D9/02</classification-symbol><definition-title>made by lengthwise folding of fabric strip</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">longitudinally folded or pleated decorative tapes.</paragraph-text>
+   <paragraph-text type="body"> <media id="media16.jpg" file-name="cpc-def-D04D-0016.jpg" type="jpeg" preferred-width="7.83cm" preferred-height="3.03cm"/> </paragraph-text>
+   <paragraph-text type="body"> <media id="media17.jpg" file-name="cpc-def-D04D-0017.jpg" type="jpeg" preferred-width="5.64cm" preferred-height="2.16cm"/> </paragraph-text>
+   </section-body> </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D9/04</classification-symbol><definition-title>built-up from several strips or elements</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">assembled decorative tapes.</paragraph-text>
+   <paragraph-text type="body"> <media id="media18.jpg" file-name="cpc-def-D04D-0018.jpg" type="jpeg" preferred-width="6.77cm" preferred-height="6.35cm"/> </paragraph-text>
+   <paragraph-text type="body"> <media id="media19.jpg" file-name="cpc-def-D04D-0019.jpg" type="jpeg" preferred-width="6.86cm" preferred-height="4.91cm"/> </paragraph-text>
+   <paragraph-text type="body"> <media id="media20.jpg" file-name="cpc-def-D04D-0020.jpg" type="jpeg" preferred-width="12.13cm" preferred-height="1.97cm"/> </paragraph-text>
+   <paragraph-text type="body"> <media id="media21.jpg" file-name="cpc-def-D04D-0021.jpg" type="jpeg" preferred-width="6.84cm" preferred-height="7.48cm"/> </paragraph-text>
+   </section-body> </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D9/06</classification-symbol><definition-title>made by working plastics</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">decorative foil strips.</paragraph-text>
+   <paragraph-text type="body"> <media id="media22.jpg" file-name="cpc-def-D04D-0022.jpg" type="jpeg" preferred-width="10.77cm" preferred-height="2.07cm"/> </paragraph-text>
+   </section-body> </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04D11/00</classification-symbol><definition-title>Ribbon-threading apparatus or devices  (needles <class-ref scheme="cpc">D05B</class-ref>)</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">tools and machines for making decorative rope or ribbon articles.</paragraph-text>
+   <paragraph-text type="body"> <media id="media23.jpg" file-name="cpc-def-D04D-0023.jpg" type="jpeg" preferred-width="10.63cm" preferred-height="7.29cm"/> </paragraph-text>
+   </section-body> </definition-statement></definition-item></definitions>

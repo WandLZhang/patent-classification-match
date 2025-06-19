@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item date-revised="2016-01-01"><classification-symbol scheme="cpc">B24C</classification-symbol><definition-title>ABRASIVE OR RELATED BLASTING WITH PARTICULATE MATERIAL</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Abrasive or related blasting with particulate material, whereby a blast of any particles or pellets dispersed in air, gas, or liquid ( or an equivalent jet of particles or pellets projected or energised by other means ) is used for the treatment of surfaces or cutting of materials, the particles usually being of abrasive material.</paragraph-text>
+            <paragraph-text type="body">Blasting with jets acting as abrasive jets, but not containing particulate material in the exceptional cases of deburring, removal of extended surface areas and jet milling of local recessions e.g. grooves.</paragraph-text>
+         </section-body>
+      </definition-statement><relationship>
+         <section-title>Relationships with other classification places</section-title>
+         <section-body>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Abrasive machining</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">Subclass <class-ref scheme="cpc">B24B</class-ref> of grinding and polishing complements the abrasive blasting with particulate material, which is covered by <class-ref scheme="cpc">B24C</class-ref>.Polishing or abrading surfaces by means of tumbling apparatuses or other apparatuses in which the work or the abrasive material is loose, are covered by main group <class-ref scheme="cpc">B24B31/00</class-ref>.Abrading internal surfaces, e.g. of a tube or a flow channel, by operations in which a plastically deformable grinding compound is used as a loose abrasive material under the influence of pressure, known in the art as abrasive flow machining, extrude honing or hydro-erosive machining, is covered by group <class-ref scheme="cpc">B24B31/116</class-ref> when the dynamic viscosity of the carrier medium is higher than that of conventional fuels such as diesel. When the dynamic viscosity of the carrier is less than or equal to that of conventional fuel (e.g. when water is used as a carrier), the machining is considered as particulate blasting of an internal surface, which is covered by <class-ref scheme="cpc">B24C3/325</class-ref> and its subgroups.</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Spraying or atomising, nozzles</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">Spraying or atomising in general and nozzles in general are covered by subclass <class-ref scheme="cpc">B05B</class-ref>.</paragraph-text>
+            <paragraph-text type="body">Nozzles specially adapted for blasting surfaces with a jet of particulate material are covered by group <class-ref scheme="cpc">B24C5/04</class-ref>.</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Abrasive materials and polishing compositions</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">Abrasive particles, powders or compositions in general are covered by groups <class-ref scheme="cpc">C09K3/14</class-ref> and <class-ref scheme="cpc">C09G1/00</class-ref>. Polishing compositions in general when they contain abrasives or grinding agents are covered by <class-ref scheme="cpc">C09G1/02</class-ref>. When used as materials for abrasive blasting, they are covered by <class-ref scheme="cpc">B24C11/00</class-ref>.</paragraph-text>
+         </section-body>
+      </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Dental tools or instruments acting like a sandblast machine</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.32cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A61C3/025</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Energy dissipating devices for cutting jets with or without particles, known in the art as catcher tanks</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.32cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B26F3/008</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Producing decorative effects by removing surface-material using streams of abrasive particles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.32cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B44C1/221</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Blasting semiconductor devices e.g. with a jet of particulate matter acting like sand blasting</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.32cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01L21/3046</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Application of shock-waves</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B01J3/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Processes employing sonic or ultrasonic vibrations</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B01J19/10</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Nozzles in general, Spraying or atomising in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B05B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Jet flame processing in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B05B7/205</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Cleaning in general; prevention of fouling in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B08B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Cleaning by the force of jets or sprays without particles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B08B3/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Sonic or ultrasonic cleaning</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B08B3/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Shot-peening for deforming sheet metal, tubes or profiles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B21D31/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Machines or devices for scraping</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B23D79/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Cavitation peening. Treating or finishing by hammering or applying repeated pressure</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B23P9/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Peening when the peening media is guided on its path during the peening action</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24B39/006</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Perforating by means of a fluid jet without particles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B26F1/26</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Severing by means of a fluid jet without particles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B26F3/004</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Recycling of tires</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B29B17/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Implements or apparatus for removing dry paint from surfaces, e.g. by scraping</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B44D3/16</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Shot-peening as a metallurgical treatment of iron or steel</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C21D7/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Shot-peening as a metallurgical treatment of non-ferrous material</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C22F1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Earth drilling by liquid or gas jets, with or without entrained pellets</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E21B7/18</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Production of stencils for photo mask processing</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G03F7/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Stripping of photosensitive material</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G03F7/42</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Controlling; regulating, e.g. cutting control, pierce-through measurement</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G05</class-ref>, <class-ref scheme="cpc">G05B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C1/00</classification-symbol><definition-title>Methods for use of abrasive blasting for producing particular effects; Use of auxiliary equipment in connection with such methods</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Abrasive blasting methods for producing particular effects and also devices configured to perform these methods.</paragraph-text>
+            <paragraph-text type="body">Example(s): US20080076328, EP0015470, WO20060097133.</paragraph-text>
+            <paragraph-text type="body"> <media id="media0.png" file-name="cpc-def-B24C-0000.png" type="png" preferred-width="2.65cm" preferred-height="3.7cm"/> <media id="media1.png" file-name="cpc-def-B24C-0001.png" type="png" preferred-width="7.96cm" preferred-height="3.7cm"/> <media id="media2.png" file-name="cpc-def-B24C-0002.png" type="png" preferred-width="3.07cm" preferred-height="3.81cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B24C1/003</classification-symbol><definition-title>{using material which dissolves or changes phase after the treatment, e.g. ice, CO<sub>2</sub>}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US20100192655, US20060089090, DE1020040023246.</paragraph-text>
+            <paragraph-text type="body"> <media id="media3.png" file-name="cpc-def-B24C-0003.png" type="png" preferred-width="4.83cm" preferred-height="3.67cm"/> <media id="media4.png" file-name="cpc-def-B24C-0004.png" type="png" preferred-width="4.66cm" preferred-height="3.1cm"/> <media id="media5.png" file-name="cpc-def-B24C-0005.png" type="png" preferred-width="4.49cm" preferred-height="6.41cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Solidifying carbon dioxide</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C01B32/55</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Production, working, storing or distributing of ice</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F25C1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C1/02</classification-symbol><definition-title>for sharpening or cleaning cutting tools, e.g. files</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): WO9735686, EP1792691.</paragraph-text>
+            <paragraph-text type="body"> <media id="media6.png" file-name="cpc-def-B24C-0006.png" type="png" preferred-width="7.59cm" preferred-height="7.59cm"/> <media id="media7.png" file-name="cpc-def-B24C-0007.png" type="png" preferred-width="5.64cm" preferred-height="7.61cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C1/04</classification-symbol><definition-title>for treating only selected parts of a surface, e.g. for carving stone or glass</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US 20100269593, US20070259606.</paragraph-text>
+            <paragraph-text type="body"> <media id="media8.png" file-name="cpc-def-B24C-0008.png" type="png" preferred-width="5.36cm" preferred-height="6.67cm"/> <media id="media9.png" file-name="cpc-def-B24C-0009.png" type="png" preferred-width="8.93cm" preferred-height="6.72cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2016-01-01"><classification-symbol scheme="cpc">B24C1/045</classification-symbol><definition-title>{for cutting  (energy dissipating devices therefor <class-ref scheme="cpc">B26F3/008</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): GB2400893, US20030065424.</paragraph-text>
+            <paragraph-text type="body"> <media id="media10.png" file-name="cpc-def-B24C-0010.png" type="png" preferred-width="7.11cm" preferred-height="5.33cm"/> <media id="media11.png" file-name="cpc-def-B24C-0011.png" type="png" preferred-width="7.2cm" preferred-height="5.34cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Energy dissipating devices for cutting jets with or without particles, known in the art as catcher tanks</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B26F3/008</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Controlling; regulating, e.g. cutting control, pierce-through measurement</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G05</class-ref>, <class-ref scheme="cpc">G05B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C1/06</classification-symbol><definition-title>for producing matt surfaces, e.g. on plastic materials, on glass</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP1803532, US7131303, JP20040230549, EP0811582.</paragraph-text>
+            <paragraph-text type="body"> <media id="media12.png" file-name="cpc-def-B24C-0012.png" type="png" preferred-width="4.32cm" preferred-height="3.98cm"/> <media id="media13.png" file-name="cpc-def-B24C-0013.png" type="png" preferred-width="3.47cm" preferred-height="4.03cm"/> <media id="media14.png" file-name="cpc-def-B24C-0014.png" type="png" preferred-width="3.22cm" preferred-height="3.92cm"/> <media id="media15.png" file-name="cpc-def-B24C-0015.png" type="png" preferred-width="2.88cm" preferred-height="3.92cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C1/08</classification-symbol><definition-title>for polishing surfaces, e.g. {smoothing a surface} by making use of liquid-borne abrasives</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP2132001.</paragraph-text>
+            <paragraph-text type="body"> <media id="media16.png" file-name="cpc-def-B24C-0016.png" type="png" preferred-width="9.57cm" preferred-height="3.53cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C1/083</classification-symbol><definition-title>{Deburring}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US20040168494, EP1839801, WO20080044613.</paragraph-text>
+            <paragraph-text type="body"> <media id="media17.png" file-name="cpc-def-B24C-0017.png" type="png" preferred-width="4.74cm" preferred-height="2.82cm"/> <media id="media18.png" file-name="cpc-def-B24C-0018.png" type="png" preferred-width="3.81cm" preferred-height="2.82cm"/> <media id="media19.png" file-name="cpc-def-B24C-0019.png" type="png" preferred-width="5.0cm" preferred-height="2.79cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2016-01-01"><classification-symbol scheme="cpc">B24C1/086</classification-symbol><definition-title>{Descaling; Removing coating films}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US20080108281, US20030219621, US20030116649.</paragraph-text>
+            <paragraph-text type="body"> <media id="media20.png" file-name="cpc-def-B24C-0020.png" type="png" preferred-width="3.81cm" preferred-height="3.3cm"/> <media id="media21.png" file-name="cpc-def-B24C-0021.png" type="png" preferred-width="5.76cm" preferred-height="3.3cm"/> <media id="media22.png" file-name="cpc-def-B24C-0022.png" type="png" preferred-width="4.4cm" preferred-height="3.3cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Cleaning by the force of jets or sprays without particles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B08B3/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">B24C1/10</classification-symbol><definition-title>for compacting surfaces, e.g. shot-peening  (for deforming sheet metal, tubes or profiles <class-ref scheme="cpc">B21D31/06</class-ref>; as a metallurgical treatment <class-ref scheme="cpc">C21D7/00</class-ref>, <class-ref scheme="cpc">C22F1/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): FR2689431, EP0359277, US4258084, DE1020080011243.</paragraph-text>
+            <paragraph-text type="body"> <media id="media23.png" file-name="cpc-def-B24C-0023.png" type="png" preferred-width="3.86cm" preferred-height="5.26cm"/> <media id="media24.png" file-name="cpc-def-B24C-0024.png" type="png" preferred-width="2.88cm" preferred-height="2.09cm"/> <media id="media25.png" file-name="cpc-def-B24C-0025.png" type="png" preferred-width="3.56cm" preferred-height="1.35cm"/> <media id="media26.png" file-name="cpc-def-B24C-0026.png" type="png" preferred-width="3.3cm" preferred-height="5.33cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Peening when the peening media is guided on its path during the peening action</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24B39/006</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Shot-peening for deforming sheet metal, tubes or profiles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B21D31/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Shot-peening as a metallurgical treatment of iron or steel</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C21D7/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Shot-peening as a metallurgical treatment of non-ferrous material</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C22F1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table></section-body></application-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Application of shock-waves</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B01J3/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Cavitation peening. Treating or finishing by hammering or applying repeated pressure</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B23P9/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/00</classification-symbol><definition-title>Abrasive blasting machines or devices; Plants</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Abrasive blasting machines and plants.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Aspects of machines related to the processes of group <class-ref scheme="cpc">B24C1/00</class-ref> and its subgroups</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Aspects of machines related to the processes of dry ice blasting and blasting with salt dissolving during or after blasting</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C1/003</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Aspects of machines related to the process of shot peening</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C1/10</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/02</classification-symbol><definition-title>characterised by the arrangement of the component assemblies with respect to each other  (<class-ref scheme="cpc">B24C3/08</class-ref>, <class-ref scheme="cpc">B24C3/18</class-ref> take precedence)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Also machines with intersecting and swinging or swivelling nozzles.</paragraph-text>
+            <paragraph-text type="body">Example(s): US6604986 (intersecting nozzles), US20040162009, DE1020070006673 (swinging nozzles).</paragraph-text>
+            <paragraph-text type="body"> <media id="media27.png" file-name="cpc-def-B24C-0027.png" type="png" preferred-width="4.49cm" preferred-height="2.8cm"/> <media id="media28.png" file-name="cpc-def-B24C-0028.png" type="png" preferred-width="4.49cm" preferred-height="4.74cm"/> <media id="media29.png" file-name="cpc-def-B24C-0029.png" type="png" preferred-width="3.73cm" preferred-height="5.26cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/04</classification-symbol><definition-title>stationary</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">also devices with rotating nozzles.</paragraph-text>
+            <paragraph-text type="body">Example(s): DE1020070033788 (robot), WO20100119201 (rotating nozzles), WO9114539, US20060049285 (rotating nozzles), US20060135041 (gantry type), DE1020080027217</paragraph-text>
+            <paragraph-text type="body"> <media id="media30.png" file-name="cpc-def-B24C-0030.png" type="png" preferred-width="4.32cm" preferred-height="3.13cm"/> <media id="media31.png" file-name="cpc-def-B24C-0031.png" type="png" preferred-width="4.91cm" preferred-height="3.04cm"/> <media id="media32.png" file-name="cpc-def-B24C-0032.png" type="png" preferred-width="4.74cm" preferred-height="3.3cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media33.png" file-name="cpc-def-B24C-0033.png" type="png" preferred-width="2.96cm" preferred-height="3.67cm"/> <media id="media34.png" file-name="cpc-def-B24C-0034.png" type="png" preferred-width="5.59cm" preferred-height="3.58cm"/> <media id="media35.png" file-name="cpc-def-B24C-0035.png" type="png" preferred-width="5.76cm" preferred-height="3.75cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2017-05-01"><classification-symbol scheme="cpc">B24C3/06</classification-symbol><definition-title>movable; portable</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US5191740, US5216849, WO9505922 (road barrier), US20080287039, WO20060097133 (handheld), US5181349 (handheld), EP1207235 (road vehicle), WO0048901, EP0795380 (corner), EP2038088 (portable), US5248436 (from helicopter or ship).</paragraph-text>
+            <paragraph-text type="body"> <media id="media36.png" file-name="cpc-def-B24C-0036.png" type="png" preferred-width="3.89cm" preferred-height="3.28cm"/> <media id="media37.png" file-name="cpc-def-B24C-0037.png" type="png" preferred-width="8.04cm" preferred-height="3.22cm"/> <media id="media38.png" file-name="cpc-def-B24C-0038.png" type="png" preferred-width="2.12cm" preferred-height="3.31cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media39.png" file-name="cpc-def-B24C-0039.png" type="png" preferred-width="7.03cm" preferred-height="4.6cm"/> <media id="media2.png" file-name="cpc-def-B24C-0002.png" type="png" preferred-width="3.73cm" preferred-height="4.6cm"/> <media id="media41.png" file-name="cpc-def-B24C-0041.png" type="png" preferred-width="3.22cm" preferred-height="4.54cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media42.png" file-name="cpc-def-B24C-0042.png" type="png" preferred-width="5.16cm" preferred-height="3.87cm"/> <media id="media43.png" file-name="cpc-def-B24C-0043.png" type="png" preferred-width="5.93cm" preferred-height="3.89cm"/> <media id="media44.png" file-name="cpc-def-B24C-0044.png" type="png" preferred-width="2.74cm" preferred-height="3.71cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media45.png" file-name="cpc-def-B24C-0045.png" type="png" preferred-width="4.37cm" preferred-height="6.18cm"/> <media id="media46.png" file-name="cpc-def-B24C-0046.png" type="png" preferred-width="4.29cm" preferred-height="6.31cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/062</classification-symbol><definition-title>{for vertical surfaces}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">also blasting of surfaces that are not strictly vertical.</paragraph-text>
+            <paragraph-text type="body">Example(s): FR2891175 (ship hull, airplane hull).</paragraph-text>
+            <paragraph-text type="body"> <media id="media47.png" file-name="cpc-def-B24C-0047.png" type="png" preferred-width="6.1cm" preferred-height="6.18cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">Blasting of surfaces that are not strictly vertical and containing devices with suction means are additionally classified in <class-ref scheme="cpc">B24C3/065</class-ref>.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/067</classification-symbol><definition-title>{Self-contained units for floorings}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices with suction means and horizontal working plane for treating floorings.</paragraph-text>
+            <paragraph-text type="body">Example(s): FR2564769.</paragraph-text>
+            <paragraph-text type="body"> <media id="media48.png" file-name="cpc-def-B24C-0048.png" type="png" preferred-width="5.16cm" preferred-height="3.95cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/08</classification-symbol><definition-title>essentially adapted for abrasive blasting of travelling stock or travelling workpieces</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US5512005, US5417608</paragraph-text>
+            <paragraph-text type="body"> <media id="media49.png" file-name="cpc-def-B24C-0049.png" type="png" preferred-width="7.45cm" preferred-height="2.57cm"/> <media id="media50.png" file-name="cpc-def-B24C-0050.png" type="png" preferred-width="3.73cm" preferred-height="2.54cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Machines or devices where the workpieces are transported or agitated by troughed belt conveyors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C3/266</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/081</classification-symbol><definition-title>{for travelling bundles of wires}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): GB1149317.</paragraph-text>
+            <paragraph-text type="body"> <media id="media51.png" file-name="cpc-def-B24C-0051.png" type="png" preferred-width="7.45cm" preferred-height="3.5cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/083</classification-symbol><definition-title>{Transfer or feeding devices; Accessories therefor}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP0227275, EP0100944, GB1080030.</paragraph-text>
+            <paragraph-text type="body"> <media id="media52.png" file-name="cpc-def-B24C-0052.png" type="png" preferred-width="4.57cm" preferred-height="4.48cm"/> <media id="media53.png" file-name="cpc-def-B24C-0053.png" type="png" preferred-width="4.23cm" preferred-height="4.51cm"/> <media id="media54.png" file-name="cpc-def-B24C-0054.png" type="png" preferred-width="4.32cm" preferred-height="4.54cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/085</classification-symbol><definition-title>{the travelling workpieces being moved into different working positions during travelling}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP2178677, US20080258367, US20080209731.</paragraph-text>
+            <paragraph-text type="body"> <media id="media55.png" file-name="cpc-def-B24C-0055.png" type="png" preferred-width="5.33cm" preferred-height="3.33cm"/> <media id="media56.png" file-name="cpc-def-B24C-0056.png" type="png" preferred-width="5.25cm" preferred-height="3.36cm"/> <media id="media57.png" file-name="cpc-def-B24C-0057.png" type="png" preferred-width="3.3cm" preferred-height="3.36cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Machines or devices where the workpieces are transported or agitated by troughed belt conveyors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C3/266</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/086</classification-symbol><definition-title>{whereby the workpieces are turned through a rotational arc of about 180 degrees}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): CH614656.</paragraph-text>
+            <paragraph-text type="body"> <media id="media58.png" file-name="cpc-def-B24C-0058.png" type="png" preferred-width="6.6cm" preferred-height="3.92cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/088</classification-symbol><definition-title>{using a vibratory transfer mechanism}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): DE4435333, DE1020080011663, US20030186626.</paragraph-text>
+            <paragraph-text type="body"> <media id="media59.png" file-name="cpc-def-B24C-0059.png" type="png" preferred-width="7.59cm" preferred-height="3.61cm"/> <media id="media60.png" file-name="cpc-def-B24C-0060.png" type="png" preferred-width="4.38cm" preferred-height="3.7cm"/> <media id="media61.png" file-name="cpc-def-B24C-0061.png" type="png" preferred-width="4.49cm" preferred-height="6.61cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/10</classification-symbol><definition-title>for treating external surfaces</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US20050204528</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Machines or devices where the workpieces are transported or agitated by troughed belt conveyors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C3/266</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2017-05-01"><classification-symbol scheme="cpc">B24C3/12</classification-symbol><definition-title>Apparatus using nozzles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US20050255795, US4251956, US20030219621.</paragraph-text>
+            <paragraph-text type="body"> <media id="media62.png" file-name="cpc-def-B24C-0062.png" type="png" preferred-width="4.49cm" preferred-height="3.61cm"/> <media id="media63.png" file-name="cpc-def-B24C-0063.png" type="png" preferred-width="3.3cm" preferred-height="3.67cm"/> <media id="media21.png" file-name="cpc-def-B24C-0021.png" type="png" preferred-width="6.6cm" preferred-height="3.72cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/14</classification-symbol><definition-title>Apparatus using impellers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US4566230</paragraph-text>
+            <paragraph-text type="body"> <media id="media65.png" file-name="cpc-def-B24C-0065.png" type="png" preferred-width="5.93cm" preferred-height="9.51cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2017-05-01"><classification-symbol scheme="cpc">B24C3/16</classification-symbol><definition-title>for treating internal surfaces</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US20080209731, DE4342593.</paragraph-text>
+            <paragraph-text type="body"> <media id="media57.png" file-name="cpc-def-B24C-0057.png" type="png" preferred-width="7.34cm" preferred-height="7.48cm"/> <media id="media67.png" file-name="cpc-def-B24C-0067.png" type="png" preferred-width="4.66cm" preferred-height="7.42cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/18</classification-symbol><definition-title>essentially provided with means for moving workpieces into different working positions  (<class-ref scheme="cpc">B24C3/08</class-ref> takes precedence)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP1045743, EP0523462, EP0248096.</paragraph-text>
+            <paragraph-text type="body"> <media id="media68.png" file-name="cpc-def-B24C-0068.png" type="png" preferred-width="5.48cm" preferred-height="6.49cm"/> <media id="media69.png" file-name="cpc-def-B24C-0069.png" type="png" preferred-width="7.98cm" preferred-height="6.4cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media70.png" file-name="cpc-def-B24C-0070.png" type="png" preferred-width="7.45cm" preferred-height="4.91cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/20</classification-symbol><definition-title>the work being supported by turntables</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US20060189265.</paragraph-text>
+            <paragraph-text type="body"> <media id="media71.png" file-name="cpc-def-B24C-0071.png" type="png" preferred-width="7.37cm" preferred-height="6.32cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2017-05-01"><classification-symbol scheme="cpc">B24C3/22</classification-symbol><definition-title>Apparatus using nozzles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP0927773, WO9735686, US5272897.</paragraph-text>
+            <paragraph-text type="body"> <media id="media72.png" file-name="cpc-def-B24C-0072.png" type="png" preferred-width="7.79cm" preferred-height="4.09cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media6.png" file-name="cpc-def-B24C-0006.png" type="png" preferred-width="7.79cm" preferred-height="7.79cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media74.png" file-name="cpc-def-B24C-0074.png" type="png" preferred-width="7.76cm" preferred-height="9.56cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/24</classification-symbol><definition-title>Apparatus using impellers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US6726548, DE4408643, DE4415094.</paragraph-text>
+            <paragraph-text type="body"> <media id="media75.png" file-name="cpc-def-B24C-0075.png" type="png" preferred-width="9.65cm" preferred-height="5.25cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media76.png" file-name="cpc-def-B24C-0076.png" type="png" preferred-width="8.47cm" preferred-height="6.52cm"/> <media id="media77.png" file-name="cpc-def-B24C-0077.png" type="png" preferred-width="5.59cm" preferred-height="7.17cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/26</classification-symbol><definition-title>the work being supported by barrel cages, i.e. tumblers; Gimbal mountings therefor</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): JP60034270, EP1172177, WO20040048036.</paragraph-text>
+            <paragraph-text type="body"> <media id="media78.png" file-name="cpc-def-B24C-0078.png" type="png" preferred-width="7.11cm" preferred-height="9.71cm"/> <media id="media79.png" file-name="cpc-def-B24C-0079.png" type="png" preferred-width="3.56cm" preferred-height="9.74cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media80.png" file-name="cpc-def-B24C-0080.png" type="png" preferred-width="10.67cm" preferred-height="5.45cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/263</classification-symbol><definition-title>{using refrigerating means}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US6059640.</paragraph-text>
+            <paragraph-text type="body"> <media id="media81.png" file-name="cpc-def-B24C-0081.png" type="png" preferred-width="8.13cm" preferred-height="7.22cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/266</classification-symbol><definition-title>{for continuously travelling workpieces}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): CH665987, US4218854, US4003164.</paragraph-text>
+            <paragraph-text type="body"> <media id="media82.png" file-name="cpc-def-B24C-0082.png" type="png" preferred-width="9.14cm" preferred-height="6.1cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media83.png" file-name="cpc-def-B24C-0083.png" type="png" preferred-width="6.94cm" preferred-height="4.91cm"/> <media id="media84.png" file-name="cpc-def-B24C-0084.png" type="png" preferred-width="5.72cm" preferred-height="8.12cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/28</classification-symbol><definition-title>Apparatus using nozzles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): GB851361.</paragraph-text>
+            <paragraph-text type="body"> <media id="media85.png" file-name="cpc-def-B24C-0085.png" type="png" preferred-width="7.7cm" preferred-height="9.59cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/30</classification-symbol><definition-title>Apparatus using impellers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): GB592600.</paragraph-text>
+            <paragraph-text type="body"> <media id="media86.png" file-name="cpc-def-B24C-0086.png" type="png" preferred-width="9.74cm" preferred-height="9.68cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2017-05-01"><classification-symbol scheme="cpc">B24C3/32</classification-symbol><definition-title>designed for abrasive blasting of particular work, e.g. the internal surfaces of cylinder blocks  (<class-ref scheme="cpc">B24C3/08</class-ref>, <class-ref scheme="cpc">B24C3/18</class-ref> take precedence)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP1754573, WO9505922, GB2249045, US20030070693 (method for cleaning and injection mould), US5512007 (flexible connection), DE4408645 (springs).</paragraph-text>
+            <paragraph-text type="body"> <media id="media87.png" file-name="cpc-def-B24C-0087.png" type="png" preferred-width="7.79cm" preferred-height="5.98cm"/> <media id="media38.png" file-name="cpc-def-B24C-0038.png" type="png" preferred-width="4.57cm" preferred-height="7.11cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media89.png" file-name="cpc-def-B24C-0089.png" type="png" preferred-width="6.77cm" preferred-height="3.76cm"/> <media id="media90.png" file-name="cpc-def-B24C-0090.png" type="png" preferred-width="7.03cm" preferred-height="4.12cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media91.png" file-name="cpc-def-B24C-0091.png" type="png" preferred-width="6.27cm" preferred-height="2.2cm"/> <media id="media92.png" file-name="cpc-def-B24C-0092.png" type="png" preferred-width="7.37cm" preferred-height="4.68cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">Contrary to the take-precedence-rules in the title of this subgroup, documents relating to the aspects of subgroup <class-ref scheme="cpc">B24C3/08</class-ref> (abrasive blasting of traveling or moving workpieces) and documents relating to the aspects of subgroup <class-ref scheme="cpc">B24C3/18</class-ref> (with means for moving workpieces into different working positions) are covered in this subgroup <class-ref scheme="cpc">B24C3/32</class-ref> when additionally relating to the aspects of this subgroup <class-ref scheme="cpc">B24C3/32</class-ref> (designed for abrasive blasting of particular work).</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/322</classification-symbol><definition-title>{for electrical components}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): WO9528256 (blasting of CRT), US5916738, US20100068976 (blasting of motor conductors).</paragraph-text>
+            <paragraph-text type="body"> <media id="media93.png" file-name="cpc-def-B24C-0093.png" type="png" preferred-width="8.81cm" preferred-height="5.11cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media94.png" file-name="cpc-def-B24C-0094.png" type="png" preferred-width="5.59cm" preferred-height="7.47cm"/> <media id="media95.png" file-name="cpc-def-B24C-0095.png" type="png" preferred-width="6.94cm" preferred-height="6.72cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Blasting semiconductor devices e.g. with a jet of particulate matter acting like sand blasting</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01L21/3046</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2017-05-01"><classification-symbol scheme="cpc">B24C3/325</classification-symbol><definition-title>{for internal surfaces, e.g. of tubes}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): DE1020070006661, EP1898003 (blasting of tunnel walls), EP1901894, US20040162009 (internal blasting of motor block), DE10341029, US20020179119 (internal blasting of concrete mixer), US6402854, EP1423237, GB850045, DE4015412.</paragraph-text>
+            <paragraph-text type="body"> <media id="media96.png" file-name="cpc-def-B24C-0096.png" type="png" preferred-width="3.3cm" preferred-height="4.91cm"/> <media id="media97.png" file-name="cpc-def-B24C-0097.png" type="png" preferred-width="5.59cm" preferred-height="4.77cm"/> <media id="media98.png" file-name="cpc-def-B24C-0098.png" type="png" preferred-width="4.83cm" preferred-height="4.86cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media28.png" file-name="cpc-def-B24C-0028.png" type="png" preferred-width="4.91cm" preferred-height="5.2cm"/> <media id="media100.png" file-name="cpc-def-B24C-0100.png" type="png" preferred-width="9.48cm" preferred-height="4.29cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media101.png" file-name="cpc-def-B24C-0101.png" type="png" preferred-width="7.62cm" preferred-height="4.21cm"/> <media id="media102.png" file-name="cpc-def-B24C-0102.png" type="png" preferred-width="6.86cm" preferred-height="4.15cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media103.png" file-name="cpc-def-B24C-0103.png" type="png" preferred-width="5.93cm" preferred-height="3.64cm"/> <media id="media104.png" file-name="cpc-def-B24C-0104.png" type="png" preferred-width="4.32cm" preferred-height="3.7cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media105.png" file-name="cpc-def-B24C-0105.png" type="png" preferred-width="6.52cm" preferred-height="5.78cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/327</classification-symbol><definition-title>{by an axially-moving flow of abrasive particles without passing a blast gun, impeller or the like along the internal surface  (polishing or abrading surfaces using plastically deformable grinding compound, moved relatively to the workpiece under the influence of pressure <class-ref scheme="cpc">B24B31/116</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Blasting of internal surfaces with particulate matter and without passing a blast gun, impeller or the like along the internal surface.The flow is considered as blasting only when the dynamic viscosity of the carrier is less than or equal to that of conventional fuels like diesel, e.g. when water is used as a carrier.</paragraph-text>
+            <paragraph-text type="body">Example(s): EP1312432, US5391256, DE4420579.</paragraph-text>
+            <paragraph-text type="body"> <media id="media106.png" file-name="cpc-def-B24C-0106.png" type="png" preferred-width="7.87cm" preferred-height="5.73cm"/> <media id="media107.png" file-name="cpc-def-B24C-0107.png" type="png" preferred-width="4.4cm" preferred-height="7.29cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media108.png" file-name="cpc-def-B24C-0108.png" type="png" preferred-width="8.38cm" preferred-height="4.37cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Machining of internal surfaces with plastically deformable grinding compound, i.e. when the dynamic viscosity of the carrier medium is higher than that of conventional fuels like diesel</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24B31/116</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C3/34</classification-symbol><definition-title>for cleaning sparking plugs</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US3704552, US3913273.</paragraph-text>
+            <paragraph-text type="body"> <media id="media109.png" file-name="cpc-def-B24C-0109.png" type="png" preferred-width="5.49cm" preferred-height="8.12cm"/> <media id="media110.png" file-name="cpc-def-B24C-0110.png" type="png" preferred-width="5.42cm" preferred-height="8.3cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2016-01-01"><classification-symbol scheme="cpc">B24C5/00</classification-symbol><definition-title>Devices or accessories for generating abrasive blasts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">e.g. abrasive blasting with particles by jet flame processing.</paragraph-text>
+            <paragraph-text type="body">Example(s): GB938025, US4616787, EP1539424 (jet flame abrasive blasting) EP1155781.</paragraph-text>
+            <paragraph-text type="body"> <media id="media111.png" file-name="cpc-def-B24C-0111.png" type="png" preferred-width="5.67cm" preferred-height="7.76cm"/> <media id="media112.png" file-name="cpc-def-B24C-0112.png" type="png" preferred-width="6.18cm" preferred-height="7.79cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media113.png" file-name="cpc-def-B24C-0113.png" type="png" preferred-width="7.2cm" preferred-height="4.18cm"/> <media id="media114.png" file-name="cpc-def-B24C-0114.png" type="png" preferred-width="7.09cm" preferred-height="4.23cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Jet flame processing in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B05B7/205</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2016-01-01"><classification-symbol scheme="cpc">B24C5/005</classification-symbol><definition-title>{Vibratory devices, e.g. for generating abrasive blasts by ultrasonic vibrations  (sonic cleaning in general <class-ref scheme="cpc">B08B3/12</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP1207013, FR2689431.</paragraph-text>
+            <paragraph-text type="body"> <media id="media115.png" file-name="cpc-def-B24C-0115.png" type="png" preferred-width="6.86cm" preferred-height="6.97cm"/> <media id="media116.png" file-name="cpc-def-B24C-0116.png" type="png" preferred-width="6.52cm" preferred-height="8.35cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Sonic cleaning in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B08B3/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C5/02</classification-symbol><definition-title>Blast guns, e.g. for generating high velocity abrasive fluid jets for cutting materials {(perforating by fluid jet <class-ref scheme="cpc">B26F1/26</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US7341504, US20060276112, DE19804233, US5908349, US4932592, EP0083614.</paragraph-text>
+            <paragraph-text type="body"> <media id="media117.png" file-name="cpc-def-B24C-0117.png" type="png" preferred-width="5.76cm" preferred-height="7.48cm"/> <media id="media118.png" file-name="cpc-def-B24C-0118.png" type="png" preferred-width="6.18cm" preferred-height="4.49cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media119.png" file-name="cpc-def-B24C-0119.png" type="png" preferred-width="7.79cm" preferred-height="4.82cm"/> <media id="media120.png" file-name="cpc-def-B24C-0120.png" type="png" preferred-width="4.91cm" preferred-height="7.09cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media121.png" file-name="cpc-def-B24C-0121.png" type="png" preferred-width="7.62cm" preferred-height="4.68cm"/> <media id="media122.png" file-name="cpc-def-B24C-0122.png" type="png" preferred-width="3.98cm" preferred-height="9.81cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Perforating by means of a fluid jet without particles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B26F1/26</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Severing by means of a fluid jet without particles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B26F3/004</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2016-01-01"><classification-symbol scheme="cpc">B24C5/04</classification-symbol><definition-title>Nozzles therefor  (nozzles in general <class-ref scheme="cpc">B05B</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP1574290, FR2866586, DE10243855, WO03103899, EP1178873, US20030045217, US6695686, US5704825, US5484325.</paragraph-text>
+            <paragraph-text type="body"> <media id="media123.png" file-name="cpc-def-B24C-0123.png" type="png" preferred-width="5.42cm" preferred-height="3.75cm"/> <media id="media124.png" file-name="cpc-def-B24C-0124.png" type="png" preferred-width="4.06cm" preferred-height="3.7cm"/> <media id="media125.png" file-name="cpc-def-B24C-0125.png" type="png" preferred-width="3.05cm" preferred-height="5.71cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media126.png" file-name="cpc-def-B24C-0126.png" type="png" preferred-width="4.06cm" preferred-height="4.83cm"/> <media id="media127.png" file-name="cpc-def-B24C-0127.png" type="png" preferred-width="3.56cm" preferred-height="6.95cm"/> <media id="media128.png" file-name="cpc-def-B24C-0128.png" type="png" preferred-width="3.39cm" preferred-height="7.14cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media129.png" file-name="cpc-def-B24C-0129.png" type="png" preferred-width="6.52cm" preferred-height="3.47cm"/> <media id="media130.png" file-name="cpc-def-B24C-0130.png" type="png" preferred-width="5.67cm" preferred-height="3.92cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media131.png" file-name="cpc-def-B24C-0131.png" type="png" preferred-width="6.52cm" preferred-height="3.02cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Nozzles in general, Spraying or atomising in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B05B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C5/06</classification-symbol><definition-title>Impeller wheels; Rotor blades therefor</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): WO20070072863, WO0239078, US6126516, US5779524, DE3505468.</paragraph-text>
+            <paragraph-text type="body"> <media id="media132.png" file-name="cpc-def-B24C-0132.png" type="png" preferred-width="5.67cm" preferred-height="6.35cm"/> <media id="media133.png" file-name="cpc-def-B24C-0133.png" type="png" preferred-width="8.64cm" preferred-height="5.67cm"/> <media id="media134.png" file-name="cpc-def-B24C-0134.png" type="png" preferred-width="5.93cm" preferred-height="5.65cm"/> <media id="media135.png" file-name="cpc-def-B24C-0135.png" type="png" preferred-width="8.3cm" preferred-height="3.87cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media136.png" file-name="cpc-def-B24C-0136.png" type="png" preferred-width="5.25cm" preferred-height="5.64cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C5/062</classification-symbol><definition-title>{Rotor blades or vanes; Locking means therefor}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP1352713, US5759091, EP0688633, GB985743, GB1101107, US4069025.</paragraph-text>
+            <paragraph-text type="body"> <media id="media137.png" file-name="cpc-def-B24C-0137.png" type="png" preferred-width="5.76cm" preferred-height="4.94cm"/> <media id="media138.png" file-name="cpc-def-B24C-0138.png" type="png" preferred-width="5.42cm" preferred-height="7.56cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media139.png" file-name="cpc-def-B24C-0139.png" type="png" preferred-width="5.42cm" preferred-height="9.62cm"/> <media id="media140.png" file-name="cpc-def-B24C-0140.png" type="png" preferred-width="3.92cm" preferred-height="9.99cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media141.png" file-name="cpc-def-B24C-0141.png" type="png" preferred-width="5.93cm" preferred-height="5.42cm"/> <media id="media142.png" file-name="cpc-def-B24C-0142.png" type="png" preferred-width="7.45cm" preferred-height="5.39cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C5/064</classification-symbol><definition-title>{One-piece wheels; Integral impeller units, e.g. made by casting}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP1412133, US4244150.</paragraph-text>
+            <paragraph-text type="body"> <media id="media143.png" file-name="cpc-def-B24C-0143.png" type="png" preferred-width="4.91cm" preferred-height="5.19cm"/> <media id="media144.png" file-name="cpc-def-B24C-0144.png" type="png" preferred-width="3.3cm" preferred-height="7.76cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C5/066</classification-symbol><definition-title>{Housings; Accessories therefor, e.g. liners}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US6692340, WO0200393, US5076028.</paragraph-text>
+            <paragraph-text type="body"> <media id="media145.png" file-name="cpc-def-B24C-0145.png" type="png" preferred-width="5.25cm" preferred-height="4.86cm"/> <media id="media146.png" file-name="cpc-def-B24C-0146.png" type="png" preferred-width="4.91cm" preferred-height="4.79cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media147.png" file-name="cpc-def-B24C-0147.png" type="png" preferred-width="5.59cm" preferred-height="5.11cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C5/068</classification-symbol><definition-title>{Transferring the abrasive particles from the feeding means onto the propeller blades, e.g. using central impellers}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP1360035, EP1354667, US5688162.</paragraph-text>
+            <paragraph-text type="body"> <media id="media148.png" file-name="cpc-def-B24C-0148.png" type="png" preferred-width="4.49cm" preferred-height="5.1cm"/> <media id="media149.png" file-name="cpc-def-B24C-0149.png" type="png" preferred-width="6.77cm" preferred-height="5.11cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media150.png" file-name="cpc-def-B24C-0150.png" type="png" preferred-width="6.52cm" preferred-height="5.13cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2016-01-01"><classification-symbol scheme="cpc">B24C5/08</classification-symbol><definition-title>Devices for generating abrasive blasts non-mechanically, e.g. of metallic abrasives by means of a magnetic field {or by detonating cords}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US20040259473 (magnetically), US5211135 (detonation cord clusters for deslagging water boilers).</paragraph-text>
+            <paragraph-text type="body"> <media id="media151.png" file-name="cpc-def-B24C-0151.png" type="png" preferred-width="5.42cm" preferred-height="7.87cm"/> <media id="media152.png" file-name="cpc-def-B24C-0152.png" type="png" preferred-width="6.27cm" preferred-height="7.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Abrasive blasting by jet flame processing</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Jet flame processing in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B05B7/205</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Use of magnetic polishing media without forming a blasting jet</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24B1/005</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C7/00</classification-symbol><definition-title>Equipment for feeding abrasive material; Controlling the flowability, constitution, or other physical characteristics of abrasive blasts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Equipment for feeding and controlling the characteristics of abrasive blasting material</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C7/0007</classification-symbol><definition-title>{the abrasive material being fed in a liquid carrier}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP0322485, GB731117, EP1557223.</paragraph-text>
+            <paragraph-text type="body"> <media id="media153.png" file-name="cpc-def-B24C-0153.png" type="png" preferred-width="6.77cm" preferred-height="9.99cm"/> <media id="media154.png" file-name="cpc-def-B24C-0154.png" type="png" preferred-width="6.1cm" preferred-height="7.62cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media155.png" file-name="cpc-def-B24C-0155.png" type="png" preferred-width="7.7cm" preferred-height="4.32cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C7/0015</classification-symbol><definition-title>{with control of feed parameters, e.g. feed rate of abrasive material or carrier}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): DE19933339, US5283991.</paragraph-text>
+            <paragraph-text type="body"> <media id="media156.png" file-name="cpc-def-B24C-0156.png" type="png" preferred-width="6.86cm" preferred-height="3.16cm"/> <media id="media157.png" file-name="cpc-def-B24C-0157.png" type="png" preferred-width="5.76cm" preferred-height="8.15cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C7/0023</classification-symbol><definition-title>{of feed pressure}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): US20070207702, JP59001167.</paragraph-text>
+            <paragraph-text type="body"> <media id="media158.png" file-name="cpc-def-B24C-0158.png" type="png" preferred-width="6.6cm" preferred-height="5.16cm"/> <media id="media159.png" file-name="cpc-def-B24C-0159.png" type="png" preferred-width="6.43cm" preferred-height="8.78cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C7/003</classification-symbol><definition-title>{with means for preventing clogging of the equipment}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): GB1424896.</paragraph-text>
+            <paragraph-text type="body"> <media id="media160.png" file-name="cpc-def-B24C-0160.png" type="png" preferred-width="6.1cm" preferred-height="8.38cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C7/0038</classification-symbol><definition-title>{the blasting medium being a gaseous stream}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): DE10260257, DE4335382.</paragraph-text>
+            <paragraph-text type="body"> <media id="media161.png" file-name="cpc-def-B24C-0161.png" type="png" preferred-width="6.52cm" preferred-height="6.57cm"/> <media id="media162.png" file-name="cpc-def-B24C-0162.png" type="png" preferred-width="7.87cm" preferred-height="5.25cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C7/0046</classification-symbol><definition-title>{the abrasive material being fed in a gaseous carrier}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): DE1020070039540.</paragraph-text>
+            <paragraph-text type="body"> <media id="media163.png" file-name="cpc-def-B24C-0163.png" type="png" preferred-width="7.87cm" preferred-height="6.35cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C7/0053</classification-symbol><definition-title>{with control of feed parameters, e.g. feed rate of abrasive material or carrier}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): DE10235097, US20070287126, EP2001637.</paragraph-text>
+            <paragraph-text type="body"> <media id="media164.png" file-name="cpc-def-B24C-0164.png" type="png" preferred-width="6.27cm" preferred-height="4.77cm"/> <media id="media165.png" file-name="cpc-def-B24C-0165.png" type="png" preferred-width="6.31cm" preferred-height="8.15cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media166.png" file-name="cpc-def-B24C-0166.png" type="png" preferred-width="6.01cm" preferred-height="5.05cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C7/0061</classification-symbol><definition-title>{of feed pressure}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP0992221, US5081799.</paragraph-text>
+            <paragraph-text type="body"> <media id="media167.png" file-name="cpc-def-B24C-0167.png" type="png" preferred-width="6.6cm" preferred-height="6.32cm"/> <media id="media168.png" file-name="cpc-def-B24C-0168.png" type="png" preferred-width="7.54cm" preferred-height="6.32cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C7/0069</classification-symbol><definition-title>{with means for preventing clogging of the equipment or for preventing abrasive entering the airway}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP1851003, WO20040101224, WO9635389, EP0652078, US4569161, US3858360.</paragraph-text>
+            <paragraph-text type="body"> <media id="media169.png" file-name="cpc-def-B24C-0169.png" type="png" preferred-width="5.16cm" preferred-height="7.16cm"/> <media id="media170.png" file-name="cpc-def-B24C-0170.png" type="png" preferred-width="5.5cm" preferred-height="7.2cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media171.png" file-name="cpc-def-B24C-0171.png" type="png" preferred-width="5.08cm" preferred-height="7.14cm"/> <media id="media172.png" file-name="cpc-def-B24C-0172.png" type="png" preferred-width="5.59cm" preferred-height="6.55cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media173.png" file-name="cpc-def-B24C-0173.png" type="png" preferred-width="5.5cm" preferred-height="6.43cm"/> <media id="media174.png" file-name="cpc-def-B24C-0174.png" type="png" preferred-width="7.28cm" preferred-height="5.64cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C7/0076</classification-symbol><definition-title>{the blasting medium being a liquid stream}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): DE10348805, US4666083, US4218855.</paragraph-text>
+            <paragraph-text type="body"> <media id="media175.png" file-name="cpc-def-B24C-0175.png" type="png" preferred-width="7.54cm" preferred-height="5.7cm"/> <media id="media176.png" file-name="cpc-def-B24C-0176.png" type="png" preferred-width="4.71cm" preferred-height="9.98cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media177.png" file-name="cpc-def-B24C-0177.png" type="png" preferred-width="9.14cm" preferred-height="3.73cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2017-05-01"><classification-symbol scheme="cpc">B24C7/0084</classification-symbol><definition-title>{the abrasive material being fed in a mixture of liquid and gas  (<class-ref scheme="cpc">B24C7/0038</class-ref>, <class-ref scheme="cpc">B24C7/0076</class-ref> take precedence; blasting medium with additives <class-ref scheme="cpc">B24C11/005</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">E.g. blasting where the abrasive is first mixed with liquid and a gas and then the mixture is fed and propelled to the working surface, or where the abrasive is added to a premixed flow of liquid and gas, or where a shrouding water curtain or water jet is added to the mixture jet of gas and abrasive.</paragraph-text>
+            <paragraph-text type="body">Example(s): US20110053464, US20110053464, US5283991, WO9408753, GB498478, DE1020040023246.</paragraph-text>
+            <paragraph-text type="body"> <media id="media178.png" file-name="cpc-def-B24C-0178.png" type="png" preferred-width="6.76cm" preferred-height="8.73cm"/> <media id="media179.png" file-name="cpc-def-B24C-0179.png" type="png" preferred-width="6.76cm" preferred-height="8.73cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media157.png" file-name="cpc-def-B24C-0157.png" type="png" preferred-width="5.93cm" preferred-height="8.53cm"/> <media id="media181.png" file-name="cpc-def-B24C-0181.png" type="png" preferred-width="8.55cm" preferred-height="3.78cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media182.png" file-name="cpc-def-B24C-0182.png" type="png" preferred-width="7.37cm" preferred-height="7.5cm"/> <media id="media5.png" file-name="cpc-def-B24C-0005.png" type="png" preferred-width="4.71cm" preferred-height="10.0cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Blasting with abrasive, liquid and gas, where either the gas or the liquid is used as a blasting medium to propel the mixture of the other two constituents</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C7/0038</class-ref>, <class-ref scheme="cpc">B24C7/0076</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Blasting with abrasive, liquid and gas, where one of the constituents is used as an additive</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C11/005</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C7/0092</classification-symbol><definition-title>{the abrasive material being fed by mechanical means, e.g. by screw conveyors}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): DE10317663, DE3445643, GB2108399, JP58202777, WO20090096122.</paragraph-text>
+            <paragraph-text type="body"> <media id="media184.png" file-name="cpc-def-B24C-0184.png" type="png" preferred-width="5.93cm" preferred-height="4.94cm"/> <media id="media185.png" file-name="cpc-def-B24C-0185.png" type="png" preferred-width="6.6cm" preferred-height="4.91cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media186.png" file-name="cpc-def-B24C-0186.png" type="png" preferred-width="7.03cm" preferred-height="5.81cm"/> <media id="media187.png" file-name="cpc-def-B24C-0187.png" type="png" preferred-width="5.42cm" preferred-height="7.4cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media188.png" file-name="cpc-def-B24C-0188.png" type="png" preferred-width="7.45cm" preferred-height="8.1cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2017-05-01"><classification-symbol scheme="cpc">B24C9/00</classification-symbol><definition-title>Appurtenances of abrasive blasting machines or devices, e.g. working chambers, arrangements for handling used abrasive material</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP2335852, US20110053458, DE1020080011663, US20060260823, DE10216468, US5367841, US4882881, US4139970.</paragraph-text>
+            <paragraph-text type="body"> <media id="media189.png" file-name="cpc-def-B24C-0189.png" type="png" preferred-width="5.5cm" preferred-height="7.28cm"/> <media id="media190.png" file-name="cpc-def-B24C-0190.png" type="png" preferred-width="6.18cm" preferred-height="6.01cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media60.png" file-name="cpc-def-B24C-0060.png" type="png" preferred-width="5.76cm" preferred-height="4.83cm"/> <media id="media192.png" file-name="cpc-def-B24C-0192.png" type="png" preferred-width="7.54cm" preferred-height="4.82cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media193.png" file-name="cpc-def-B24C-0193.png" type="png" preferred-width="5.33cm" preferred-height="7.39cm"/> <media id="media194.png" file-name="cpc-def-B24C-0194.png" type="png" preferred-width="5.93cm" preferred-height="7.79cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media195.png" file-name="cpc-def-B24C-0195.png" type="png" preferred-width="5.42cm" preferred-height="5.13cm"/> <media id="media196.png" file-name="cpc-def-B24C-0196.png" type="png" preferred-width="8.81cm" preferred-height="5.56cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C9/003</classification-symbol><definition-title>{Removing abrasive powder out of the blasting machine}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): DE19926084, DE4407956.</paragraph-text>
+            <paragraph-text type="body"> <media id="media197.png" file-name="cpc-def-B24C-0197.png" type="png" preferred-width="3.89cm" preferred-height="6.69cm"/> <media id="media198.png" file-name="cpc-def-B24C-0198.png" type="png" preferred-width="7.54cm" preferred-height="6.74cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C9/006</classification-symbol><definition-title>{Treatment of used abrasive material}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): EP1603709 GB2367777, US4275531, GB2337953.</paragraph-text>
+            <paragraph-text type="body"> <media id="media199.png" file-name="cpc-def-B24C-0199.png" type="png" preferred-width="5.76cm" preferred-height="9.0cm"/> <media id="media200.png" file-name="cpc-def-B24C-0200.png" type="png" preferred-width="7.45cm" preferred-height="8.8cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media201.png" file-name="cpc-def-B24C-0201.png" type="png" preferred-width="6.6cm" preferred-height="7.03cm"/> <media id="media202.png" file-name="cpc-def-B24C-0202.png" type="png" preferred-width="5.25cm" preferred-height="8.46cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C11/00</classification-symbol><definition-title>Selection of abrasive materials {or additives} for abrasive blasts  (polishing compositions <class-ref scheme="cpc">C09G</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): WO20110052287, WO20090110231, US20060111023, JP57194878, US5344472, EP0798081.</paragraph-text>
+            <paragraph-text type="body"> <media id="media203.png" file-name="cpc-def-B24C-0203.png" type="png" preferred-width="6.94cm" preferred-height="6.23cm"/> <media id="media204.png" file-name="cpc-def-B24C-0204.png" type="png" preferred-width="5.16cm" preferred-height="6.26cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media205.png" file-name="cpc-def-B24C-0205.png" type="png" preferred-width="6.6cm" preferred-height="5.73cm"/> <media id="media206.png" file-name="cpc-def-B24C-0206.png" type="png" preferred-width="4.23cm" preferred-height="5.68cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media207.png" file-name="cpc-def-B24C-0207.png" type="png" preferred-width="5.25cm" preferred-height="3.7cm"/> <media id="media208.png" file-name="cpc-def-B24C-0208.png" type="png" preferred-width="7.62cm" preferred-height="4.4cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.72cm">
+                     <paragraph-text type="body">Selection of abrasive material which changes phase after treatment</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C1/003</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B24C11/005</classification-symbol><definition-title>{of additives, e.g. anti-corrosive or disinfecting agents in solid, liquid or gaseous form}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Example(s): GB2403726, EP1422026.</paragraph-text>
+            <paragraph-text type="body"> <media id="media209.png" file-name="cpc-def-B24C-0209.png" type="png" preferred-width="6.69cm" preferred-height="1.69cm"/> <media id="media210.png" file-name="cpc-def-B24C-0210.png" type="png" preferred-width="7.45cm" preferred-height="5.11cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item></definitions>

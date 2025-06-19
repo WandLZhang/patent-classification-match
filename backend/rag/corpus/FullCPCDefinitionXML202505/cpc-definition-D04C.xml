@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">D04C</classification-symbol><definition-title>BRAIDING OR MANUFACTURE OF LACE, INCLUDING BOBBIN-NET OR CARBONISED LACE; BRAIDING MACHINES; BRAID; LACE  (machines for making soles from strips of material <class-ref scheme="cpc">A43D29/00</class-ref>; cane working <class-ref scheme="cpc">B27J1/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body>
+        <paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Planar fabric or elongate bulk structure braiding machines. These aspects are covered by the main groups <class-ref scheme="cpc">D04C3/00</class-ref> and <class-ref scheme="cpc">D04C5/00</class-ref></paragraph-text>
+        <paragraph-text type="body">Circular braiding machines producing filled or hollow braids. These aspects are covered by the group <class-ref scheme="cpc">D04C3/40</class-ref></paragraph-text>
+        <paragraph-text type="body">Details of devices incorporated in braiding machines. These aspects are covered by the groups <class-ref scheme="cpc">D04C3/14</class-ref>&#160;-&#160;<class-ref scheme="cpc">D04C3/38</class-ref> and <class-ref scheme="cpc">D04C3/42</class-ref>&#160;-&#160;<class-ref scheme="cpc">D04C3/46</class-ref></paragraph-text>
+        <paragraph-text type="body">Auxiliary devices for use with braiding machines, e.g. mandrels. These aspects are covered by the group <class-ref scheme="cpc">D04C3/48</class-ref></paragraph-text>
+        <paragraph-text type="body">Hand braiding or lacing equipment. These aspects are covered by the main group <class-ref scheme="cpc">D04C7/00</class-ref></paragraph-text>
+        <paragraph-text type="body">Braids or laces made by hand or machines, multiple layer fabrics including at least two inter-braided layers. These aspects are covered by the main group <class-ref scheme="cpc">D04C1/00</class-ref></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references>
+        <section-title>Limiting references</section-title>
+        <section-body>
+          <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+          <table><table-row>
+              <table-column> <paragraph-text type="body">Laminates comprising at least one braided layer whereby the layers are not inter-braided (i.e. not connected by braiding)</paragraph-text> </table-column>
+              <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B32B5/00</class-ref></paragraph-text> </table-column>
+            </table-row>
+            
+          </table>
+        </section-body>
+      </limiting-references><informative-references>
+        <section-title>Informative references</section-title>
+        <section-body>
+          <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+          <table><table-row>
+              <table-column> <paragraph-text type="body">Machines for making soles from strips of material</paragraph-text> </table-column>
+              <table-column> <paragraph-text type="body"><class-ref scheme="cpc">A43D29/00</class-ref></paragraph-text> </table-column>
+            </table-row><table-row>
+              <table-column> <paragraph-text type="body">Cane working</paragraph-text> </table-column>
+              <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B27J1/00</class-ref></paragraph-text> </table-column>
+            </table-row>
+            
+            
+          </table>
+        </section-body>
+      </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Documents should only be classified here if the invention is specifically directed to braids, braiding, lace or lace making. Otherwise the documents should only be classified in the relevant application fields.</paragraph-text>
+        <paragraph-text type="body">In contrast to weaving, braiding in general does not involve warp yarns extending in the lengthwise direction in conjunction with warp interlacing weft yarns always running in a single direction.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04C1/00</classification-symbol><definition-title>Braid or lace, e.g. pillow-lace; Processes for the manufacture thereof</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body>
+        <paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Braiding processes or fabrics and bulk structures with specific details on materials and/or braid structure</paragraph-text>
+        <paragraph-text type="body">Braids and braiding processes not otherwise provided for</paragraph-text>
+        <paragraph-text type="body"><media id="media0.jpg" file-name="cpc-def-D04C-0000.jpg" type="jpeg"/><media id="media1.jpg" file-name="cpc-def-D04C-0001.jpg" type="jpeg"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references>
+        <section-title>Limiting references</section-title>
+        <section-body>
+          <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+          <table><table-row>
+              <table-column> <paragraph-text type="body">Tubular fabrics or endless fabrics (i.e. circular woven products)</paragraph-text> </table-column>
+              <table-column> <paragraph-text type="body"><class-ref scheme="cpc">D03D3/02</class-ref> or <class-ref scheme="cpc">D03D3/04</class-ref></paragraph-text> </table-column>
+            </table-row>
+            
+          </table>
+        </section-body>
+      </limiting-references><informative-references>
+        <section-title>Informative references</section-title>
+        <section-body>
+          <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+          <table><table-row>
+              <table-column> <paragraph-text type="body">Braiding of baskets or cane work</paragraph-text> </table-column>
+              <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B27J1/02</class-ref></paragraph-text> </table-column>
+            </table-row><table-row>
+              <table-column> <paragraph-text type="body">Wound or wrapped products or winding processes and machines</paragraph-text> </table-column>
+              <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B65H81/00</class-ref></paragraph-text> </table-column>
+            </table-row>
+            
+            
+          </table>
+        </section-body>
+      </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In this group, multiple classification is allowed. The classification is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2101/00</class-ref> - <class-ref scheme="cpc">D10B2509/00</class-ref> for identifying the thread composition, fabric structure and application field.</paragraph-text>
+        <paragraph-text type="body">Documents also describing braiding machines and devices therefore should additionally be classified in <class-ref scheme="cpc">D04C3/00</class-ref> or <class-ref scheme="cpc">D04C5/00</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Documents also describing tools or apparatus for braiding or lacing by hand should additionally be classified in <class-ref scheme="cpc">D04C7/00</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04C1/02</classification-symbol><definition-title>made from particular materials</definition-title><references><section-title>References</section-title><informative-references>
+        <section-title>Informative references</section-title>
+        <section-body>
+          <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+          <table><table-row>
+              <table-column> <paragraph-text type="body">Fibrous reinforcements for composites</paragraph-text> </table-column>
+              <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B29C70/22</class-ref></paragraph-text> </table-column>
+            </table-row>
+            
+          </table>
+        </section-body>
+      </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Illustrative example of subject matter classified in <class-ref scheme="cpc">D04C1/02</class-ref></paragraph-text>
+        <paragraph-text type="body"><media id="media2.png" file-name="cpc-def-D04C-0002.png" type="png"/></paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04C1/06</classification-symbol><definition-title>Braid or lace serving particular purposes</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body>
+        <paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Braids having a braided configuration specifically adapted for the intended purpose.</paragraph-text>
+        <paragraph-text type="body"><media id="media3.jpg" file-name="cpc-def-D04C-0003.jpg" type="jpeg"/><media id="media4.jpg" file-name="cpc-def-D04C-0004.jpg" type="jpeg"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+        <section-title>Informative references</section-title>
+        <section-body>
+          <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+          <table><table-row>
+              <table-column> <paragraph-text type="body">Reinforcements for plastic composites</paragraph-text> </table-column>
+              <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B29C70/24</class-ref></paragraph-text> </table-column>
+            </table-row>
+            
+          </table>
+        </section-body>
+      </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Braids of special structure but made from a particular material should be classified only in <class-ref scheme="cpc">D04C1/02</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04C1/08</classification-symbol><definition-title>Tulle fabrics</definition-title><references><section-title>References</section-title><informative-references>
+        <section-title>Informative references</section-title>
+        <section-body>
+          <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+          <table><table-row>
+              <table-column> <paragraph-text type="body">Twist net made from wires, e.g. for fences</paragraph-text> </table-column>
+              <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B21F27/06</class-ref></paragraph-text> </table-column>
+            </table-row>
+            
+          </table>
+        </section-body>
+      </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Illustrative example of subject matter classified in <class-ref scheme="cpc">D04C1/08</class-ref></paragraph-text>
+        <paragraph-text type="body"><media id="media5.png" file-name="cpc-def-D04C-0005.png" type="png"/></paragraph-text>
+        <paragraph-text type="body">Documents also describing machines for making tulle fabrics should additionally be classified in <class-ref scheme="cpc">D04C3/00</class-ref> or <class-ref scheme="cpc">D04C5/00</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04C1/10</classification-symbol><definition-title>Pattern tulle fabrics</definition-title><references><section-title>References</section-title><limiting-references>
+        <section-title>Limiting references</section-title>
+        <section-body>
+          <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+          <table><table-row>
+              <table-column> <paragraph-text type="body">Knitted lace</paragraph-text> </table-column>
+              <table-column> <paragraph-text type="body"><class-ref scheme="cpc">D04B1/104</class-ref>, <class-ref scheme="cpc">D04B21/12</class-ref></paragraph-text> </table-column>
+            </table-row>
+            
+          </table>
+        </section-body>
+      </limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Illustrative example of subject matter classified in <class-ref scheme="cpc">D04C1/10</class-ref></paragraph-text>
+        <paragraph-text type="body"><media id="media6.png" file-name="cpc-def-D04C-0006.png" type="png"/></paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body>
+        <paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column> <paragraph-text type="body">Pattern tulle fabrics</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body">openwork braids with a predominantly non-uniform arrangement of apertures or distinct yarns.</paragraph-text> </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04C1/12</classification-symbol><definition-title>Cords, lines, or tows</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body>
+        <paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body"><media id="media7.jpg" file-name="cpc-def-D04C-0007.jpg" type="jpeg"/><media id="media8.jpg" file-name="cpc-def-D04C-0008.jpg" type="jpeg"/></paragraph-text>
+        <paragraph-text type="body">All solid elongated braids in the form of cords, lines or tows having a small but full-cross section, independent from their purpose.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references>
+        <section-title>Limiting references</section-title>
+        <section-body>
+          <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+          <table><table-row>
+              <table-column> <paragraph-text type="body">Hollow braids or solid bulk braids, e.g. beams</paragraph-text> </table-column>
+              <table-column> <paragraph-text type="body"><class-ref scheme="cpc">D04C1/06</class-ref></paragraph-text> </table-column>
+            </table-row>
+            
+          </table>
+        </section-body>
+      </limiting-references><informative-references>
+        <section-title>Informative references</section-title>
+        <section-body>
+          <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+          <table><table-row>
+              <table-column> <paragraph-text type="body">Ropes or cables in general</paragraph-text> </table-column>
+              <table-column> <paragraph-text type="body"><class-ref scheme="cpc">D07B</class-ref></paragraph-text> </table-column>
+            </table-row>
+            
+          </table>
+        </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04C3/00</classification-symbol><definition-title>Braiding or lacing machines</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body>
+        <paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Braiding or lacing machines for open work, hollow or bulk-braiding and auxiliary devices.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04C3/02</classification-symbol><definition-title>with spool carriers guided by track plates or by bobbin heads exclusively</definition-title><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Illustrative example of subject matter classified in <class-ref scheme="cpc">D04C3/02</class-ref></paragraph-text>
+        <paragraph-text type="body"><media id="media9.png" file-name="cpc-def-D04C-0009.png" type="png" preferred-width="14.66cm" preferred-height="16.45cm"/></paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04C3/40</classification-symbol><definition-title>for making tubular braids by circulating strand supplies around braiding centre at equal distances</definition-title><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Illustrative example of subject matter classified in <class-ref scheme="cpc">D04C3/40</class-ref></paragraph-text>
+        <paragraph-text type="body"><media id="media10.jpg" file-name="cpc-def-D04C-0010.jpg" type="jpeg"/></paragraph-text>
+    <paragraph-text type="body"><media id="media11.jpg" file-name="cpc-def-D04C-0011.jpg" type="jpeg"/></paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04C3/48</classification-symbol><definition-title>Auxiliary devices</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body>
+        <paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices for use with braiding machines, e.g. take-up devices, hoops or mandrels.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04C5/00</classification-symbol><definition-title>Twist or bobbin-net lace-making machines</definition-title><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Illustrative example of subject matter classified in <class-ref scheme="cpc">D04C5/00</class-ref></paragraph-text>
+        <paragraph-text type="body"><media id="media12.png" file-name="cpc-def-D04C-0012.png" type="png" preferred-width="13.19cm" preferred-height="19.48cm"/></paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04C5/06</classification-symbol><definition-title>Machines for making twist-lace fabrics</definition-title><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Illustrative example of subject matter classified in <class-ref scheme="cpc">D04C5/06</class-ref></paragraph-text>
+        <paragraph-text type="body"><media id="media13.png" file-name="cpc-def-D04C-0013.png" type="png"/></paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04C7/00</classification-symbol><definition-title>Tools or apparatus for braiding or lacing by hand</definition-title><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Illustrative example of subject matter classified in <class-ref scheme="cpc">D04C7/00</class-ref></paragraph-text>
+        <paragraph-text type="body"><media id="media14.png" file-name="cpc-def-D04C-0014.png" type="png"/></paragraph-text>
+      </section-body>
+    </special-rules></definition-item></definitions>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2022-01-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">B27N</classification-symbol><definition-title>MANUFACTURE BY DRY PROCESSES OF ARTICLES, WITH OR WITHOUT ORGANIC BINDING AGENTS, MADE FROM PARTICLES OR FIBRES CONSISTING OF WOOD OR OTHER LIGNOCELLULOSIC OR LIKE ORGANIC MATERIAL  (containing cementitious material <class-ref scheme="cpc">B28B</class-ref>; shaping of substances in a plastic state <class-ref scheme="cpc">B29C</class-ref>; fibreboards made from fibrous suspensions <class-ref scheme="cpc">D21J</class-ref>; drying <class-ref scheme="cpc">F26B17/00</class-ref>)</definition-title><synonyms-keywords><section-title>Synonyms and Keywords</section-title><abbreviations><paragraph-text type="preamble">In patent documents, the following abbreviations are often used:</paragraph-text>
+        
+        <table>
+<table-row><table-column preferred-width="4.64cm"><paragraph-text type="body">CTMP</paragraph-text></table-column><table-column preferred-width="10.4cm"><paragraph-text type="body">chemithermomechanical pulp</paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="4.64cm"><paragraph-text type="body">TMP </paragraph-text></table-column><table-column preferred-width="10.4cm"><paragraph-text type="body">thermomechanical pulp</paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="4.64cm"><paragraph-text type="body">HDF</paragraph-text></table-column><table-column preferred-width="10.4cm"><paragraph-text type="body">high density fibreboard</paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="4.64cm"><paragraph-text type="body">MDF</paragraph-text></table-column><table-column preferred-width="10.4cm"><paragraph-text type="body">medium density fibreboard</paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="4.64cm"><paragraph-text type="body">OSB</paragraph-text></table-column><table-column preferred-width="10.4cm"><paragraph-text type="body">oriented strand board</paragraph-text></table-column></table-row></table>
+      </abbreviations></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27N1/00</classification-symbol><definition-title>Pretreatment of moulding material</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="9.72cm"><paragraph-text type="body">Manufacture of wood shavings, chips, powder or the like</paragraph-text></table-column><table-column preferred-width="5.32cm"><paragraph-text type="body"><class-ref scheme="cpc">B27L11/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="9.72cm"><paragraph-text type="body">Fibrous raw materials or their mechanical treatment </paragraph-text></table-column><table-column preferred-width="5.32cm"><paragraph-text type="body"><class-ref scheme="cpc">D21B1/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">Pretreatments are actions performed before the manufacturing of the Pretreatment of moulding material refers for instance to actions for reducing formaldehyd emissions, actions for incresasing resistance to swelling by humidity and actions to mix the material with a binder.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item date-revised="2022-01-01"><classification-symbol scheme="cpc">B27N1/0263</classification-symbol><definition-title>{by spraying the agent on the falling material, e.g. with the material sliding along an inclined surface, using rotating elements or nozzles  (<class-ref scheme="cpc">B27N1/0254</class-ref> takes precedence)}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="9.72cm"><paragraph-text type="body">Spraying a fluid on falling particles</paragraph-text></table-column><table-column preferred-width="5.32cm"><paragraph-text type="body"><class-ref scheme="cpc">B01F25/721</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27N3/00</classification-symbol><definition-title>Manufacture of substantially flat articles, e.g. boards, from particles or fibres</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Manufacture of substantially flat articles, e.g. boards, from particles or fibres</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2020-01-01"><classification-symbol scheme="cpc">B27N3/06</classification-symbol><definition-title>Making particle boards or fibreboards, with preformed covering layers, the particles or fibres being compressed with the layers to a board in one single pressing operation</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="9.72cm"><paragraph-text type="body">Lamination of pressed boards</paragraph-text></table-column><table-column preferred-width="5.32cm"><paragraph-text type="body"><class-ref scheme="cpc">B32B37/10</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="9.72cm"><paragraph-text type="body">(Laminated) flooring</paragraph-text></table-column><table-column preferred-width="5.32cm"><paragraph-text type="body"><class-ref scheme="cpc">E04F15/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27N3/14</classification-symbol><definition-title>Distributing or orienting the particles or fibres</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="9.72cm"><paragraph-text type="body">Feeding fibres to machines</paragraph-text></table-column><table-column preferred-width="5.32cm"><paragraph-text type="body"><class-ref scheme="cpc">D01G23/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27N3/143</classification-symbol><definition-title>{Orienting the particles or fibres}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="9.72cm"><paragraph-text type="body">Roller screens</paragraph-text></table-column><table-column preferred-width="5.32cm"><paragraph-text type="body"><class-ref scheme="cpc">B07B1/14</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="9.72cm"><paragraph-text type="body">Roller screen using corrugated, grooved or ribbed rollers</paragraph-text></table-column><table-column preferred-width="5.32cm"><paragraph-text type="body"><class-ref scheme="cpc">B07B1/15</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27N3/24</classification-symbol><definition-title>characterised by using continuously acting presses having endless belts or chains moved within the compression zone</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="9.72cm"><paragraph-text type="body">Veneer presses; Press plates; Plywood presses with endless arrangement of moving press plates, belts or the like</paragraph-text></table-column><table-column preferred-width="5.32cm"><paragraph-text type="body"><class-ref scheme="cpc">B27D3/04</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="9.72cm"><paragraph-text type="body">Wherein the pressing means is in the form of an endless band co-oprating with an another endless band</paragraph-text></table-column><table-column preferred-width="5.32cm"><paragraph-text type="body"><class-ref scheme="cpc">B30B5/06</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2019-02-01"><classification-symbol scheme="cpc">B27N3/28</classification-symbol><definition-title>characterised by using extrusion presses</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="9.72cm"><paragraph-text type="body">Extrusion presses in general of plastics or substances in a plastic state</paragraph-text></table-column><table-column preferred-width="5.32cm"><paragraph-text type="body"><class-ref scheme="cpc">B29C48/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27N5/00</classification-symbol><definition-title>Manufacture of non-flat articles</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="9.72cm"><paragraph-text type="body">Solid fuels essentially based on vegetable substances, i.e. wood pellets</paragraph-text></table-column><table-column preferred-width="5.32cm"><paragraph-text type="body"><class-ref scheme="cpc">C10L5/44</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27N7/00</classification-symbol><definition-title>After-treatment, e.g. reducing swelling or shrinkage, surfacing; Protecting the edges of boards against access of humidity</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">After-treatment, e.g. reducing swelling or shrinkage, surfacing; Protecting the edges of boards against access of humidity</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2020-01-01"><classification-symbol scheme="cpc">B27N7/005</classification-symbol><definition-title>{Coating boards, e.g. with a finishing or decorating layer}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="9.72cm"><paragraph-text type="body">Lamination of pressed boards</paragraph-text></table-column><table-column preferred-width="5.32cm"><paragraph-text type="body"><class-ref scheme="cpc">B32B37/10</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27N9/00</classification-symbol><definition-title>Arrangements for fireproofing  (fireproofing materials <class-ref scheme="cpc">C09K21/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Arrangements for fireproofing</paragraph-text></section-body>
+    </definition-statement></definition-item></definitions>

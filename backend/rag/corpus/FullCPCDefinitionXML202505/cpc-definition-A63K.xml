@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">A63K</classification-symbol><definition-title>RACING; RIDING SPORTS; EQUIPMENT OR ACCESSORIES THEREFOR  (stop watches <class-ref scheme="cpc">G04F7/06</class-ref>; timing <class-ref scheme="cpc">G07C1/22</class-ref>; indicating arrangements for variable information by selection or combination of individual elements <class-ref scheme="cpc">G09F9/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Race-courses, race-tracks and equipment or accessories for racing or riding sports, e.g. starting appliances and hurdles.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Stop-watches</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G04F7/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Registering, indicating or recording the time of events or elapsed time in connection with sports or games</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G07C1/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Indicating arrangements for variable information in which the information is built-up on a support by selection or combination of individual elements</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G09F9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63K1/00</classification-symbol><definition-title>Race-courses; Race-tracks</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Race-courses and race-tracks, e.g. equestrian surfacing materials, racing facility pit systems and running track designs.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Exercising equipment for animals, e.g. tread mills, carousels</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01K15/027</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Games</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A63F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Design or layout of playing courts, rinks, bowling greens or areas for water-skiing; Covers therefor</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A63C19/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.56cm">
+              <paragraph-text type="body">Construction of, or surfaces for, roads, sports grounds, or the like</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63K1/02</classification-symbol><definition-title>for greyhounds or other dogs</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Race-courses for greyhounds or other dogs, e.g. propelling of dummy hare.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63K3/00</classification-symbol><definition-title>Equipment or accessories for racing or riding sports {(training equipment for animals <class-ref scheme="cpc">A01K15/02</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Equipment or accessories for racing or riding sports, e.g. starting appliances, hurdles, photo-finish devices; dressage arena borders; individual boxes for small animals, e.g. mice.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.78cm">
+              <paragraph-text type="body">Training or exercise equipment for animals</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.26cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01K15/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.78cm">
+              <paragraph-text type="body">Training appliances for simulating the movement of horses</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.26cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A63B69/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.78cm">
+              <paragraph-text type="body">Racing games</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.26cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A63F3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.78cm">
+              <paragraph-text type="body">Devices in connection with harness, for hitching, reining, training, breaking or quietening horses or other traction animals, e.g. blinkers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.26cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B68B1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.78cm">
+              <paragraph-text type="body">Whips or the like</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.26cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B68B11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63K3/02</classification-symbol><definition-title>Starting-appliances</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Starting-appliances, e.g. starting-blocks for athletics, starting stalls or boxes for horses or greyhounds, starting gates for motor bikes and for rodeos.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63K3/023</classification-symbol><definition-title>{Starting-blocks}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Starting-blocks for athletic running.</paragraph-text>
+        <paragraph-text type="body"><media id="media0.png" file-name="cpc-def-A63K-0000.png" type="png" preferred-width="6.22cm" preferred-height="3.91cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63K3/026</classification-symbol><definition-title>{Starting stalls or starting boxes, e.g. for racing horses, greyhounds}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Starting stalls or starting boxes, e.g. several animals starting together being separately placed.</paragraph-text>
+        <paragraph-text type="body"><media id="media1.png" file-name="cpc-def-A63K-0001.png" type="png" preferred-width="9.84cm" preferred-height="4.69cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63K3/04</classification-symbol><definition-title>Hurdles or the like</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.78cm">
+              <paragraph-text type="body">Sockets or holders for poles or posts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.26cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04H12/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Hurdle</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Each of a series of upright frames or obstacles that a person or animal (e.g. horse, dog, etc.) jumps over in a race.</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63K3/043</classification-symbol><definition-title>{Athletics hurdles}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.78cm">
+              <paragraph-text type="body">Apparatus for jumping</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.26cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A63B5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63K3/046</classification-symbol><definition-title>{Equestrian hurdles}</definition-title><synonyms-keywords><section-title>Synonyms and Keywords</section-title><section-body>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Hurdle</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">cavaletti</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body></synonyms-keywords></definition-item></definitions>

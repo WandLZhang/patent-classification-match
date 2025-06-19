@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2021-01-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">A42C</classification-symbol><definition-title>MANUFACTURING OR TRIMMING HEAD COVERINGS, e.g. HATS</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Details of manufacturing head coverings and appliances or trimmings therefor.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A42C1/00</classification-symbol><definition-title>Manufacturing hats</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Details of manufacturing hats.</paragraph-text></section-body>
+      </definition-statement><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Hat</paragraph-text></table-column><table-column><paragraph-text type="body">Soft head covering</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">A42C2/00</classification-symbol><definition-title>Manufacturing helmets by processes not otherwise provided for</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Details of manufacturing helmets.</paragraph-text></section-body>
+      </definition-statement><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Helmet</paragraph-text></table-column><table-column><paragraph-text type="body">Hard protective head covering</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">A42C2/002</classification-symbol><definition-title>{In-mould forming}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Manufacturing of helmets whereby an inner layer is moulded directly into an outer hard shell.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.41cm"><paragraph-text type="body">Shaping by internal pressure generated in the material, e.g. swelling, foaming</paragraph-text></table-column><table-column preferred-width="3.62cm"><paragraph-text type="body"><class-ref scheme="cpc">B29C44/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.41cm"><paragraph-text type="body">Incorporating or moulding on preformed parts</paragraph-text></table-column><table-column preferred-width="3.62cm"><paragraph-text type="body"><class-ref scheme="cpc">B29C44/12</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.41cm"><paragraph-text type="body">Shaping by blow-moulding</paragraph-text></table-column><table-column preferred-width="3.62cm"><paragraph-text type="body"><class-ref scheme="cpc">B29C49/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.41cm"><paragraph-text type="body">Shaping by thermoforming</paragraph-text></table-column><table-column preferred-width="3.62cm"><paragraph-text type="body"><class-ref scheme="cpc">B29C51/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.41cm"><paragraph-text type="body">Shaping composites,i.e. plastics material comprising reinforcements, fillers or preformed parts, e.g. inserts</paragraph-text></table-column><table-column preferred-width="3.62cm"><paragraph-text type="body"><class-ref scheme="cpc">B29C70/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A42C2/005</classification-symbol><definition-title>{Forming from solid sheets}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Forming helmet shells from solid sheets of material (can be metal or plastic).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.41cm"><paragraph-text type="body">Working of sheet metal</paragraph-text></table-column><table-column preferred-width="3.62cm"><paragraph-text type="body"><class-ref scheme="cpc">D21D</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A42C2/007</classification-symbol><definition-title>{Manufacturing custom-sized helmets}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Helmets custom-made to fit the head of an individual.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.41cm"><paragraph-text type="body">Measuring heads</paragraph-text></table-column><table-column preferred-width="3.62cm"><paragraph-text type="body"><class-ref scheme="not-mapped">A61B4/07</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.41cm"><paragraph-text type="body">Measuring in general</paragraph-text></table-column><table-column preferred-width="3.62cm"><paragraph-text type="body"><class-ref scheme="cpc">G01B</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A42C3/00</classification-symbol><definition-title>Miscellaneous appliances for hat-making, e.g. for making wire forms for hat-frames  (sewing-machines for straw hats <class-ref scheme="cpc">D05B</class-ref>; sewing- machines for making hat-brims <class-ref scheme="cpc">D05B</class-ref>); Apparatus for changing the form or size of finished hats</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.41cm"><paragraph-text type="body">Sewing-machines for straw hats; sewing-machines for making hat-brims</paragraph-text></table-column><table-column preferred-width="3.62cm"><paragraph-text type="body"><class-ref scheme="cpc">D05B</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A42C5/00</classification-symbol><definition-title>Fittings or trimmings for hats, e.g. hat-bands</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.41cm"><paragraph-text type="body">Artificial flowers, feathers</paragraph-text></table-column><table-column preferred-width="3.62cm"><paragraph-text type="body"><class-ref scheme="cpc">A41G</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A42C5/02</classification-symbol><definition-title>Sweat-bands</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Sweat-bands to be used inside the hat to absorb sweat.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="11.41cm"><paragraph-text type="body">Headbands to be worn on their own, e.g. for absorbing sweat</paragraph-text></table-column><table-column preferred-width="3.62cm"><paragraph-text type="body"><class-ref scheme="cpc">A41D20/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A42C99/00</classification-symbol><definition-title>Subject matter not provided for in other groups of this subclass</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">This group is not used.</paragraph-text></section-body>
+      </definition-statement></definition-item></definitions>

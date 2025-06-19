@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">B60P</classification-symbol><definition-title>VEHICLES ADAPTED FOR LOAD TRANSPORTATION OR TO TRANSPORT, TO CARRY, OR TO COMPRISE SPECIAL LOADS OR OBJECTS  (vehicles with special provisions for transporting patients or disabled persons, or their personal conveyances <class-ref scheme="cpc">A61G3/00</class-ref>)</definition-title><definition-statement> 
+         <section-title>Definition statement</section-title> 
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <list>
+               <list-item> 
+                  <paragraph-text>Transport vehicles mainly for the use on roads</paragraph-text> 
+               </list-item>
+               <list-item> 
+                  <paragraph-text>Vehicles having special loading/unloading means like a band conveyor or an auger fixed to the vehicle</paragraph-text> 
+               </list-item>
+               <list-item> 
+                  <paragraph-text>Loading or unloading with a ramp, a lift platform or a crane fixed to the vehicle.</paragraph-text> 
+               </list-item>
+               <list-item> 
+                  <paragraph-text>Loading or unloading means for ISO containers</paragraph-text> 
+               </list-item>
+               <list-item> 
+                  <paragraph-text>Vehicles having a special purpose like tank vehicles of dump trucks</paragraph-text> 
+               </list-item>
+               <list-item> 
+                  <paragraph-text>Transport vehicles specially adapted for long roads</paragraph-text> 
+               </list-item>
+               <list-item> 
+                  <paragraph-text>Transport vehicles specially adapted for the transport of special goods, e.g. for transport of animals, meat, bottles, glass plate packages, reel units, vehicles or boats.</paragraph-text> 
+               </list-item>
+               <list-item> 
+                  <paragraph-text>Camper vehicles, Recreation vehicles</paragraph-text> 
+               </list-item>
+               <list-item> 
+                  <paragraph-text>Securing of load to a vehicle by different means, e.g. with straps, ratchet binders or twist-locks</paragraph-text> 
+               </list-item>
+            </list>
+         </section-body> 
+      </definition-statement><references><section-title>References</section-title><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table>
+<table-row>
+         <table-column>
+            <paragraph-text>Vehicles with special provisions for transporting patients or disabled persons, or their personal conveyances</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text> <class-ref scheme="cpc">A61G3/00</class-ref> </paragraph-text>
+         </table-column>
+      </table-row></table></section-body></application-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B60P1/00</classification-symbol><definition-title>Vehicles predominantly for transporting loads and modified to facilitate loading, consolidating the load, or unloading  (vehicles for carrying harvested crops with means for self-loading or self-unloading <class-ref scheme="cpc">A01D90/00</class-ref>; peculiar to refuse collecting-vehicles <class-ref scheme="cpc">B65F</class-ref>; loading or unloading vehicles by means not incorporated therein <class-ref scheme="cpc">B65G</class-ref>)</definition-title><definition-statement> 
+         <section-title>Definition statement</section-title> 
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <list>
+               <list-item> 
+                  <paragraph-text type="body">vehicles with the loading/ unloading means permanently attached to the vehicle using conveyors, using vibratory effects or fluids</paragraph-text> 
+               </list-item>
+               <list-item> <paragraph-text type="body">the groups <class-ref scheme="cpc">B60P1/04</class-ref>&#160;-&#160;<class-ref scheme="cpc">B60P1/34</class-ref> are dealing with dump trucks.</paragraph-text> </list-item>
+               <list-item> 
+                  <paragraph-text>loading or unloading means permanently attached to the vehicle which keeps the load supported parallel to the ground, the load will not be tipped</paragraph-text> 
+               </list-item>
+            </list>
+         </section-body> 
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Chassis aspects</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B62D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Walking floor conveyors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65G25/065</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Loading/ unloading with external means</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65G67/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references> 
+         <section-title>Informative references</section-title> 
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Loading gates</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60P1/022</class-ref>, <class-ref scheme="cpc">B60R5/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Carrying harvested crop with means for loading/unloading</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A01D90/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Trailers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B62D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Large containers </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Loading buckets</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65D88/123</class-ref>, <class-ref scheme="cpc">B62D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Unloading with pusher plates</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65F</class-ref>, <class-ref scheme="cpc">B60P1/365</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Loading ramps per se</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65G69/28</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body> 
+      </informative-references></references><special-rules> 
+         <section-title>Special rules of classification</section-title> 
+         <section-body>
+            <paragraph-text type="body"> <class-ref scheme="cpc">B60P1/649</class-ref> is not complete, see also <class-ref scheme="cpc">B60P1/6427</class-ref>&#160;-&#160;<class-ref scheme="cpc">B60P1/6472</class-ref> .</paragraph-text>
+            <paragraph-text type="body">The IPC class <class-ref scheme="not-mapped">B60P1/46</class-ref> is covered in ECLA by the group <class-ref scheme="cpc">B60P1/44</class-ref>.</paragraph-text>
+         </section-body> 
+      </special-rules></definition-item>
+<definition-item date-revised="2016-02-01"><classification-symbol scheme="cpc">B60P3/00</classification-symbol><definition-title>Vehicles adapted to transport, to carry or to comprise special loads or objects  (ambulances or other vehicles with special provisions for transporting patients or disabled persons, or their personal conveyances <class-ref scheme="cpc">A61G3/00</class-ref>; hearses <class-ref scheme="cpc">A61G21/00</class-ref>; fire-fighting land vehicles <class-ref scheme="cpc">A62C27/00</class-ref>; refuse-collecting vehicles <class-ref scheme="cpc">B65F3/00</class-ref>, <class-ref scheme="cpc">B65F7/00</class-ref>; snow-removing vehicles <class-ref scheme="cpc">E01H</class-ref>; armoured or armed vehicles <class-ref scheme="cpc">F41H7/00</class-ref>; self-propelled mine-clearing vehicles <class-ref scheme="cpc">F41H11/16</class-ref>)</definition-title><definition-statement> 
+         <section-title>Definition statement</section-title> 
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Vehicles that are adapted for dedicated task, e.g. vehicle transport, transporting glass panes, campers, transporting boats, tank vehicles, vehicles carrying long loads.</paragraph-text>
+         </section-body> 
+      </definition-statement><relationship> 
+         <section-title>Relationships with other classification places</section-title> 
+         <section-body>
+            <paragraph-text type="body">Documents related to the transport of damaged vehicles are often also classified in group <class-ref scheme="cpc">B60P3/12</class-ref>.</paragraph-text>
+         </section-body> 
+      </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Storing, retrieving, placing of road signs</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E01F9/70</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references> 
+         <section-title>Informative references</section-title> 
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Vehicle retainers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60P7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Animal transport</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A01K1/0236</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Concrete transport vehicle</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B28C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Vehicle transport, supporting only part of the vehicle</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60R9/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Wind turbines</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F03D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body> 
+      </informative-references></references><special-rules> 
+         <section-title>Special rules of classification</section-title> 
+         <section-body>
+            <paragraph-text type="body">The IPC groups <class-ref scheme="cpc">B60P3/32</class-ref> - <class-ref scheme="not-mapped">B60P3/335</class-ref> are covered in ECLA by the following subgroups: <class-ref scheme="cpc">B60P3/32</class-ref>.</paragraph-text>
+            <paragraph-text type="body">The IPC groups <class-ref scheme="cpc">B60P3/34</class-ref> - <class-ref scheme="not-mapped">B60P3/355</class-ref> are covered in ECLA by the following subgroups: <class-ref scheme="cpc">B60P3/34</class-ref>.</paragraph-text>
+            <paragraph-text type="body">The IPC groups <class-ref scheme="cpc">B60P3/36</class-ref> - <class-ref scheme="not-mapped">B60P3/377</class-ref> are covered in ECLA by the following subgroups: <class-ref scheme="cpc">B60P3/36</class-ref>.</paragraph-text>
+         </section-body> 
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B60P7/00</classification-symbol><definition-title>Securing or covering of load on vehicles  ({immobilising the load during lifting a loading platform <class-ref scheme="cpc">B60P1/4457</class-ref>}; for railway vehicles <class-ref scheme="cpc">B61D45/00</class-ref>)</definition-title><definition-statement> 
+         <section-title>Definition statement</section-title> 
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Securing of load to the vehicle.</paragraph-text>
+            <paragraph-text type="body">Covering of load for fixing and securing the load on the vehicle.</paragraph-text>
+         </section-body> 
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text>Immobilising the load during lifting of a loading platform</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">B60P1/4457</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Protective coverings specially adapted for vehicles or part of vehicles</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60J11/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Securing of load for railway vehicles </paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B61D45/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Fork-lift trucks adapted to be carried by the vehicle</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B66F9/07563</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references> 
+         <section-title>Informative references</section-title> 
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Nets or elastic pockets tensioned against wall or backrest inside a vehicle</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60R7/005</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.44cm">
+                     <paragraph-text type="body">Storing of securing straps by reels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65H54/585</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body> 
+      </informative-references></references><special-rules> 
+         <section-title>Special rules of classification</section-title> 
+         <section-body>
+            <paragraph-text type="body">The classes <class-ref scheme="cpc">B60P7/02</class-ref> and <class-ref scheme="cpc">B60P7/04</class-ref> are not used; those documents go to <class-ref scheme="cpc">B60J</class-ref> when the cover is not in contact with the load. If the cover is in contact with the load, see <class-ref scheme="cpc">B60P7/0876</class-ref> </paragraph-text>
+         </section-body> 
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B60P7/132</classification-symbol><definition-title>{twist-locks for containers or frames}</definition-title><definition-statement> 
+         <section-title>Definition statement</section-title> 
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Twistlocks mounted to the vehicle platform and having a mechanism to lock with a standard ISO corner fitting.</paragraph-text>
+         </section-body> 
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text>Fixation by twistlocks arranged between two containers</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text> <class-ref scheme="cpc">B65D90/0013</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B60P9/00</classification-symbol><definition-title>Other vehicles predominantly for carrying loads{, e.g. load carrying vehicles convertible for an intended purpose}</definition-title><definition-statement> 
+         <section-title>Definition statement</section-title> 
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">This is a residual group for vehicles carrying loads which can not be classified in other main groups of this subclass.</paragraph-text>
+         </section-body> 
+      </definition-statement></definition-item></definitions>

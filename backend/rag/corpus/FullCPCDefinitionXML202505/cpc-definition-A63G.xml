@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">A63G</classification-symbol><definition-title>MERRY-GO-ROUNDS; SWINGS; ROCKING-HORSES; CHUTES; SWITCHBACKS; SIMILAR DEVICES FOR PUBLIC AMUSEMENT</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Roundabouts, up-and-down hill tracks, swings, see-saws, rocking-horses, toy animals for riding, chutes, rotating or rocking pots, bumper cars, Russian swings, Ferris wheels, rolling drums and amusement arrangements in general, e.g. playground appliances.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Arrangements or fittings on vehicles for protecting or preventing injuries to occupants or pedestrians in case of accidents or other traffic risks</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60R21/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Arrangements or fittings on amusement vehicles for protecting or preventing injuries to occupants or pedestrians in case of accidents</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60R2021/0097</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G1/12</classification-symbol><definition-title>rotated by the passengers themselves</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media0.png" file-name="cpc-def-A63G-0000.png" type="png" preferred-width="5.29cm" preferred-height="5.18cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G1/14</classification-symbol><definition-title>rotated by pushing the feet against a fixed surface or by running</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media1.png" file-name="cpc-def-A63G-0001.png" type="png" preferred-width="4.22cm" preferred-height="5.34cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G1/16</classification-symbol><definition-title>rotated by means of grip-rings</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media2.png" file-name="cpc-def-A63G-0002.png" type="png" preferred-width="6.32cm" preferred-height="3.95cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G1/18</classification-symbol><definition-title>rotated by oars</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media3.png" file-name="cpc-def-A63G-0003.png" type="png" preferred-width="6.31cm" preferred-height="4.17cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G1/20</classification-symbol><definition-title>rotated by swinging or rocking</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media4.png" file-name="cpc-def-A63G-0004.png" type="png" preferred-width="5.32cm" preferred-height="4.46cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G1/24</classification-symbol><definition-title>with seats performing movements in a horizontal plane, other than circular movements</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media5.png" file-name="cpc-def-A63G-0005.png" type="png" preferred-width="5.64cm" preferred-height="8.22cm"/> <media id="media6.png" file-name="cpc-def-A63G-0006.png" type="png" preferred-width="5.15cm" preferred-height="7.94cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G1/38</classification-symbol><definition-title>with rocking turntables</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media7.png" file-name="cpc-def-A63G-0007.png" type="png" preferred-width="5.08cm" preferred-height="4.92cm"/> <media id="media8.png" file-name="cpc-def-A63G-0008.png" type="png" preferred-width="6.01cm" preferred-height="4.43cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G1/40</classification-symbol><definition-title>and oblique masts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media9.png" file-name="cpc-def-A63G-0009.png" type="png" preferred-width="5.4cm" preferred-height="4.4cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G1/44</classification-symbol><definition-title>with turntables moved up and down</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media10.png" file-name="cpc-def-A63G-0010.png" type="png" preferred-width="6.96cm" preferred-height="4.65cm"/> <media id="media11.png" file-name="cpc-def-A63G-0011.png" type="png" preferred-width="4.73cm" preferred-height="5.11cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G1/46</classification-symbol><definition-title>moved by a screw spindle</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media12.png" file-name="cpc-def-A63G-0012.png" type="png" preferred-width="4.59cm" preferred-height="5.75cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G1/48</classification-symbol><definition-title>with turntables and movably-mounted vehicles thereon which move to the outside when the roundabout is rotated</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media13.png" file-name="cpc-def-A63G-0013.png" type="png" preferred-width="7.3cm" preferred-height="4.36cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G3/00</classification-symbol><definition-title>Water roundabouts, e.g. freely floating</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Devices for generating current of water in swimming pools</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B69/125</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Swimming or splash baths or pools</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E04H4/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Devices for producing waves in swimming pools</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E04H4/0006</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Training appliances or apparatus for surfing, i.e. without a sail; for skate or snow boarding</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B69/0093</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Design or layout of playing courts, rinks, bowling greens or areas for water-skiing; Covers therefor</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63C19/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G4/00</classification-symbol><definition-title>Accessories for roundabouts not restricted to one of groups <class-ref scheme="cpc">A63G1/00</class-ref> or <class-ref scheme="cpc">A63G3/00</class-ref></definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media14.jpg" file-name="cpc-def-A63G-0014.jpg" type="jpeg" preferred-width="7.62cm" preferred-height="4.68cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G5/00</classification-symbol><definition-title>Games on roundabouts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media15.jpg" file-name="cpc-def-A63G-0015.jpg" type="jpeg" preferred-width="7.27cm" preferred-height="4.92cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G7/00</classification-symbol><definition-title>Up-and-down hill tracks; Switchbacks</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.85cm">
+                     <paragraph-text type="body">Arrangements or fittings on vehicles for protecting or preventing injuries to occupants or pedestrians in case of accidents or other traffic risks</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.18cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60R21/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.85cm">
+                     <paragraph-text type="body">Arrangements or fittings on amusement vehicles for protecting or preventing injuries to occupants or pedestrians in case of accidents</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.18cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60R2021/0097</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.85cm">
+                     <paragraph-text type="body">Elevated railway systems with suspended vehicles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.18cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B61B3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Tracks for special kinds of railways</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E01B25/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G9/00</classification-symbol><definition-title>Swings</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Rocking chairs pivotally mounted in a frame; Swings</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A47C3/0255</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Nursery furniture: Rocking chairs; Indoor swings; Baby bouncers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A47D13/10</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G9/02</classification-symbol><definition-title>with two suspensory axles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media16.jpg" file-name="cpc-def-A63G-0016.jpg" type="jpeg" preferred-width="6.0cm" preferred-height="5.27cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G9/04</classification-symbol><definition-title>with moving supporting-points</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media17.jpg" file-name="cpc-def-A63G-0017.jpg" type="jpeg" preferred-width="7.27cm" preferred-height="4.95cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G9/06</classification-symbol><definition-title>Climbing swings</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media18.png" file-name="cpc-def-A63G-0018.png" type="png" preferred-width="5.72cm" preferred-height="5.21cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G9/08</classification-symbol><definition-title>Looping-the-loop swings</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media19.png" file-name="cpc-def-A63G-0019.png" type="png" preferred-width="6.3cm" preferred-height="5.61cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G9/12</classification-symbol><definition-title>Special fastenings of the suspensory point</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media20.png" file-name="cpc-def-A63G-0020.png" type="png" preferred-width="4.74cm" preferred-height="6.4cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="12.26cm">
+                     <paragraph-text type="body">Chain couplings, Shackles; Chain joints; Chain links; Chain bushes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="2.77cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16G15/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G9/14</classification-symbol><definition-title>elastically suspended</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media21.png" file-name="cpc-def-A63G-0021.png" type="png" preferred-width="3.22cm" preferred-height="5.96cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G9/16</classification-symbol><definition-title>Driving mechanisms, such as ropes, gear, belt, motor drive</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media22.jpg" file-name="cpc-def-A63G-0022.jpg" type="jpeg" preferred-width="4.23cm" preferred-height="6.3cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G9/20</classification-symbol><definition-title>Oar swings</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media23.jpg" file-name="cpc-def-A63G-0023.jpg" type="jpeg" preferred-width="6.61cm" preferred-height="5.06cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G9/22</classification-symbol><definition-title>Brakes</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media24.png" file-name="cpc-def-A63G-0024.png" type="png" preferred-width="6.88cm" preferred-height="5.95cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">A63G11/00</classification-symbol><definition-title>See-saws</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media25.jpg" file-name="cpc-def-A63G-0025.jpg" type="jpeg" preferred-width="6.0cm" preferred-height="4.73cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><synonyms-keywords><section-title>Synonyms and Keywords</section-title><abbreviations><paragraph-text type="preamble">In patent documents, the following abbreviations are often used:</paragraph-text>
+   
+   <table>
+<table-row>
+         <table-column preferred-width="7.32cm">
+            <paragraph-text type="body">See-saw</paragraph-text>
+         </table-column>
+         <table-column preferred-width="7.71cm">
+            <paragraph-text type="body">Teeter-totter</paragraph-text>
+         </table-column>
+      </table-row></table>
+   </abbreviations></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G13/00</classification-symbol><definition-title>Cradle swings; Rocking-horses; Like devices resting on the ground</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="10.78cm">
+                     <paragraph-text type="body">Small beds for newborns or infants, e.g. bassinets or cradles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.26cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A47D9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G13/02</classification-symbol><definition-title>Cradle swings</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media26.png" file-name="cpc-def-A63G-0026.png" type="png" preferred-width="6.01cm" preferred-height="4.34cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G13/04</classification-symbol><definition-title>Spring-supported cradle swings</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media27.png" file-name="cpc-def-A63G-0027.png" type="png" preferred-width="3.44cm" preferred-height="6.0cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G13/08</classification-symbol><definition-title>mounted on links or springs</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Mounted on links contemplates, for instance, elastic links and other types of mechanical links that allow rocking motions.</paragraph-text>
+            <paragraph-text type="body"> <media id="media28.png" file-name="cpc-def-A63G-0028.png" type="png" preferred-width="4.9cm" preferred-height="5.17cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G13/10</classification-symbol><definition-title>with dismountable runners usable for other purposes</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Rocking-horses with any type of dismountable runners directed to add further functionalities and usability to the rocking-horses</paragraph-text>
+            <paragraph-text type="body"> <media id="media29.png" file-name="cpc-def-A63G-0029.png" type="png" preferred-width="5.72cm" preferred-height="9.26cm"/> <media id="media76.png" file-name="cpc-def-A63G-0076.png" type="png" preferred-width="5.72cm" preferred-height="9.26cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="10.78cm">
+                     <paragraph-text type="body">Vehicles having alternatively-usable runners and wheels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.26cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B62B13/18</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G15/00</classification-symbol><definition-title>Rocking horses on runners adapted for progressive movement</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media30.png" file-name="cpc-def-A63G-0030.png" type="png" preferred-width="5.77cm" preferred-height="8.95cm"/> <media id="media31.jpg" file-name="cpc-def-A63G-0031.jpg" type="jpeg" preferred-width="7.12cm" preferred-height="3.86cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G15/02</classification-symbol><definition-title>with divided runners</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media32.png" file-name="cpc-def-A63G-0032.png" type="png" preferred-width="5.93cm" preferred-height="5.45cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G17/00</classification-symbol><definition-title>Hobby-horses</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media33.png" file-name="cpc-def-A63G-0033.png" type="png" preferred-width="4.42cm" preferred-height="5.93cm"/> <media id="media34.jpg" file-name="cpc-def-A63G-0034.jpg" type="jpeg" preferred-width="6.09cm" preferred-height="5.13cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G19/00</classification-symbol><definition-title>Toy animals for riding</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="10.78cm">
+                     <paragraph-text type="body">Children vehicles hand carried by adult</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.26cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B62B3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="10.78cm">
+                     <paragraph-text type="body">Children&apos;s cycles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.26cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B62K9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G19/04</classification-symbol><definition-title>with eccentric wheels</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media35.jpg" file-name="cpc-def-A63G-0035.jpg" type="jpeg" preferred-width="8.49cm" preferred-height="4.23cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G19/06</classification-symbol><definition-title>Swingably-mounted toy animals for riding made to travel by means of parallelogram-joints</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media36.jpg" file-name="cpc-def-A63G-0036.jpg" type="jpeg" preferred-width="7.25cm" preferred-height="5.45cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G19/08</classification-symbol><definition-title>made to travel by ratchet-wheels, e.g. by stretching the legs</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media37.jpg" file-name="cpc-def-A63G-0037.jpg" type="jpeg" preferred-width="6.58cm" preferred-height="6.64cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G19/10</classification-symbol><definition-title>by pressing the seats or saddles up-and-down</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media38.jpg" file-name="cpc-def-A63G-0038.jpg" type="jpeg" preferred-width="6.93cm" preferred-height="4.71cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G19/12</classification-symbol><definition-title>by performing oscillations</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media39.jpg" file-name="cpc-def-A63G-0039.jpg" type="jpeg" preferred-width="5.56cm" preferred-height="7.73cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G19/14</classification-symbol><definition-title>by moving the stirrups or pedals</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media40.jpg" file-name="cpc-def-A63G-0040.jpg" type="jpeg" preferred-width="8.88cm" preferred-height="5.53cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G19/16</classification-symbol><definition-title>made to travel by punting</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="10.78cm">
+                     <paragraph-text type="body">Rider propulsion of wheeled vehicles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.26cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B62M1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G19/18</classification-symbol><definition-title>made to travel by pacing</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Toy animals for riding propelled by foot power</paragraph-text>
+            <paragraph-text type="body"> <media id="media41.jpg" file-name="cpc-def-A63G-0041.jpg" type="jpeg" preferred-width="4.5cm" preferred-height="4.82cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G19/20</classification-symbol><definition-title>motor-driven</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media77.png" file-name="cpc-def-A63G-0077.png" type="png" preferred-width="4.63cm" preferred-height="7.21cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Training appliances for simulating the movement of horses</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B69/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G21/00</classification-symbol><definition-title>Chutes; Helter-skelters</definition-title><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text>Helter-skelters</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text>A funfair amusement park ride with a slide built in a spiral around a high tower. Users climb up inside the tower and slide down the outside, usually on a mat or sack.</paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G21/02</classification-symbol><definition-title>without rails</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media43.png" file-name="cpc-def-A63G-0043.png" type="png" preferred-width="7.2cm" preferred-height="4.07cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G21/04</classification-symbol><definition-title>with fixed rails</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media44.jpg" file-name="cpc-def-A63G-0044.jpg" type="jpeg" preferred-width="5.24cm" preferred-height="7.35cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G21/06</classification-symbol><definition-title>with passing arrangements for cars</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media45.jpg" file-name="cpc-def-A63G-0045.jpg" type="jpeg" preferred-width="6.35cm" preferred-height="5.45cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G21/08</classification-symbol><definition-title>with additional rotation of cars</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media46.png" file-name="cpc-def-A63G-0046.png" type="png" preferred-width="5.61cm" preferred-height="7.43cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G21/10</classification-symbol><definition-title>with spiral tracks</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media47.png" file-name="cpc-def-A63G-0047.png" type="png" preferred-width="5.31cm" preferred-height="7.22cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G21/12</classification-symbol><definition-title>with special cars, e.g. horse-shaped</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media48.jpg" file-name="cpc-def-A63G-0048.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="4.55cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G21/14</classification-symbol><definition-title>with driven slideways</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Chutes with driven slideways, i.e. slideways or part of the slideways that are suitable to be moved from one position to another one.</paragraph-text>
+            <paragraph-text type="body"> <media id="media49.png" file-name="cpc-def-A63G-0049.png" type="png" preferred-width="9.15cm" preferred-height="3.28cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media50.jpg" file-name="cpc-def-A63G-0050.jpg" type="jpeg" preferred-width="5.08cm" preferred-height="5.64cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G21/16</classification-symbol><definition-title>with forced removal of the passenger from the seat</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media51.png" file-name="cpc-def-A63G-0051.png" type="png" preferred-width="8.73cm" preferred-height="5.95cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G21/18</classification-symbol><definition-title>Water-chutes</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Devices for generating current of water in swimming pools</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B69/125</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Swimming or splash baths or pools</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E04H4/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Devices for producing waves in swimming pools</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E04H4/0006</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Training appliances or apparatus for surfing, i.e. without a sail; for skate or snow boarding</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B69/0093</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Design or layout of playing courts, rinks, bowling greens or areas for water-skiing; Covers therefor</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63C19/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G21/20</classification-symbol><definition-title>Slideways with movably suspended cars, or with cars moving on ropes, or the like</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media78.png" file-name="cpc-def-A63G-0078.png" type="png" preferred-width="4.24cm" preferred-height="7.77cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Elevated railway systems with suspended vehicles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B61B3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G21/22</classification-symbol><definition-title>Suspended slideways</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media53.jpg" file-name="cpc-def-A63G-0053.jpg" type="jpeg" preferred-width="8.89cm" preferred-height="5.48cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G23/00</classification-symbol><definition-title>Rotating or rocking pots{, e.g. by moving the whole body  (rotating or rocking exercising for training agility or coordination of movements <class-ref scheme="cpc">A63B22/14</class-ref>, <class-ref scheme="cpc">A63B22/16</class-ref>, <class-ref scheme="cpc">A63B22/18</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media79.png" file-name="cpc-def-A63G-0079.png" type="png" preferred-width="5.50cm" preferred-height="5.54cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Rotating or rocking exercising for training agility or coordination of movements</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B22/14</class-ref>, <class-ref scheme="cpc">A63B22/16</class-ref>, <class-ref scheme="cpc">A63B22/18</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G25/00</classification-symbol><definition-title>Autocar-like self-drivers; Runways therefor</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media57.png" file-name="cpc-def-A63G-0057.png" type="png" preferred-width="5.37cm" preferred-height="4.82cm"/> <media id="media80.png" file-name="cpc-def-A63G-0080.png" type="png" preferred-height="4.80cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Understructures, i.e. chassis frame on which a vehicle body may be mounted</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B62D21/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Children&apos;s cycles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B62K9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G27/00</classification-symbol><definition-title>Russian swings; Great wheels, e.g. Ferris wheels</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media58.png" file-name="cpc-def-A63G-0058.png" type="png" preferred-width="4.61cm" preferred-height="4.45cm"/> <media id="media59.png" file-name="cpc-def-A63G-0059.png" type="png" preferred-width="4.31cm" preferred-height="5.07cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G27/02</classification-symbol><definition-title>with special movements of the seat-carriers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media60.jpg" file-name="cpc-def-A63G-0060.jpg" type="jpeg" preferred-width="4.29cm" preferred-height="6.72cm"/> <media id="media61.jpg" file-name="cpc-def-A63G-0061.jpg" type="jpeg" preferred-width="6.3cm" preferred-height="6.57cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G27/04</classification-symbol><definition-title>with tiltable axis</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media62.jpg" file-name="cpc-def-A63G-0062.jpg" type="jpeg" preferred-width="7.27cm" preferred-height="5.34cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media63.jpg" file-name="cpc-def-A63G-0063.jpg" type="jpeg" preferred-width="7.27cm" preferred-height="5.76cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G27/08</classification-symbol><definition-title>mounted on roundabouts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media64.jpg" file-name="cpc-def-A63G-0064.jpg" type="jpeg" preferred-width="5.87cm" preferred-height="9.45cm"/> <media id="media65.jpg" file-name="cpc-def-A63G-0065.jpg" type="jpeg" preferred-width="7.62cm" preferred-height="6.06cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G29/00</classification-symbol><definition-title>Rolling drums turning somersaults with or without rolling seats {(hoop exercising apparatus driven by the user <class-ref scheme="cpc">A63B19/00</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media66.jpg" file-name="cpc-def-A63G-0066.jpg" type="jpeg" preferred-width="5.34cm" preferred-height="5.27cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="12.26cm">
+                     <paragraph-text type="body">Hoop exercising apparatus</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="2.77cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B19/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G29/02</classification-symbol><definition-title>with seats staying at the bottom of the drum</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media67.png" file-name="cpc-def-A63G-0067.png" type="png" preferred-width="5.3cm" preferred-height="5.55cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="10.78cm">
+                     <paragraph-text type="body">Disposition of motor in, or adjacent to, traction wheel</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.26cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60K7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="10.78cm">
+                     <paragraph-text type="body">Unicycles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.26cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B62K1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G31/00</classification-symbol><definition-title>Amusement arrangements {(hoop exercising apparatus driven by the user <class-ref scheme="cpc">A63B19/00</class-ref>)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Climbing poles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Exercising apparatus combining several parts such as ladders, rods, beams, slides</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B17/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Hoop exercising apparatus</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B19/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G31/007</classification-symbol><definition-title>{involving water}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Devices for generating current of water in swimming pools</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B69/125</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Swimming or splash baths or pools</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E04H4/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Devices for producing waves in swimming pools</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E04H4/0006</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Training appliances or apparatus for surfing, i.e. without a sail; for skate or snow boarding</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B69/0093</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.94cm">
+                     <paragraph-text type="body">Design or layout of playing courts, rinks, bowling greens or areas for water-skiing; Covers therefor</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.09cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63C19/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G31/04</classification-symbol><definition-title>with jolting substructures</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Jolting substructures, e.g. providing for rough motion, sudden abrupt movement.</paragraph-text>
+            <paragraph-text type="body"> <media id="media68.jpg" file-name="cpc-def-A63G-0068.jpg" type="jpeg" preferred-width="6.0cm" preferred-height="4.18cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G31/06</classification-symbol><definition-title>with undulatory motion of the substructure</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media69.jpg" file-name="cpc-def-A63G-0069.jpg" type="jpeg" preferred-width="4.5cm" preferred-height="6.9cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G31/08</classification-symbol><definition-title>with looping, hopping, or throwing motions of the substructure</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media70.jpg" file-name="cpc-def-A63G-0070.jpg" type="jpeg" preferred-width="7.2cm" preferred-height="5.0cm"/> <media id="media71.jpg" file-name="cpc-def-A63G-0071.jpg" type="jpeg" preferred-width="3.97cm" preferred-height="7.22cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G31/12</classification-symbol><definition-title>with inflatable and movable substructures  (connection of valves to inflatable elastic bodies <class-ref scheme="cpc">B60C29/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media72.jpg" file-name="cpc-def-A63G-0072.jpg" type="jpeg" preferred-width="6.93cm" preferred-height="4.52cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="12.26cm">
+                     <paragraph-text type="body">Apparatus for jumping</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="2.77cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="12.26cm">
+                     <paragraph-text type="body">Mats or the like for absorbing shocks for jumping, gymnastics or the like</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="2.77cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B6/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="12.26cm">
+                     <paragraph-text type="body">Arrangements of tyre-inflating valves to tyres or rims</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="2.77cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60C29/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G31/14</classification-symbol><definition-title>with planes mounted on springs; with movable planes</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media73.jpg" file-name="cpc-def-A63G-0073.jpg" type="jpeg" preferred-width="5.96cm" preferred-height="4.63cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G31/16</classification-symbol><definition-title>creating illusions of travel</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="12.26cm">
+                     <paragraph-text type="body">Simulators for teaching control of vehicles or other craft</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="2.77cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G09B9/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="12.26cm">
+                     <paragraph-text type="body">Arrangements for interaction with the human for user immersion in virtual reality</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="2.77cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06F3/011</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A63G33/00</classification-symbol><definition-title>Devices allowing competitions between several persons, not otherwise provided for</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media74.jpg" file-name="cpc-def-A63G-0074.jpg" type="jpeg" preferred-width="7.27cm" preferred-height="5.31cm"/> <media id="media75.jpg" file-name="cpc-def-A63G-0075.jpg" type="jpeg" preferred-width="7.27cm" preferred-height="5.35cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item></definitions>

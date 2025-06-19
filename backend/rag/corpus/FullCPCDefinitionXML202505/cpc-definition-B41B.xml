@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B41B</classification-symbol><definition-title>MACHINES OR ACCESSORIES FOR MAKING, SETTING, OR DISTRIBUTING TYPE; TYPE; PHOTOGRAPHIC OR PHOTOELECTRIC COMPOSING DEVICES  (photographic devices in general <class-ref scheme="cpc">G03</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Single types and lines composed of a plurality of types grouped and fixed together for printing,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">types are three-dimensionally formed almost cuboid bodies having a top surface carrying in form of a raised relief a specific type face defining an alphanumerical character or decorating symbol,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">types and lines are usually cast bodies mainly formed by lead containing material or in case of bigger types or lines, are cut from wooden material</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">casting equipment and mechanical apparatus for manufacturing said types or lines,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">mechanical apparatus and photographic or photoelectronic apparatus, so called phototypographic composing machines specifically adapted for grouping together a plurality of types and/or lines in a flat type-bed to form a full image or page to be printed onto a sheet or web-like substrate,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">recording, controlling, indicating and safety devices and processes specifically adapted for said equipments and apparatus,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus for mechanical reproduction of printing surfaces for stereotype printing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41D1/00</class-ref> - <class-ref scheme="cpc">B41D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Shaping elastic or deformable material to form printing surfaces</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41D7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Printing plates or foils</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41N1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Foundry moulding in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Casting in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Processes for the manufacture or reproduction of printing surfaces</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Platen presses having at least one essentially flat pressure applying member cooperating with a flat type-bed</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Cylinder presses essentially comprising at least one cylinder cooperating with at least one flat type-bed</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Rotary printing machines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F5/00</class-ref> - <class-ref scheme="cpc">B41F13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus for bronze printing, line printing, or for bordering or edging sheets or like articles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41G1/00</class-ref> - <class-ref scheme="cpc">B41G5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Auxiliary perforating apparatus in conjunction with printing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41G7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Stamps,; stamping or numbering apparatus or devices</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41K</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus or devices for manifolding, duplicating, or printing for office or other commercial purposes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41L1/00</class-ref> - <class-ref scheme="cpc">B41L43/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Addressing machines or like series-printing machines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41L45/00</class-ref> - <class-ref scheme="cpc">B41L49/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Printing, colour printing, duplicating, marking or copying processes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41M</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus or accessories for taking photographs in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Photosensitive materials or photographic processes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus for processing exposed photographic material in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Photomechanical production of textured or patterned surfaces, e.g. for printing in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Electrography, electrophotography, magnetography in general </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03G</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Printing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">after applying ink or colour onto the surface of said specific type faces, said inked type faces are applied by contact pressure onto the surface of a substrate, e.g. paper, to apply the inked characters or symbols or lines onto the substrate</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B1/00</classification-symbol><definition-title>Elements or appliances for hand composition; Chases, quoins, or galleys</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Chases are frames essentially formed from iron holding together by clamping action a plurality of types and/or lines forming a full page of text and/or decorating symbols to print said page onto a substrate,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">quoins are clamping or gripping wedges used inside a chase to clamp the types and or lines, and</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">galleys are rectangular flat metal plates having a raised border on three sides thereof for manually arranging or composing a plurality of single types and/or lines to form the text and/or symbols of a full page to be printed; after finishing the arrangement of all types and/or lines forming the full page, the whole set is pushed through the borderless side of the galley onto the type-bed of a printing press.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B3/00</classification-symbol><definition-title>Apparatus for mechanical composition using prefabricated type, i.e. without casting equipment</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Apparatus or devices for taking single types from various sources, e.g. from slide magazines,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">apparatus or devices for distributing types e.g. onto a type-bed,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">apparatus for verifying or justifying the composition,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B5/00</classification-symbol><definition-title>Devices for making type or lines  (for mechanical composition <class-ref scheme="cpc">B41B7/00</class-ref>, <class-ref scheme="cpc">B41B9/00</class-ref>, <class-ref scheme="cpc">B41B11/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Casting devices,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">matrices,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">tools and accessories,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B7/00</classification-symbol><definition-title>Kinds or types of apparatus for mechanical composition in which the type is cast or moulded from matrices</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Matrices are almost composed of brass and form an open casting mould for almost lead containing molten casting material. On the bottom surface of said matrices is embossed an alphanumerical character and/or decorative symbol for shaping the molten casting material into the type face;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B9/00</classification-symbol><definition-title>Details of, or accessories for, machines for mechanical composition using fixed combinations of matrices from which type is cast or moulded</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Arrangements and carriers for matrices,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">moulding or casting devices per se,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">devices for handling cast types,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B11/00</classification-symbol><definition-title>Details of, or accessories for, machines for mechanical composition using matrices for individual characters which are selected and assembled for type casting or moulding</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Space bands and matrices,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">storage devices therefore,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">assembling, lining, distributing devices for space bands and matrices,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">moulding or casting devices per se,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">cooling or cleaning devices,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B13/00</classification-symbol><definition-title>Equipment specially adapted for photographing mounted characters or the like, e.g. advertisements, lines</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Mounting or composing characters by hand,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">simultaneously photographing composed characters or single characters one by one,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Apparatus and accessories for taking photographs in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Photosensitive materials or photographic processes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Apparatus for processing exposed photographic material in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Photomechanical production of textured or patterned surfaces, e.g. for printing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Electrography, electrophotography, magnetography in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03G</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B15/00</classification-symbol><definition-title>Photographic composing machines with movable character carriers for composing lines of characters prior to photography</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Means for photographing complete lines or composed characters,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">details like photographic devices and character carriers,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">handling, storing or cleaning devices for character carriers,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus and accessories adapted for photographing in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Photographic materials or photographic processes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus for processing exposed photographic material in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Photomechanical production of textured or patterned surfaces, e.g. for printing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Electrography, electrophotography, magnetography in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03G</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B17/00</classification-symbol><definition-title>Photographic composing machines having fixed or movable character carriers and without means for composing lines prior to photography</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Manually-adjustable character carriers,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">carriers for all characters in one size,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">character carriers per se including accessories like cleaning devices, selection indicators, devices for indicating the width,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus and accessories for taking photographs in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Photosensitive materials or photographic processes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus for processing exposed photographic material in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Photomechanical production of textured or patterned surfaces, e.g. for printing in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Electrography, electrophotography, magnetography in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03G</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B19/00</classification-symbol><definition-title>Photoelectronic composing machines</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Electron-beam tubes producing an image of photographed characters on a screen,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specifically adapted character carriers associated with electron beams,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 2000.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus and accessories for taking photographs in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Photosensitive materials or photographic processes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus for processing exposed photographic material in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Photomechanical production of textured or patterned surfaces, e.g. for printing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Electrography, electrophotography, magnetography in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03G</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B21/00</classification-symbol><definition-title>Common details of photographic composing machines of the kinds covered in groups <class-ref scheme="cpc">B41B17/00</class-ref> and <class-ref scheme="cpc">B41B19/00</class-ref></definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Optical equipment per se and specifically adapted accessories,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">shutters,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">light sources,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">single or multiple optical paths,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">electron-beam tubes,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">film carriers including handling and positioning means therefore,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus and accessories for taking photography in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Photosensitive materials or photographic processes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus for processing exposed photographic material in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Photomechanical production of textured or patterned surfaces, e.g. for printing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Electrography, electrophotography, magnetography in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03G</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B23/00</classification-symbol><definition-title>Auxiliary devices for modifying, mixing or correcting text or layout in connection with photographic or photoelectronic composing</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Devices for mixing parts of text from a plurality of films to another film,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">devices for removing incorrect lines, devices for rearranging lines,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">devices for facilitating hand correction,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus and accessories for taking photographs in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Photosensitive materials or photographic processes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus for processing exposed photographic materials in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Photomechanical production of textured or patterned surfaces, e.g. for printing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Electrography, electrophotography, magnetography in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03G</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B25/00</classification-symbol><definition-title>Apparatus specially adapted for preparation of record carriers for controlling composing machines  (for casting individual characters or spaces, e.g. in type casting machines <class-ref scheme="cpc">B41B7/04</class-ref>; methods for marking or reproducing record carriers having digital data thereon in general <class-ref scheme="cpc">G06K1/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Devices for line justification including counting and indicating devices,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">combinations with type-setting machines,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">auxiliary devices,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Type-setting machines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41B3/00</class-ref> - <class-ref scheme="cpc">B41B11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Measurement of light, measurement of colour, colorimetry</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01J</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Apparatus and accessories for taking photographs in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Controlling, regulating in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G05B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Electric digital data processing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G06F</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41B27/00</classification-symbol><definition-title>Control, indicating, or safety devices or systems for composing machines of various kinds or types  (computers in general <class-ref scheme="cpc">G06F</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Central systems controlling all operations, like keyboards,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">devices for individual operations or machine elements,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">devices for proof printing operations,</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">specific technology mostly used until the year 1990.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Control, indicating or safety devices for printing machines or presses in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F33/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Control or regulating systems including functional elements in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G05B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Information storage in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G11</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

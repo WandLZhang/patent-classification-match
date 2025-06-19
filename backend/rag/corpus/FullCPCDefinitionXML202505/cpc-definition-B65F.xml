@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B65F</classification-symbol><definition-title>GATHERING OR REMOVAL OF DOMESTIC OR LIKE REFUSE  (disinfecting refuse <class-ref scheme="cpc">A61L</class-ref>; refuse disintegrators <class-ref scheme="cpc">B02C</class-ref>; sorting refuse <class-ref scheme="cpc">B03B</class-ref>; <class-ref scheme="cpc">B07B</class-ref>; handcarts for transporting refuse receptacles <class-ref scheme="cpc">B62B</class-ref>; sack holders <class-ref scheme="cpc">B65B67/00</class-ref>; converting refuse into fertilisers <class-ref scheme="cpc">C05F</class-ref>; converting refuse into solid fuels <class-ref scheme="cpc">C10L</class-ref>; sewers, cesspools <class-ref scheme="cpc">E03F</class-ref>; arrangements in buildings for the disposal of refuse <class-ref scheme="cpc">E04F17/10</class-ref>; refuse-consuming furnaces <class-ref scheme="cpc">F23G</class-ref>; {for surgical articles <class-ref scheme="cpc">A61B50/36</class-ref>})</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Refuse receptacles;</paragraph-text>
+        <paragraph-text type="body">Vehicles particularly adapted for collecting refuse;</paragraph-text>
+        <paragraph-text type="body">Gathering or removal of refuse otherwise than by receptacles or vehicles;</paragraph-text>
+        <paragraph-text type="body">Cleaning or disinfecting devices combined with refuse receptacles or refuse vehicles; Transferring of refuse between vehicles or containers with intermediate storage or pressing.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2016-02-01"><classification-symbol scheme="cpc">B65F1/00</classification-symbol><definition-title>Refuse receptacles; {Accessories therefor} (containers not specially adapted for refuse, features of refuse receptacles of general interest <class-ref scheme="cpc">B65D</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Details of flexible refuse receptacles, e.g. bags.</paragraph-text>
+        <paragraph-text type="body">Receptacles adapted for segregated refuse collecting.</paragraph-text>
+        <paragraph-text type="body">Receptacles adapted for collecting from arrangements in buildings.</paragraph-text>
+        <paragraph-text type="body">Receptacles without removable inserts.</paragraph-text>
+        <paragraph-text type="body">Receptacles with removable inserts.</paragraph-text>
+        <paragraph-text type="body">Receptacles with refuse filling means, e.g. locks.</paragraph-text>
+        <paragraph-text type="body">Receptacles with devices facilitating emptying, e.g. openable bottom.</paragraph-text>
+        <paragraph-text type="body">Other constructional features, e.g. lids.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Casings for collecting used surgery articles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61B50/36</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Containers provided with, or connectable to, compacter means</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B30B9/3042</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Handcarts with support for dustbin</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62B1/264</class-ref>, <class-ref scheme="cpc">B62B3/104</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Handcarts with support for bags</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62B1/266</class-ref>, <class-ref scheme="cpc">B62B3/106</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Sack holders</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65B67/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Pedal-operated mechanisms for lids or covers for containers not specially adapted for refuse</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65D43/262</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Gravity activated lock parts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E05B15/0093</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">The use of Indexing Codes is mandatory if applicable.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/0006</classification-symbol><definition-title>{Flexible refuse receptables, e.g. bags, sacks}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media0.jpg" file-name="cpc-def-B65F-0000.jpg" type="jpeg" preferred-width="11.83cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/0033</classification-symbol><definition-title>{specially adapted for segregated refuse collecting, e.g. receptacles with several compartments; Combination of receptacles  (<class-ref scheme="cpc">B65F1/0093</class-ref> takes precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media1.jpg" file-name="cpc-def-B65F-0001.jpg" type="jpeg" preferred-width="12.78cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/004</classification-symbol><definition-title>{the receptacles being divided in compartments by partitions}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media2.jpg" file-name="cpc-def-B65F-0002.jpg" type="jpeg" preferred-width="7.78cm" preferred-height="7.93cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/0046</classification-symbol><definition-title>{the partitions being movable, e.g. for varying the volume of the compartments}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media3.jpg" file-name="cpc-def-B65F-0003.jpg" type="jpeg" preferred-width="6.45cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/0053</classification-symbol><definition-title>{Combination of several receptacles}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media4.jpg" file-name="cpc-def-B65F-0004.jpg" type="jpeg" preferred-width="6.58cm" preferred-height="8.7cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/0093</classification-symbol><definition-title>{specially adapted for collecting refuse from arrangements in buildings}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media5.jpg" file-name="cpc-def-B65F-0005.jpg" type="jpeg" preferred-width="3.24cm" preferred-height="6.66cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/02</classification-symbol><definition-title>without removable inserts</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media6.jpg" file-name="cpc-def-B65F-0006.jpg" type="jpeg" preferred-width="8.59cm" preferred-height="10.01cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/04</classification-symbol><definition-title>with removable inserts</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media7.jpg" file-name="cpc-def-B65F-0007.jpg" type="jpeg" preferred-width="5.24cm" preferred-height="7.31cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/06</classification-symbol><definition-title>with flexible inserts, e.g. bags or sacks {(<class-ref scheme="cpc">B65F1/0073</class-ref> takes precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media8.jpg" file-name="cpc-def-B65F-0008.jpg" type="jpeg" preferred-width="5.98cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/08</classification-symbol><definition-title>with rigid inserts</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media9.jpg" file-name="cpc-def-B65F-0009.jpg" type="jpeg" preferred-width="5.36cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/10</classification-symbol><definition-title>with refuse filling means, e.g. air-locks</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media10.jpg" file-name="cpc-def-B65F-0010.jpg" type="jpeg" preferred-width="4.92cm" preferred-height="5.4cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/12</classification-symbol><definition-title>with devices facilitating emptying</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media11.jpg" file-name="cpc-def-B65F-0011.jpg" type="jpeg" preferred-width="5.81cm" preferred-height="7.04cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/122</classification-symbol><definition-title>{Features allowing the receptacle to be lifted and subsequently tipped by associated means on a vehicle}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media12.jpg" file-name="cpc-def-B65F-0012.jpg" type="jpeg" preferred-width="6.77cm" preferred-height="7.67cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/125</classification-symbol><definition-title>{Features allowing the receptacle to be lifted and emptied by its bottom}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media13.jpg" file-name="cpc-def-B65F-0013.jpg" type="jpeg" preferred-width="9.02cm" preferred-height="10.03cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/127</classification-symbol><definition-title>{by suction}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media14.jpg" file-name="cpc-def-B65F-0014.jpg" type="jpeg" preferred-width="11.79cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1405</classification-symbol><definition-title>{Compressing means incorporated in, or specially adapted for, refuse receptacles  (presses in general <class-ref scheme="cpc">B30B</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media15.jpg" file-name="cpc-def-B65F-0015.jpg" type="jpeg" preferred-width="6.21cm" preferred-height="8.46cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Containers provided with, or connectable to, compacter means </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B30B9/3042</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/141</classification-symbol><definition-title>{Supports, racks, stands, posts or the like for holding refuse receptacles  (<class-ref scheme="cpc">B65F1/0066</class-ref> takes precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media16.jpg" file-name="cpc-def-B65F-0016.jpg" type="jpeg" preferred-width="6.38cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1415</classification-symbol><definition-title>{for flexible receptables, e.g. bags, sacks}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Handcarts with support for bags</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62B1/266</class-ref>, <class-ref scheme="cpc">B62B3/106</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Sack holders Sack holders</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65B67/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1426</classification-symbol><definition-title>{Housings, cabinets or enclosures for refuse receptacles  (<class-ref scheme="cpc">B65F1/006</class-ref>, <class-ref scheme="cpc">B65F1/1452</class-ref> take precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media17.jpg" file-name="cpc-def-B65F-0017.jpg" type="jpeg" preferred-width="13.44cm" preferred-height="10.03cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1447</classification-symbol><definition-title>{located underground}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media18.jpg" file-name="cpc-def-B65F-0018.jpg" type="jpeg" preferred-width="8.25cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1452</classification-symbol><definition-title>{Lifting, hoisting, elevating mechanisms or the like for refuse receptacles  (lifting in general <class-ref scheme="cpc">B66</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media19.jpg" file-name="cpc-def-B65F-0019.jpg" type="jpeg" preferred-width="14.63cm" preferred-height="8.97cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1457</classification-symbol><definition-title>{for refuse receptacles located underground}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media20.jpg" file-name="cpc-def-B65F-0020.jpg" type="jpeg" preferred-width="8.27cm" preferred-height="9.99cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1463</classification-symbol><definition-title>{Receptacles adapted to store one or more piles of used stackable containers, e.g. beverage cups}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media21.jpg" file-name="cpc-def-B65F-0021.jpg" type="jpeg" preferred-width="5.84cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1468</classification-symbol><definition-title>{Means for facilitating the transport of the receptacle, e.g. wheels, rolls  (hand-operated refuse vehicles <class-ref scheme="cpc">B65F3/005</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media22.jpg" file-name="cpc-def-B65F-0022.jpg" type="jpeg" preferred-width="9.29cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Handcarts with support for dustbin</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62B1/264</class-ref>, <class-ref scheme="cpc">B62B3/104</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1478</classification-symbol><definition-title>{relating to noise reduction in receptacles during collecting of refuse, e.g. of glass}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media23.jpg" file-name="cpc-def-B65F-0023.jpg" type="jpeg" preferred-width="8.78cm" preferred-height="9.99cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1484</classification-symbol><definition-title>{relating to the adaptation of receptacles to carry identification means}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media24.jpg" file-name="cpc-def-B65F-0024.jpg" type="jpeg" preferred-width="8.98cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/16</classification-symbol><definition-title>Lids or covers  ({<class-ref scheme="cpc">B65F1/1421</class-ref> takes precedence}; pedal or hand-lever operated {for containers in general} <class-ref scheme="cpc">B65D</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media25.jpg" file-name="cpc-def-B65F-0025.jpg" type="jpeg" preferred-width="7.7cm" preferred-height="9.99cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1607</classification-symbol><definition-title>{with filling openings}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media26.jpg" file-name="cpc-def-B65F-0026.jpg" type="jpeg" preferred-width="6.75cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1615</classification-symbol><definition-title>{with means for locking, fastening or permanently closing thereof}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Gravity activated lock parts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E05B15/0093</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1623</classification-symbol><definition-title>{with means for assisting the opening or closing thereof, e.g. springs  (spring-actuated swinging wings <class-ref scheme="cpc">E05F1/10</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media27.jpg" file-name="cpc-def-B65F-0027.jpg" type="jpeg" preferred-width="8.37cm" preferred-height="4.51cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/163</classification-symbol><definition-title>{Pedal-operated lids}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media28.jpg" file-name="cpc-def-B65F-0028.jpg" type="jpeg" preferred-width="7.11cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">For containers not specially adapted for refuse</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65D43/262</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1638</classification-symbol><definition-title>{Electromechanically operated lids}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media29.jpg" file-name="cpc-def-B65F-0029.jpg" type="jpeg" preferred-width="6.77cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F1/1646</classification-symbol><definition-title>{provided with means for mounting on receptacles, e.g. hinges}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media30.jpg" file-name="cpc-def-B65F-0030.jpg" type="jpeg" preferred-width="8.8cm" preferred-height="7.27cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F3/00</classification-symbol><definition-title>Vehicles particularly adapted for collecting refuse  (vehicles in general <class-ref scheme="cpc">B60</class-ref>; driving vehicle equipment or auxiliaries <class-ref scheme="cpc">B60K</class-ref>; discharging contents by tilting entire vehicles <class-ref scheme="cpc">B65G</class-ref>; wheeled apparatus for emptying sewers or cesspools <class-ref scheme="cpc">E03F7/10</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Vehicles with several compartments.</paragraph-text>
+        <paragraph-text type="body">Hand-operated refuse vehicles.</paragraph-text>
+        <paragraph-text type="body">With means for discharging refuse receptacles.</paragraph-text>
+        <paragraph-text type="body">With devices for charging, distributing or compressing refuse.</paragraph-text>
+        <paragraph-text type="body">With devices for unloading.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Vehicles for transporting loads and modified to facilitate loading or unloading with charge and discharge with pusher plates </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60P1/006</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Vehicles for transporting loads and modified to facilitate loading or unloading with a tipping movement of load-transporting element </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60P1/34</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Vehicles for transporting loads and modified to facilitate loading or unloading using pivoted arms raisable above load-transporting element </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60P1/48</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">The use of Indexing Codes is mandatory if applicable.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F3/04</classification-symbol><definition-title>Linkages, pivoted arms, or pivoted carriers for raising and subsequently tipping receptacles</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media31.jpg" file-name="cpc-def-B65F-0031.jpg" type="jpeg" preferred-width="8.62cm" preferred-height="12.07cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Vehicles for transporting loads and modified to facilitate loading or unloading using pivoted arms raisable above load-transporting element</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60P1/48</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F3/26</classification-symbol><definition-title>by tipping the tank</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media32.png" file-name="cpc-def-B65F-0032.png" type="png" preferred-width="14.64cm" preferred-height="7.46cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Vehicles for transporting loads and modified to facilitate loading or unloading with a tipping movement of load-transporting element </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60P1/34</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F3/28</classification-symbol><definition-title>by a lengthwise movement of a wall, e.g. a plate, a piston, or the like  (for charging <class-ref scheme="cpc">B65F3/20</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media33.png" file-name="cpc-def-B65F-0033.png" type="png" preferred-width="14.65cm" preferred-height="7.15cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Vehicles for transporting loads and modified to facilitate loading or unloading with charge and discharge with pusher plates</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60P1/006</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F5/005</classification-symbol><definition-title>{by pneumatic means, e.g. by suction  (conveying materials in bulk pneumatically in general <class-ref scheme="cpc">B65G53/04</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media34.jpg" file-name="cpc-def-B65F-0034.jpg" type="jpeg" preferred-width="10.05cm" preferred-height="4.59cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F7/00</classification-symbol><definition-title>Cleaning or disinfecting devices combined with refuse receptacles or refuse vehicles  (such devices per se <class-ref scheme="cpc">A61L</class-ref>, <class-ref scheme="cpc">B08B</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media35.jpg" file-name="cpc-def-B65F-0035.jpg" type="jpeg" preferred-width="8.35cm" preferred-height="9.99cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F7/005</classification-symbol><definition-title>{Devices, mounted on refuse collecting vehicles, for cleaning or disinfecting refuse receptacles}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media36.jpg" file-name="cpc-def-B65F-0036.jpg" type="jpeg" preferred-width="10.58cm" preferred-height="5.97cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65F9/00</classification-symbol><definition-title>Transferring of refuse between vehicles or containers with intermediate storage or pressing  (presses for baling per se <class-ref scheme="cpc">B30B9/30</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+        <paragraph-text type="body"><media id="media37.jpg" file-name="cpc-def-B65F-0037.jpg" type="jpeg" preferred-width="11.43cm" preferred-height="7.82cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item></definitions>

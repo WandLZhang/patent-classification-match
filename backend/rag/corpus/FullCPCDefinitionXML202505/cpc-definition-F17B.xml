@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-05-01" publication-type="official">
+<definition-item date-revised="2017-05-01"><classification-symbol scheme="cpc">F17B</classification-symbol><definition-title>GAS-HOLDERS OF VARIABLE CAPACITY  (self-acting gas cut-off devices <class-ref scheme="cpc">A47J27/62</class-ref>, <class-ref scheme="cpc">G05D</class-ref>; flame traps <class-ref scheme="cpc">A62C4/00</class-ref>; gas mixers <class-ref scheme="cpc">B01F</class-ref>, <class-ref scheme="cpc">F16K11/00</class-ref>, <class-ref scheme="cpc">G05D11/00</class-ref>; construction or assembling of bulk storage containers employing civil-engineering techniques <class-ref scheme="cpc">E04H7/00</class-ref>, gas compressors <class-ref scheme="cpc">F04</class-ref>; valves <class-ref scheme="cpc">F16K</class-ref>; damping pulsations in valves or pipes <class-ref scheme="cpc">F16K</class-ref>, <class-ref scheme="cpc">F16L</class-ref>; pipes <class-ref scheme="cpc">F16L</class-ref>; stopping devices for gas mains <class-ref scheme="cpc">F16L55/10</class-ref>; vessels adapted for storing compressed, liquefied, or solidified gases <class-ref scheme="cpc">F17C</class-ref>; gas distribution systems <class-ref scheme="cpc">F17D1/04</class-ref>; detecting leakage <class-ref scheme="cpc">F17D5/02</class-ref>, <class-ref scheme="cpc">G01M</class-ref>; supervising or alarm devices <class-ref scheme="cpc">F17D5/02</class-ref>, <class-ref scheme="cpc">G08B</class-ref>; control of combustion in burners <class-ref scheme="cpc">F23N</class-ref>; gas flow or pressure regulators <class-ref scheme="cpc">G05D</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Gas-holders for the storage of compressed, eventually liquefied or solidified gas, with large volume, and whose volume capacity can be changed by special means. Storage of gas is the only purpose of gas-holders.</paragraph-text>
+            <paragraph-text type="body">Warning: This subclass is pending a reorganisation. Documents are continuously reclassified to subclass <class-ref scheme="cpc">F17B</class-ref> and deep indexing scheme <class-ref scheme="cpc">F17C</class-ref> .</paragraph-text>
+         </section-body>
+      </definition-statement><relationship>
+         <section-title>Relationships with other classification places</section-title>
+         <section-body>
+            <paragraph-text type="body">The fluid contained in the gas-holders according to this subclass should be a gas. It is stored in a gaseous, mostly compressed, or in a liquefied or solidified state of matter in the pressure vessel.</paragraph-text>
+            <paragraph-text type="body">Large vessels that contain other substances than gases are classified in <class-ref scheme="cpc">B65D88/00</class-ref>.</paragraph-text>
+         </section-body>
+      </relationship><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Large vessels not containing gas</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65D88/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Storing fluids in natural or artificial cavities or chambers in the earth</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65G5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Pressure vessels containing gas</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F17C</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body"> <class-ref scheme="cpc">F17B</class-ref> is merely an inactive field with very few and old documents, and a pending reorganisation will reallocate the documents of this subclass into scheme of <class-ref scheme="cpc">F17C</class-ref> , with deep indexing coding. Thus documents are continuously reclassified within subclass <class-ref scheme="cpc">F17B</class-ref> and the deep Indexing Codes under <class-ref scheme="cpc">F17C</class-ref> .</paragraph-text>
+         </section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Gas</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Substance that is in gaseous state of matter at normal conditions (atmospheric pressure and normal ambient temperature). Substances that are in a gaseous state of matter but would not be gaseous at normal conditions are not considered in this subclass. Gas can be put in liquid (liquefied gas), or solidified state of matter, for storage.</paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">F17B1/00</classification-symbol><definition-title>Gas-holders of variable capacity  (large containers in general <class-ref scheme="cpc">B65D88/00</class-ref>; storing fluids in natural or artificial cavities or chambers in the earth <class-ref scheme="cpc">B65G5/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Gas-holders for the storage of compressed, eventually liquefied or solidified gas, with large volume, and whose volume capacity can be changed by special means. Storage of gas is the only purpose of gas-holders.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item></definitions>

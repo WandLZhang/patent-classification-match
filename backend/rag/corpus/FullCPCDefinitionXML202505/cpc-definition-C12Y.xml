@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item date-revised="2015-07-01"><classification-symbol scheme="cpc">C12Y</classification-symbol><definition-title>ENZYMES</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Enzymes of which the EC number is known.</paragraph-text>
+        <paragraph-text type="body">In this subclass, each enzyme is classified according to their EC number of the &quot;Enzyme Nomenclature&quot; (as valid on 1 January 2013) recommended by the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology.The EC number appears in the subgroups within parentheses and is reflected in the classification symbol: the EC number with the notation a.bb.cc.ddd is rendered into a CPC symbol <class-ref scheme="cpc">C12Y</class-ref> ABB/CCDDD (with no trailing zeroes at the end) where:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column preferred-width="7.53cm">
+              <paragraph-text type="body">EC a.bb.cc.ddd</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body">CPC symbol</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column preferred-width="7.53cm">
+              <paragraph-text type="body">a ranges from 1-6</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body">A = 1-6</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column preferred-width="7.53cm">
+              <paragraph-text type="body">b ranges from 1-99(*)</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body">B = 01-99</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column preferred-width="7.53cm">
+              <paragraph-text type="body">c ranges from 1-99(*)</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body">C = 01-99</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column preferred-width="7.53cm">
+              <paragraph-text type="body">d ranges from 1-400(*)</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body">D = 001-400</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+        <paragraph-text type="body">(*) not all numbers are used</paragraph-text>
+        <paragraph-text type="body">Examples: Alcohol dehydrogenase: EC 1.1.1.1.--------<class-ref scheme="cpc">C12Y101/01001</class-ref></paragraph-text>
+        <paragraph-text type="body">Togavirin: EC 3.4.21.90------<class-ref scheme="cpc">C12Y304/2109</class-ref></paragraph-text>
+        <paragraph-text type="body">Hepsin: EC 3.4.21.106-----<class-ref scheme="cpc">C12Y304/21106</class-ref></paragraph-text>
+        <paragraph-text type="body">Cobaltochelatase EC 6.6.1.2----------<class-ref scheme="cpc">C12Y606/01002</class-ref></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+  <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+  <paragraph-text type="body">A <class-ref scheme="cpc">C12Y</class-ref> symbol can only be allocated in combination with other classes like the following:</paragraph-text>
+  <table><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Compositions containing enzymes and use of the compositions and compounds for preservation of bodies of humans or animals or parts thereof</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">A01N1/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Compositions containing enzymes and use of the compositions and compounds for preservation of plants or parts thereof</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">A01N3/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Biocides, pest repellents or attractants or plant growth regulators containing enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">A01N63/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Bakery products which contain enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">A21D</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Foods or foodstuffs containing or treated with enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">A23</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Preparations for medical dental or toilet purposes containing enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">A61K</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Medical preparations containing nucleic acids encoding enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">A61K31/7088</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Medical preparations containing genetic material encoding enzymes which is inserted into cells of the living body to treat genetic diseases; Gene therapy</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">A61K48/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Methods or apparatus for disinfecting or sterilising contact lenses in combination with enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">A61L12/082</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Bandages, dressings or absorbent pads for physiological fluids containing enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">A61L15/38</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Material for protheses subjected to enzyme treatment prior to implantation</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">A61L27/3683</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Protease inhibitors</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">C07K14/81</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Antibodies against enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">C07K16/40</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Detergent compositions containing enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">C11D3/386</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Preparation of malt</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">C12C1/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Apparatus for enzymology</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">C12M</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">C12N9/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Carrier-bound or immobilised enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">C12N11/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Treatment of enzymes with electrical or wave energy</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">C12N13/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Nucleic acids encoding (part of) enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">C12N15/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Antisense nucleotides against enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">C12N15/113</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Preparation of compounds using enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">C12P</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Measuring or testing processes involving enzymes; Compositions therefore (including complete kits, test papers etc); Preparing such compositions</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">C12Q1/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="7.52cm">
+        <paragraph-text type="body">Immunoassays for enzymes</paragraph-text>
+      </table-column>
+      <table-column preferred-width="7.51cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">G01N33/573</class-ref></paragraph-text>
+      </table-column>
+    </table-row>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </table>
+  </section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <list>
+          <list-item>
+            <paragraph-text type="body">This subclass is for discretionary supplementary classification of subject matter already classified as such in other classification places like the ones above.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Rules for use of <class-ref scheme="cpc">C12Y</class-ref> together with any of the subgroups above are specific for each subgroup and can be found with the relevant subgroup.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </special-rules></definition-item></definitions>

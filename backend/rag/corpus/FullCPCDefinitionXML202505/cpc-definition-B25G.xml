@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B25G</classification-symbol><definition-title>HANDLES FOR HAND IMPLEMENTS  (attaching the blades or the like to handles of hand tools for soil working <class-ref scheme="cpc">A01B1/22</class-ref>; handles of hand implements for harvesting <class-ref scheme="cpc">A01D1/14</class-ref>; handles integral with brushware <class-ref scheme="cpc">A46B</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Handle constructions;</paragraph-text>
+        <paragraph-text type="body">Attaching handles to the implements;</paragraph-text>
+        <paragraph-text type="body">Handles for hand implements, in general;</paragraph-text>
+        <paragraph-text type="body">Handles for hand implements for particular purposes, for a tool.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">B25G</class-ref> covers handle constructions relating to hand tools, i.e. tools without power-drive means.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">B25B</class-ref> covers wrenches, pliers, spanners and screwdrivers in detail, but all handle related features are to be found in specific places of <class-ref scheme="cpc">B25G</class-ref>, such as: <class-ref scheme="cpc">B25G1/025</class-ref>, <class-ref scheme="cpc">B25G1/043</class-ref>, <class-ref scheme="cpc">B25G1/063</class-ref>, <class-ref scheme="cpc">B25G1/085</class-ref> or <class-ref scheme="cpc">B25G1/105</class-ref>.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">A47L13/00</class-ref> relates to scrapers and mops (i.e. cleaning devices).</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">B62K21/00</class-ref> cover cycles handles. Ski sticks can be found in <class-ref scheme="cpc">A63C11/22</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Tattoo devices are in <class-ref scheme="cpc">A61M37/00</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Knives related details are in <class-ref scheme="cpc">B26B21/52</class-ref>.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">A47J45/06</class-ref> cover handles for cookware.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">F24C15/02</class-ref> cover handles for ovens.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">F25D23/02</class-ref> cover handles for fridges.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">F16B7/1427</class-ref> covers telescopic rods/handles.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">F16B7/04</class-ref> relates to general clamps for rods.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">B26B</class-ref> relates to hand cutting tools, such as knives, scissors, axes.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">B25D1/00</class-ref> and <class-ref scheme="cpc">B25D3/00</class-ref> relate to hammers and chisels.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">A01B</class-ref> covers soil working implements (i.e. agriculture, forestry).</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">A47G</class-ref> covers table ware (i.e. forks).</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">A63B</class-ref> covers sports articles (i.e. golf clubs, rackets, etc.).</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">B29C</class-ref> covers general moulding, coating, etc.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">E04F</class-ref> covers devices for finishing works on buildings.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Soil working devices, incl. forestry</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A01B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Household or table equipment</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47G</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Devices for fastening or gripping kitchen utensils </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47J45/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Cleaning devices</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47L</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Golf clubs</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A63B53/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Bats, rackets</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A63B59/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Ski sticks</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A63C11/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Vices, spanners, screwdrivers, pliers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B25B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Hammers and chisels</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B25D1/00</class-ref>, <class-ref scheme="cpc">B25D3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Hand cutting tools: knives, scissors, axes</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B26B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Shaping or joining of plastics; shaping of substances in a plastic state, in general; after-treatment of the shaped products </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B29C</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Steering devices for cycles</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B62K21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Implements for finishing work on buildings </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E04F21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Devices for securing or fastening elements together</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Details of domestic stoves or ranges</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F24C15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Refrigerators - general constructional features</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F25D23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">B25G3/14</class-ref>&#160;-&#160;<class-ref scheme="cpc">B25G3/32</class-ref> relate to very specific details of locking implements to the handle, being used like &quot;keywords&quot;, usually in combination.</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Tool</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Any portable instrument of operation for performing, assisting the work or facilitating mechanical operations. Tools are manually operated. Machine tools and devices with power drive means are not considered as tools.</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Hand tool</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Hand held device for performing work on a material or a physical system using only muscular strength.</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B25G1/00</classification-symbol><definition-title>Handle constructions</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Handle constructions for hand tools without a power drive means:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Handles for rotary tools with additional levers, e.g. for increasing torque;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Handles for screwdrivers, wrenches or spanners with additional levers, e.g. for increasing torque;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Shock-absorbing means;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Flexible handles;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Telescopic; extensible; sectional handles;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Handles reversible or adjustable for position;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Handles with provision for storing tool elements;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">handles characterised by material or shape.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Injection moulding, i.e. forcing the required volume of moulding material through a nozzle into a closed mould </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B29C45/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Unless having an exclusively specified use (e.g. golf clubs handles), all handle constructions that are mentioned to be suitable for a tool are classified in this group.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B25G3/00</classification-symbol><definition-title>Attaching handles to the implements</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Socket, tang, or like fixings;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Fixings with detachable or separate socket pieces;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Fixings with multiple socket, e.g. T-socket;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Fixings with dovetail of other groove;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Fixings with elastic, taper, or other self-grip socket or tang;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Locking and securing devices;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Fixings by pressing the handle on the implements; using cement or molten metal, e.g. casting, moulding, by welding or the like;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Fixings using lap joints; riveted, screwed, or like joints;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Hinged, pivoted, swivelling, or folding joints.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Injection moulding, i.e. forcing the required volume of moulding material through a nozzle into a closed mould </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B29C45/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Friction-grip releasable fastenings </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B2/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Key-type connections </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Shrinkage connections, e.g. assembled with the part at different temperature; Force fits </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B4/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Connections of rods or tubes, e.g. of non-circular section, mutually, including resilient connections </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Connections of rods or tubular parts to flat surfaces at an angle </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Connecting constructional elements or machine parts by sticking or pressing them together, e.g. cold pressure welding </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Hooks; Eyes </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B45/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B62L</classification-symbol><definition-title>BRAKES SPECIALLY ADAPTED FOR CYCLES {(arrangements in cycles for adjusting wheel-braking force to meet varying vehicular or ground-surface conditions <class-ref scheme="cpc">B60T8/00</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Brakes and their actuating mechanisms peculiar to their use on bicycles and motorcycle type vehicles.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Brake control systems having wider applicability and not specially adapted for cycles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60T</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Brakes having wider applicability and not specially adapted for cycles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16D</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Arrangements in cycles for adjusting wheel-braking force to meet varying vehicular or ground-surface conditions</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60T8/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Cycle frame parts shaped for attaching brake members </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62K19/38</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Unless otherwise stated, classification should be made in the most appropriate place(s). Multiple classification should be given if appropriate.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B62L1/00</classification-symbol><definition-title>Brakes {(back-pedalling brakes <class-ref scheme="cpc">B62L5/00</class-ref>)}; Arrangements thereof</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">This is the head group where classification is given if none of the sub groups are relevant as such and includes in particular arrangements of disc brakes or drum brakes.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Back-pedalling brakes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62L5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Brakes with outwardly-movable braking members co-operating with the inner surface of a drum or the like</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16D51/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Brakes with substantially-radial braking surfaces pressed together in axial direction, e.g. disc brakes.</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16D55/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B62L3/00</classification-symbol><definition-title>Brake-actuating mechanisms {(for back-pedalling brakes <class-ref scheme="cpc">B62L5/00</class-ref>)}; Arrangements thereof</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Actuating mechanisms for back-pedalling brakes. </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62L5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Vehicle brake control systems or parts thereof</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60T</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Rider-operated controls specially adapted for cycles, i.e. means for initiating control operations, e.g. levers, grips.</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62K23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Bowden mechanisms </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16C1/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B62L3/02</classification-symbol><definition-title>for control by a hand lever  (hand levers for control of cycles in general <class-ref scheme="cpc">B62K23/06</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Hand operated control means adaped for cycles per se</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62K23/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2015-09-01"><classification-symbol scheme="cpc">B62L3/023</classification-symbol><definition-title>{acting on fluid pressure systems}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Fluid pressure brake actuators</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16D2121/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B62L3/04</classification-symbol><definition-title>for control by a foot lever  (foot levers for control of cycles in general <class-ref scheme="cpc">B62K23/08</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Foot actuated control means adapted for cycles per se</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62K23/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2015-09-01"><classification-symbol scheme="cpc">B62L3/06</classification-symbol><definition-title>Means for locking the actuating mechanisms  (locking a cycle braking device directly <class-ref scheme="cpc">B62H5/18</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Locking a cycle braking device directly</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62H5/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Locking mechanisms for brakes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16D2127/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B62L5/00</classification-symbol><definition-title>Brakes, or actuating mechanisms therefor, controlled by back-pedalling  (free-wheel devices specially adapted for cycles <class-ref scheme="cpc">F16D41/00</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Freewheels or freewheel clutches in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16D41/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B62L5/02</classification-symbol><definition-title>the brakes being actuated through coacting coaxial cones {located in the rear wheel hub}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">The braking surface being inclined with respect to the rotor&apos;s axis of rotation at an angle other than 90 degrees, </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16D2065/024</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

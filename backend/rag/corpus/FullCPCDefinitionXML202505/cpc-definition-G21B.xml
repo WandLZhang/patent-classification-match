@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">G21B</classification-symbol><definition-title>FUSION REACTORS  (uncontrolled reactors <class-ref scheme="cpc">G21J</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Reactors in which energy release is caused by the controlled fusion of atomic nuclei, namely:</paragraph-text>
+            <paragraph-text type="body">Thermonuclear fusion reactors.</paragraph-text>
+            <paragraph-text type="body">Low-temperature nuclear fusion reactors, e.g. alleged cold fusion reactors.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Uncontrollable fusion reactions; applications thereof</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.31cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21J</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Controlled fission reactors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Generating plasma; Handling plasma</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Confinement</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Controlled compression of fusion nuclei to overcome their electrostatic repulsion. </paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Fusion</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Combination of two or more nuclei to form a heavier nucleus, a by-product of which is the release of energy.</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Thermonuclear</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Relating to fusion at high temperatures.</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/00</classification-symbol><definition-title>Thermonuclear fusion reactors</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">systems and components for producing energy by nuclear fusion reactions taking place in a thermonuclear plasma, in particular all parts related to the confinement, ignition and sustainment of the plasma.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Low-temperature fusion systems</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21B3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Nuclear fission reactors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Investigating plasma</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Generating plasma other than for nuclear fusion reactions</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/24</class-ref>, <class-ref scheme="cpc">H01J37/32</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+            </table>
+         </section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">The general rule of classification in this subclass follows the IPC rules, i.e. the invention information is classified with an EC class.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/01</classification-symbol><definition-title>Hybrid fission-fusion nuclear reactors</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Reactors composed of nuclear fusion systems combined with nuclear fission systems, whereby neutrons generated by the fusion reactions are used for generating nuclear fission reactions.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Nuclear fission reactors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/03</classification-symbol><definition-title>with inertial plasma confinement</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Reactors in which nuclear fusion reactions are initiated by heating and compressing a fuel target, typically in the form of a pellet containing the nuclear fuel.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Target compression by charged particle beam</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21B1/23</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Target compression by laser</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/22</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/05</classification-symbol><definition-title>with magnetic or electric plasma confinement</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Reactors in which nuclear fusion reactions take place between atomic nuclei of a nuclear fuel in a plasma state, whereby magnetic fields are used to confine the plasma and electromagnetic fields are used to ignite and sustain the plasma.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Arrangements for confining plasma</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Closed loop vessels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Straight vessels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/14</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/052</classification-symbol><definition-title>{reversed field configuration}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Reactors in which the plasma containment system comprises a chamber, a magnetic field generator for applying a magnetic field in a direction substantially along a principle axis, and an annular plasma layer that comprises a circulating beam of ions, wherein the internal magnetic field reverses direction.</paragraph-text>
+            <paragraph-text type="body"> <media id="media0.jpg" file-name="cpc-def-G21B-0000.jpg" type="jpeg" preferred-width="4.04cm" preferred-height="1.81cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Arrangements for confining plasma</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Straight vessels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/14</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">G21B1/055</classification-symbol><definition-title>{Stellarators}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Closed-loop reactors in which the magnetic confinement is produced with a single coil system. As the helical twisting of field lines is achieved solely with external coils, the latter have to be twisted accordingly.</paragraph-text>
+            <paragraph-text type="body"> <media id="media1.jpg" file-name="cpc-def-G21B-0001.jpg" type="jpeg" preferred-width="7.11cm" preferred-height="4.97cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Arrangements for confining plasma</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Closed loop vessels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Torsatron</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Stellarator with continuous helical coils</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Heliotron</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Stellarator with added poloidal field coils</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Heliac</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Stellarator in which the magnetic field forms a toroidal helix</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Helias</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Helical Advanced Stellarator</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">G21B1/057</classification-symbol><definition-title>{Tokamaks}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Closed-loop reactors using magnetic fields to confine the plasma in the shape of a torus with a doughnut cross-section. A toroidal magnetic field is generated by electromagnets encircling the torus. A poloidal field is generated by a poloidal electric current that flows inside the plasma, this current being induced inside the plasma by a second set of electromagnets.</paragraph-text>
+            <paragraph-text type="body"> <media id="media2.jpg" file-name="cpc-def-G21B-0002.jpg" type="jpeg" preferred-width="7.22cm" preferred-height="4.91cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Arrangements for confining plasma</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Closed loop vessels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Straight vessels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/14</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">First wall, blanket, divertor</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21B1/13</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references><synonyms-keywords><section-title>Synonyms and Keywords</section-title><abbreviations><paragraph-text type="preamble">In patent documents, the following abbreviations are often used:</paragraph-text>
+            
+            <table>
+               <table-row>
+                  <table-column preferred-width="4.0cm">
+                     <paragraph-text type="body">ITER</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="11.03cm">
+                     <paragraph-text type="body">International Thermonuclear Reactor</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column preferred-width="4.0cm">
+                     <paragraph-text type="body">JET</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="11.03cm">
+                     <paragraph-text type="body">Joint European Torus</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column preferred-width="4.0cm">
+                     <paragraph-text type="body">ASDEX</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="11.03cm">
+                     <paragraph-text type="body">Axial Symmetric Divertor Experiment</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </abbreviations></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/11</classification-symbol><definition-title>Details</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Specific components of the inertial and/or magnetic fusion confinement reactors and auxiliary systems associated, e.g. electromagnets.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Electrical components and details</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21B1/21</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Electromagnets in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01F7/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Magnets for particle accelerators</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H7/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Targets for producing thermonuclear reactions</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21B1/19</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Lasers for injection plasma heating</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21B1/23</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Details of closed-loop containment structures</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/115</classification-symbol><definition-title>{Tritium recovery}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Systems and methods for recovering the tritium generated in the blanket of a nuclear fusion reactor.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/13</classification-symbol><definition-title>First wall; Blanket; Divertor</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Details of the structural elements in contact with the plasma and/or affected by the fusion generated neutrons, and auxiliary systems associated, e.g. first wall cooling systems.</paragraph-text>
+         </section-body>
+      </definition-statement><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">FW</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">First wall</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/15</classification-symbol><definition-title>Particle injectors for producing thermonuclear fusion reactions, e.g. pellet injectors</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Systems and methods for injecting the nuclear fuel targets (e.g. pellets) into an inertial confinement reactor, and the nuclear fuel into the plasma in a magnetic confinement reactor.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Lasers and related optical systems for producing plasma by target irradiation</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21B1/23</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/17</classification-symbol><definition-title>Vacuum chambers; Vacuum systems</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The reactor vessel in which the fusion reactions take place, and the auxiliary systems associated, e.g. systems for creating the desired pressure conditions within the vessel.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Closed loop vessels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Straight vessels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/14</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/19</classification-symbol><definition-title>Targets for producing thermonuclear fusion reactions, e.g. pellets for irradiation by laser or charged particle beams</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Targets containing the nuclear fuel apt to generate nuclear fusion reactions under compression, e.g. pellets for irradiation by laser or charged particle beams.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Targets for producing nuclear reactions</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H6/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Lasers for target irradiation </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21B1/23</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/21</classification-symbol><definition-title>Electric power supply systems, e.g. for magnet systems, switching devices, storage devices, circuit arrangements {(methods or means for discharging superconducting storage windings <class-ref scheme="cpc">H01F6/003</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">All the circuits and devices used in a nuclear fusion power plant for supplying energy to the plasma energizing systems.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Means for discharging superconducting storage windings</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01F6/003</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Systems for supplying RF to particle accelerators</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H7/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/23</classification-symbol><definition-title>Optical systems, e.g. for irradiating targets, for heating plasma or for plasma diagnostics</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">All the devices and systems used for irradiating fuel targets in an inertial confinement reactor (e.g. lasers), and the devices and systems using irradiation methods for measuring plasma parameters in nuclear fusion reactors.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Lasers in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01S</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Arrangements for investigating plasma in systems other than nuclear fusion reactors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Arrangements for sustaining plasma by injection heating in laboratory systems</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/22</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B1/25</classification-symbol><definition-title>Maintenance, e.g. repair or remote inspection</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Auxiliary equipments used for the construction, inspection, maintenance and repair of systems and components of nuclear fusion power plants.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B3/00</classification-symbol><definition-title>Low temperature nuclear fusion reactors, e.g. alleged cold fusion reactors</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Systems and components for producing energy by nuclear reactions not involving the generation of a thermonuclear plasma, e.g. fusion reactions.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Conversion of elements by electromagnetic or particle irradiation</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21G1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Radioactive sources</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21G4/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Cold fusion</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Nuclear (fusion) reactions taking place at ordinary temperatures</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Thermonuclear fusion</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Nuclear fusion reactions involving the generation of a plasma at extremely high temperatures(i.e. million degrees)</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B3/002</classification-symbol><definition-title>{Fusion by absorption in a matrix}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Systems and methods for inducing fusion of hydrogen isotopes by diffusion in a host matrix, or reactions of hydrogen isotopes with the nuclei of a host matrix at ordinary temperatures.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B3/004</classification-symbol><definition-title>{Catalyzed fusion, e.g. muon-catalyzed fusion}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Systems and methods for inducing fusion of hydrogen isotope nuclei by using the catalyzing properties of muons in a hydrogen isotope environment.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B3/006</classification-symbol><definition-title>{Fusion by impact, e.g. cluster/beam interaction, ion beam collisions, impact on a target}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Systems and methods for promoting nuclear fusion at ordinary temperatures using a beam of particles reacting with other particles or with a target.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Conversion of elements by electromagnetic or particle irradiation</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21G1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21B3/008</classification-symbol><definition-title>{Fusion by pressure waves}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Systems and methods for promoting nuclear fusion of a (gaseous, liquid or solid) target by subjecting it to pressure or shock waves.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Sonoluminescence</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/2475</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item></definitions>

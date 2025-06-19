@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2024-01-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">D01G</classification-symbol><definition-title>PRELIMINARY TREATMENT OF FIBRES, e.g. FOR SPINNING  (winding or unwinding, conducting or guiding laps, webs, slivers or rovings in general, sliver or roving cans, depositing in sliver or roving cabs <class-ref scheme="cpc">B65H</class-ref>; preparation of fibres for paper-making <class-ref scheme="cpc">D21</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The preliminary treatment of fibres for staple yarn spinning.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Drafting machines or arrangements</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">D01H5/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Fibre preparation for papermaking</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">D21</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Winding or unwinding, conducting or guiding laps, webs, slivers or rovings in general, sliver or roving cans, depositing in sliver or roving cans</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65H49/00</class-ref> - <class-ref scheme="cpc">B65H75/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Fibre</paragraph-text></table-column><table-column><paragraph-text type="body">a relatively-short, elongated member of natural or artificial material</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Filament</paragraph-text></table-column><table-column><paragraph-text type="body">an endless or quasi-endless, elongated member of natural (e.g. silk) or artificial material</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Yarn</paragraph-text></table-column><table-column><paragraph-text type="body">a unitary assembly of fibres, usually produced by spinning</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Thread</paragraph-text></table-column><table-column><paragraph-text type="body">an assembly of yarns or filaments, usually produced by twisting</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Drawing</paragraph-text></table-column><table-column><paragraph-text type="body">stretching and elongating yarns or filaments</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Draft</paragraph-text></table-column><table-column><paragraph-text type="body">the amount to which yarns or filaments are drawn</paragraph-text></table-column></table-row></table></section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G1/00</classification-symbol><definition-title>Severing continuous filaments or long fibres, e.g. stapling</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The transformation of filaments into staple fibres, whereby a distinction is made between processes where fibres are delivered in bulk and processes where fibres are delivered in parallelised forms (e.g. ribbons, tops, slivers).</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G1/02</classification-symbol><definition-title>to form staple fibres not delivered in strand form</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Processes and devices where the obtained staple fibres are delivered in randomized orientation or bulk form.</paragraph-text><paragraph-text type="body">Randomized orientation can for example be found for the cutting of mineral filaments like glass, or guillotine type chopping processes of fibres to shorten them.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Processes and devices where the obtained staple fibres are delivered in parallelised form (e.g. strand, ribbon)</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">D01G1/06</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G1/04</classification-symbol><definition-title>by cutting</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Processes and devices where the cut fibres are delivered in parallelised form (e.g. strand, ribbon)</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">D01G1/10</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G1/06</classification-symbol><definition-title>Converting tows to slivers or yarns, e.g. in direct spinning  (drafting arrangements, twisting arrangements <class-ref scheme="cpc">D01H</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Processes and devices where the obtained staple fibres are delivered in parallelised form (e.g. strands or ribbons).</paragraph-text><paragraph-text type="body">Typically, processes like the stretch breaking or converting of synthetic filament tows are found in this group.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Processes and devices where the obtained staple fibres are delivered in randomized orientation (bulk)</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">D01G1/02</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G1/10</classification-symbol><definition-title>by cutting</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">E.g. the so-called converters for tow (i.e. tow to top).</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Processes and devices where the cut fibres are delivered in randomized orientation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">D01G1/04</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G3/00</classification-symbol><definition-title>Roughening of fibres</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Mechanical and wet treatments that affect the surface of natural fibres e.g. sanding of fibres, degreasing of wool fibres.</paragraph-text><paragraph-text type="body">Typically, techniques that increase surface roughness or permeability (for higher inter-fibre cohesion, higher absorption, higher binding affinity with polymers and the like).</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G5/00</classification-symbol><definition-title>Separating, e.g. sorting, fibres  (separating fibres of differing lengths in silk-dressing machines <class-ref scheme="cpc">D01G17/00</class-ref>; in combing machines <class-ref scheme="cpc">D01G19/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fibre sorting mechanisms and methods other than silk-dressing machines and combing, e.g. for preparing the natural fibres for a length diagram measurement step.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Silk-dressing machines</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">D01G17/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Combing machines</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">D01G19/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G7/00</classification-symbol><definition-title>Breaking or opening fibre bales</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The opening of compressed bales of fibres into workable fibre tufts; e.g. sawtooth grinding of cotton bales.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G9/00</classification-symbol><definition-title>Opening or cleaning fibres, e.g. scutching cotton  (scutching flax or like fibres <class-ref scheme="cpc">D01B</class-ref>; making cellulose wadding in papermaking machines <class-ref scheme="cpc">D21F11/14</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The separation of remaining non-fibre elements (e.g. seeds, vegetal contaminants) from fibres in fibre opening and cleaning apparatuses, and the opening i.e. loosening of the fibres, in order to obtain better fibre individualisation for example before carding. Typically, the group refers to blowroom equipment.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">The processing of flax stalks in order to extract the flax fibres from the stalk</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">D01B1/14</class-ref>.</paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G11/00</classification-symbol><definition-title>Disintegrating fibre-containing articles to obtain fibres for re-use</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus and processes for disintegrating fibre containing articles to obtain fibres for reuse, i.e. recycling.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2024-01-01"><classification-symbol scheme="cpc">D01G13/00</classification-symbol><definition-title>Mixing, e.g. blending, fibres; Mixing non-fibrous materials with fibres</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus and processes for mixing, e.g. blending fibres or mixing fibrous and non-fibrous material.</paragraph-text><paragraph-text type="body"><media id="media0.png" file-name="cpc-def-D01G-0000.png" type="png" preferred-width="12.15cm" preferred-height="11.54cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G15/00</classification-symbol><definition-title>Carding machines or accessories; Card clothing; Burr-crushing or removing arrangements associated with carding or other preliminary-treatment machines  (de-burring apparatus or machines operating independently <class-ref scheme="cpc">D01B</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The technical elements and variants of cards, as well short staple cards (cotton cards) as long staple cards (wool cards).</paragraph-text></section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Carding</paragraph-text></table-column><table-column><paragraph-text type="body">a mechanical process that breaks up locks and unorganised clumps of fibre and then aligns the individual fibres so that they are more or less parallel with each other. The aim of carding is to perfect the individualisation and cleaning of staple fibres.</paragraph-text></table-column></table-row></table></section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G15/04</classification-symbol><definition-title>with worker and stripper or like rollers operating in association with a main cylinder</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Long staple (e.g. for wool) cards, where the carding action is performed between the workers and the main cylinder.</paragraph-text></section-body>
+    </definition-statement><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">A worker designates a rotating cylinder of small diameter that cooperates with the main cylinder (or tambour) of the card, in order to perform the fibre carding.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G15/08</classification-symbol><definition-title>with flats or like members or endless card sheets operating in association with a main cylinder</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Short staple (e.g. for cotton) cards, where the carding action is performed between flats and the main cylinder.</paragraph-text></section-body>
+    </definition-statement><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">Flats designate longitudinal flat elements on a chain which cooperate with the main cylinder (or tambour) of the card, in order to perform the fibre carding.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G15/98</classification-symbol><definition-title>Morel or like apparatus</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Morel cylinder devices, where one cylinder has openings adapted to trap wool fibres entangled with burrs, while a cooperating cylinder will beat the burrs out.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G17/00</classification-symbol><definition-title>Silk-dressing machines</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">A (rare) carding process for individualising silk staple fibres.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G19/00</classification-symbol><definition-title>Combing machines</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The combing out of short fibres (noils) from a carded fibre mass, in order to retain the longer fibres. The fibres are generally fed to and from the combing machine in sliver form.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G19/02</classification-symbol><definition-title>with pinned circles, e.g. Noble</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The so-called Noble combing principle where rotating pinned elements act on a passing fibre mass to remove short fibres from it.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G19/04</classification-symbol><definition-title>with pinned cylinders, e.g. rectilinear</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The combing technique (also called Heilmann combing technique), where combed fibre tufts are drawn out in linear manner from the combing area and are superposed.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G19/30</classification-symbol><definition-title>Heating arrangements</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">E.g. heated crimping boxes, to increase fibre cohesion.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G21/00</classification-symbol><definition-title>Combinations of machines, apparatus, or processes, e.g. for continuous processing  (<class-ref scheme="cpc">D01G1/06</class-ref>, <class-ref scheme="cpc">D01G9/12</class-ref>, <class-ref scheme="cpc">D01G15/46</class-ref>, <class-ref scheme="cpc">D01G15/94</class-ref> take precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Partial or complete processing lines with a combination of fibre preparation machines and process steps; e.g. combed cotton producing line.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2024-01-01"><classification-symbol scheme="cpc">D01G23/00</classification-symbol><definition-title>Feeding fibres to machines; Conveying fibres between machines  (<class-ref scheme="cpc">D01G21/00</class-ref> takes precedence; intermediate feeds in carding machines <class-ref scheme="cpc">D01G15/40</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus and processes for feeding fibres to machines.</paragraph-text><paragraph-text type="body"><media id="media1.png" file-name="cpc-def-D01G-0001.png" type="png" preferred-width="16cm" preferred-height="12.88cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G25/00</classification-symbol><definition-title>Lap-forming devices not integral with machines specified above  (forming mats or batts of continuous filaments for non-woven fabrics <class-ref scheme="cpc">D04H</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fibre packing devices, that wind fibre strands into a compact package (lap) that is easier to transport, e.g.:</paragraph-text><list><list-item><paragraph-text type="body">cross lappers after cards;</paragraph-text></list-item><list-item><paragraph-text type="body">lapping devices after cotton combing units.</paragraph-text></list-item></list></section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Folding limp material</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65H45/02</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Depositing filamentary material in cans or receptacles</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65H54/76</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Forming mats or batts of continuous filaments for non-woven fabrics</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">D04H</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G27/00</classification-symbol><definition-title>Lap- or sliver-winding devices, e.g. for products of cotton scutchers, jute cards, or worsted gill boxes</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The re-packaging of laps or slivers into bobbins, in order to accommodate specific format requirements.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G29/00</classification-symbol><definition-title>Arrangements for lubricating fibres, e.g. in gill boxes  (processes involving the use of particular lubricants <class-ref scheme="cpc">D06M15/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The application of lubricant, e.g. by spraying during fibre preparation.</paragraph-text><paragraph-text type="body">Lubricant can be sprayed in drafting machines to enable a better fibre gliding or a better penetration of control pins in so-called gill boxes (i.e. fibre control units with pins, placed between drafting rollers in long staple drafting arrangements).</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Moistening, sizing, oiling, waxing, colouring or drying filamentary material as additional measures during package formation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65H71/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Treating fibres, threads, yarns, fabrics or fibrous goods made from such materials, with macromolecular compounds</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">D06M15/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G31/00</classification-symbol><definition-title>Warning or safety devices, e.g. automatic fault detectors, stop motions  (safety devices of general application <class-ref scheme="cpc">F16P</class-ref>; indicating devices of general application <class-ref scheme="cpc">G08B</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Warning and safety devices, as well as quality monitoring devices applied to spinning preparation machines; e.g. evenness monitors of a card output; sliver breaking detectors etc.</paragraph-text></section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Warning</paragraph-text></table-column><table-column><paragraph-text type="body">monitoring, as monitoring systems are used to warn in case of value deviation and/or stop the machine.</paragraph-text></table-column></table-row></table></section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G33/00</classification-symbol><definition-title>Hand tools for treatment of fibres</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Auxiliary devices used by hand to facilitate intervention of fibres; e.g. superposing sliver ends in a comb to create a sliver junction.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01G35/00</classification-symbol><definition-title>Treatment of oakum</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The cleaning and opening of entangled or agglomerated flax or hemp fibres, to obtain a parallelised fibre bundle (e.g. to be used as joint in connecting pipes).</paragraph-text></section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Oakum</paragraph-text></table-column><table-column><paragraph-text type="body">a preparation of tarred fibre (e.g. hemp or jute) used in shipbuilding, for packing the joints of timbers in wooden vessels and the deck planking of ships, as well as cast iron plumbing applications.</paragraph-text></table-column></table-row></table></section-body>
+    </glossary-of-terms></definition-item></definitions>

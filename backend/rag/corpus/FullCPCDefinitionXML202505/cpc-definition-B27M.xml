@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B27M</classification-symbol><definition-title>WORKING OF WOOD NOT PROVIDED FOR IN SUBCLASSES <class-ref scheme="cpc">B27B</class-ref>&#160;-&#160;<class-ref scheme="cpc">B27L</class-ref>; MANUFACTURE OF SPECIFIC WOODEN ARTICLES</definition-title></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27M1/00</classification-symbol><definition-title>Working of wood not provided for in subclasses <class-ref scheme="cpc">B27B</class-ref>&#160;-&#160;<class-ref scheme="cpc">B27L</class-ref>, e.g. by stretching</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Stretching wood, breaking or snapping wood, stress relief, cutting and slicing (machines for cutting up wood by knife action without following the grain).</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">This group is for the classification of woodworking techniques/treatments/machines not already provided for in subclasses <class-ref scheme="cpc">B27B</class-ref>&#160;-&#160;<class-ref scheme="cpc">B27L</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="7.57cm">
+              <paragraph-text type="body">Solid material comminution or disintegration, for apparatuses for reducing wood to non-shaped particles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C18/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="7.57cm">
+              <paragraph-text type="body">Riving blades</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27G19/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27M1/003</classification-symbol><definition-title>{Mechanical surface treatment}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Mechanical surface treatment including cutting or shaping particularly of plural discrete diverse cutting operations, the operations including slicing, slitting, chipping, planing sanding etc. Particularly for producing an aged or antique look to the worked surface.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27M1/006</classification-symbol><definition-title>{for preparation of impregnation by deep incising}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Machines for preparatory processing by incisions in wood prior to impregnation, includes log punching (machines intended to pierce radially through a log).</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27M1/02</classification-symbol><definition-title>by compressing</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Shaping by applying pressure.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27M1/04</classification-symbol><definition-title>by punching out</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Machines including a cutter for cutting out pieces or simply cutting holes by mere punching action.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="7.5cm">
+              <paragraph-text type="body">For punching out defects.</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.54cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27G1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27M1/06</classification-symbol><definition-title>by burning or charring, e.g. cutting with hot wire  (as surface treatment <class-ref scheme="cpc">B44B</class-ref> {; cutting synthetic materials with heated tools <class-ref scheme="cpc">B26F3/06</class-ref>&#160;-&#160;<class-ref scheme="cpc">B26F3/12</class-ref>})</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Processes including applying heat to the tool or wooden part.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="7.51cm">
+              <paragraph-text type="body">Cutting synthetic materials with heating tools</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.54cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26F3/06</class-ref>, <class-ref scheme="cpc">B26F3/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="7.51cm">
+              <paragraph-text type="body">As surface treatment</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.54cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44B</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27M1/08</classification-symbol><definition-title>by multi-step processes</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Machines for carrying out a number of different machining steps, usually taking place in sequence along a workpiece or machine tool transfer direction.</paragraph-text>
+        <paragraph-text type="body">Machines including a first structure for performing an operation of this class on a workpiece and including a second structure for performing a second, distinct, operation on the same or a second workpiece.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27M3/00</classification-symbol><definition-title>Manufacture or reconditioning of specific semi-finished or finished articles  (features of copying devices <class-ref scheme="cpc">B23Q</class-ref>; manufacture of plywood or veneer, shaping plywood or veneer into articles <class-ref scheme="cpc">B27D</class-ref>; of central layers for plywood <class-ref scheme="cpc">B27D1/06</class-ref>; nailing or stapling machines in general <class-ref scheme="cpc">B27F7/00</class-ref>; of elements for cooperage or wheel making <class-ref scheme="cpc">B27H</class-ref> {; presses therefor <class-ref scheme="cpc">B27D3/00</class-ref>})</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="7.57cm">
+              <paragraph-text type="body">Features of copying devices</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.48cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23Q</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="7.57cm">
+              <paragraph-text type="body">Manufacture of plywood or veneer, shaping plywood or veneer into articles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.48cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="7.57cm">
+              <paragraph-text type="body">Of central layers for plywood</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.48cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27D1/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="7.57cm">
+              <paragraph-text type="body">Presses therefor</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.48cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27D3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="7.57cm">
+              <paragraph-text type="body">Nailing or stapling machines in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.48cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27F7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="7.57cm">
+              <paragraph-text type="body">Of elements for cooperage or wheel making</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.48cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27H</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27M3/0013</classification-symbol><definition-title>{of composite or compound articles  (working veneer or plywood <class-ref scheme="cpc">B27D</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The manufacture of assembled wooden elements (side by side, end to end or both, corner jointing etc.) Products per se are in the product groups where they exist.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="7.56cm">
+              <paragraph-text type="body">Working veneer or plywood</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.48cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27D</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27M3/18</classification-symbol><definition-title>of furniture {or of doors  (<class-ref scheme="cpc">B27D5/003</class-ref> takes precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The manufacture of assembled wooden elements to form furniture, doors, window frames, blinds, sills or drawers. Furniture or frame presses (frame presses also in <class-ref scheme="cpc">B27M3/0013</class-ref>). Products per se are in the product groups.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">For the classification of doors, <class-ref scheme="cpc">B27D5/003</class-ref> takes precedence.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="7.45cm">
+              <paragraph-text type="body">Frame presses</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27M3/0013</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="7.45cm">
+              <paragraph-text type="body">Clamps for window frames</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.59cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B25B5/142</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

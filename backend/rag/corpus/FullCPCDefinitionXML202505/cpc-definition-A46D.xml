@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">A46D</classification-symbol><definition-title>MANUFACTURE OF BRUSHES</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Tools, machines, blanks and methods for manufacturing brushes</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column> <paragraph-text type="body">Brushes characterised by the way in which the bristles are fixed or joined in or on the brush body or carrier</paragraph-text> </table-column>
+                  <table-column> <paragraph-text type="body"><class-ref scheme="cpc">A46B3/00</class-ref></paragraph-text> </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A46D1/00</classification-symbol><definition-title>Bristles; Selection of materials for bristles  (making artificial bristles <class-ref scheme="cpc">D01D</class-ref>, <class-ref scheme="cpc">D01F</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column> <paragraph-text type="body">Making artificial bristles</paragraph-text> </table-column>
+                  <table-column> <paragraph-text type="body"> <class-ref scheme="cpc">D01D</class-ref>, <class-ref scheme="cpc">D01F</class-ref> </paragraph-text> </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <paragraph-text type="body">The term &quot;Selection of materials for the bristles&quot; refers to the material in which the bristle yarn is made.</paragraph-text>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">A46D3/00</classification-symbol><definition-title>Preparing, {i.e. Manufacturing} brush bodies</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Methods and devices for making brushes.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A46D3/005</classification-symbol><definition-title>{by moulding or casting a body around bristles or tufts of bristles}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column> <paragraph-text type="body">Injection moulding</paragraph-text> </table-column>
+                  <table-column> <paragraph-text type="body"> <class-ref scheme="cpc">B29C45/14385</class-ref> </paragraph-text> </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A46D3/062</classification-symbol><definition-title>{of the carousel or drum type  (<class-ref scheme="cpc">A46D3/067</class-ref> takes precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column> <paragraph-text type="body">Featuring simultaneous pivoting of bodies for drilling and filling</paragraph-text> </table-column>
+                  <table-column> <paragraph-text type="body"> <class-ref scheme="cpc">A46D3/067</class-ref> </paragraph-text> </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A46D3/065</classification-symbol><definition-title>{of the belt or chain type  (<class-ref scheme="cpc">A46D3/067</class-ref> takes precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column> <paragraph-text type="body">Featuring simultaneous pivoting of bodies for drilling and filling</paragraph-text> </table-column>
+                  <table-column> <paragraph-text type="body"> <class-ref scheme="cpc">A46D3/067</class-ref> </paragraph-text> </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A46D7/00</classification-symbol><definition-title>Pressing devices for making brooms composed of brushwood or the like</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Tools or elements for pressing the bristles together generaly on the anchoring side in the process of manufacturing/assembling a broom.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">A46D9/00</classification-symbol><definition-title>Machines for finishing brushes {(<class-ref scheme="cpc">A46D1/00</class-ref> and <class-ref scheme="cpc">A46D3/00</class-ref> take precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Machines for finishing or testing completed brushes.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column> <paragraph-text type="body">Bristles; Selection of materials for bristles</paragraph-text> </table-column>
+                  <table-column> <paragraph-text type="body"> <class-ref scheme="cpc">A46D1/00</class-ref> - <class-ref scheme="cpc">A46D1/10</class-ref> </paragraph-text> </table-column>
+               </table-row><table-row>
+                  <table-column> <paragraph-text type="body">Preparing, Manufacturing brush bodies</paragraph-text> </table-column>
+                  <table-column> <paragraph-text type="body"> <class-ref scheme="cpc">A46D3/00</class-ref> </paragraph-text> </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item></definitions>

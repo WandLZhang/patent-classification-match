@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">C06F</classification-symbol><definition-title>MATCHES; MANUFACTURE OF MATCHES</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Mechanical manufacture of matches.</paragraph-text>
+        <paragraph-text type="body">Chemical features in the manufacture of matches.</paragraph-text>
+        <paragraph-text type="body">Matches.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">This subclass does not cover chemical compounds or their preparation as such, which subject matter is covered by classes <class-ref scheme="cpc">C01</class-ref> (inorganic chemistry), <class-ref scheme="cpc">C07</class-ref> (organic chemistry) and <class-ref scheme="cpc">C08</class-ref> (organic macromolecular compounds).</paragraph-text>
+        <paragraph-text type="body">Cutting match splints independently of other operations is classified under <class-ref scheme="cpc">B27L9/00</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Ignition compositions are classified in <class-ref scheme="cpc">C06B</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Match-books</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A24F27/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Match receptacles or boxes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A24F27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Devices for igniting matches; Holders for ignited matches</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A24F29/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Devices for splitting matches</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A24F31/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Dipping or coating in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Cutting in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26D</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Impregnating wood or similar material</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27K</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Manufacture of wooden sticks</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27L9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Printing on wooden surfaces</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41M1/38</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Machine, apparatus or devices for, or methods of, packaging articles or materials; unpacking</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Ignition compositions </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C06B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Fire-lighters consisting of combustible material</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C10L11/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Mechanical igniters</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F23Q1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C06F1/06</classification-symbol><definition-title>Dipping, coating, impregnating, or drying of matches  (dipping or coating in general <class-ref scheme="cpc">B05C</class-ref>, <class-ref scheme="cpc">B05D</class-ref>; impregnating in general <class-ref scheme="cpc">B27K</class-ref>; drying in general <class-ref scheme="cpc">F26B</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Dipping or coating in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05C</class-ref>, <class-ref scheme="cpc">B05D</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Impregnating in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27K</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Drying in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F26B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C06F5/00</classification-symbol><definition-title>Matches  (match-books <class-ref scheme="cpc">A24F27/12</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Non-chemical features such as matches having two heads, combination of a match and a toothpick.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.2cm">
+              <paragraph-text type="body">Match-books</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.84cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A24F27/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item></definitions>

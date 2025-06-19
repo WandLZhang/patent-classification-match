@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2018-05-01" publication-type="official">
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B</classification-symbol><definition-title>MAKING CONTAINERS OF PAPER, CARDBOARD OR MATERIAL WORKED IN A MANNER ANALOGOUS TO PAPER  (making wound articles, e.g. wound tubes, <class-ref scheme="cpc">B31C</class-ref>; combined making and filling <class-ref scheme="cpc">B65B</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+      <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Making wound articles, e.g. wound tubes</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31C</class-ref></paragraph-text>
+            </table-column>
+         </table-row>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Combined making and filling</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></limiting-references><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Filling, or other packaging operations</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B1/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Packaging machines incorporating means for making containers</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B1/02</class-ref>, <class-ref scheme="cpc">B65B3/02</class-ref>, <class-ref scheme="cpc">B65B5/02</class-ref>, <class-ref scheme="cpc">B65B43/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Box and bags</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65D1/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Handling thin material, e.g. sheets, web</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65H1/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references><special-rules><section-title>Special rules of classification</section-title><section-body>
+      <paragraph-text type="body">When a document is classified in one of the groups <class-ref scheme="cpc">B31B50/00</class-ref> - <class-ref scheme="cpc">B31B70/99</class-ref>, it must also be classified completely in the groups by allocating the appropriate Indexing Codes as provided for in <class-ref scheme="cpc">B31B2100/00</class-ref> - <class-ref scheme="cpc">B31B2170/30</class-ref> and <class-ref scheme="cpc">B31B2247/00</class-ref>. Classification in <class-ref scheme="cpc">B31B2100/00</class-ref> - <class-ref scheme="cpc">B31B2170/00</class-ref> is mandatory.</paragraph-text>
+      <paragraph-text type="body">All aspects disclosed by the documents must be classified ( deep-indexing).</paragraph-text>
+      <paragraph-text type="body">Example illustrating deep-indexing:</paragraph-text>
+      <paragraph-text type="body">&quot;A device for forming a multilayered tubular web into flat bags. In one embodiment a handle is formed by punching&quot;.</paragraph-text>
+      <paragraph-text type="body">This document will be given the following classification:</paragraph-text>
+      
+      <paragraph-text type="body"><class-ref scheme="cpc">B31B70/872</class-ref></paragraph-text>
+      <paragraph-text type="body"><class-ref scheme="cpc">B31B70/874</class-ref></paragraph-text>
+      <paragraph-text type="body"><class-ref scheme="cpc">B31B2170/20</class-ref></paragraph-text>
+      <paragraph-text type="body"><class-ref scheme="cpc">B31B2160/10</class-ref></paragraph-text>
+      <paragraph-text type="body"><class-ref scheme="cpc">B31B2155/003</class-ref></paragraph-text>
+      <paragraph-text type="body">All relevant information contained in a document must be classified, irrespective its position in the document: description, claims or figures are to be treated with equal importance.</paragraph-text>
+      </section-body></special-rules><glossary-of-terms><section-title>Glossary of terms</section-title><section-body>
+      <paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Envelopes or bags</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"> essentially flexible containers, the final shape of which is determined by their contents </paragraph-text>
+            </table-column>
+         </table-row>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Boxes or cartons</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"> including bags formed similarly to cartons, trays with upstanding side-walls, barrels, tubes and cups, other than articles formed by winding</paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></glossary-of-terms></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/00</classification-symbol><definition-title>Making rigid or semi-rigid containers, e.g. boxes or cartons</definition-title><special-rules><section-title>Special rules of classification</section-title><section-body>
+      <paragraph-text type="body">Documents relating to box making must be classified in at least one sub-group of <class-ref scheme="cpc">B31B50/00</class-ref> and at least one of the sub-groups of <class-ref scheme="cpc">B31B2100/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">B31B2120/00</class-ref></paragraph-text>
+      </section-body></special-rules></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/002</classification-symbol><definition-title>{Prebreaking}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Breaking creases to facilitate setting-up boxes in relation to packaging operations</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B43/24</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/004</classification-symbol><definition-title>{Closing boxes}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Closing boxes in relation to packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B7/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/022</classification-symbol><definition-title>{Holders for feeding or positioning blanks or webs}</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <paragraph-text type="body">Holders for the work piece.</paragraph-text>
+      <paragraph-text type="body">Holders carrying feeding and guiding means.</paragraph-text>
+      </section-body></definition-statement></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/04</classification-symbol><definition-title>Feeding sheets or blanks</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Feeding articles </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65H5/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/12</classification-symbol><definition-title>by air pressure or suction</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Advancing webs </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65H20/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/14</classification-symbol><definition-title>Cutting, e.g. perforating, punching, slitting or trimming  (cutting window openings <class-ref scheme="cpc">B31B50/83</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+      <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Cutting window openings </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31B50/83</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></limiting-references><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Cutting </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B26D1/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Means for removing cut-out material or waste </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B26D7/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/25</classification-symbol><definition-title>Surface scoring</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Scoring, creasing not limited to box or bag making </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31F1/08</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/26</classification-symbol><definition-title>Folding sheets, blanks or webs</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Folding thin material Folding thin material </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65H45/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/28</classification-symbol><definition-title>around mandrels, e.g. for forming bottoms</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Wrapping as packaging operation consisting of folding sheet material around a product </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B11/004</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/46</classification-symbol><definition-title>and interconnecting side walls</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Connecting surfaces or edges by interengaging tongues and flaps </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31B50/732</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2018-05-01"><classification-symbol scheme="cpc">B31B50/594</classification-symbol><definition-title>{Modifying the shape of tubular boxes or of paper bottle necks}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Modifying the shape of tubular paper products </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31F1/008</class-ref>, <class-ref scheme="cpc">B31F7/002</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/61</classification-symbol><definition-title>{Uniting opposed edges by injecting thermoplastic material}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Joining articles by injection moulding </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B29C45/14467</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/76</classification-symbol><definition-title>Opening and distending flattened articles</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Opening or setting-up boxes in relation to packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B43/26</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/81</classification-symbol><definition-title>Forming or attaching accessories, e.g. opening devices, closures or tear strings</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Auxiliary devices operating on sheets, blanks, webs, containers, or packages in relation to packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B61/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/812</classification-symbol><definition-title>{Applying tabs, patches, strips or strings on blanks or webs}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Patches or strips having the function of uniting opposed surfaces or edges</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31B50/60</class-ref></paragraph-text>
+            </table-column>
+         </table-row>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Applying tear-strips or tear-tape in relation to packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B61/182</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/8122</classification-symbol><definition-title>{Applying patches}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Patches having the function of uniting opposed surfaces or edges</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31B50/60</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/8123</classification-symbol><definition-title>{the blanks remaining stationary during application of the patches}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Strips having the function of uniting opposed surfaces or edges</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31B50/60</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/814</classification-symbol><definition-title>{Applying closure elements to blanks, webs or boxes}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Applying tabs over discharge openings in relation to packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B61/184</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/84</classification-symbol><definition-title>Forming or attaching means for filling or dispensing contents, e.g. valves or spouts</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Applying or incorporating rigid fittings, e.g. discharge spouts, in relation to packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B61/186</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B50/92</classification-symbol><definition-title>Delivering</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Delivering sheets or thin material </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65H23/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/00</classification-symbol><definition-title>Making flexible containers, e.g. envelopes or bags</definition-title><special-rules><section-title>Special rules of classification</section-title><section-body>
+      <paragraph-text type="body">Documents relating to bag making must be classified in at least one subgroup of <class-ref scheme="cpc">B31B70/00</class-ref> and in at least one of the subgroups of <class-ref scheme="cpc">B31B2150/00</class-ref> - <class-ref scheme="cpc">B31B2170/00</class-ref>. </paragraph-text>
+      </section-body></special-rules></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/003</classification-symbol><definition-title>{Opening or distending bags}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Opening or setting-up bags in relation to packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B43/26</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/004</classification-symbol><definition-title>{Closing bags}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Closing bags in relation to packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B7/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/008</classification-symbol><definition-title>{Stiffening or reinforcing  (<class-ref scheme="cpc">B31B70/876</class-ref> takes precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+      <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Reinforcing by applying patches or by folding in connection with forming or mounting handles </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31B70/876</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/04</classification-symbol><definition-title>Feeding sheets or blanks</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Feeding articles</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65H5/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/10</classification-symbol><definition-title>Feeding or positioning webs</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Advancing webs </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65H20/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/14</classification-symbol><definition-title>Cutting, e.g. perforating, punching, slitting or trimming  (cutting window openings <class-ref scheme="cpc">B31B70/83</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+      <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Cutting window openings </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31B70/83</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></limiting-references><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Cutting or punching in connection with the forming or mounting of handles</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31B70/874</class-ref></paragraph-text>
+            </table-column>
+         </table-row>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Cutting </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B26D</class-ref></paragraph-text>
+            </table-column>
+         </table-row>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Means for removing cut-out material or waste </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B26D7/18</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/25</classification-symbol><definition-title>{Surface scoring}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Scoring, creasing not limited to box or bag making </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31F1/08</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/26</classification-symbol><definition-title>Folding sheets, blanks or webs</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Folding thin material </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65H45/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/812</classification-symbol><definition-title>{Applying patches, strips or strings on sheets or webs}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Patches as reinforcement for handles</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31B70/876</class-ref></paragraph-text>
+            </table-column>
+         </table-row>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Applying tear-strips or tear-tape in relation to packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B61/182</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/813</classification-symbol><definition-title>{Applying closures}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Applying tabs over discharge openings in relation to packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B61/184</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/8131</classification-symbol><definition-title>{Making bags having interengaging closure elements}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Applying or incorporating profile-strips, e.g. for reclosable bags, in relation to packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B61/188</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/8132</classification-symbol><definition-title>{Applying the closure elements in the machine direction}</definition-title><glossary-of-terms><section-title>Glossary of terms</section-title><section-body>
+      <paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Machine direction</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body">indicates the main direction of transport of the sheets or webs through the machine</paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></glossary-of-terms></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/8133</classification-symbol><definition-title>{Applying the closure elements in the cross direction}</definition-title><glossary-of-terms><section-title>Glossary of terms</section-title><section-body>
+      <paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Cross direction</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body">indicates a direction perpendicular to the main direction of transport or the sheets of webs through the machine</paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></glossary-of-terms></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/8135</classification-symbol><definition-title>{the strings being applied in the machine direction}</definition-title><glossary-of-terms><section-title>Glossary of terms</section-title><section-body>
+      <paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Machine direction</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body">indicates the main direction of transport of the sheets or webs through the machine</paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></glossary-of-terms></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/8136</classification-symbol><definition-title>{the strings being applied in the cross direction}</definition-title><glossary-of-terms><section-title>Glossary of terms</section-title><section-body>
+      <paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body"> Cross direction </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body">indicates a direction perpendicular to the main direction of transport of the sheets or webs through the machine</paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></glossary-of-terms></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/84</classification-symbol><definition-title>Forming or attaching means for filling or dispensing contents, e.g. valves or spouts</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Applying or incorporating rigid fittings, e.g. discharge spouts in relation to packaging operations</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B61/186</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/86</classification-symbol><definition-title>Forming integral handles or mounting separate handles</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Making separate handles </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31D1/06</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B70/92</classification-symbol><definition-title>Delivering</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Delivering sheet or web material in general </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65H23/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B2100/00</classification-symbol><definition-title>Rigid or semi-rigid containers made by folding single-piece sheets, blanks or webs</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Making boxes in relation with packaging operations</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B3/025</class-ref>, <class-ref scheme="cpc">B65B43/08</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B2150/00</classification-symbol><definition-title>Flexible containers made from sheets or blanks, e.g. from flattened tubes</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Making bags having multilayered walls from webs</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B31B2170/20</class-ref></paragraph-text>
+            </table-column>
+         </table-row>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Forming bags from single sheets in relation with packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B43/02</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B2155/00</classification-symbol><definition-title>Flexible containers made from webs</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Forming bags from webs in relation with packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B43/04</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31B2155/002</classification-symbol><definition-title>{by joining superimposed webs, e.g. with separate bottom webs}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Forming bags from several webs in relation with packaging operations </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B65B43/06</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31B2241/008</classification-symbol><definition-title>Making suction cleaner bags</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table>
+<table-row>
+            <table-column>
+               <paragraph-text type="body">Suction cleaner bags </paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">A47L9/14</class-ref></paragraph-text>
+            </table-column>
+         </table-row></table>
+      </section-body></informative-references></references></definition-item></definitions>

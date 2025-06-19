@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">F17D</classification-symbol><definition-title>PIPE-LINE SYSTEMS; PIPE-LINES  (pumps or compressors <class-ref scheme="cpc">F04</class-ref>; fluid dynamics <class-ref scheme="cpc">F15D</class-ref>; valves or the like <class-ref scheme="cpc">F16K</class-ref>; pipes, laying pipes, supports, joints, branches, repairing, work on the entire line, accessories <class-ref scheme="cpc">F16L</class-ref>; steam traps or the like <class-ref scheme="cpc">F16T</class-ref>; fluid-pressure electric cables <class-ref scheme="cpc">H01B9/06</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The way of operating pipelines for transporting gas or liquids like crude oil. The main subject-matter of this subclass is dealing with preventing of fluid leaks, e.g. gas leaks, monitoring losses of fluids or locating losses of fluid.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">This group deals with the operating of pipelines and does not deal with the construction of pipelines, which is relevant for subclass <class-ref scheme="cpc">F16L</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Petroleum, Gas or coke industries, technical gases containing carbon monoxide, fuels, lubricants, peat</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C10</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Pumps or compressors</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Influencing flow of fluids in a pipeline</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F15D1/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Valves or the like</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16K</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Constructional details of pipes</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16L</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Laying or reclaiming pipes; Repairing or joining pipes on or under water</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16L1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Supports for pipes, cables or protective tubing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16L3/00</class-ref> or <class-ref scheme="cpc">F16L7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Thermal insulation of pipe-lines</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16L59/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Steam traps or the like</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16T</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Central heating systems</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F24D</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Fluid-pressure electric cables</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">H01B9/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">F17D1/00</classification-symbol><definition-title>Pipe-line systems  (conveying articles or materials through a pipe- line by means of a fluid carrier <class-ref scheme="cpc">B65G51/00</class-ref>, <class-ref scheme="cpc">B65G53/00</class-ref>; liquids <class-ref scheme="cpc">B67D</class-ref>; special devices for transferring liquids from bulk storage containers into vehicles or boats or vice versa, e.g. loading or unloading vehicles or portable containers <class-ref scheme="cpc">B67D7/00</class-ref>; conveying material which has been excavated by a dredger or soil shifter through a pipe-line <class-ref scheme="cpc">E02F7/10</class-ref>; sewer pipe-line systems <class-ref scheme="cpc">E03F3/00</class-ref>; thermal insulation of pipe-lines <class-ref scheme="cpc">F16L59/00</class-ref>; central heating systems <class-ref scheme="cpc">F24D</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The way of conveying fluids, like two phase gas liquid mixtures, gas, liquids or viscous products, slurries comprising solid particles within a fluid. This group also includes systems to reduce friction and improve flow in pipe lines.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Conveying articles or materials through a pipe-line by means of a fluid carrier</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65G51/00</class-ref>, <class-ref scheme="cpc">B65G53/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Dispensing, delivering transporting liquids</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B67D</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Special devices for transferring liquids from bulk storage containers into vehicles or boats or vice versa, e.g. loading or unloading vehicles or portable containers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B67D7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Conveying material which has been excavated by a dredger or soil shifter through a pipe-line</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E02F7/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Water main or service pipe systems</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03B7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Public or like main pipe systems</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03B7/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Domestic or like local pipe systems</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03B7/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Sewer pipe-line systems</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03F3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Heating or cooling pipes or pipe systems</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16L53/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Domestic hot-water supply systems</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F24D17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">F17D3/00</classification-symbol><definition-title>Arrangements for supervising or controlling working operations</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Supervision and control of the conveyance of one or several products.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Arrangements for sampling fluid from the pipe-line or for injecting a composition into the pipe-line.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Separation in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Separation of liquids</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Separation of gases or vapours</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D53/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Using cleaning devices introduced into and moved along the pipes by fluid pressure</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B08B9/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Pigs or moles, i.e. devices movable in a pipe or conduit with or without self-contained propulsion means and their launching and detection</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16L55/26</class-ref> - <class-ref scheme="cpc">F16L55/48</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Measuring volume or flow</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G01F</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Sampling and preparing specimens for investigation</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G01N1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F17D5/00</classification-symbol><definition-title>Protection or supervision of installations  (arrangements for protecting foundations <class-ref scheme="cpc">E02D31/00</class-ref>; protecting pipes from damage or internal or external wear <class-ref scheme="cpc">F16L57/00</class-ref>, against corrosion and scale <class-ref scheme="cpc">F16L58/00</class-ref>; investigation of the fluid-tightness of structures <class-ref scheme="cpc">G01M3/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The prevention of gas leaks, or the monitoring of losses of fluids or the locating of losses of fluid.</paragraph-text>
+        <paragraph-text type="body">Protection or monitoring of installation or pipelines</paragraph-text>
+        <paragraph-text type="body">Protection of installations or persons from the effects of high voltage induced in the pipe-line</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Arrangements for protecting foundations</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E02D31/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Protecting pipes from damage or internal or external wear</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16L57/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Protection against corrosion or scale</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16L58/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Investigation of the fluid-tightness of structures</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G01M3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

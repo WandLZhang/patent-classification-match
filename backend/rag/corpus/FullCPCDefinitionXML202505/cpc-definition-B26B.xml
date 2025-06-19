@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">B26B</classification-symbol><definition-title>HAND-HELD CUTTING TOOLS NOT OTHERWISE PROVIDED FOR  (for harvesting <class-ref scheme="cpc">A01D</class-ref>; for horticulture, for forestry <class-ref scheme="cpc">A01G</class-ref>; for butchering or meat treatment <class-ref scheme="cpc">A22</class-ref>; for manufactering or repairing footwear <class-ref scheme="cpc">A43D</class-ref>; nail clippers or cutters <class-ref scheme="cpc">A45D29/02</class-ref>; kitchen equipment <class-ref scheme="cpc">A47J</class-ref>; {vegetable slicers, julienne cutters and similar devices and holders therefor, <class-ref scheme="cpc">B26D3/28</class-ref>}; for surgical purposes <class-ref scheme="cpc">A61B</class-ref>; for metal <class-ref scheme="cpc">B23D</class-ref>; cutting by abrasive fluid jets <class-ref scheme="cpc">B24C5/02</class-ref>; plier-like tools with cutting edges <class-ref scheme="cpc">B25B7/22</class-ref>; pincers <class-ref scheme="cpc">B25C11/02</class-ref>; handles for hand implements, in general <class-ref scheme="cpc">B25G</class-ref>; guillotine-type cutters <class-ref scheme="cpc">B26D</class-ref>; {perforating by non-mechanical means, e.g. by fluid jet, <class-ref scheme="cpc">B26F1/26</class-ref>}; for erasing <class-ref scheme="cpc">B43L19/00</class-ref>; for textile materials <class-ref scheme="cpc">D06H</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Hand knives, hand shears, scissors, axes, hatchets in general</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Hair cutting devices such as hair clippers, dry shavers and wet shave razors</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Hand-held cutting tools involving disc blades or annular blades</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Guards and sheaths for hand-held cutting tools</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Arrangements for guiding hand-held cutting tools</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Scrapers with blades</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47L13/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Handsaws</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="not-mapped">B27D21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Scrapers for finishing work on buildings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04G23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table></section-body></limiting-references><residual-references><section-title>References out of a residual place</section-title><section-body><paragraph-text type="preamble">Examples of places in relation to which this place is residual:</paragraph-text><table><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Hand-held cutting tools for harvesting</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01D1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Hand-held cutting tools for horticultural purposes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01G3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Knives for slaughtering</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A22B3/10</class-ref>, <class-ref scheme="cpc">A22B5/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Hand-held cutting tools for manufacturing or repairing footwear</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A43D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Surgical knives or scissors</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61B17/32</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Hand-held metal cutting devices</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23D29/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Plier-like tools with cutting edges</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B25B7/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Hand-held tube cutters</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26D3/16</class-ref>, <class-ref scheme="cpc">B23D21/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Vegetable cutters</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26D3/283</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Hand-held cutting tools for removing insulation or armouring from cables</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H02G1/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table></section-body></residual-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Guillotine-type cutters for cigars</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A24F13/24</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Methods of cutting hair</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A45D7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Hair removing by depilation or singeing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A45D26/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Containers and stands for shaving devices</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A45D27/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Nail clippers or cutters</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A45D29/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Kitchen equipment</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47J</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Electric toothbrushes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61C17/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Cosmetics and shaving compositions for skin</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61K</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Making of razor blades</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B21D53/645</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Hand tools for grinding, polishing or stropping</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B24D15/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Portable power-driven hand tools</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B25</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Pincers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B25C11/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Combination or multi-purpose tools</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B25F</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Handles for hand implements</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B25G</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Cutting machines and details thereof</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26D</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Guillotine-type cutters</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26D</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Heat treatment for knives, scissors or like hand-cutting tools</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Coating metallic material</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C23C</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Dynamo-electric machines/motors</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H02K</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B1/00</classification-symbol><definition-title>Hand knives with adjustable blade; Pocket knives  (<class-ref scheme="cpc">B26B11/00</class-ref> takes precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Hand knives or pocket knives with adjustable blade, wherein the blade is movable but not detachable from the knife.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Hand knives or pocket knives with additional tools or functions, e.g. as swiss knives</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26B11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+        <paragraph-text type="body">Example from US 2010/0242287 A1 by Eugene Gregg Jameson</paragraph-text>
+        <paragraph-text type="body"><media id="media0.png" file-name="cpc-def-B26B-0000.png" type="png" preferred-width="10.19cm" preferred-height="9.98cm"/></paragraph-text>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B3/00</classification-symbol><definition-title>Hand knives with fixed blades {(handles, attaching the handles <class-ref scheme="cpc">B25G</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Hand knives wherein the blade is neither movable nor detachable</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Handles and attaching handles in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B25G</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+        <paragraph-text type="body">Example from WO 03/101680 A1 by Calphalon Corporation</paragraph-text>
+        <paragraph-text type="body"><media id="media1.png" file-name="cpc-def-B26B-0001.png" type="png" preferred-width="12.27cm" preferred-height="8.83cm"/></paragraph-text>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B5/00</classification-symbol><definition-title>Hand knives with one or more detachable blades</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Hand knives or cutters with detachable blades, the blades may be also detachable from a movable blade carrier as shown in the example below</paragraph-text>
+        <paragraph-text type="body">Example from US 2009/0165309 A1 by William Kamb et al.</paragraph-text>
+        <paragraph-text type="body"><media id="media2.png" file-name="cpc-def-B26B-0002.png" type="png" preferred-width="14.64cm" preferred-height="8.48cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B7/00</classification-symbol><definition-title>Hand knives with reciprocating motor-driven blades</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Hand knives with one motor driven reciprocating or vibrating blade or with two or more counter-reciprocating blades</paragraph-text>
+        <paragraph-text type="body">Example from US 4,711,030 by Robert B. Ruston, Sr.</paragraph-text>
+        <paragraph-text type="body"><media id="media3.png" file-name="cpc-def-B26B-0003.png" type="png" preferred-width="13.97cm" preferred-height="9.3cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B9/00</classification-symbol><definition-title>Blades for hand knives</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Features of knife blades and/or knife blade edges</paragraph-text>
+        <paragraph-text type="body">Example from US 2006/0101649 A1 by Chen Fen Chen</paragraph-text>
+        <paragraph-text type="body"><media id="media4.png" file-name="cpc-def-B26B-0004.png" type="png" preferred-width="14.6cm" preferred-height="9.55cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B11/00</classification-symbol><definition-title>Hand knives combined with other implements, e.g. with corkscrew, with scissors, with writing implement  (combined table-ware <class-ref scheme="cpc">A47G21/06</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Hand knives or pocket knives with additional tools or functions, e.g. as swiss knives</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Combined tableware</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A47G21/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+        <paragraph-text type="body">Example from DE 197 45 510 A1 by Werner Neuenschwander</paragraph-text>
+        <paragraph-text type="body"><media id="media5.png" file-name="cpc-def-B26B-0005.png" type="png" preferred-width="13.97cm" preferred-height="9.0cm"/></paragraph-text>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B13/00</classification-symbol><definition-title>Hand shears; Scissors</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Example from WO 02/32631 A1 by Adachi Kogyo, Inc.</paragraph-text>
+        <paragraph-text type="body"><media id="media6.png" file-name="cpc-def-B26B-0006.png" type="png" preferred-width="14.65cm" preferred-height="9.68cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B15/00</classification-symbol><definition-title>Hand-held shears with motor-driven blades</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Hand-held shears with motor driven blades or wherein the movement of the fingers may be supported by drive means</paragraph-text>
+        <paragraph-text type="body">Example from US 2005/0160606 A1 by Ching Hsiu Yao</paragraph-text>
+        <paragraph-text type="body"><media id="media7.png" file-name="cpc-def-B26B-0007.png" type="png" preferred-width="12.9cm" preferred-height="8.4cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B17/00</classification-symbol><definition-title>Hand cutting tools {, i.e. with the cutting action actuated by muscle power} with two jaws which come into abutting contact  (nail clippers or cutters <class-ref scheme="cpc">A45D29/02</class-ref>; joints therefor <class-ref scheme="cpc">B25B7/06</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Hand cutting tools wherein the two abutting cutting jaws may be arranged longitudinally or perpendicular to the handles</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Nail clippers or cutters</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A45D29/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Joints for pliers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B25B7/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+        <paragraph-text type="body">Example from EP 0 497 508 A2 by Minnesota Mining And Manufacturing Company; E.T.M. Corporation</paragraph-text>
+        <paragraph-text type="body"><media id="media8.png" file-name="cpc-def-B26B-0008.png" type="png" preferred-width="14.41cm" preferred-height="9.99cm"/></paragraph-text>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B19/00</classification-symbol><definition-title>Clippers or shavers operating with a plurality of cutting edges, e.g. hair clippers, dry shavers</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Example from US 5,054,199 by Hitoshi Ogawa et al.</paragraph-text>
+        <paragraph-text type="body"><media id="media9.png" file-name="cpc-def-B26B-0009.png" type="png" preferred-width="15.04cm" preferred-height="9.18cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B21/00</classification-symbol><definition-title>Razors of the open or knife type; Safety razors or other shaving implements of the planing type; Hair-trimming devices involving a razor-blade; Equipment therefor</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Example from US 2005/0198841 A1 by Charles B. Worrick III</paragraph-text>
+        <paragraph-text type="body"><media id="media10.png" file-name="cpc-def-B26B-0010.png" type="png" preferred-width="12.69cm" preferred-height="8.07cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B23/00</classification-symbol><definition-title>Axes; Hatchets {(attaching of the handles <class-ref scheme="cpc">B25G</class-ref>)}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Attaching of the handles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B25G</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+        <paragraph-text type="body">Example from US 2005/0102845 A1 by Edgar A. Dallas et al.</paragraph-text>
+        <paragraph-text type="body"><media id="media11.png" file-name="cpc-def-B26B-0011.png" type="png" preferred-width="12.69cm" preferred-height="9.45cm"/></paragraph-text>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B25/00</classification-symbol><definition-title>Hand cutting tools involving disc blades, e.g. motor-driven  (details or components, e.g. casings, bodies, of portable power-driven tools not particularly related to the operation performed <class-ref scheme="cpc">B25F5/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Hand cutting tools wherein the disc blades may be manually rotated or by additional driving means</paragraph-text>
+        <paragraph-text type="body">Example from US 2009/0183378 A1 by David C. Eby et al.</paragraph-text>
+        <paragraph-text type="body"><media id="media12.png" file-name="cpc-def-B26B-0012.png" type="png" preferred-width="10.94cm" preferred-height="10.01cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B27/00</classification-symbol><definition-title>Hand cutting tools not provided for in the preceding groups, e.g. finger rings for cutting string, devices for cutting by means of wires</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Handheld cutting tools which are completely different from knives, scissors or shavers, e.g. as the string cutter below for cutting out a windscreen</paragraph-text>
+        <paragraph-text type="body">Example from US 2003/0217471 A1 by Chun Po Huang</paragraph-text>
+        <paragraph-text type="body"><media id="media13.png" file-name="cpc-def-B26B-0013.png" type="png" preferred-width="14.65cm" preferred-height="9.63cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26B29/00</classification-symbol><definition-title>Guards or sheaths {or guides} for hand cutting tools; Arrangements for guiding hand cutting tools  (guards for hair clippers or dry shavers <class-ref scheme="cpc">B26B19/38</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.35cm">
+              <paragraph-text type="body">Guards for hair clippers or dry shavers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.68cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26B19/38</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+        <paragraph-text type="body">Example from US 6,202,529 B1 by Gerry Grant Hodsdon</paragraph-text>
+        <paragraph-text type="body"><media id="media14.png" file-name="cpc-def-B26B-0014.png" type="png" preferred-width="12.68cm" preferred-height="10.0cm"/></paragraph-text>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

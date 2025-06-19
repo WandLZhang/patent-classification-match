@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-01-01" publication-type="official">
+<definition-item date-revised="2017-01-01"><classification-symbol scheme="cpc">F21H</classification-symbol><definition-title>INCANDESCENT MANTLES; OTHER INCANDESCENT BODIES HEATED BY COMBUSTION</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text><list>
+         <list-item> <paragraph-text type="body">Incandescent bodies for lighting purposes, heated by combustion of a substance other than the material of the body itself and not intended to be consumed by the combustion, for example incandescent mantles.</paragraph-text> </list-item>
+         <list-item> <paragraph-text type="body">Light-generating aspects of lighting devices using such incandescent bodies.</paragraph-text> </list-item>
+         <list-item> <paragraph-text type="body">Manufacture or treatment of such incandescent bodies.</paragraph-text> </list-item>
+      </list>
+      </section-body></definition-statement><relationship><section-title>Relationships with other classification places</section-title><section-body>
+      <paragraph-text>This subclass covers incandescent bodies as light sources. The application or incorporation of incandescent bodies in lighting devices or systems is covered by subclasses for lighting devices or systems.</paragraph-text>
+      </section-body></relationship><references><section-title>References</section-title><application-references><section-title>Application-oriented references</section-title><section-body>
+      <paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text>
+      <table><table-row>
+            <table-column>
+               <paragraph-text type="body">Lighting devices or systems thereof, being portable or specially adapted for transportation</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">F21L</class-ref></paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column>
+               <paragraph-text type="body">Non-portable lighting devices; Systems thereof</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">F21S</class-ref></paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column>
+               <paragraph-text type="body">Functional features or details of lighting devices or systems thereof; Structural combinations of lighting devices with other articles, not otherwise provided for</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">F21V</class-ref></paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column>
+               <paragraph-text type="body">Fastening incandescent mantles or other incandescent bodies to lamp parts; Suspension devices for incandescent mantles or other incandescent bodies</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">F21V19/06</class-ref></paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column>
+               <paragraph-text type="body">Arrangements of mantles or other incandescent bodies on burners</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">F21V36/00</class-ref></paragraph-text>
+            </table-column>
+         </table-row>
+         
+         
+         
+         
+         
+      </table>
+      </section-body></application-references><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table><table-row>
+            <table-column>
+               <paragraph-text type="body">Preparation of porous ceramic ware by burning-out added substances</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">C04B38/06</class-ref></paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column preferred-width="10.99cm">
+               <paragraph-text type="body"> Burners</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">F23D</class-ref> </paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column>
+               <paragraph-text type="body">Electric incandescent lamps</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">H01K</class-ref></paragraph-text>
+            </table-column>
+         </table-row>
+         
+         
+         
+         
+         
+         
+         
+         
+      </table>
+      </section-body></informative-references></references><glossary-of-terms><section-title>Glossary of terms</section-title><section-body>
+      <paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+         <table-row>
+            <table-column>
+               <paragraph-text type="body">Incandescent</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body">Capable of emitting visible light when heated.</paragraph-text>
+            </table-column>
+         </table-row>
+         <table-row>
+            <table-column>
+               <paragraph-text type="body">Incandescent mantle</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body">A device comprising a lace-like hood or envelope of thin, porous, refractory material that glows when it is positioned in a flame or otherwise heated by combustion of a distinct combustible material.</paragraph-text>
+            </table-column>
+         </table-row>
+         <table-row>
+            <table-column>
+               <paragraph-text type="body">Light source</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body">The entity (e.g. mantle) that generates light for a lighting device or apparatus.</paragraph-text>
+            </table-column>
+         </table-row>
+      </table>
+      </section-body></glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">F21H1/04</classification-symbol><definition-title>{Suspension devices therefor  (for attaching the mantle on the housing of a lamp <class-ref scheme="cpc">F21V19/06</class-ref>)}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table><table-row>
+            <table-column preferred-width="10.99cm">
+               <paragraph-text type="body">For attaching the mantle on the housing of a lamp</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">F21V19/06</class-ref> </paragraph-text>
+            </table-column>
+         </table-row>
+         
+      </table>
+      </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F21H5/00</classification-symbol><definition-title>Solid incandescent bodies  (incandescent mantles <class-ref scheme="cpc">F21H1/00</class-ref>)</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table><table-row>
+            <table-column preferred-width="10.99cm">
+               <paragraph-text type="body">Incandescent mantles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.05cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">F21H1/00</class-ref> </paragraph-text>
+            </table-column>
+         </table-row>
+         
+      </table>
+      </section-body></informative-references></references></definition-item></definitions>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2018-05-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">C06C</classification-symbol><definition-title>DETONATING OR PRIMING DEVICES; FUSES  (ammunition fuzes <class-ref scheme="cpc">F42C</class-ref>); CHEMICAL LIGHTERS; PYROPHORIC COMPOSITIONS</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Fuses, e.g. fuse cords.</paragraph-text>
+        <paragraph-text type="body">Non-electric detonators.</paragraph-text>
+        <paragraph-text type="body">Blasting caps.</paragraph-text>
+        <paragraph-text type="body">Primers.</paragraph-text>
+        <paragraph-text type="body">Chemical contact igniters.</paragraph-text>
+        <paragraph-text type="body">Chemical lighters.</paragraph-text>
+        <paragraph-text type="body">Pyrophoric compositions.</paragraph-text>
+        <paragraph-text type="body">Flints.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">This subclass does not cover chemical compounds or their preparation as such, which subject matter is covered by classes <class-ref scheme="cpc">C01</class-ref> (inorganic chemistry), <class-ref scheme="cpc">C07</class-ref> (organic chemistry) and <class-ref scheme="cpc">C08</class-ref> (organic macromolecular compounds).</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Initiators (non chemical aspects)</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F42B3/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Filling fuzes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F42B33/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Containers for detonators or fuzes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F42B39/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Ammunition fuzes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F42C</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></application-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Explosives or thermic compositions; Manufacture thereof; use of single substances as explosives</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C06B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Fire-lighters</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C10L11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Alloys in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Ignition</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F23Q</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Lighters containing fuel, e.g. for cigarettes, characterised by catalytic ignition of fuel</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F23Q2/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Non-chemical aspects of flints</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F23Q2/48</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Arrangement of catalytic igniters</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F23Q11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Blasting cartridges, i.e. case and explosive</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F42B3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Arming or safety means for ammunition fuzes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F42C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Blasting</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F42D</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Pyrophoric</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Pyrophoric (Greek, meaning fire-bearing) materials are finely divided chemical substances, mostly metals, which at room temperature vehemently react with the oxygen contained in air. The energy released in this oxidation process is sufficient to make substances glow or blaze. Therefore a pyrophoric material can spontaneously ignite in air.</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C06C5/06</classification-symbol><definition-title>Fuse igniting means; Fuse connectors</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Compositions of delay mixtures</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Ignition systems for methods or apparatus for obtaining oil, gas, water, soluble or meltable materials or a slurry of minerals from wells </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21B43/1185</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body"> Blasting methods or apparatus, e.g. loading or tamping Arrangements for ignition </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F42D1/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C06C7/00</classification-symbol><definition-title>Non-electric detonators; Blasting caps; Primers</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Boosters</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2018-05-01"><classification-symbol scheme="cpc">C06C15/00</classification-symbol><definition-title>Pyrophoric compositions; Flints  (chemical lighters <class-ref scheme="cpc">C06C9/00</class-ref>; alloys in general <class-ref scheme="cpc">C22C</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Incendiary compositions.</paragraph-text>
+        <paragraph-text type="body">Tracers, chemical light sources, illuminating compositions</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Napalm</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C10L7/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Compositions for flashlights</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F21K</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Compositions for luminescence</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F21K</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Exothermal heat producing compositions </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F24V30/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Fireworks</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F42B4/00</class-ref> - <class-ref scheme="cpc">F42B4/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">D01B</classification-symbol><definition-title>MECHANICAL TREATMENT OF NATURAL FIBROUS OR FILAMENTARY MATERIAL TO OBTAIN FIBRES OF FILAMENTS, e.g. FOR SPINNING  (crude extraction of asbestos fibres from ores <class-ref scheme="cpc">B03B</class-ref>; apparatus for retting <class-ref scheme="cpc">D01C</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The extraction of staple fibres, i.e. fibres of limited length, from natural materials like the seeds, leaves or stalks of plants or from silk.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">The extraction of mineral fibres like from ores, e.g. asbestos</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B03B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Chemical treatment of natural filamentary or fibrous material to obtain filaments or fibres for spinning (e.g. chemical retting)</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D01C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Fibre</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">a relatively-short, elongated member of natural or artificial material</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Filament</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">an endless or quasi-endless, elongated member of natural (e.g. silk) or artificial material</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Yarn</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">a unitary assembly of fibres, usually produced by spinning</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Thread</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">an assembly of yarns or filaments, usually produced by twisting</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01B1/00</classification-symbol><definition-title>Mechanical separation of fibres from plant material, e.g. seeds, leaves, stalks</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The process steps used in separating fibres from the seeds (mainly cotton) and stalks or leaves (mainly flax or hemp) of plant material.</paragraph-text>
+      </section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Stalk</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">the main stem of a herbaceous plant.</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01B1/04</classification-symbol><definition-title>Ginning</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The initial separation of harvested fibres and seeds in so called ginning machines.</paragraph-text>
+      </section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Ginning</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">the process of separating cotton fibres from their seeds and other agricultural waste</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01B1/12</classification-symbol><definition-title>Rippling</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">An early stage process of pulling the dry flax plants through coarse combs for removing the seeds from the stalks.</paragraph-text>
+      </section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Rippling</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">the process of removing the seeds from the flax stalks</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01B1/14</classification-symbol><definition-title>Breaking or scutching, e.g. of flax; Decorticating</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The mechanical separation of fibres from the wood of the stalks.</paragraph-text>
+      </section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Scutching</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">the process whereby the woody portion of the stalks is removed by crushing them between two metal rolls</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01B1/48</classification-symbol><definition-title>Drying retted fibres</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Only the drying methods and apparatuses of fibres obtained from retting.</paragraph-text>
+      </section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Retting</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">a process employing the action of bacteria and moisture on stalks (e.g. flax stalks) to dissolve or rot away much of the cellular tissues and gummy substances (i.e. pectin) surrounding bast-fibre bundles (i.e. fibre loosening). Basic methods include natural retting (i.e. dew retting or water retting) or chemical retting.</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01B3/00</classification-symbol><definition-title>Mechanical removal of impurities from animal fibres  (carbonising rags to recover animal fibres <class-ref scheme="cpc">D01C5/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The mechanical cleaning of wools (e.g. scouring and cleaning stages to remove organic, vegetal and mineral matters).</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01B5/00</classification-symbol><definition-title>Hackling or heckling machines  (hand heckling tools <class-ref scheme="cpc">D01G33/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The combing out of flax or hemp fibres by hackling devices, that perform a discontinuous linear combing movement (i.e. by combs that get finer and finer) to separate stalk remains from the fibres.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01B7/00</classification-symbol><definition-title>Obtaining silk fibres or filaments</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The extraction of silk filaments from silkworm cocoons, and their conversion into staple fibres.</paragraph-text>
+      </section-body>
+    </definition-statement><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Silk being commonly classified as a &quot;natural fibre&quot; is actually a continuous filament.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01B7/04</classification-symbol><definition-title>Reeling silk</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The unwinding of silk cocoons to gain the silk filament.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D01B9/00</classification-symbol><definition-title>Other mechanical treatment of natural fibrous or filamentary material to obtain fibres or filaments</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Other mechanical treatment of natural fibrous or filamentary material to obtain fibres or filaments (e.g. fibre content determination, colour alteration at fibre processing level).</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item></definitions>

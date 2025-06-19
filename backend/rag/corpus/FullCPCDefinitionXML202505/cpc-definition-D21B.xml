@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D21B</classification-symbol><definition-title>FIBROUS RAW MATERIALS OR THEIR MECHANICAL TREATMENT</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Preparation of fibrous raw materials (like wood, rags, waste paper, pulp bales) and their mechanical treatment to obtain mechanical pulp, particular for papermaking purposes and production of fibre board, cutting raw materials into small particles, pretreatment of raw materials before pulp preparation, pulp preparation by mechanical defibration (for example by grinding), pulpers and mixers for pulps, de-inking devices.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Even if the focus is clearly on the mechanical side of pulp preparation, also processes including chemical aspects are classified herein, as long as the nature of the process is to be considered as mainly mechanical. Otherwise, <class-ref scheme="cpc">D21C</class-ref> is the appropriate subclass.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+        <table-column preferred-width="11.41cm">
+          <paragraph-text type="body">Removal of bark</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.62cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B27L</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column>
+          <paragraph-text type="body">Obtaining fibres from plant material (mechanical separation)</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">D01B1/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column>
+          <paragraph-text type="body">Hackling or heckling machines</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">D01B5/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column>
+          <paragraph-text type="body">Pretreatment of the finely-divided materials before digesting</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">D21C1/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column>
+          <paragraph-text type="body">Methods of beating or refining pulp</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">D21D1/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column>
+          <paragraph-text type="body">Purification of the pulp suspension by mechanical means</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">D21D5/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+        <table-column>
+          <paragraph-text type="body">Disintegration in mills; Milling devices in general</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">B02C</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="11.41cm">
+          <paragraph-text type="body">Flotation in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.62cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B03D</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="11.41cm">
+          <paragraph-text type="body">Dry sorting of waste</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.62cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B07B</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="11.41cm">
+          <paragraph-text type="body">Disposal of solid waste</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.62cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B09B</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="11.41cm">
+          <paragraph-text type="body">Manufacture of articles made from particles or fibres consisting of wood or like organic material by dry processes </paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.62cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B27N</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column>
+          <paragraph-text type="body">Obtaining silk fibres or filaments</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">D01B7/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column>
+          <paragraph-text type="body">Working-up waste paper (chemical part)</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">D21C5/02</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="11.41cm">
+          <paragraph-text type="body">Flotation of white water, recovering fibres from suspensions</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.62cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">D21F1/70</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Subgroups and main group</paragraph-text>
+        <paragraph-text type="body">If a document concerns embodiments which are covered by several subgroups dependent on a higher hierarchy group, the following rules apply:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">the specific technical information relevant for some of the subgroups is classified in all said subgroups;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">if relevant, the structural association (e.g. the combination) of the elements covered by the subgroups is classified in the head group;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">analogously, if generic technical information common to all of the subgroups is disclosed and only schematic embodiments of the specific subgroup embodiments are represented, the documents is classified in the head group only.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21B1/02</classification-symbol><definition-title>Pretreatment of the raw materials by chemical or physical means  (removal of bark <class-ref scheme="cpc">B27L</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Pretreatment of the raw materials by chemical or physical means, for example steaming or heating of wood chips.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21B1/021</classification-symbol><definition-title>{by chemical means}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Impregnation of wood chips with chemical or biological (enzymatic) substances.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Chemical aspects of pulp preparation</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21B1/30</classification-symbol><definition-title>Defibrating by other means</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Defibrating by means not explicitly defined before, for example between cooperating rotating screw members in drums.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21B1/306</classification-symbol><definition-title>{using microwaves}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Defibrating by the use of microwaves, for example by ultrasound treatments.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item></definitions>

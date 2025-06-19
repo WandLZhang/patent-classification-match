@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B44F</classification-symbol><definition-title>SPECIAL DESIGNS OR PICTURES</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Special designs or pictures produced by creating an effect or product meant to be judged by eye, whereby human emotions or intellect may be affected.</paragraph-text>
+        <paragraph-text type="body">Designs are arrangements or patterns of elements or features of an artistic or decorative work, e.g. an ornamental pattern.</paragraph-text>
+        <paragraph-text type="body">Pictures are visual representations or images of a subject or scene (e.g. a person, object or landscape) projected, painted, drawn or otherwise produced upon a surface.</paragraph-text>
+        <paragraph-text type="body">The designs or pictures are characterised as special by particular technical features used to create the patterns or images or by characteristic features of patterns or images which provide the special effects, especially:</paragraph-text>
+        <paragraph-text type="body">designs or pictures characterised by special or unusual light effects, e.g. produced by reflected or transmitted light, or characterised by colour effects;</paragraph-text>
+        <paragraph-text type="body">designs characterised by outlines or by irregular areas, e.g. mottled patterns;</paragraph-text>
+        <paragraph-text type="body">designs imitating three-dimensional effects, natural patterns or artistic work.</paragraph-text>
+        <paragraph-text type="body">This subclass also covers processes for creating such designs or pictures insofar as they are not covered by other places.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">General relationship of <class-ref scheme="cpc">B44F</class-ref> with <class-ref scheme="cpc">B44B</class-ref>, <class-ref scheme="cpc">B44C</class-ref> and <class-ref scheme="cpc">B44D</class-ref>.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">B44B</class-ref> covers machines, apparatus and tools for artistic work; <class-ref scheme="cpc">B44C</class-ref> covers processes for producing decorative effects; <class-ref scheme="cpc">B44D</class-ref> covers processes for painting or artistic drawing and accessories or implements for use in connection with painting or artistic drawing.</paragraph-text>
+        <paragraph-text type="body">Some objects provided with special designs are per se covered by the relevant place for those objects, e.g. patterned paper by <class-ref scheme="cpc">D21H27/02</class-ref> or coated paper providing special visual effects by <class-ref scheme="cpc">D21H19/66</class-ref>. Other examples are flooring elements <class-ref scheme="cpc">E04F15/02</class-ref>, wall or ceiling covering elements <class-ref scheme="cpc">E04F13/08</class-ref> and packages respectively labels therefor, <class-ref scheme="cpc">B65D</class-ref> respectively <class-ref scheme="cpc">G09F3/00</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Objects providing special or unusual light effects are especially covered by <class-ref scheme="cpc">G09F19/12</class-ref> for advertising or display means using special optical effects.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">F21V</class-ref> covers shades, cover glasses or light filters associated with light sources, e.g. light filters for simulating day light <class-ref scheme="cpc">F21V9/02</class-ref>, while <class-ref scheme="cpc">F21S10/00</class-ref> covers lighting devices or systems producing a varying lighting effect.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Advertising or display means using special optical effects</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G09F19/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Processes for applying liquids or other fluent materials to surfaces to obtain special surface effects, finishes or structures</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05D5/00</class-ref>, <class-ref scheme="cpc">B05D7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Printing processes to produce fluorescent printings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41M3/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Artists&apos; machines or apparatus equipped with tools or work holders moving or able to be controlled substantially two-dimensionally for carving, engraving or guilloching shallow ornamenting or markings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44B3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Machines or apparatus for embossing decorations or marks, e.g. embossing coins</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44B5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Artists&apos; hand tools for sculpturing, kneading, carving, engraving, guilloching or embossing; accessories therefor</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44B11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Processes, not specifically provided for elsewhere, for producing decorative surface effects </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44C1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Surface treatment to obtain special artistic effects or finishes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Surface treatment of glass, not in the form of fibres or filaments, e.g. by etching or coating, or mechanical means, or diffusing ions or metals into the surface, or other</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C03C15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Tenebrescent materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C09K9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Making patterns or designs on fabrics</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D06C23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Decorating textiles </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D06Q1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Coated paper characterised by a special visual effect, e.g. patterned, textured</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21H19/66</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Patterned paper</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21H27/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Lighting devices or systems producing a varying lighting effect</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F21S10/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Shades for light sources; covers for frames; Frameless shades</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F21V1/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Globes; Bowls; Cover glasses</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F21V3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Light filters for simulating daylight</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F21V9/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Design</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"> The arrangement or pattern of elements or features of an artistic or decorative work, especially for producing an effect or product meant to be judged by eye, whereby human emotions or intellect may be influenced or affected.</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Picture</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">A visual representation or image of a subject or scene (e.g. a person, object or landscape) projected, painted, drawn or otherwise produced upon surface</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44F1/00</classification-symbol><definition-title>Designs or pictures characterised by special or unusual light effects</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Designs or pictures produced by reflected or transmitted light e.g. as optical images and illusions and moir&#233; and flickering effects, or characterised by colour or iridescent effects as colour shifting or rainbow effects</paragraph-text>
+      </section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text>Moir&#233;</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text>A secondary and visually evident superimposed pattern created, for example, when two identical (usually transparent) patterns on a flat or curved surface (such as closely spaced straight lines drawn radiating from a point or taking the form of a grid) are overlaid while displaced or rotated a small amount from one another</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44F3/00</classification-symbol><definition-title>Designs characterised by outlines</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Designs or pictures characterised by outlines</paragraph-text>
+        <paragraph-text type="body"><media id="media0.png" file-name="cpc-def-B44F-0000.png" type="png" preferred-width="16.47cm" preferred-height="9.86cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44F5/00</classification-symbol><definition-title>Designs characterised by irregular areas, e.g. mottled patterns  (imitating natural patterns or artistic work <class-ref scheme="cpc">B44F9/00</class-ref>, <class-ref scheme="cpc">B44F11/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Designs or pictures characterised by irregular areas, e.g. mottled, stochastic, orthogonally ambiguous, random patterns</paragraph-text>
+        <paragraph-text type="body"><media id="media1.png" file-name="cpc-def-B44F-0001.png" type="png" preferred-width="16.47cm" preferred-height="7.46cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.44cm">
+              <paragraph-text type="body">Imitating natural patterns or artistic work</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.95cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B44F9/00</class-ref>, <class-ref scheme="cpc">B44F11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44F7/00</classification-symbol><definition-title>Designs imitating three-dimensional effects</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">designs imitating three-dimensional effects</paragraph-text>
+        <paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text>
+        <paragraph-text type="body"><media id="media2.png" file-name="cpc-def-B44F-0002.png" type="png" preferred-width="16.5cm" preferred-height="8.25cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44F9/00</classification-symbol><definition-title>Designs imitating natural patterns</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">designs imitating natural patterns, e.g. wood grain, stone surface, horn, ivory, crystalline structures, pearl and mother-of-pearl effects, metallic or oxidised metallic surfaces, leather</paragraph-text>
+        <paragraph-text type="body"><media id="media3.png" file-name="cpc-def-B44F-0003.png" type="png" preferred-width="12.48cm" preferred-height="9.97cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B44F11/00</classification-symbol><definition-title>Designs imitating artistic work</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Designs imitating artistic work, e.g. oil paintings, imitation of mosaic or tarsia-work patterns, imitation of ceramic patterns</paragraph-text>
+        <paragraph-text type="body"><media id="media4.png" file-name="cpc-def-B44F-0004.png" type="png" preferred-width="16.49cm" preferred-height="7.04cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item></definitions>

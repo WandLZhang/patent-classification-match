@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B61J</classification-symbol><definition-title>SHIFTING OR SHUNTING OF RAIL VEHICLES  (shifting vehicles in general <class-ref scheme="cpc">B60S</class-ref>; marshalling systems <class-ref scheme="cpc">B61B</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices and methods for moving a railway vehicle intra-yards.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Marshalling systems</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B61B1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Shifting vehicles in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60S</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61J1/00</classification-symbol><definition-title>Turntables; Traversers; Transporting rail vehicles on other rail vehicles or dollies  (shunting <class-ref scheme="cpc">B61J3/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The titles of this group are self-explanatory and do not need to be more specified.</paragraph-text>
+            <paragraph-text type="body">Following drawings show two examples:</paragraph-text>
+            <paragraph-text type="body"> <media id="media0.png" file-name="cpc-def-B61J-0000.png" type="png" preferred-width="7.2cm" preferred-height="6.48cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media1.jpg" file-name="cpc-def-B61J-0001.jpg" type="jpeg" preferred-width="6.81cm" preferred-height="5.46cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Shunting </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B61J3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61J3/00</classification-symbol><definition-title>Shunting or short-distance haulage devices; Similar devices for hauling trains on steep gradients or as starting aids; Car propelling devices therefor  (overhead travelling cranes combined with auxiliary means for shunting railway vehicles <class-ref scheme="cpc">B66C17/26</class-ref>; capstans <class-ref scheme="cpc">B66D</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The titles of this group are self-explanatory and do not need to be more specified.</paragraph-text>
+            <paragraph-text type="body">Following drawing shows one example:</paragraph-text>
+            <paragraph-text type="body"> <media id="media2.jpg" file-name="cpc-def-B61J-0002.jpg" type="jpeg" preferred-width="11.85cm" preferred-height="5.04cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Overhead travelling cranes combined with auxiliary means for shunting railway vehicles </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B66C17/26</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Capstans </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B66D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Capstans for shunting </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B66D1/78</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61J99/00</classification-symbol><definition-title>Subject matter not provided for in other groups of this subclass</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices and methods not covered by groups <class-ref scheme="cpc">B61J1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">B61J3/00</class-ref>.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item></definitions>

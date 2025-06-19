@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B21L</classification-symbol><definition-title>MAKING METAL CHAINS  (making chains or chain links by casting <class-ref scheme="cpc">B22D25/02</class-ref>; chains in general <class-ref scheme="cpc">F16G</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making metal chains essentially by metal forming operations (e.g. bending, cutting, assembling), eventually by welding.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Forging members of endless tracks</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21K23/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making chains or chain links by casting</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B22D25/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Chains in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16G</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L1/00</classification-symbol><definition-title>Making chains or chain links by bending workpieces of rod, wire, or strip to form links of oval or other simple shape  (<class-ref scheme="cpc">B21L3/00</class-ref>, <class-ref scheme="cpc">B21L7/00</class-ref> take precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links by bending work-pieces of rod, wire or strip to form links of oval or other simple shape.</paragraph-text>
+        <paragraph-text type="body"><media id="media0.jpg" file-name="cpc-def-B21L-0000.jpg" type="jpeg" preferred-width="7.31cm" preferred-height="2.73cm"/></paragraph-text>
+        <paragraph-text type="body">Source: GB644151</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making chains or chain links by bending and subsequently welding or soldering the abutting ends. </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21L3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making chains or chain links by bending into a coil and cutting single loops or loop parts from said coil</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21L7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L1/02</classification-symbol><definition-title>by bending the ends of the workpieces to abut</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links by bending the ends of workpieces to abut.</paragraph-text>
+        <paragraph-text type="body"><media id="media1.jpg" file-name="cpc-def-B21L-0001.jpg" type="jpeg" preferred-width="7.0cm" preferred-height="4.51cm"/></paragraph-text>
+        <paragraph-text type="body">Source: US4694644</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L1/04</classification-symbol><definition-title>by bending and interconnecting the ends of the workpieces with or without separate jointing members</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links by bending and interconnecting the ends of workpieces with or without separate jointing members.</paragraph-text>
+        <paragraph-text type="body"><media id="media2.jpg" file-name="cpc-def-B21L-0002.jpg" type="jpeg" preferred-width="4.15cm" preferred-height="4.66cm"/></paragraph-text>
+        <paragraph-text type="body">Source: GB2324163</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L3/00</classification-symbol><definition-title>Making chains or chain links by bending the chain links or link parts and subsequently welding or soldering the abutting ends  (<class-ref scheme="cpc">B21L7/00</class-ref> takes precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links by bending the chain links or link parts and subsequently welding or soldering the abutting ends.</paragraph-text>
+        <paragraph-text type="body"><media id="media3.jpg" file-name="cpc-def-B21L-0003.jpg" type="jpeg" preferred-width="7.0cm" preferred-height="3.87cm"/></paragraph-text>
+        <paragraph-text type="body">Source: EP2219803</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making chains or chain links by bending into a coil and cutting single loops or loop parts from coil and subsequently welding</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21L7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L3/02</classification-symbol><definition-title>Machines or devices for welding chain links</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for welding chain links.</paragraph-text>
+        <paragraph-text type="body"><media id="media4.jpg" file-name="cpc-def-B21L-0004.jpg" type="jpeg" preferred-width="4.91cm" preferred-height="5.28cm"/></paragraph-text>
+        <paragraph-text type="body">Source: DE10331400</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L3/04</classification-symbol><definition-title>by making use of forge or pressure welding</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for welding chain links by making use of forge or pressure welding.</paragraph-text>
+        <paragraph-text type="body"><media id="media5.jpg" file-name="cpc-def-B21L-0005.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="5.14cm"/></paragraph-text>
+        <paragraph-text type="body">Source: GB689391</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L5/00</classification-symbol><definition-title>Making chains or chain links by working the starting material in such a way that integral, i.e. jointless, chains links are formed</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links by working the starting material in such a way that integral, i.e. jointless, chains links are formed.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L5/02</classification-symbol><definition-title>in such a way that interconnected links are formed</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links by working the starting material in such a way that integral, i.e. jointless, chains links are formed in an interconnected manner.</paragraph-text>
+        <paragraph-text type="body"><media id="media6.jpg" file-name="cpc-def-B21L-0006.jpg" type="jpeg" preferred-width="7.31cm" preferred-height="4.21cm"/></paragraph-text>
+        <paragraph-text type="body">Source: GB361952</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L7/00</classification-symbol><definition-title>Making chains or chain links by cutting single loops or loop-parts from coils, assembling the cut parts and subsequently subjecting same to twisting with or without welding</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links by cutting single loops or loop-parts from coils, assembling the cut parts and subsequently subjecting same to twisting with or without welding.</paragraph-text>
+        <paragraph-text type="body"><media id="media7.jpg" file-name="cpc-def-B21L-0007.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="5.14cm"/></paragraph-text>
+        <paragraph-text type="body">Source: US6389790</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L9/00</classification-symbol><definition-title>Making chains or chain links, the links being composed of two or more different parts, e.g. drive chains  (<class-ref scheme="cpc">B21L1/04</class-ref>, <class-ref scheme="cpc">B21L7/00</class-ref>, <class-ref scheme="cpc">B21L11/14</class-ref>, <class-ref scheme="cpc">B21L13/00</class-ref> take precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links, the links being composed of two or more different parts, e.g. drive chains.</paragraph-text>
+        <paragraph-text type="body"><media id="media8.jpg" file-name="cpc-def-B21L-0008.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="4.74cm"/></paragraph-text>
+        <paragraph-text type="body">Source: US4118995</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making chains or chain links by bending work-pieces and interconnecting the ends.</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21L1/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making chains or chain links by bending and cutting single loops or loop parts from coils.</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21L7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making chains or chain links with inserted or integrally formed studs</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21L11/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making terminal or intermediate chain links of special shapes.</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21L13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Load carrier chains</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="not-mapped">B65G14/40</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Endless traction elements in conveyors</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65G17/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L9/02</classification-symbol><definition-title>of roller-chain or other plate-link type</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making roller-chains or other plate-link type chains.</paragraph-text>
+        <paragraph-text type="body"><media id="media9.jpg" file-name="cpc-def-B21L-0009.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="5.31cm"/></paragraph-text>
+        <paragraph-text type="body">Source. US2007032325</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L9/04</classification-symbol><definition-title>Punching or bending the different parts of the chain links</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for punching or bending the different parts of the chain links.</paragraph-text>
+        <paragraph-text type="body"><media id="media10.jpg" file-name="cpc-def-B21L-0010.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="4.94cm"/></paragraph-text>
+        <paragraph-text type="body">Source: FR2795474</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making belts from metal sheet</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21D53/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Forging members of endless tracks</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21K23/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L9/06</classification-symbol><definition-title>Sorting, feeding, assembling, riveting, or finishing parts of chains</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for sorting, feeding, assembling, riveting, or finishing parts of chains of the type being composed of two or more different parts.</paragraph-text>
+        <paragraph-text type="body"><media id="media11.jpg" file-name="cpc-def-B21L-0011.jpg" type="jpeg" preferred-width="5.05cm" preferred-height="8.02cm"/></paragraph-text>
+        <paragraph-text type="body">Source: EP1803511</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L9/065</classification-symbol><definition-title>{Assembling or disassembling}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for assembling or disassembling parts of chains of the type being composed of two or more different parts.</paragraph-text>
+        <paragraph-text type="body"><media id="media12.jpg" file-name="cpc-def-B21L-0012.jpg" type="jpeg" preferred-width="4.29cm" preferred-height="5.84cm"/></paragraph-text>
+        <paragraph-text type="body">Source: JP2008188598</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L9/08</classification-symbol><definition-title>Combining the chain links with auxiliary parts, e.g. welding-on wear-resistant parts</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains of the type being composed of two or more different parts, wherein the chain links are combined with auxiliary parts, e.g. welded-on wear-resistant parts.</paragraph-text>
+        <paragraph-text type="body"><media id="media13.jpg" file-name="cpc-def-B21L-0013.jpg" type="jpeg" preferred-width="6.35cm" preferred-height="4.09cm"/></paragraph-text>
+        <paragraph-text type="body">Source: US6068568</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L11/00</classification-symbol><definition-title>Making chains or chain links of special shape</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links of special shape.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L11/005</classification-symbol><definition-title>{Making ornamental chains  (<class-ref scheme="cpc">B21L11/02</class-ref>&#160;-&#160;<class-ref scheme="cpc">B21L11/14</class-ref> take precedence; ornamental chains <class-ref scheme="cpc">A44C</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making ornamental chains.</paragraph-text>
+        <paragraph-text type="body"><media id="media14.jpg" file-name="cpc-def-B21L-0014.jpg" type="jpeg" preferred-width="7.0cm" preferred-height="3.75cm"/></paragraph-text>
+        <paragraph-text type="body">Source: US20090241598</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making chains or chain links by bending the ends of work-pieces to abut</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21L11/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making chains or chain links with inserted or integrally formed studs</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21L11/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Ornamental chains</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A44C</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L11/02</classification-symbol><definition-title>each link being formed of a single member of which both ends are bent or shaped to engage the middle portions of the next link</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links, wherein each link is formed of a single member of which both ends are bent or shaped to engage the middle portions of the next link.</paragraph-text>
+        <paragraph-text type="body"><media id="media15.jpg" file-name="cpc-def-B21L-0015.jpg" type="jpeg" preferred-width="4.88cm" preferred-height="4.99cm"/></paragraph-text>
+        <paragraph-text type="body">Source: EP0774086</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L11/04</classification-symbol><definition-title>the ends being pierced or punched to form eyes</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links, wherein the ends of the links are pierced or punched to form eyes.</paragraph-text>
+        <paragraph-text type="body"><media id="media16.jpg" file-name="cpc-def-B21L-0016.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="3.27cm"/></paragraph-text>
+        <paragraph-text type="body">Source: DE19715707</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L11/06</classification-symbol><definition-title>the workpiece being of thin strip metal</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links starting from a thin strip of metal.</paragraph-text>
+        <paragraph-text type="body"><media id="media17.jpg" file-name="cpc-def-B21L-0017.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="3.56cm"/></paragraph-text>
+        <paragraph-text type="body">Source: US3869856</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making belts from metal sheet</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21D53/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L11/08</classification-symbol><definition-title>the ends being interengaged with other parts of the same link</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links, wherein ends are interengaged with other parts of the same link.</paragraph-text>
+        <paragraph-text type="body"><media id="media18.jpg" file-name="cpc-def-B21L-0018.jpg" type="jpeg" preferred-width="3.61cm" preferred-height="4.0cm"/></paragraph-text>
+        <paragraph-text type="body">Source: WO0246613</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L11/10</classification-symbol><definition-title>the chain links having opposed correspondingly shaped cylindrical and hook-like parts of which one parts forms a hinge-like support for the adjacent link  (<class-ref scheme="cpc">B21L11/02</class-ref> takes precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links wherein the chain links have opposed correspondingly shaped cylindrical and hook-like parts of which one parts forms a hinge-like support for the adjacent link.</paragraph-text>
+        <paragraph-text type="body"><media id="media19.jpg" file-name="cpc-def-B21L-0019.jpg" type="jpeg" preferred-width="6.66cm" preferred-height="4.12cm"/></paragraph-text>
+        <paragraph-text type="body">Source: WO2007017107</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making chains or chain links, wherein each link engages the middle portion of the next link.</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21L11/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L11/12</classification-symbol><definition-title>Forming bead chains</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making bead chains.</paragraph-text>
+        <paragraph-text type="body"><media id="media20.jpg" file-name="cpc-def-B21L-0020.jpg" type="jpeg" preferred-width="7.0cm" preferred-height="2.82cm"/></paragraph-text>
+        <paragraph-text type="body">Source: EP0565379</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L11/14</classification-symbol><definition-title>Making chain links with inserted or integrally-formed studs</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making links with inserted or integrally-formed studs.</paragraph-text>
+        <paragraph-text type="body"><media id="media21.jpg" file-name="cpc-def-B21L-0021.jpg" type="jpeg" preferred-width="5.08cm" preferred-height="3.87cm"/></paragraph-text>
+        <paragraph-text type="body">Source: EP0736348</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L13/00</classification-symbol><definition-title>Making terminal or intermediate chain links of special shape; Making couplings for chains, e.g. swivels, shackles</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making terminal or intermediate chain links of special shape or making couplings for chains, e.g. swivels, shackles.</paragraph-text>
+        <paragraph-text type="body"><media id="media22.jpg" file-name="cpc-def-B21L-0022.jpg" type="jpeg" preferred-width="5.08cm" preferred-height="3.1cm"/></paragraph-text>
+        <paragraph-text type="body">Source: US6230961</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L15/00</classification-symbol><definition-title>Finishing or dressing chains or chain links, e.g. removing burr material, calibrating  (<class-ref scheme="cpc">B21L9/06</class-ref> takes precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for finishing (e.g. pre-stressing) or dressing chains or chain links, e.g. removing burr material, calibrating.</paragraph-text>
+        <paragraph-text type="body"><media id="media23.jpg" file-name="cpc-def-B21L-0023.jpg" type="jpeg" preferred-width="3.83cm" preferred-height="5.5cm"/> <media id="media24.jpg" file-name="cpc-def-B21L-0024.jpg" type="jpeg" preferred-width="3.87cm" preferred-height="5.5cm"/></paragraph-text>
+        <paragraph-text type="body">Source: GB1130249; EP1938916</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Heat treatments for chain links</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/0087</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L15/02</classification-symbol><definition-title>Twisting already closed links</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for twisting already closed links.</paragraph-text>
+        <paragraph-text type="body"><media id="media25.jpg" file-name="cpc-def-B21L-0025.jpg" type="jpeg" preferred-width="2.37cm" preferred-height="5.2cm"/></paragraph-text>
+        <paragraph-text type="body">Source: WO0228567</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L19/00</classification-symbol><definition-title>Appurtenances for chain-making not restricted to any particular process</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Appurtenances for chain-making not restricted to any particular process, like e.g. chain feeding or cleaning arrangements.</paragraph-text>
+        <paragraph-text type="body"><media id="media26.jpg" file-name="cpc-def-B21L-0026.jpg" type="jpeg" preferred-width="4.46cm" preferred-height="3.64cm"/></paragraph-text>
+        <paragraph-text type="body">Source: WO0236288</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21L21/00</classification-symbol><definition-title>Tools or implements for repairing chains using metal-working operations, e.g. for detaching deformed chain links</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Tools or implements for repairing chains using metal-working operations. e.g. for detaching deformed chain links.</paragraph-text>
+        <paragraph-text type="body"><media id="media27.jpg" file-name="cpc-def-B21L-0027.jpg" type="jpeg" preferred-width="4.32cm" preferred-height="5.02cm"/></paragraph-text>
+        <paragraph-text type="body">Source: US20110179761</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Hand tools for positioning and assembling or detaching sprocket chains, endless tracks or antiskid chains by press fit.</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B25B27/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">B21L99/00</classification-symbol><definition-title>Subject matter not provided for in other groups of this subclass</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for making chains or chain links not provided for in the groups <class-ref scheme="cpc">B21L1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">B21L21/00</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item></definitions>

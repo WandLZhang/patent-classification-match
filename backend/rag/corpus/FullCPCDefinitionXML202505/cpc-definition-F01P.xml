@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">F01P</classification-symbol><definition-title>COOLING OF MACHINES OR ENGINES IN GENERAL; COOLING OF INTERNAL-COMBUSTION ENGINES  (arrangements in connection with cooling of propulsion units in vehicles <class-ref scheme="cpc">B60K11/00</class-ref>; heat-transfer, heat-exchange or heat-storage materials <class-ref scheme="cpc">C09K5/00</class-ref>; {cooling of gas-turbine engines <class-ref scheme="cpc">F02C7/12</class-ref>}; heat exchange in general, radiators <class-ref scheme="cpc">F28</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Cooling of machines, where &quot;machine&quot; means a device which could equally be an engine and a pump, and not a device which is restricted to an engine or one which is restricted to a pump.</paragraph-text>
+        <paragraph-text type="body">Cooling of engines, where &quot;engine&quot; means a device for continuously converting fluid energy into mechanical power, e.g. steam piston engines or steam turbines.</paragraph-text>
+        <paragraph-text type="body">Cooling of internal combustion engines.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Cooling of machine tools</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23Q1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Arrangements in connection with cooling of propulsion units in vehicles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60K11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Heat-exchange or heat-storage materials </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C09K5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Cooling of gas-turbine engines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F02C7/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Profiting from the waste heat of the exhaust gases</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F02G5/02</class-ref>, <class-ref scheme="cpc">F01N5/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Cogeneration</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F25B27/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Heat exchange in general, radiators</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F28</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Cooling of electric machines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H02K9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Cooling by lubricant when the lubrication aspect predominates</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F01M</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Air</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">gaseous cooling fluids</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Liquid cooling</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">includes also cooling where liquid is used as the heat transferring fluid between parts to be cooled and the air, e.g. using radiators</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Air cooling</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">direct air cooling and thus excludes indirect air cooling occurring in liquid cooling systems as explained herefore</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Cooling air</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">directly or indirectly acting air for cooling</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Engine</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">device for continuously converting fluid energy into mechanical power. Thus, this term includes, for example, steam piston engines or steam turbines, per se, or internal-combustion piston engines, but it excludes single-stroke devices. &quot;Engine&quot; also includes the fluid-motive portion of a meter unless such portion is particularly adapted for use in a meter</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Machine</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">device which could equally be an engine and a pump, and not a device which is restricted to an engine or one which is restricted to a pump</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">F01P1/00</classification-symbol><definition-title>Air cooling</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Air cooling of the engine parts as cylinders or cylinder heads, but also cooling of the engine room, when related to the engine cooling circuit.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">For the engine room cooling </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F01P2001/005</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Engine</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">an internal combustion engine</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item date-revised="2016-02-01"><classification-symbol scheme="cpc">F01P3/00</classification-symbol><definition-title>Liquid cooling</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Arrangements for liquid cooling of engine or machine parts.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Control details of the circuit</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F01P7/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Arrangement of the radiator in the vehicle</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60K11/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Piston constructional details related to cooling of the pistons</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F02F3/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Layout of the radiator</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F28D1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Heating of the vehicle cabin from the coolant as such</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60H1/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Intercooler arrangement</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F02B29/0406</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Profiting from waste heat of the exhaust gases</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F02G5/04</class-ref>, <class-ref scheme="cpc">F01N5/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">EGR cooling as such</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F02M26/13</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Cooling circuit specific details related to cabin heater, intercooler, EGR, turbo- charger, retarder, fuel cooling, battery and hybrid vehicles are classified in <class-ref scheme="cpc">F01P3/20</class-ref> and under <class-ref scheme="cpc">F01P2060/00</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">EGR</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Exhaust Gas Recirculation</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">F01P5/00</classification-symbol><definition-title>Pumping cooling-air or liquid coolants  (controlling circulation or supply of coolants by influencing drive of pumps <class-ref scheme="cpc">F01P7/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Arrangements related to water pumps and fans including their driving, as long a cooling circuit of an engine is claimed as well.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Controlling circulation or supply of coolants by influencing drive of pumps</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F01P7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Driving the pumps using a clutch</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F01P7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Centrifugal pumps</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F04D17/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Axial flow fans</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F04D19/002</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Rotors for centrifugal pumps</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F04D29/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Rotors for elastic fluids</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F04D29/26</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Casings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F04D29/403</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F01P7/00</classification-symbol><definition-title>Controlling of coolant flow</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Controlling of the system such that the coolant and/or an engine part has a given temperature and/or in accordance with certain engine parameters, e.g. speed, load.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Failure of thermostats</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F01P2031/32</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Arrangement and control of the radiator shutters related to the vehicle</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60K11/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Heating of an ICE before starting by heating of the coolant</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F02N19/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">The layout of a thermostat, when not related to an ice</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G05D23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Thermostat as such</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G05D23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Cooling after the engine stop</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F01P2031/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Heating and cooling of the vehicle in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60H1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Friction clutches in genera</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16D13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Valves in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16K</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Field thermostats</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G05D23/1925</class-ref>, <class-ref scheme="cpc">F01P7/167</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">F01P7/165</class-ref> includes systems where besides the main loop and bypass-loop, other loops present, e.g. a low temperature loop.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">F01P9/00</classification-symbol><definition-title>Cooling having pertinent characteristics not provided for in, or of interest apart from, groups <class-ref scheme="cpc">F01P1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">F01P7/00</class-ref>  (profiting from waste heat of combustion-engine cooling <class-ref scheme="cpc">F02G5/00</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Profiting from the waste heat of the exhaust gases</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F02G5/02</class-ref>, <class-ref scheme="cpc">F01N5/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Cogeneration</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F25B27/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F01P11/00</classification-symbol><definition-title>Component parts, details, or accessories not provided for in, or of interest apart from, groups <class-ref scheme="cpc">F01P1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">F01P9/00</class-ref></definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Venting, overflow, deaeration, filling of the circuit, expansion reservoirs, reservoir caps, draining and purging, indicating and safety devices, filtration and silencing of the cooling air and also regenerative heat accumulators.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Arrangement of the radiator in the vehicle</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60K11/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.42cm">
+              <paragraph-text type="body">Using heat accumulators</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60H1/00492</class-ref>, <class-ref scheme="cpc">F01P2011/205</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">When the deaeration devices, venting devices are mounted on the expansion reservoir they are classified in <class-ref scheme="cpc">F01P11/029</class-ref>.</paragraph-text>
+        <paragraph-text type="body">When the deaeration devices, venting devices are mounted on the closure caps they are classified in <class-ref scheme="cpc">F01P11/0204</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item></definitions>

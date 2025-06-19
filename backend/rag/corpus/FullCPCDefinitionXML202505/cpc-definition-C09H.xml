@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-02-01" publication-type="official">
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">C09H</classification-symbol><definition-title>PREPARATION OF GLUE OR GELATINE</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Pre-treatment of collagen-containing raw materials for the manufacture of glue or gelatine from raw materials, e.g. by extracting or by heating.</paragraph-text>
+        <paragraph-text type="body">Stabilisation of solutions of glue or gelatine.</paragraph-text>
+        <paragraph-text type="body">Preparation of water-insoluble gelatine.</paragraph-text>
+        <paragraph-text type="body">Drying of glue or gelatine.</paragraph-text>
+        <paragraph-text type="body">Glue or gelatine products per se resulting from the above-mentioned methods, e.g. stabilized or granular gelatine, if no o</paragraph-text>
+        <paragraph-text type="body">ther group for the produced compound exists.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <list>
+          <list-item>
+            <paragraph-text>Gelatine per se (for more recent technologies) is classified in <class-ref scheme="cpc">C08H1/06</class-ref>.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text>Compositions based on gelatine are classified in <class-ref scheme="cpc">C08L89/06</class-ref>;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Coating compositions based on gelatine are classified in <class-ref scheme="cpc">C09D189/06</class-ref>.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text>Adhesives based on gelatine are classified in <class-ref scheme="cpc">C09J189/06</class-ref>;</paragraph-text>
+          </list-item>
+        </list>
+        <paragraph-text type="body">Multiple classification;</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text>Obtaining protein compositions for foodstuffs from hair, feathers, horn, skins, leather or bones is also classified in <class-ref scheme="cpc">A23J1/10</class-ref>;</paragraph-text>
+          </list-item>
+          <list-item>
+      <paragraph-text>Foods or foodstuffs are also classified in <class-ref scheme="cpc">A23L5/00</class-ref>.</paragraph-text> </list-item>
+        </list>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Defatting bones</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C11B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Chemical treatment of hides, skins or leather, e.g. recovery of tanning agents </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C14C</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Peptides</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C07K</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">The subject-matter disclosed in both the claims and the examples of a patent document is to be classified.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09H1/00</classification-symbol><definition-title>Pretreatment of collagen-containing raw materials for the manufacture of glue</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The preteatment of bones, hides, hoofs, or leather.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Defatting bones</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C11B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Recovery of tanning agents</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C14C</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09H3/00</classification-symbol><definition-title>Isolation of glue or gelatine from raw materials, e.g. by extracting, by heating  (gelatine for foodstuffs <class-ref scheme="cpc">A23J1/10</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Isolation of glue or gelatine from raw materials, e.g. by extrating, by heating.</paragraph-text>
+        <paragraph-text type="body">Purification of solutions of gelatine.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Gelatine for foodstuffs</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A23J1/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09H5/00</classification-symbol><definition-title>Stabilisation of solutions of glue or gelatine</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text>Stabilisation of solutions containing glue or gelatine, e.g. by the addition of hydrocolloids.</paragraph-text>
+        <paragraph-text>Improvement of gelling and setting properties of gelatine.</paragraph-text>
+      </section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text>Gelatine</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text>A translucent, colourless, brittle (when dry), flavorless solid substance, derived from collagen obtained from various animal by-products</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09H7/00</classification-symbol><definition-title>Preparation of water-insoluble gelatine</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text>The preparation of water-insoluble gelatine, e.g. by cross-linking (chemically, physically or enzymatically).</paragraph-text>
+      </section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text>Gelatine</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text>A translucent, colourless, brittle (when dry), flavorless solid substance, derived from collagen obtained from various animal by-products</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09H9/00</classification-symbol><definition-title>Drying of glue or gelatine</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text>Drying of glue or gelatine in the form of foils or granules, e.g. beads.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09H11/00</classification-symbol><definition-title>{Adhesives based on glue or gelatine}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text>Adhesives based on gelatine or animal glue, including hot-melt adhesives, pressure sensitive adhesives and dry glues</paragraph-text>
+        <paragraph-text>Adhesives based on animal protein hydrolysates.</paragraph-text>
+      </section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text>Gelatine</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text>A translucent, colourless, brittle (when dry), flavorless solid substance, derived from collagen obtained from various animal by-products</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item></definitions>

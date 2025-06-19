@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">G04R</classification-symbol><definition-title>RADIO-CONTROLLED TIME-PIECES</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="7.49cm">
+              <paragraph-text type="body">Electronic time-pieces integrated with input or output devices using radio waves</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.55cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G04G21/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G04R20/00</classification-symbol><definition-title>Setting the time according to the time information carried or implied by the radio signal</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="7.58cm">
+              <paragraph-text type="body">Tuning resonant circuits</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.47cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H03J</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">GPS</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Global Positioning System</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Call sign</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">in broadcasting or radio communications, designates a transmitting station. A call sign can be formally assigned by a government agency or informally adopted by individuals or organizations</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">DCF77</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">designates the call sign broadcast from Mainflingen, about 25 km south-east of Frankfurt am Main, Germany</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">JJ40, JJY60</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">designates the call sign broadcast from Mount Otakadoya (in Fukushima prefecture, Japan) at 40 kHz and from Mount Hagane (in Saga prefecture, Japan) at 60 kHz</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">MSF60</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">designates the call sign broadcast from Anthorn (UK) at 60 kHz with a range up to 1500 km, which covers all of UK</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">WWVB</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">designates the call sign of the United States National Institute of Standards and Technology&apos;s (NIST) radio station in Fort Collins, Colorado, that transmits carrier and time code (no voice) on 60 kHz (low frequency [LF] band), and which is used for synchronising radio-controlled clocks throughout the North America</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">GSM</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Global System for Mobile communications, originally from the French Groupe Sp&#233;cial Mobile</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">AM/FM</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Amplitude Modulation / Frequency Modulation</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">UMTS</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Universal Mobile Telecommunications System</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">3G</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">International Mobile Telecommunications-2000 (IMT-2000), better known as 3G or 3rd Generation</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">RDS</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Radio Data System</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">G04R60/00</classification-symbol><definition-title>Constructional details</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="7.49cm">
+              <paragraph-text type="body">Structural details or housings of electronic time-pieces</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.56cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G04G17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

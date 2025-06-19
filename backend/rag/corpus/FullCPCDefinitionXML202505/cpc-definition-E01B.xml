@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-01-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">E01B</classification-symbol><definition-title>PERMANENT WAY; PERMANENT-WAY TOOLS; MACHINES FOR MAKING RAILWAYS OF ALL KINDS  (derailing or rerailing blocks on track, track brakes or retarders <class-ref scheme="cpc">B61K</class-ref>)</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body>
+  <paragraph-text type="preamble">This place covers:</paragraph-text>
+  <paragraph-text type="body">Structure of stationary tracks on which propelled vehicles run for the transportation of passengers or freights;</paragraph-text>
+  <paragraph-text type="body">Tools and machines specially designed for making, maintaining, renewing or taking-up the track.</paragraph-text>
+  </section-body> </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+  <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+  <table><table-row>
+      <table-column preferred-width="9.29cm">
+        <paragraph-text type="body">Model railways</paragraph-text>
+      </table-column>
+      <table-column preferred-width="5.74cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">A63H19/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="9.29cm">
+        <paragraph-text type="body">Wetting or lubricating rails</paragraph-text>
+      </table-column>
+      <table-column preferred-width="5.74cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">B61K3/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="9.29cm">
+        <paragraph-text type="body">Track brakes fixed to permanent way</paragraph-text>
+      </table-column>
+      <table-column preferred-width="5.74cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">B61K7/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="9.29cm">
+        <paragraph-text type="body">Devices along the track for guiding or ensuring the safety of railway traffic</paragraph-text>
+      </table-column>
+      <table-column preferred-width="5.74cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">B61L</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="9.29cm">
+        <paragraph-text type="body">Foundation for paving</paragraph-text>
+      </table-column>
+      <table-column preferred-width="5.74cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">E01C3/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="9.29cm">
+        <paragraph-text type="body">Bridges in general</paragraph-text>
+      </table-column>
+      <table-column preferred-width="5.74cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">E01D</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="9.29cm">
+        <paragraph-text type="body">Removing undesirable matter from the permanent way (cleaning)</paragraph-text>
+      </table-column>
+      <table-column preferred-width="5.74cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">E01H8/00</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="9.29cm">
+        <paragraph-text type="body">Foundations in general</paragraph-text>
+      </table-column>
+      <table-column preferred-width="5.74cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">E02D</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="9.29cm">
+        <paragraph-text type="body">Making tunnels</paragraph-text>
+      </table-column>
+      <table-column preferred-width="5.74cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">E21D</class-ref></paragraph-text>
+      </table-column>
+    </table-row><table-row>
+      <table-column preferred-width="9.29cm">
+        <paragraph-text type="body">Cable through</paragraph-text>
+      </table-column>
+      <table-column preferred-width="5.74cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">H02G9/04</class-ref></paragraph-text>
+      </table-column>
+    </table-row>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </table>
+  </section-body></limiting-references><informative-references> <section-title>Informative references</section-title> <section-body>
+  <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+  <table><table-row>
+      <table-column preferred-width="9.29cm">
+        <paragraph-text type="body">Railway systems including the vehicle</paragraph-text>
+      </table-column>
+      <table-column preferred-width="5.74cm">
+        <paragraph-text type="body"><class-ref scheme="cpc">B61B</class-ref></paragraph-text>
+      </table-column>
+    </table-row>
+    
+  </table>
+  </section-body> </informative-references></references><synonyms-keywords><section-title>Synonyms and Keywords</section-title><special-meanings>
+  <paragraph-text type="preamble">In patent documents, the following words/expressions are often used with the meaning indicated:</paragraph-text>
+  <table>
+    <table-row>
+      <table-column>
+        <paragraph-text type="body">&quot;Permanent way&quot;</paragraph-text>
+      </table-column>
+      <table-column>
+        <paragraph-text type="body">&quot; Railway, railroad&quot;</paragraph-text>
+      </table-column>
+    </table-row>
+  </table>
+  </special-meanings></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B1/00</classification-symbol><definition-title>Ballastway; Other means for supporting the sleepers or the track; Drainage of the ballastway  (draining by trenches, culverts, or conduits <class-ref scheme="cpc">E01F5/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Continuous load bearing bedding for supporting the sleepers or the track, e.g. ballast or concrete slab;</paragraph-text>
+        <paragraph-text type="body">Drainage of the ballastway or the ballastless bedding</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Slabs as such for supporting the rails</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B3/14</class-ref>, <class-ref scheme="cpc">E01B3/24</class-ref>, <class-ref scheme="cpc">E01B3/40</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Draining of tramway rails</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B21/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Placing, working or taking-up the ballast</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Making of concrete parts of the track in situ</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B29/005</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Means for temporarily supporting the sleeper or the track</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B29/40</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Fastening railway sleepers to bridges</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01D19/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Draining the sub-base of railways by trenches, culverts or conduits</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01F5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Draining of streets</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01C11/224</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Draining of sport grounds</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01C13/00</class-ref>, <class-ref scheme="cpc">E01C13/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Draining arrangements for bridges</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01D19/086</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Drainage of soils in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E02B11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B2/00</classification-symbol><definition-title>General structure of permanent way  (railway networks <class-ref scheme="cpc">B61B1/00</class-ref>; foundations for pavings <class-ref scheme="cpc">E01C3/00</class-ref>; foundations in general <class-ref scheme="cpc">E02D</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">General structure of the track, e.g. on bridges or in tunnels, foundations for the track.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Track superstructure adapted for tramways in paved streets</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Tracks for special kinds of railways</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B25/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">General arrangements of stations, e.g. platforms</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61B1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Foundation for pavings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01C3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Foundations in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E02D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B3/00</classification-symbol><definition-title>Transverse or longitudinal sleepers  (for switches or crossings <class-ref scheme="cpc">E01B7/22</class-ref>); Other means resting directly on the ballastway for supporting rails</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Sleepers and other means for supporting rails, e.g. concrete slabs, regardless of the substructure, the sleepers being parallel or orthogonal to the rails.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Sleeper shoes for ballastless track</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="not-mapped">E01B/00C2</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Sleepers for switches or crossings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B7/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Sleepers for shiftable tracks for heavy loads</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B23/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Manufacturing of concrete sleepers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B28B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references></references><synonyms-keywords><section-title>Synonyms and Keywords</section-title><section-body>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Sleeper</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Tie, crosstie</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B5/00</classification-symbol><definition-title>Rails; Guard rails  (manufacture of rails <class-ref scheme="cpc">B21B</class-ref>); Distance-keeping means for them</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Rails for carrying vehicles with their centre of gravity above or suspended from the rail; guard rails, guide rails to prevent derailing; distance keeping means.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Tie-rods for sleepers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Rail parts for switches or crossings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Rail anchors preventing shifting of the track</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B13/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Tie-rods for tramway rails</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B21/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Laying, re-building or taking-up the rails</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B29/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Working rails in or on the line</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B31/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Manufacture of rails</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B21B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references></references><synonyms-keywords><section-title>Synonyms and Keywords</section-title><section-body>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Guard rail</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Check rail</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B7/00</classification-symbol><definition-title>Switches; Crossings  (operating mechanisms <class-ref scheme="cpc">B61L</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Mechanical installation enabling trains to be guided from one track to another at a railway junction; crossing of tracks.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Guard rails</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B5/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Turntables</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61J1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Lubricating of rails</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61K3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Operating mechanisms</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61L</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Switches for easy dismountable tracks</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B23/06</class-ref>, <class-ref scheme="cpc">E01B23/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Switches for special kinds of railways</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B25/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B9/00</classification-symbol><definition-title>Fastening rails on sleepers, or the like  (fastening rails to bridges <class-ref scheme="cpc">E01D19/12</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Fastening means and other track components, e.g. tie-plates, sole-plates, pads or the like, used for attaching rails on their support.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Fastening switches or crossings on special sleepers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B7/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Rail anchors </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B13/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Apparatus for fixing or removing fastening means or track components </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B29/24</class-ref>, <class-ref scheme="cpc">E01B29/32</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Fastening rails to bridges</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01D19/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Fastening means in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B9/02</classification-symbol><definition-title>Fastening rails, tie-plates, or chairs directly on sleepers or foundations; Means therefor</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Means for fastening rails directly on sleepers or foundations, even if the rails rest on sole-plates or pads;</paragraph-text>
+        <paragraph-text type="body">Means for fastening tie plates or chairs directly on sleepers or foundations.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Tie plates per se</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B9/40</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Fastening the rail on the tie-plate</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B9/44</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Rail chairs per se</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B9/54</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Fastening the rail in the chair</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B9/58</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Special rail fastenings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B9/60</class-ref>, <class-ref scheme="cpc">E01B9/62</class-ref>, <class-ref scheme="cpc">E01B9/64</class-ref>, <class-ref scheme="cpc">E01B9/66</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B11/00</classification-symbol><definition-title>Rail joints  (electrical connection of the rail <class-ref scheme="cpc">B60M5/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Dismountable or non-dismountable rail joints, e.g. by using fishplates or made by welding.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Undetachably joining in or on the track, e.g. welding</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B29/42</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Electrical connections of the rail</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60M5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Welding in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Locking means in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B13/00</classification-symbol><definition-title>Arrangements preventing shifting of the track</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Arrangements, e.g. rail anchors, preventing shifting such as longitudinal rail movement, which typically occurs during acceleration or deceleration of vehicles, or during expansion and contraction due to temperature change.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Machines or devices for shifting tracks</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B33/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B15/00</classification-symbol><definition-title>Guards for preventing a person&apos;s foot being trapped in grooved rails</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Arrangements to avoid a person&apos;s foot to get stuck in the gap formed along a rail by grooved rails.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Safety means (in general) for rail/road crossing traffic</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61L29/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2015-03-01"><classification-symbol scheme="cpc">E01B17/00</classification-symbol><definition-title>Cattle guards connected to the permanent way  (grids in general for preventing cattle from straying <class-ref scheme="cpc">A01K3/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Arrangements connected to the installations of the railroad preventing cattle or cattle-like animals (whether domesticated or not), such as horses, sheep or deer, from straying on or walking along railways, or preventing intrusion in tunnels.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Grids in general for preventing for preventing cattle from straying</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01K3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Guards or obstacles for preventing access to the route</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61L29/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Means for fixing fences or the like to rails</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B26/005</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Snow fences</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01F7/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B19/00</classification-symbol><definition-title>Protection of permanent way against development of dust or against the effect of wind, sun, frost, or corrosion; Means to reduce development of noise  (snow fences <class-ref scheme="cpc">E01F7/02</class-ref>, snow-ploughs <class-ref scheme="cpc">E01H8/02</class-ref>, watering <class-ref scheme="cpc">E01H11/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Protective means of the permanent way against weather influences incorporated in the track;</paragraph-text>
+        <paragraph-text type="body">Means for protecting the underground against spillage;</paragraph-text>
+        <paragraph-text type="body">Means to reduce noise incorporated in the track</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Snow fences</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01F7/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Snow ploughs</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01H8/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Control of undesirable vegetation on permanent ways of railways</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01H11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Spillage retaining means for large containers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65D90/24</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Protection against snow, sand wind or falling rocks in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01F7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Noise absorbing or reflecting arrangements for railways</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01F8/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Removing snow or ice from roads</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01H5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B21/00</classification-symbol><definition-title>Track superstructure adapted for tramways in paved streets  (paving <class-ref scheme="cpc">E01C9/04</class-ref>, <class-ref scheme="cpc">E01C9/06</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Embedded rail systems, where the traffic area of rail vehicles needs to be shared with road users of private transport, such as cars, trucks or bikes and pedestrians.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Paving for railroad level crossings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01C9/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Paving adjacent tramway rails</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01C9/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Bedding e.g. ballast or concrete</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Drainage of the track</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B1/008</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B23/00</classification-symbol><definition-title>Easily dismountable or movable tracks, e.g. temporary railways; Details specially adapted therefor</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Light railways such as field, colliery or mine use, temporary railways, as well as shiftable tracks for heavy loads.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Model or toy railways</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A63H19/00</class-ref>, <class-ref scheme="cpc">A63H21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Runway or tracks for trolleys or cranes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B66C7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Rails of supporting structures for mobile scaffolds provided on roofs</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04G3/34</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Propelled stands or trestles, e.g. on tracks, as supports for apparatus placed thereon</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16M11/42</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B25/00</classification-symbol><definition-title>Tracks for special kinds of railways  (systems <class-ref scheme="cpc">B61B</class-ref>; wheel tracks on roads <class-ref scheme="cpc">E01C9/02</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Special kinds such as rack railways, mono rails, cable-drawn, stationary aerial rope, supporting rails for suspended vehicles, tracks for guiding vehicles, magnetic suspension.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Slaughterhouse conveying track</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A22B7/001</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Overhead rail system for handicapped persons</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61G7/1042</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Electric propulsion</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B60L13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Suspended load carriers movable by hand or gravity</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65G9/008</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Wheel tracks</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01C9/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Rope railway systems using cables as traction means</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61B7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Funicular systems</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61B9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Other railway systems</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61B13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Not vehicle mounted steering control for guiding road vehicles, e.g. in urban networks.</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62D1/26</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B27/00</classification-symbol><definition-title>Placing, renewing, working, cleaning, or taking-up the ballast, with or without concurrent work on the track; Devices therefor; Packing sleepers</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Placing, redistributing, levelling, loosening the ballast; removing or taking-up ballast; renewing or cleaning the ballast in situ, with or without taking-up or lifting the track; compacting the ballast with or without introducing additional fresh material under the sleepers.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">General body details of railway vehicles, e.g. working platform </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61D</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Removing undesirable matter from the permanent way</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01H8/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Packing sleepers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Locally compacting the ballast in the vicinity of the sleepers</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B29/00</classification-symbol><definition-title>Laying, rebuilding, or taking-up tracks; Tools or machines therefor  (<class-ref scheme="cpc">E01B27/00</class-ref>, <class-ref scheme="cpc">E01B31/00</class-ref> take precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Transporting, laying, removing or renewing rails, sleepers or lengths of assembled track;</paragraph-text>
+        <paragraph-text type="body">Lifting or levelling of tracks; installing or removing fastening means or other track components, e.g. rail clips, sole-plates;</paragraph-text>
+        <paragraph-text type="body">Undetachably joining or fastening track components in or on the track, e.g. by welding; Sealing rail joints.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Welding in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Fastening tools in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B25B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Hand held nailing or stapling tools</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B25C</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Devices for moving or tilting heavy loads</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65G7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Cranes mounted on railway vehicles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B66C23/50</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Lifting devices in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B66F</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Glueing metal parts in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Ribbon rails</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Rails assembled into strings</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B31/00</classification-symbol><definition-title>Working rails, sleepers, baseplates, or the like, in or on the line; Machines, tools, or auxiliary devices specially designed therefor  (characterised by features independent of use on assembled track <class-ref scheme="cpc">B21</class-ref>, <class-ref scheme="cpc">B23</class-ref>&#160;-&#160;<class-ref scheme="cpc">B25</class-ref>, <class-ref scheme="cpc">B27</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Working such as reconditioning, repairing or treating track components in or on the line and machines specially designed therefor.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Working the ballast</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Laying, rebuilding or taking up tracks or track components</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B29/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Undetachably joining or fastening track components </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B29/42</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B33/00</classification-symbol><definition-title>Machines or devices for shifting tracks, with or without lifting, e.g. for aligning track, for shifting excavator track  (combined with sleeper packing machines <class-ref scheme="cpc">E01B27/17</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Machines combined with sleeper packing machines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E01B27/17</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01B35/00</classification-symbol><definition-title>Applications of measuring apparatus or devices for track-building purposes  (apparatus on locomotives or cars to indicate or record bad track sections <class-ref scheme="cpc">B61K9/00</class-ref>; measuring angles, linear dimensions, or irregularities in general <class-ref scheme="cpc">G01B</class-ref>, <class-ref scheme="cpc">G01C</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Measuring for track building, maintaining or renewing purposes.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Apparatus on locomotives or cars to indicate or record bad track sections</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61K9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Devices along the track for guiding or ensuring the safety of railway traffic</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61L</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Measuring angles, linear dimensions, or irregularities in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01B</class-ref>, <class-ref scheme="cpc">G01C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

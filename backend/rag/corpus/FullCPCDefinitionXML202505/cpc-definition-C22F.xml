@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">C22F</classification-symbol><definition-title>CHANGING THE PHYSICAL STRUCTURE OF NON-FERROUS METALS AND NON-FERROUS ALLOYS  (surface treatment of metallic material involving at least one process provided for in class <class-ref scheme="cpc">C23</class-ref> and at least one process covered by this subclass, <class-ref scheme="cpc">C23F17/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Changing the physical (metallurgical) structure of non-ferrous metals or alloys by heat treatment or by hot or cold working;</paragraph-text>
+        <paragraph-text type="body">Changing the physical structure of non-ferrous metals or alloys by special physical methods, e.g. treatment with neutrons.</paragraph-text>
+        <paragraph-text type="body">The term &quot;non-ferrous alloys&quot; refers to alloys based essentially on metals other than iron.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">C21D</class-ref> provides for processes of modifying the physical structure of ferrous metals or alloys, general devices for heat treatment of ferrous or non-ferrous metals or alloys, and making ferrous metals or alloys malleable by decarburization, tempering or other metallurgical treatments.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">C22F</class-ref> provides for decarburization of non-ferrous metal and non-ferrous alloys to modify the physical structure thereof. Subclass <class-ref scheme="cpc">C22B</class-ref> covers the decarburization of metalliferous material for purposes of refining.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">C23F17/00</class-ref> provides for surface treatment of metallic material involving at least one process provided for in class <class-ref scheme="cpc">C23</class-ref> and at least one process covered in <class-ref scheme="cpc">C22F</class-ref>.</paragraph-text>
+        <paragraph-text type="body">When the alloy is produced by a specifically described method (examples, claims), then the method is classified as well in the appropriate subclasses <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">C23C</class-ref>, <class-ref scheme="cpc">B23K</class-ref>, <class-ref scheme="cpc">C25D</class-ref>, <class-ref scheme="cpc">C25B</class-ref>, <class-ref scheme="cpc">B22D</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21C</class-ref> etc.</paragraph-text>
+        <paragraph-text type="body">When the alloy is intended for a particular use/product then the use/product is classified as well.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Working metallic powder, powder metallurgical apparatus or processes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">C22C1/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body"> Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Electrolytic production or refining of metals </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C25C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Single crystals or homogeneous polycrystalline material with defined structure; production thereof </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C30B</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Jewellery</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A44C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Biomedical applications, stents</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61F</class-ref>, <class-ref scheme="cpc">A61L</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Dental alloys</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61K</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Catalysts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B01J</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Mechanical metal-working</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B21</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Rolling of metal</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B21B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Manufacture of metal sheets/bars/wires/tubes otherwise than by rolling</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B21C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Working or processing of sheet metal or metal tubes, rods, or profiles without essentially removing material; punching</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B21D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Forging</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B21J</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Casting of metals</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Apparatus for mechanical working of metal </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23</class-ref>, <class-ref scheme="cpc">B24</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Soldering/Brazing/Welding compositions</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K</class-ref>, <class-ref scheme="cpc">B23K35/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Layered products</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B32B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Lithographic printing plates</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41N</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Vehicle parts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Hydrogen storage alloys</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C01B</class-ref>, <class-ref scheme="cpc">H01M4/38</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Processing of pig iron, e.g. refining, manufacture of wrought iron or steel</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">General methods or devices for heat treatment, e.g. hardening, quenching, tempering</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Alloys</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Making alloys</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Removing material from alloys to produce alloys of different constitution</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Coating material with metallic material, cementation (carburizing, nitriding, etc)/Sputtering targets</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C23C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Non-mechanical removal of metallic material from surfaces; inhibiting corrosion of metallic material; inhibiting incrustation in general; multi-step processes for surface treatment of metallic material </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C23F17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body"> Steam turbines, turbine rotors Blades, turbine blades</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F01D</class-ref>, <class-ref scheme="cpc">F02C</class-ref>, <class-ref scheme="cpc">F01D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Valve guides/valve seat inserts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F01L</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Gas turbine plants</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F02C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Bearings, shafts/crankshafts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16C</class-ref>, <class-ref scheme="cpc">F16C23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Sliding member</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16J</class-ref>, <class-ref scheme="cpc">F16K</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Heat exchangers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F28F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Nuclear reactors/reactor fuel elements</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G21C</class-ref>, <class-ref scheme="cpc">G21C3/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Electrical wires</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H01B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Magnets</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H01F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Contacts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H01H</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body"> Semiconductor devices/detailsBonding wires, lead frames</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H01L</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Batteries</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H01M</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Electrical connectors</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H01R</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Electronic components</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H05K</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">When the method is intended for providing a particular use/product then the use/ product is classified as well (see informative references for some of them).</paragraph-text>
+        <paragraph-text type="body">When the composition of the alloy is disclosed, either in claims or description, the document is also classified in appropriate groups of subclass <class-ref scheme="cpc">C22C</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Processes concerning SMA alloys (shape memory alloys) having the ability when originally shaped at a first temperature and reshaped at a second temperature to undergo a reversible thermoelastic transition and resume its original shape when returned to the first temperature or an intermediate temperature are covered by <class-ref scheme="cpc">C22F1/006</class-ref> as well as <class-ref scheme="cpc">C22F1/10</class-ref> and <class-ref scheme="cpc">C22F1/08</class-ref></paragraph-text>
+        <paragraph-text type="body">The phrase &quot;based on&quot; indicates in general at least 50% by weight of the specified constituent or of the specified group of constituents.</paragraph-text>
+        <paragraph-text type="body">The base of the alloy in a broader sense is interpreted as the metallic element being the largest constituent of the alloy, regardless of whether or not any one element comprises at least 50 wt%. For example in an alloy with Ni-Ti (~55% Ni) , the base of the alloy is Ni and in an alloy with Co 40 wt%, Ni 30 wt% Al 30 wt%, the base of the alloy is Co.</paragraph-text>
+        <paragraph-text type="body">In the case the alloy contains less than 50 wt% of each constituent, then in addition to the <class-ref scheme="cpc">C22C</class-ref> corresponding to the major constituent(s), at least one <class-ref scheme="cpc">C22C30/00</class-ref> group is also given depending on the rest of the main alloying elements.</paragraph-text>
+        <paragraph-text type="body">In the groups <class-ref scheme="cpc">C22F1/04</class-ref>, <class-ref scheme="cpc">C22F1/16</class-ref>-<class-ref scheme="cpc">C22F1/18</class-ref>, <class-ref scheme="cpc">C22F3/00</class-ref> the last place rule is followed (classification in the last appropriate place) combined with multiple classifications, for a classification of a 100% disclosed alloy composition.</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Alloy</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">A composition of plural elements at least one of which is a free metal. It also includes material containing any combination of fibres, filaments, whiskers and particles, e.g. carbides, diamond, oxides, borides, nitrides, silicides, or other metal compounds, e.g. oxynitrides or sulfides embedded in a metallic matrix</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Recrystallization</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">After all metal crystals have been dissolved by heating enough to lose its structural strength, the metal temperature then falls, allowing the crystals to re-form</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Aging (or ageing)</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">A process in which the hardness or strength of a metal alloy having a constituent in supersaturated solid solution is increased over time as the constituent precipitates out as a secondary phase containing the constituent. When occurring at room temperature the process is termed &quot;natural aging&quot;, while a process that occurs when subjecting the metal alloy to elevated temperature is termed &quot;artificial aging&quot;. Aging for a longer time than that corresponding to maximum strength or hardness at the particular temperature is termed &quot;over-ageing&quot;.</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Hardening</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">The increase in resistance to deformation</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Precipitation hardening </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">As the quenched alloy ages, a new material precipitates out of the metallic crystal lattice, filling in abutting spaces, and increasing hardness </paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Normalizing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">A process of heating metallic material above its critical temperature and cooling in air thereby establishing a fine uniform grain size and improving the microstructural uniformity</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Quenching</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">The rapid cooling of metallic material either from elevated temperature to room temperature or cooling of metal to sub-ambient temperature, at a specific rate, with a given medium. </paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Tempering</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Heating of a previously quenched or normalized metallic material to an elevated temperature, and then cooling under suitable conditions to obtain the desired mechanical properties.</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><section-body>
+  <paragraph-text type="preamble">In patent documents the words &quot;aging&quot;, &quot;precipitation&quot;, &quot;hardening&quot; and &quot;strengthening&quot; are often used as synonyms.</paragraph-text>
+  <paragraph-text type="body">It should be noted that these terms historically have specific definitions to those in the metallurgical arts.</paragraph-text>
+  </section-body></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F1/00</classification-symbol><definition-title>Changing the physical structure of non-ferrous metals or alloys by heat treatment or by hot or cold working  (apparatus for mechanical working of metal <class-ref scheme="cpc">B21</class-ref>, <class-ref scheme="cpc">B23</class-ref>, <class-ref scheme="cpc">B24</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of non-ferrous metals or alloys by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">General methods or devices for heat treatment, e.g. hardening, quenching, tempering </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D1/00</class-ref> - <class-ref scheme="cpc">C21D1/84</class-ref>, <class-ref scheme="cpc">C21D1/76</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Alloy compositions</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C5/00</class-ref> - <class-ref scheme="cpc">C22C5/10</class-ref>, <class-ref scheme="cpc">C22C9/00</class-ref> - <class-ref scheme="cpc">C22C9/10</class-ref>, <class-ref scheme="cpc">C22C11/00</class-ref> - <class-ref scheme="cpc">C22C11/10</class-ref>, <class-ref scheme="cpc">C22C19/03</class-ref> - <class-ref scheme="cpc">C22C19/058</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Alloy compositions </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C21/00</class-ref>- <class-ref scheme="cpc">C22C21/18</class-ref>, <class-ref scheme="cpc">C22C23/00</class-ref> - <class-ref scheme="cpc">C22C23/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Coating metallic material</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C23C</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In these groups, the last place rule is followed combined with multiple classifications.</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">SMA alloys (shape memory alloys) </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">alloys having the ability when originally shaped at a first temperature and reshaped at a second temperature to undergo a reversible thermoelastic transition and resume its original shape when returned to the first temperature or an intermediate temperature</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Quenching</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Cooling of metallic material at a specific rate, with a given medium.</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F1/04</classification-symbol><definition-title>of aluminium or alloys based thereon</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of aluminium or aluminium alloys by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">The alloy is classified in <class-ref scheme="cpc">C22C21/00</class-ref>-<class-ref scheme="cpc">C22C21/18</class-ref> in the corresponding sub-group.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Making aluminium alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C1/0408</class-ref> - <class-ref scheme="cpc">C22C1/0416</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Soldering/welding materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K35/286</class-ref>, <class-ref scheme="cpc">B23K35/288</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Alloys based on aluminium</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C21/00</class-ref> - <class-ref scheme="cpc">C22C21/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In these groups, the last place rule is followed combined with multiple classifications.</paragraph-text>
+        <paragraph-text type="body">Depending on the next major constituent to Al, the corresponding <class-ref scheme="cpc">C22F1/00</class-ref> class is given. In a case of more than one next major constituent(s), then more than one <class-ref scheme="cpc">C22F1/00</class-ref> classes are given.</paragraph-text>
+        <paragraph-text type="body">An Al-alloy with Si as the next major constituent comprising in addition Mg as alloying element is classified in <class-ref scheme="cpc">C22F1/043</class-ref> but also in <class-ref scheme="cpc">C22F1/043</class-ref> and corresponding <class-ref scheme="cpc">C22C21/00</class-ref> classes. For example an alloy Al 60%, Si 21%, Mg 19%, will be classified in <class-ref scheme="cpc">C22F1/043</class-ref> but also in <class-ref scheme="cpc">C22F1/043</class-ref>.</paragraph-text>
+        <paragraph-text type="body">The alloy composition(s) is/are indexed in the Alloys database.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F1/06</classification-symbol><definition-title>of magnesium or alloys based thereon</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of magnesium or magnesium alloys by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">The alloy are classified as well in <class-ref scheme="cpc">C22C23/00</class-ref>-<class-ref scheme="cpc">C22C23/06</class-ref> in the corresponding sub-group.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C1/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Soldering/welding materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K35/284</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Alloys based on magnesium</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C23/00</class-ref> - <class-ref scheme="cpc">C22C23/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F1/08</classification-symbol><definition-title>of copper or alloys based thereon</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of copper or copper alloys by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">The alloy is classified as well in <class-ref scheme="cpc">C22C9/00</class-ref>-<class-ref scheme="cpc">C22C9/10</class-ref> in the corresponding sub-group.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.08cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.57cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.08cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.57cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.08cm">
+              <paragraph-text type="body">Making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.57cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C1/04</class-ref>, <class-ref scheme="cpc">C22C1/0425</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.08cm">
+              <paragraph-text type="body">Jewellery</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.57cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A44C27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.08cm">
+              <paragraph-text type="body">Biomedical applications, stents</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.57cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61F</class-ref>, <class-ref scheme="cpc">A61L</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.08cm">
+              <paragraph-text type="body">Soldering/welding materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.57cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K35/302</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.08cm">
+              <paragraph-text type="body">Alloys based on copper</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.57cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C9/00</class-ref> - <class-ref scheme="cpc">C22C9/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F1/10</classification-symbol><definition-title>of nickel or cobalt or alloys based thereon</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of copper or copper alloys by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">The alloy are classified as well in <class-ref scheme="cpc">C22C19/00</class-ref>-<class-ref scheme="cpc">C22C19/07</class-ref> in the corresponding sub-group.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.17cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.17cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.17cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C1/04</class-ref>, <class-ref scheme="cpc">C22C1/0408</class-ref>, <class-ref scheme="cpc">C22C1/0433</class-ref>, <class-ref scheme="cpc">C22C1/0441</class-ref> </paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Soldering/welding materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K35/3033</class-ref>, <class-ref scheme="cpc">B23K35/304</class-ref>, <class-ref scheme="cpc">B23K35/3046</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Alloys based on copper</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C19/00</class-ref> - <class-ref scheme="cpc">C22C19/07</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F1/11</classification-symbol><definition-title>of chromium or alloys based thereon</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of chromium or chromium alloys by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">The alloy needs to be classified as well in <class-ref scheme="cpc">C22C27/06</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C1/04</class-ref>, <class-ref scheme="cpc">C22C1/045</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Soldering/welding materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K35/32</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Alloys based on chromium</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C27/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F1/12</classification-symbol><definition-title>of lead or alloys based thereon</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of lead or lead alloys by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">The alloy is classified as well in <class-ref scheme="cpc">C22C11/00</class-ref> - <class-ref scheme="cpc">C22C11/10</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C1/04</class-ref>, <class-ref scheme="cpc">C22C1/0483</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Soldering/welding materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K35/26</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Alloys based on lead</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C11/00</class-ref>- <class-ref scheme="cpc">C22C11/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F1/14</classification-symbol><definition-title>of noble metals or alloys based thereon</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of noble metals or alloys based thereon by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">The alloy needs to be classified as well in <class-ref scheme="cpc">C22C5/00</class-ref> - <class-ref scheme="cpc">C22C5/10</class-ref></paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C1/04</class-ref>, <class-ref scheme="cpc">C22C1/0466</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Jewellery</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A44C27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Dental alloy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A61K</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Catalysts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B01J</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Soldering/welding materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K35/3006</class-ref>, <class-ref scheme="cpc">B23K35/3013</class-ref>, <class-ref scheme="cpc">B23K35/322</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Alloys based on noble metals</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C5/00</class-ref> - <class-ref scheme="cpc">C22C5/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In this group, the last place rule is followed combined with multiple classifications. The alloy is classified as well in <class-ref scheme="cpc">C22C5/00</class-ref> - <class-ref scheme="cpc">C22C5/10</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Noble metal based alloys </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">alloys with the noble metal (Ag, Au, platinum group) as the major constituent i.e. the base of the alloy </paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F1/16</classification-symbol><definition-title>of other metals or alloys based thereon</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of other metals or alloys based thereon, i.e. with Zn, Cd, Ti, Zr by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C1/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In this group, the last place rule is followed combined with multiple classifications</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F1/165</classification-symbol><definition-title>{of zinc or cadmium or alloys based thereon}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of zinc or cadmium or alloys based thereon, by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+        <paragraph-text type="body">.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C1/04</class-ref>, <class-ref scheme="cpc">C22C1/0483</class-ref> </paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Soldering/welding materials </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K35/266</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Soldering/welding materials </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K35/282</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Alloys based on zinc</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C18/00</class-ref> - <class-ref scheme="cpc">C22C18/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Alloys based on cadmium</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C20/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In this group, the last place rule is followed combined with multiple classifications, respectively with <class-ref scheme="cpc">C22C</class-ref> symbols for the alloy composition.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F1/18</classification-symbol><definition-title>High-melting or refractory metals or alloys based thereon</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of refractory metal based alloys other than Ti-, Zr- based alloys i.e. with Re, V, Cr, Nb, Mo, Hf, Ta, W as the major constituent i.e. the base of the alloy, by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">When the alloy composition is disclosed, then it is classified as well in <class-ref scheme="cpc">C22C27/00</class-ref>- <class-ref scheme="cpc">C22C27/06</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C1/04</class-ref>, <class-ref scheme="cpc">C22C1/045</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Soldering/welding materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K35/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Alloys based on refractory metal</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C27/00</class-ref>- <class-ref scheme="cpc">C22C27/06</class-ref> </paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In this groups, the last place rule is followed combined with multiple classifications. Depending on the base of the alloy the appropriate <class-ref scheme="cpc">C22F</class-ref> class is given combined with classification of said alloy in <class-ref scheme="cpc">C22C</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F1/183</classification-symbol><definition-title>{of titanium or alloys based thereon}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of titanium or alloys based thereon i.e. with Ti as the major constituent i.e. the base of the alloy, by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.08cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.57cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.08cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.57cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.08cm">
+              <paragraph-text type="body">Making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.57cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C1/04</class-ref>, <class-ref scheme="cpc">C22C1/0458</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.08cm">
+              <paragraph-text type="body">Soldering/welding materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.57cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K35/32</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.08cm">
+              <paragraph-text type="body">Alloys based on refractory metal</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.57cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C14/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">When the alloy composition is disclosed, then it is classified as well in <class-ref scheme="cpc">C22C14/00</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F1/186</classification-symbol><definition-title>{of zirconium or alloys based thereon}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of zirconium or alloys based thereon i.e. with Zr as the major constituent i.e. the base of the alloy, by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C1/04</class-ref>, <class-ref scheme="cpc">C22C1/0458</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Soldering/welding materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23K35/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Alloys based on refractory metal</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.36cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C16/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">When the alloy composition is disclosed, then it is classified as well in <class-ref scheme="cpc">C22C16/00</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C22F3/00</classification-symbol><definition-title>Changing the physical structure of non-ferrous metals or alloys by special physical methods, e.g. treatment with neutrons</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods of changing the physical structure of non-ferrous metals or alloys by heat treatment or by hot or cold working which are not covered in any of <class-ref scheme="cpc">B22F</class-ref>, <class-ref scheme="cpc">B21B</class-ref>, <class-ref scheme="cpc">B21J</class-ref>, <class-ref scheme="cpc">C21D</class-ref>, <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">General methods or devices for heat treatments, e.g. annealing, hardening, quenching, tempering are classified in <class-ref scheme="cpc">C21D1/00</class-ref></paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Methods of making alloys by powder metallurgy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Heat treatment, e.g. annealing, quenching, tempering, adapted for particular metallic articles; furnaces therefor </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">General methods or devices for heat treatments, e.g. annealing, hardening, quenching, tempering</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C21D1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

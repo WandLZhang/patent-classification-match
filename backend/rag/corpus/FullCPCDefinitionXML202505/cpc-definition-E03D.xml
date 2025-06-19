@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2018-01-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">E03D</classification-symbol><definition-title>WATER-CLOSETS OR URINALS WITH FLUSHING DEVICES; FLUSHING VALVES THEREFOR</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices for receiving excrements and urine which are cleaned by water flushing.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Closets or urinals without connection to the water supply or waste system</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47K11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Seats or covers for all kinds of toilets</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47K13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Portable urination aids for medical use </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A61F5/455</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Disintegrating of garbage in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C18/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Arrangement of water closets specially adapted to motor vehicles or trailers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B60R15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Arrangement of water closets specially adapted to railway carriages</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B61D35/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Flushed water closets specially adapted to ships</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B63B29/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Flushed water closets specially adapted to aircrafts </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B64D11/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></application-references></references></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">E03D1/00</classification-symbol><definition-title>Water flushing devices with cisterns {; Setting up a range of flushing devices or water-closets; Combinations of several flushing devices}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Constructional aspects and component parts of flushing cisterns;</paragraph-text>
+        <paragraph-text type="body">Inlet and outlet valves specially adapted for flushing cisterns.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Toilets and urinals with pressurized flushing system</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03D3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Combination of toilet bowls with wash basins, cleaning devices for chamber-pots or similar devices</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03D11/025</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Self-closing valves in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16K21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Float actuation for valves in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16K31/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Measuring water level in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G01F23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Portable toilets with water reservoir for flushing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03D7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Arrangement of water closets with cisterns specially adapted to motor vehicles or trailers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B60R15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Arrangement of water closets with cisterns specially adapted to railway carriages</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B61D35/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Water closets with cisterns specially adapted to ships</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B63B29/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Water closets with cisterns specially adapted to aircrafts </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B64D11/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Combinations of wash basins, sinks, urinals, toilets or similar devices </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03C1/01</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></application-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">E03D1/02</class-ref> is not used, documents are only classified in the corresponding subgroups.</paragraph-text>
+        <paragraph-text type="body">Flushing valves for discharging different quantities of water are classified in <class-ref scheme="cpc">E03D1/14</class-ref> and, if applicable, in the corresponding subgroup <class-ref scheme="cpc">E03D1/30</class-ref>&#160;-&#160;<class-ref scheme="cpc">E03D1/308</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Simple devices for reducing amount of flushing water per flush (e.g. brick in cistern) are classified in <class-ref scheme="cpc">E03D1/14</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Water monitoring devices, leak and/or overflow detection are classified in <class-ref scheme="cpc">E03D1/00</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">E03D3/00</classification-symbol><definition-title>Flushing devices operated by pressure of the water supply system {flushing valves not connected to the water-supply main, also if air is blown in the water seal for a quick flushing}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Flushing valves arranged in the water supply line; other devices for flushing with pressurized water</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Self-closing valves not specially adapted to water closet flushing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16K21/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Pressure flushing valves within vacuum flushing systems</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03F1/006</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></application-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Flushing valves are generally as well classified in <class-ref scheme="cpc">F16K</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">E03D5/00</classification-symbol><definition-title>Special constructions of flushing devices  (in motor vehicles or trailers <class-ref scheme="cpc">B60R15/00</class-ref>; in railway carriages <class-ref scheme="cpc">B61D35/00</class-ref>; in ships <class-ref scheme="cpc">B63B29/14</class-ref>; in aircraft <class-ref scheme="cpc">B64D11/02</class-ref>), {e.g. closed flushing system}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices and methods for transmission of actuating force to flushing valve; flushing devices working with greywater or other cleaning fluids</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Construction of flushed water closets specially adapted to motor vehicles or trailers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B60R15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Construction of flushed water closets specially adapted to railway carriages</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B61D35/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Construction of flushed water closets specially adapted to ships</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B63B29/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Construction of flushed water closets specially adapted to aircrafts </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B64D11/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Handles, levers and knobs in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G05D</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Collection and storage of greywater </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03B1/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></application-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Constructive adaptations of cisterns for using greywater are classified in <class-ref scheme="cpc">E03D5/003</class-ref>. Other aspects of greywater collection or use are classified in <class-ref scheme="cpc">E03B1/04</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Pusher plates, their mounting to an opening in a wall or the like and the elements for transmitting the actuating force to the flushing valve are classified in <class-ref scheme="cpc">E03D5/028</class-ref>, whereas constructional details of built-in cisterns, also frames for fixing pusher plates to wall openings, are classified in <class-ref scheme="cpc">E03D1/0125</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">E03D7/00</classification-symbol><definition-title>Wheeled lavatories  (wheeled closets without flushing <class-ref scheme="cpc">A47K11/00</class-ref>; construction of land vehicles <class-ref scheme="cpc">B62</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Mobile toilets with provisions for flushing.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Constructional details of buildings for public toilets</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E04H1/1216</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">This class covers the constructional details of single portable toilets, e.g. for outdoor use, trailers for providing toilet facilities as well as portable public toilet cabins as far as aspects of the toilet and its water connection are concerned. Aspects of construction of the housing itself are classified in <class-ref scheme="cpc">E04H1/1205</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">E03D9/00</classification-symbol><definition-title>Sanitary or other accessories for lavatories  (hand tools for cleaning the toilet bowl <class-ref scheme="cpc">A47K11/10</class-ref>; seats or covers for closets <class-ref scheme="cpc">A47K13/00</class-ref>; body supports, other than seats for closets <class-ref scheme="cpc">A47K17/02</class-ref>; devices for preventing contamination of drinking-water pipes <class-ref scheme="cpc">E03C1/10</class-ref> ){; Devices for cleaning or disinfecting the toilet room or the toilet bowl; Devices for eliminating smells  (cleaning, disinfecting or deodorising the seat <class-ref scheme="cpc">A47K13/30</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Accessories enhancing use comfort or security of water closets or urinals, the accessories being specially adapted for flushed toilets: devices for cleaning or disinfecting the toilet room or the toilet bowl or for eliminating smells.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Hand tools for cleaning the toilet bowl</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47K11/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Seats or covers for all kinds of toilets</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47K13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Cleaning, disinfecting or deodorising the seat</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47K13/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Toilet and urinal accessories without connection to water supply and waste pipe</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47K17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Body supports, other than seats for closets</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47K17/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Baths and bidets for therapeutic use</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A61H33/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Deodorizing of rooms in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A61L9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Chemical composition of deodorising agents</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A61L9/01</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Baths and spraying heads for subaquatic intestinal cleaning</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A61M9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Chemical composition of disinfecting agents</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C11D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Devices for preventing contamination of drinking water pipes</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03C1/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Ventilated toilet seats </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47K13/307</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></application-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Disinfecting devices, whether only dispensing while flushing or disinfecting without functional relationship to a flushing action are classified according to their placement in the flushing system in subclass <class-ref scheme="cpc">E03D9/03</class-ref> and parallel in <class-ref scheme="cpc">E03D2009/024</class-ref>, <class-ref scheme="cpc">E03D2009/026</class-ref> and/or <class-ref scheme="cpc">E03D2009/028</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Dispensers mounted inside the cistern and dispensing into the overflow pipe are classified in <class-ref scheme="cpc">E03D9/037</class-ref>.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">E03D9/05</class-ref> and <class-ref scheme="cpc">E03D9/052</class-ref> are used indifferently and search should always take place in both groups.</paragraph-text>
+        <paragraph-text type="body">Ventilation of toilets via the seat are classified in <class-ref scheme="cpc">E03D9/05</class-ref> and in <class-ref scheme="cpc">A47K13/307</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">E03D11/00</classification-symbol><definition-title>Other component parts of water-closets  (pipe-joints or couplings in general <class-ref scheme="cpc">F16L</class-ref> ){, e.g. noise-reducing means in the flushing system  (noise-reducing means in combination with flushing valves <class-ref scheme="cpc">E03D9/14</class-ref>), flushing pipes mounted in the bowl, seals for the bowl outlet, devices preventing overflow of the bowl contents; devices forming a water seal in the bowl after flushing, devices eliminating obstructions in the bowl outlet or preventing backflow of water and excrements from the waterpipe}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Constructional details of water closet bowls and discharge pipes; Mounting of bowls or other parts of a water closet to a support: e.g. noise-reducing means in the flushing system, flushing pipes mounted in the bowl, seals for the bowl outlet, devices preventing overflow of the bowl contents; devices forming a water seal in the bowl after flushing, devices eliminating obstructions in the bowl outlet or preventing backflow of water and excrements from the waterpipe.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Cisterns specially adapted to be combined with at least another sanitary device</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03D1/003</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Noise-reducing means in combination with flushing valves </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03D9/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Constructional details of flushed urinals</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03D13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Constructional details of urinals without connection to water supply system</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47K11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Pipe-joints or couplings in general </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16L</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Mounting frames for washbasins</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03C1/32</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Toilet bowls having features for better distribution of flushing water are classified in <class-ref scheme="cpc">E03D11/02</class-ref> or lower and in <class-ref scheme="cpc">E03D2201/40</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Siphons forming part of the bowl are classified in <class-ref scheme="cpc">E03D11/02</class-ref>, siphons independent of the bowl are classified in <class-ref scheme="cpc">E03D11/18</class-ref>.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">E03D2201/20</class-ref>, <class-ref scheme="cpc">E03D2201/30</class-ref>, <class-ref scheme="cpc">E03D2201/40</class-ref> are used to mark information of the respective feature to be used for a future search without this feature forming the invention.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">E03D13/00</classification-symbol><definition-title>Urinals  (without flushing devices <class-ref scheme="cpc">A47K11/00</class-ref> ){; Means for connecting the urinal to the flushing pipe and the wastepipe; Splashing shields for urinals}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Constructional features of urinals with connection to water supply and/or waste system; Accessories specially adapted to such urinals.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Urinals without flushing devices, i.e. without connection to water supply and waste system</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47K11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Siphons for other sealants than water </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03C1/281</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Siphons with other sealants than water specially adapted for urinals are classified also in <class-ref scheme="cpc">E03D13/005</class-ref> besides <class-ref scheme="cpc">E03C1/281</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Remote controlled flushing for urinals is classified in <class-ref scheme="cpc">E03D5/105</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item></definitions>

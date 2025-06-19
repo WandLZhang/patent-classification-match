@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B21H</classification-symbol><definition-title>MAKING PARTICULAR METAL OBJECTS BY ROLLING, e.g. SCREWS, WHEELS, RINGS, BARRELS, BALLS  (essentially from sheet metal <class-ref scheme="cpc">B21D</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for forming metal objects by rolling operations which are not combined with further different metal-working operations.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Continuous rolling of semi-finished products (e.g. continuous rolling of metal strip, wire or tubes in rolling mills)</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Roll-forming (i.e. consecutive bending) of metal sheet</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21D5/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">B21H1/00</classification-symbol><definition-title>Making articles shaped as bodies of revolution  (rolling tubes <class-ref scheme="cpc">B21B17/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">B21B25/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for manufacturing rotationally symmetric bodies.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Rolling of threads or gear profiles onto cylindrical bodies</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H3/02</class-ref>, <class-ref scheme="cpc">B21H5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Rolling tubes</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21B17/00</class-ref> - <class-ref scheme="cpc">B21B25/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Flanging of tubes by rolling</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21D19/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H1/18</classification-symbol><definition-title>cylinders, e.g. rolled transversely {cross-rolling}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Cross-rolling of cylindrical workpieces with rollers having an axis of rotation parallel to the axis of the workpiece. In most cases recesses are formed on the workpiece by a profile on the rollers which varies in width.</paragraph-text>
+        <paragraph-text type="body"><media id="media0.jpg" file-name="cpc-def-B21H-0000.jpg" type="jpeg" preferred-width="4.74cm" preferred-height="4.91cm"/></paragraph-text>
+        <paragraph-text type="body">(from US 4459880 (A))</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Manufacturing of gear toothing by rollers having an axis of rotation parallel to the axis of the workpiece</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H5/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Spinning</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21D22/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H1/20</classification-symbol><definition-title>rolled longitudinally</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Forming of profiles or reduction in cross-section by rollers or roller-segments having an axis of rotation not parallel to the axis of the workpiece.</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body">Forming of profiles with roller-segments</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body"><media id="media1.jpg" file-name="cpc-def-B21H-0001.jpg" type="jpeg" preferred-width="4.6cm" preferred-height="6.35cm"/> (from WO 2007137543 (A1))</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body">Reduction in cross-section</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body"><media id="media2.jpg" file-name="cpc-def-B21H-0002.jpg" type="jpeg" preferred-width="6.35cm" preferred-height="3.87cm"/> (from US 5001916 (A))</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Continuous reduction in cross-section of workpieces</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21B</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H1/22</classification-symbol><definition-title>characterised by use of rolls having circumferentially varying profile{; Die-rolling}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Forming of profiles or reduction in cross-section with the help of rollers or roller-segments comprising a die</paragraph-text>
+        <paragraph-text type="body"><media id="media3.jpg" file-name="cpc-def-B21H-0003.jpg" type="jpeg" preferred-width="5.08cm" preferred-height="4.38cm"/></paragraph-text>
+        <paragraph-text type="body">(from DE 102004016193 (A1))</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Cross-rolling of cylindrical workpieces</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H1/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H3/00</classification-symbol><definition-title>Making helical bodies or bodies having parts of helical shape  (helical gears <class-ref scheme="cpc">B21H5/00</class-ref>; forming tubes or tube walls into helical shape <class-ref scheme="cpc">B21D11/06</class-ref>, <class-ref scheme="cpc">B21D15/04</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for forming a helical structure like a thread or helical flutes on a body by a chipless rolling process. The group covers plastic deformation of the metal body to produce a thread structure without cutting or milling and includes cold thread rolling (swaging).</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making helical gears, i.e. worms</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Bending of a body into helical form</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21D11/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Corrugating tubes helically</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21D15/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Coiling wire helically</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21F3/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Forming of helical structures on a body by forging or pressing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21K1/56</class-ref>, <class-ref scheme="cpc">B21K5/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body"> Screws</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Self-tapping screws</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B25/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Screws having a special thread-form</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B33/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Locking screws</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B39/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H3/04</classification-symbol><definition-title>Making by means of profiled-rolls {or die rolls}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices in which the external screw-thread is manufactured by means of profiled rolls, but which do no comprise or further specify the use of a thread rolling head.</paragraph-text>
+        <paragraph-text type="body"><media id="media4.jpg" file-name="cpc-def-B21H-0004.jpg" type="jpeg" preferred-width="4.06cm" preferred-height="4.82cm"/></paragraph-text>
+        <paragraph-text type="body">(from GB 999785 (A))</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Profiled rolls for making gear wheels</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H3/042</classification-symbol><definition-title>{Thread-rolling heads}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Handtools for rolling a thread on a workpiece. General aspects of thread rolling heads and methods of using a thread rolling head not related to a special type of thread-rolling head.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H3/044</classification-symbol><definition-title>{working axially}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Axial thread rolling methods and devices for forming external screw-threads using a thread-rolling head working axially, i.e. the rollers have a continuous and constant profile about their circumference and run axially along the workpiece. During rolling the workpiece passes through an axial bore within the rolling head.</paragraph-text>
+        <paragraph-text type="body"><media id="media5.jpg" file-name="cpc-def-B21H-0005.jpg" type="jpeg" preferred-width="5.4cm" preferred-height="5.21cm"/></paragraph-text>
+        <paragraph-text type="body">(from EP 0417416 (A2))</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H3/046</classification-symbol><definition-title>{working radially}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Radial thread-rolling methods and devices, the thread-rolling head forming a thread in one single rotation of either the workpiece within the rollers or the rolling head about the workpiece. The rollers are provided with a circumferentially varying profile and/or are eccentrically mounted within the rolling head. The workpiece is inserted axially into the rolling head. After insertion of the workpiece the rollers approach the workpiece radially.</paragraph-text>
+        <paragraph-text type="body"><media id="media6.jpg" file-name="cpc-def-B21H-0006.jpg" type="jpeg" preferred-width="6.04cm" preferred-height="5.02cm"/></paragraph-text>
+        <paragraph-text type="body">(from US 5924317 (A))</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H3/048</classification-symbol><definition-title>{working tangentially}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Tangential thread-rolling methods and devices, the thread-rolling head being fed tangentially against the rotating workpiece.</paragraph-text>
+        <paragraph-text type="body">In order to allow a tangential insertion of the workpiece into the rolling head, the radial distance between the rollers can be varied. Some rolling heads comprise rollers having a varying circumferential profile in order to allow the insertion of the workpiece.</paragraph-text>
+        <paragraph-text type="body"><media id="media7.jpg" file-name="cpc-def-B21H-0007.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="5.42cm"/></paragraph-text>
+        <paragraph-text type="body">(from US 6202461 (B1))</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H3/06</classification-symbol><definition-title>Making by means of profiled members other than rolls, e.g. {reciprocating flat dies or} jaws, moved longitudinally or curvilinearly with respect to each other</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Rolling of threads by means of reciprocating flat dies, wherein the dies are reciprocated in relation to one another or a stationary die is provided and the other die is reciprocated.</paragraph-text>
+        <paragraph-text type="body"><media id="media8.jpg" file-name="cpc-def-B21H-0008.jpg" type="jpeg" preferred-width="4.89cm" preferred-height="6.67cm"/></paragraph-text>
+        <paragraph-text type="body">(from JP 62158541 (A))</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Rolling of cylindrical gears by means of reciprocating flat dies</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H5/027</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H3/065</classification-symbol><definition-title>{Planetary thread rolling}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Planetary thread rolling methods and devices, i.e. rolling of threads between a stationary and a rotatable die.</paragraph-text>
+        <paragraph-text type="body"><media id="media9.jpg" file-name="cpc-def-B21H-0009.jpg" type="jpeg" preferred-width="4.19cm" preferred-height="5.72cm"/> <media id="media10.jpg" file-name="cpc-def-B21H-0010.jpg" type="jpeg" preferred-width="4.77cm" preferred-height="5.72cm"/></paragraph-text>
+        <paragraph-text type="body">(from JP 57094439 (A)) (from US 3733867 (A))</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H3/12</classification-symbol><definition-title>articles with helicoidal surface  (bending strip or the like helically <class-ref scheme="cpc">B21D11/06</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for forming a helical structure like helical fins on a workpiece by rolling, including a workpiece that is rotated and longitudinally moved relative to rolling dies or the dies are rotated and the workpiece is longitudinally moved relative to rolling dies without rotation.</paragraph-text>
+        <paragraph-text type="body"><media id="media11.jpg" file-name="cpc-def-B21H-0011.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="3.7cm"/></paragraph-text>
+        <paragraph-text type="body">(from US 3745801 (A))</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Manufacturing of helical gear worms</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H5/005</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H5/00</classification-symbol><definition-title>Making gear wheels{, racks, spline shafts or worms}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for manufacturing or finishing geared workpieces by a chipless rolling process. This group does not only cover the manufacturing or finishing of gear wheels, but also of racks, spline shafts and worms.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Manufacturing of gear wheels by forging or pressing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21K1/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Manufacturing of toothed racks by forging or pressing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21K1/767</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making gears or toothed racks by other methods</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B23F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making gear wheels by other methods</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B23P15/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H5/005</classification-symbol><definition-title>{Worms}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Making work wheels or gears with a helical toothing</paragraph-text>
+        <paragraph-text type="body"><media id="media12.jpg" file-name="cpc-def-B21H-0012.jpg" type="jpeg" preferred-width="4.83cm" preferred-height="6.1cm"/></paragraph-text>
+        <paragraph-text type="body">(from CH 668726 (A5))</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Toothed members, worms</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16H55/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H5/02</classification-symbol><definition-title>with cylindrical outline{, e.g. by means of die rolls  (worms <class-ref scheme="cpc">B21H5/005</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for manufacturing external gear toothing on cylindrical workpieces by means of die rolls.</paragraph-text>
+        <paragraph-text type="body"><media id="media13.jpg" file-name="cpc-def-B21H-0013.jpg" type="jpeg" preferred-width="4.89cm" preferred-height="6.67cm"/></paragraph-text>
+        <paragraph-text type="body">(from JP 59209451 (A))</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Finishing of preformed gear wheels</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H5/022</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making of internal gear wheels by rolling</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H5/025</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Manufacturing of gear wheels by means of flat dies</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H5/027</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Rolling of bevel gears</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H5/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Spinning in order to manufacture other products than gear wheels</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21D22/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H5/022</classification-symbol><definition-title>{Finishing gear teeth with cylindrical outline, e.g. burnishing}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for finish-rolling of preformed gear wheels, in particular of sintered gear wheels, by rolling or burnishing, including compacting of sintered powder gearing teeth by rolling.</paragraph-text>
+        <paragraph-text type="body"><media id="media14.jpg" file-name="cpc-def-B21H-0014.jpg" type="jpeg" preferred-width="6.99cm" preferred-height="4.15cm"/></paragraph-text>
+        <paragraph-text type="body">(from US 5230234 (A))</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Rolling of toothing into cylindrical blanks without preformed gear teeth</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H5/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Finishing gear teeth by other tools</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B23F19/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H5/025</classification-symbol><definition-title>{Internally geared wheels}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for manufacturing internal gear toothing on cylindrical workpieces. This subgroup also covers the manufacturing of such gears by spinning or by the so-called &quot;Grob&quot;-process, in which eccentrically mounted rollers hit the workpiece</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body">Manufacturing of internal gear toothing by rolling</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body"><media id="media15.jpg" file-name="cpc-def-B21H-0015.jpg" type="jpeg" preferred-width="5.46cm" preferred-height="5.97cm"/> (from US 2006272375 (A1))</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body">Manufacturing of internal gear toothing by spinning</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body"><media id="media16.jpg" file-name="cpc-def-B21H-0016.jpg" type="jpeg" preferred-width="5.08cm" preferred-height="4.8cm"/> (from US 5384949 (A))</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body">Manufacturing of internal gear toothing by the &quot;Grob&quot;-process</paragraph-text>
+            </table-column>
+            <table-column preferred-width="7.52cm">
+              <paragraph-text type="body"><media id="media17.jpg" file-name="cpc-def-B21H-0017.jpg" type="jpeg" preferred-width="5.25cm" preferred-height="5.33cm"/> (from DE 4315503 (A1))</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Rolling of external toothing into cylindrical blanks without preformed gear teeth</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H5/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H5/027</classification-symbol><definition-title>{by rolling using reciprocating flat dies, e.g. racks  (<class-ref scheme="cpc">B21H5/022</class-ref> takes precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Manufacturing of gear teeth on a workpiece by relatively reciprocating flat dies or racks.</paragraph-text>
+        <paragraph-text type="body"><media id="media18.jpg" file-name="cpc-def-B21H-0018.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="3.34cm"/></paragraph-text>
+        <paragraph-text type="body">(from WO 2004022259 (A1))</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Manufacturing of external threads on a workpiece by means of reciprocating flat dies</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H3/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H5/04</classification-symbol><definition-title>bevel gears</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for rolling bevel gears.</paragraph-text>
+        <paragraph-text type="body"><media id="media19.jpg" file-name="cpc-def-B21H-0019.jpg" type="jpeg" preferred-width="6.03cm" preferred-height="4.87cm"/></paragraph-text>
+        <paragraph-text type="body">(from US 6076387 (A))</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H7/00</classification-symbol><definition-title>Making articles not provided for in the preceding groups, e.g. agricultural tools, dinner forks, knives, spoons  (nails, pins <class-ref scheme="cpc">B21G3/30</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for manufacturing particular articles by rolling.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making particular articles by working sheet metal</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making particular articles from wire</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making of needles, pins and nails</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21G</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making particular articles by forging or pressing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21K</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making specific metal objects by operations not covered by a single other subgroup </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B23P15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H7/18</classification-symbol><definition-title>grooved pins; Rolling grooves, e.g. oil grooves, in articles {(<class-ref scheme="cpc">B21H5/00</class-ref> takes precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Rolling grooves like oil grooves in general.</paragraph-text>
+        <paragraph-text type="body"><media id="media20.jpg" file-name="cpc-def-B21H-0020.jpg" type="jpeg" preferred-width="5.29cm" preferred-height="5.91cm"/></paragraph-text>
+        <paragraph-text type="body">(from EP 1405689 (A1)=</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H7/182</classification-symbol><definition-title>{Rolling annular grooves}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for forming annular grooves in a workpiece by rolling.</paragraph-text>
+        <paragraph-text type="body"><media id="media21.jpg" file-name="cpc-def-B21H-0021.jpg" type="jpeg" preferred-width="5.1cm" preferred-height="6.96cm"/></paragraph-text>
+        <paragraph-text type="body">(from JP 57036033 (A))</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H7/185</classification-symbol><definition-title>{Filet rolling, e.g. of crankshafts}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for finishing, i.e. burnishing, of annular grooves by rolling, in particular for deep rolling of crankshaft fillets.</paragraph-text>
+        <paragraph-text type="body"><media id="media22.jpg" file-name="cpc-def-B21H-0022.jpg" type="jpeg" preferred-width="4.47cm" preferred-height="7.26cm"/></paragraph-text>
+        <paragraph-text type="body">(from WO 2006119944 (A1))</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Burnishing machines or devices</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B24B39/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H7/187</classification-symbol><definition-title>{Rolling helical or rectilinear grooves}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for forming helical or rectilinear grooves in a workpiece by rolling.</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body">Rolling of helical grooves</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.85cm">
+              <paragraph-text type="body"><media id="media23.jpg" file-name="cpc-def-B21H-0023.jpg" type="jpeg" preferred-width="4.19cm" preferred-height="5.71cm"/> (from JP 63281734 (A))</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="6.18cm">
+              <paragraph-text type="body">Rolling of rectilinear grooves</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.85cm">
+              <paragraph-text type="body"><media id="media24.jpg" file-name="cpc-def-B21H-0024.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="4.1cm"/> (from US 2003070465 (A1))</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making articles with helicoidal surface by rolling</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H3/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Making worms by rolling</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21H5/005</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H8/00</classification-symbol><definition-title>Rolling metal of indefinite length in repetitive shapes specially designed for the manufacture of particular objects {, e.g. checkered sheets}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for forming repetitive structures on a workpiece by rolling.</paragraph-text>
+        <paragraph-text type="body"><media id="media25.jpg" file-name="cpc-def-B21H-0025.jpg" type="jpeg" preferred-width="6.03cm" preferred-height="4.89cm"/></paragraph-text>
+        <paragraph-text type="body">(from GB 2135613 (A))</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H8/005</classification-symbol><definition-title>{Embossing sheets or rolls}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for roll embossing or roll stamping of workpieces, i.e. for impressing a discrete pattern into a sheet, strip or roll of metal, often for creating a decorative pattern.</paragraph-text>
+        <paragraph-text type="body"><media id="media26.jpg" file-name="cpc-def-B21H-0026.jpg" type="jpeg" preferred-width="6.35cm" preferred-height="4.27cm"/></paragraph-text>
+        <paragraph-text type="body">(from EP 1819460 (A1))</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Surface roughening or texturing within a rolling mill</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21B1/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Rolls with a roughened or textured surface; methods for making the same</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21B27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Machines and rolls for embossing decorations</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B44B5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Pressing or stamping ornamental designs</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B44C1/24</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21H9/00</classification-symbol><definition-title>Feeding arrangements for rolling machines or apparatus manufacturing articles dealt with in this subclass</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and devices for feeding blanks to be rolled into or extracting rolled workpieces from a rolling device.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item></definitions>

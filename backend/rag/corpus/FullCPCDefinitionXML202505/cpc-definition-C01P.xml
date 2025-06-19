@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2025-01-01" publication-type="official">
+<definition-item date-revised="2025-01-01"><classification-symbol scheme="cpc">C01P</classification-symbol><definition-title>INDEXING SCHEME RELATING TO STRUCTURAL AND PHYSICAL ASPECTS OF SOLID INORGANIC COMPOUNDS</definition-title><definition-statement><section-title>Definition statement</section-title><section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The classification scheme <class-ref scheme="cpc">C01P</class-ref> is systematically applied for classification of crystal-structural features (<class-ref scheme="cpc">C01P2002/00</class-ref>-<class-ref scheme="cpc">C01P2002/90</class-ref>), particle morphologies (<class-ref scheme="cpc">C01P2004/00</class-ref>-<class-ref scheme="cpc">C01P2004/90</class-ref>) and properties (<class-ref scheme="cpc">C01P2006/00</class-ref>-<class-ref scheme="cpc">C01P2006/90</class-ref>) of solid inorganic materials. The scheme is used for all incoming documents classified in <class-ref scheme="cpc">C01B</class-ref>-<class-ref scheme="cpc">C01G</class-ref> and in <class-ref scheme="cpc">C09C</class-ref> from 1994 onwards. Although gradually extended, the major part of the present scheme is operational from 2003.</paragraph-text><paragraph-text type="body">The back-log of the following <class-ref scheme="cpc">C01</class-ref>-groups is completely classified according to the <class-ref scheme="cpc">C01P</class-ref>-scheme:</paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01B13/14</class-ref>-<class-ref scheme="cpc">C01B13/366</class-ref> (oxides in general complete)</paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01B17/20</class-ref>-<class-ref scheme="cpc">C01B17/46</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01B19/00</class-ref>-<class-ref scheme="cpc">C01B19/04</class-ref> (all selenides, tellurides)</paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01B21/06</class-ref>-<class-ref scheme="cpc">C01B21/076</class-ref> (all nitrides)</paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01B21/082</class-ref>-<class-ref scheme="cpc">C01B21/0828</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01B32/90</class-ref>-<class-ref scheme="cpc">C01B32/956</class-ref> (all carbides)</paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01B33/18</class-ref>-<class-ref scheme="cpc">C01B33/193</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01C3/08</class-ref>-<class-ref scheme="cpc">C01C3/12</class-ref> (all cyanides)</paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01F5/02</class-ref>-<class-ref scheme="cpc">C01F5/38</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01F7/02</class-ref>-<class-ref scheme="cpc">C01F7/046</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01F7/14</class-ref>-<class-ref scheme="cpc">C01F7/18</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01F7/30</class-ref>-<class-ref scheme="cpc">C01F7/36</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01F7/42</class-ref>-<class-ref scheme="cpc">C01F7/46</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01F7/56</class-ref>-<class-ref scheme="cpc">C01F7/62</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01F7/77</class-ref> &#8211; <class-ref scheme="cpc">C01F7/788</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01F11/02</class-ref>-<class-ref scheme="cpc">C01F11/186</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01F11/46</class-ref>-<class-ref scheme="cpc">C01F11/468</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01F17/00</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01F17/10</class-ref>-<class-ref scheme="cpc">C01F17/38</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G1/02</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G3/006</class-ref>-<class-ref scheme="cpc">C01G3/02</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G21/006</class-ref>-<class-ref scheme="cpc">C01G21/10</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G21/22</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G23/002</class-ref>-<class-ref scheme="cpc">C01G23/006</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G23/04</class-ref>-<class-ref scheme="cpc">C01G23/08</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G25/006</class-ref>-<class-ref scheme="cpc">C01G25/02</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G27/006</class-ref>-<class-ref scheme="cpc">C01G27/02</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G28/002</class-ref>-<class-ref scheme="cpc">C01G28/005</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G28/02</class-ref>-<class-ref scheme="cpc">C01G28/026</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G29/00</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G29/006</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G30/002</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G30/004</class-ref>-<class-ref scheme="cpc">C01G30/005</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G30/02</class-ref>-<class-ref scheme="cpc">C01G30/026</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G31/006</class-ref>-<class-ref scheme="cpc">C01G31/02</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G33/00</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G33/006</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G35/00</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G35/006</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G37/006</class-ref>-<class-ref scheme="cpc">C01G37/033</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G39/006</class-ref>-<class-ref scheme="cpc">C01G39/02</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G41/006</class-ref>-<class-ref scheme="cpc">C01G41/02</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G43/006</class-ref>-<class-ref scheme="cpc">C01G43/025</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G45/02</class-ref>-<class-ref scheme="cpc">C01G45/24</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G47/00</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G47/006</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G49/0018</class-ref>-<class-ref scheme="cpc">C01G49/08</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G51/82</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G51/04</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G53/82</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G53/04</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G55/002</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G55/004</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G56/003</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G56/005</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G99/00</class-ref></paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C01G99/006</class-ref></paragraph-text></section-body></definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">This classification scheme is applicable to the whole class <class-ref scheme="cpc">C01</class-ref> and subclass <class-ref scheme="cpc">C09C</class-ref>.</paragraph-text><paragraph-text type="body">Classes are attributed as complete as possible which can easily result in a number of 3 to 10 <class-ref scheme="cpc">C01P</class-ref>-classes attributed per document.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/00</classification-symbol><definition-title>Crystal-structural characteristics</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Features relating to the crystal structure of inorganic compounds, which are independent from the size of the particles (<class-ref scheme="cpc">C01P2004/00</class-ref>) and which cannot be qualified as a macroscopic physical property (<class-ref scheme="cpc">C01P2006/00</class-ref>).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/01</classification-symbol><definition-title>depicted by a TEM-image</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Any image obtained by TEM or HRTEM, of particles completely or partially.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body"> TEM-images showing X-Ray data:</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">C01P2002/72</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">TEM- (or SEM-) images of particles:</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">C01P2004/03</class-ref> (respectively <class-ref scheme="cpc">C01P2004/04</class-ref>) </paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Care should be taken not to use this class for SEM- (Scanning Electron Microscope) images which are not used for depicting crystal structures.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body"> TEM:</paragraph-text></table-column><table-column><paragraph-text type="body"> Transmission Electron Microscope</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body"> HRTEM:</paragraph-text></table-column><table-column><paragraph-text type="body">High-resolution Transmission Electron Microscope</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">SEM:</paragraph-text></table-column><table-column><paragraph-text type="body">Scanning Electron Microscope</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/02</classification-symbol><definition-title>Amorphous compounds</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Mostly only attributed to compounds which are described as being 100% amorphous.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/10</classification-symbol><definition-title>One-dimensional structures</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="7.32cm"><paragraph-text type="body">One-dimensional particles:</paragraph-text></table-column><table-column preferred-width="7.71cm"><paragraph-text type="body"><class-ref scheme="cpc">C01P2004/10</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/20</classification-symbol><definition-title>Two-dimensional structures</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="7.32cm"><paragraph-text type="body">Two-dimensional particles:</paragraph-text></table-column><table-column preferred-width="7.71cm"><paragraph-text type="body"><class-ref scheme="cpc">C01P2004/20</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">C01P2002/22</classification-symbol><definition-title>layered hydroxide-type, e.g. of the hydrotalcite-type</definition-title><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Hydrotalcite:</paragraph-text></table-column><table-column><paragraph-text type="body">Mg<sub>6</sub>Al<sub>2</sub>(OH)<sub>16</sub>CO<sub>3</sub>&#183;4H<sub>2</sub>O</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><abbreviations><paragraph-text type="preamble">In patent documents, the following abbreviations are often used:</paragraph-text>
+            
+            <table>
+<table-row><table-column preferred-width="7.32cm"><paragraph-text type="body">LDH:</paragraph-text></table-column><table-column preferred-width="7.71cm"><paragraph-text type="body">Layered Double Hydroxide</paragraph-text></table-column></table-row></table>
+         </abbreviations></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/30</classification-symbol><definition-title>Three-dimensional structures</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Structures not classified below, e.g. compounds with the garnet-structure</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="7.32cm"><paragraph-text type="body">Three-dimensional particles:</paragraph-text></table-column><table-column preferred-width="7.71cm"><paragraph-text type="body"><class-ref scheme="cpc">C01P2004/30</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/32</classification-symbol><definition-title>spinel-type (AB<sub>2</sub>O<sub>4</sub>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">All compounds with the spinel structure.</paragraph-text></section-body>
+      </definition-statement><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Spinel:</paragraph-text></table-column><table-column><paragraph-text type="body">MgAl<sub>2</sub>O<sub>4</sub></paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/34</classification-symbol><definition-title>perovskite-type (ABO<sub>3</sub>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">All compounds with the perovskite structure.</paragraph-text></section-body>
+      </definition-statement><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Perovskite:</paragraph-text></table-column><table-column><paragraph-text type="body">CaTiO<sub>3</sub></paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/50</classification-symbol><definition-title>Solid solutions</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Structures wherein one or more cations or anions can be replaced by other ion without change of the crystal structure.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Complete solid solutions are double classified according to both end members.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/52</classification-symbol><definition-title>containing elements as dopants</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The definition of dopant differs depending on the technical field.</paragraph-text><paragraph-text type="body">In class <class-ref scheme="cpc">C01</class-ref> regarding the amount of replacing cation or anion is a limit value of about 5 atom-% taken as a rule.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/60</classification-symbol><definition-title>Compounds characterised by their crystallite size</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The crystallite size differs from the particle size (<class-ref scheme="cpc">C01P2004/60</class-ref>-<class-ref scheme="cpc">C01P2004/64</class-ref>) in that it concerns the crystalline domain size, i.e. the smallest single crystalline part of the material.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="7.32cm"><paragraph-text type="body">Characterizations of (primary or secondary) particle sizes:</paragraph-text></table-column><table-column preferred-width="7.71cm"><paragraph-text type="body"><class-ref scheme="cpc">C01P2004/60</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Crystallite size:</paragraph-text></table-column><table-column><paragraph-text type="body">The expression &apos;crystallite size&apos; refers to the volume of powder material having one single crystalline structure. Mostly powders are polycrystalline and consist of a large number of crystallites held together by a crystallite- (or grain-) boundary.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/72</classification-symbol><definition-title>by d-values or two theta-values, e.g. as X-ray diagram</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Tables or X-ray diagrams specifying d- or two theta-values together with intensities.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Compounds indicated by their crystallinity index:</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">C01P2002/02</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Amorphous compounds:</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">C01P2002/04</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/74</classification-symbol><definition-title>by peak-intensities or a ratio thereof only</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Situations wherein only peak intensities or a ratio of two intensities are given.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="7.32cm"><paragraph-text type="body">Intensities and two-theta (or d-values), e.g. by specification as X-ray diagram or in a table:</paragraph-text></table-column><table-column preferred-width="7.71cm"><paragraph-text type="body"><class-ref scheme="cpc">C01P2002/72</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/76</classification-symbol><definition-title>by a space-group or by other symmetry indications</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Symmetry indications: e.g. orthorhombic or hexagonal. Example: hexagonal BN.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/77</classification-symbol><definition-title>by unit-cell parameters, atom positions or structure diagrams</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">&apos;Structure diagrams&apos; include all two and three dimensional ways of depicting the structure of a solid material.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/78</classification-symbol><definition-title>by stacking-plane distances or stacking sequences</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">E.g. layer distances as specified in layered double hydroxide compounds (as such classified in <class-ref scheme="cpc">C01P2002/22</class-ref>).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2024-01-01"><classification-symbol scheme="cpc">C01P2002/82</classification-symbol><definition-title>by IR- or Raman-data</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Infrared and Raman spectroscopy data (0.7-300 micrometer = 700-300.000 nm)</paragraph-text></section-body>
+      </definition-statement><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">IR:</paragraph-text></table-column><table-column><paragraph-text type="body">Infrared radiation</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item date-revised="2024-01-01"><classification-symbol scheme="cpc">C01P2002/84</classification-symbol><definition-title>by UV- or VIS- data</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">UV and visible light data (380-750 nm wavelength).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="7.32cm"><paragraph-text type="body">Inorganic luminescent materials:</paragraph-text></table-column><table-column preferred-width="7.71cm"><paragraph-text type="body"><class-ref scheme="cpc">C09K11/08</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">UV:</paragraph-text></table-column><table-column><paragraph-text type="body">Ultraviolet radiation</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">VIS:</paragraph-text></table-column><table-column><paragraph-text type="body">Visible radiation (&apos;Light&apos;)</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/85</classification-symbol><definition-title>by XPS, EDX or EDAX data</definition-title><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">XPS:</paragraph-text></table-column><table-column><paragraph-text type="body">X-ray Photoelectron Spectroscopy</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body"> EDX:</paragraph-text></table-column><table-column><paragraph-text type="body">Energy Dispersive X-ray Spectroscopy</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body"> EDAX:</paragraph-text></table-column><table-column><paragraph-text type="body">Energy Dispersive X-ray Analytical Spectroscopy</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">EDS:</paragraph-text></table-column><table-column><paragraph-text type="body">Energy Dispersive Spectroscopy</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/86</classification-symbol><definition-title>by NMR- or ESR-data</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Nuclear Magnetic Resonance and Electron Spin Resonance data.</paragraph-text></section-body>
+      </definition-statement><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">NMR:</paragraph-text></table-column><table-column><paragraph-text type="body">Nuclear Magnetic Resonance</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">ESR:</paragraph-text></table-column><table-column><paragraph-text type="body">Electron Spin Resonance data</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/87</classification-symbol><definition-title>by chromatography data, e.g. HPLC, gas chromatography</definition-title><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">HPLC:</paragraph-text></table-column><table-column><paragraph-text type="body">High-Performance Liquid Chromatography</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2002/88</classification-symbol><definition-title>by thermal analysis data, e.g. TGA, DTA, DSC</definition-title><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">TGA:</paragraph-text></table-column><table-column><paragraph-text type="body">Thermal Gravimetric Analysis</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body"> DTA:</paragraph-text></table-column><table-column><paragraph-text type="body">Differential Thermal Analysis</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">DSC:</paragraph-text></table-column><table-column><paragraph-text type="body">Differential Scanning Calorimetry</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/00</classification-symbol><definition-title>Particle morphology</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Features relating to the size or shape of particles of inorganic compounds.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/03</classification-symbol><definition-title>obtained by SEM</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Care should be given not to confuse SEM (Scanning Electron Microscope) and TEM (Transmisson Electron Micrsocope) images.</paragraph-text><paragraph-text type="body">Check the description carefully about this. Mostly is the magnification factor an indicator.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">SEM:</paragraph-text></table-column><table-column><paragraph-text type="body">Scanning Electron Microscopy</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/04</classification-symbol><definition-title>obtained by TEM, STEM, STM or AFM</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Care should be given not to confuse SEM (Scanning Electron Microscope) and TEM (Transmisson Electron Micrsocope) images.</paragraph-text><paragraph-text type="body">Check the description carefully about this. Mostly is the magnification factor an indicator.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">TEM:</paragraph-text></table-column><table-column><paragraph-text type="body">Transmission Electron Microscopy</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">STEM:</paragraph-text></table-column><table-column><paragraph-text type="body">Scanning Transmission Electron Microscopy</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">STM:</paragraph-text></table-column><table-column><paragraph-text type="body">Scanning Tunneling Microscopy</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">AFM:</paragraph-text></table-column><table-column><paragraph-text type="body">Atomic Force Microscopy</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">C01P2004/10</classification-symbol><definition-title>extending in one dimension, e.g. needle-like</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">All those particles whereby one dimension is significantly larger that the other two.</paragraph-text></section-body>
+      </definition-statement><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;needle-like&quot;and &quot;acicular&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/11</classification-symbol><definition-title>with a prismatic shape</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The shape refers to the section considered perpendicular to the length.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/12</classification-symbol><definition-title>with a cylindrical shape</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The shape refers to the section considered perpendicular to the length.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">C01P2004/13</classification-symbol><definition-title>Nanotubes</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Nanotubes as defined by ISO/TS 27687 (available in BNS as XP008113666): being hollow nanofibres whereby a nanofibre is a nanoobject with two external dimensions in the nanoscale (1-100 nm).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/16</classification-symbol><definition-title>Nanowires or nanorods, i.e. solid nanofibres with two nearly equal dimensions between 1-100 nanometer</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Nanofibres as defined by ISO/TS 27687 and further limited to those solid nanofibres with nearly equal dimensions in the nanoscale (1-100 nm).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/17</classification-symbol><definition-title>Nanostrips, nanoribbons or nanobelts, i.e. solid nanofibres with two significantly differing dimensions between 1-100 nanometer</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Nanofibres as defined by ISO/TS 27687 and further limited to those solid nanofibres with nearly equal dimensions in the nanoscale (1-100 nm).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/20</classification-symbol><definition-title>extending in two dimensions, e.g. plate-like</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">All those particles whereby two dimensions are significantly larger than the third one.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/24</classification-symbol><definition-title>Nanoplates, i.e. plate-like particles with a thickness from 1-100 nanometer</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Nanoplates as defined by ISO/TS 27687 and further defined as particles with only one dimension in the nanoscale (1-100 nm).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/30</classification-symbol><definition-title>extending in three dimensions</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">All those particles of particular shape and not belonging to <class-ref scheme="cpc">C01P2004/10</class-ref> or <class-ref scheme="cpc">C01P2004/20</class-ref>.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/45</classification-symbol><definition-title>Aggregated particles or particles with an intergrown morphology</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Aggregates in which particles are hold together by strong forces (chemical bonds also qualified as cementation) and wherein the resulting external surface area is significantly smaller than the sum of the surface area of the individual components.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/50</classification-symbol><definition-title>Agglomerated particles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Agglomerates in which particles are hold together by weak forces (Van der Waals forces or simple physical entanglement) and wherein the resulting external surface area is about similar to the sum of the surface area of the individual components.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/51</classification-symbol><definition-title>Particles with a specific particle size distribution</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Any particle size distribution (e.g. three size distribution peaks) not classified in <class-ref scheme="cpc">C01P2004/52</class-ref> or <class-ref scheme="cpc">C01P2004/53</class-ref></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/52</classification-symbol><definition-title>highly monodisperse size distribution</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Documents in which the particle size distribution is qualified as monodisperse or by a narrow size distribution curve.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/54</classification-symbol><definition-title>Particles characterised by their aspect ratio, i.e. the ratio of sizes in the longest to the shortest dimension</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">This class is mostly given in case of needle-like or plate-like particles (high a.r.) However also to three dimensional particles in order to express the gact that they are equaxed in the three directions (low a.r.).</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2004/60</classification-symbol><definition-title>Particles characterised by their size</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The indication of the largest size of the particle.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">In case particles are characterised by a primary and secondary particles size does the size refer to the secondary particle size.</paragraph-text><paragraph-text type="body">In case a document discloses a range for the particle size is the whole range classified including the both end members of the range.</paragraph-text><paragraph-text type="body">Examples:</paragraph-text><paragraph-text type="body">disclosed: d= 50-250 nm, classes given: <class-ref scheme="cpc">C01P2004/64</class-ref>, <class-ref scheme="cpc">C01P2004/62</class-ref></paragraph-text><paragraph-text type="body">disclosed: d= 0,25-80 micrometer, classes given: <class-ref scheme="cpc">C01P2004/62</class-ref>, <class-ref scheme="cpc">C01P2004/61</class-ref></paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">C01P2004/64</classification-symbol><definition-title>Nanometer sized, i.e. from 1-100 nanometer</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Nanoparticles as defined by ISO/TS 27687: being nanoobjects with all three dimensions in the nanoscale (1-100 nm).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2006/00</classification-symbol><definition-title>Physical properties of inorganic compounds</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Features relating to the macroscopic physical properties of inorganic compounds.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2006/10</classification-symbol><definition-title>Solid density</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Values of densities for 100% full dense materials.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2006/11</classification-symbol><definition-title>Powder tap density</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Density values of tapped powders without further consolidation e.g. by pressing.</paragraph-text></section-body>
+      </definition-statement><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Tap density</paragraph-text></table-column><table-column><paragraph-text type="body">Bulk density</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2006/12</classification-symbol><definition-title>Surface area</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Values mostly obtained as BET-values and expressed in m<sup>2</sup>/g.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2006/13</classification-symbol><definition-title>thermal stability thereof at high temperatures</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Value mostly expressed as m<sup>2</sup>/g after heating at a specified T and t.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2006/14</classification-symbol><definition-title>Pore volume</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Mostly expressed as m<sup>3</sup>/g.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2006/19</classification-symbol><definition-title>Oil-absorption capacity, e.g. DBP values</definition-title><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">DBP</paragraph-text></table-column><table-column><paragraph-text type="body">DiButyl Phthalate</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2006/21</classification-symbol><definition-title>Attrition-index or crushing strength of granulates</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The resistance of particles against applied mechanical forces.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2022-01-01"><classification-symbol scheme="cpc">C01P2006/22</classification-symbol><definition-title>Rheological behaviour as dispersion, e.g. viscosity, sedimentation stability</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Mostly aqueous suspensions of particles, e.g. of calcium carbonate in water.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="7.32cm"><paragraph-text type="body">Emulsifiers as such</paragraph-text></table-column><table-column preferred-width="7.71cm"><paragraph-text type="body"><class-ref scheme="cpc">C09K23/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2006/32</classification-symbol><definition-title>Thermal properties</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">E.g. thermal conductivity of AlN.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2006/60</classification-symbol><definition-title>Optical properties, e.g. expressed in CIELAB-values</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Colour of inorganic materials.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2006/80</classification-symbol><definition-title>Compositional purity</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">In general only added in combination with EC&apos;s which explicitly does address the purity of a product compound. Documents classified in purification-groups (e.g. <class-ref scheme="cpc">C01F7/46</class-ref>) should exceptionally get this code.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C01P2006/82</classification-symbol><definition-title>water content</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">E.g. water content after dehydration treatments.</paragraph-text></section-body>
+      </definition-statement></definition-item></definitions>

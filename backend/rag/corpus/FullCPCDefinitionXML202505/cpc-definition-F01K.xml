@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2018-05-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">F01K</classification-symbol><definition-title>STEAM ENGINE PLANTS; STEAM ACCUMULATORS; ENGINE PLANTS NOT OTHERWISE PROVIDED FOR; ENGINES USING SPECIAL WORKING FLUIDS OR CYCLES  (gas-turbine or jet-propulsion plants <class-ref scheme="cpc">F02</class-ref>; nuclear power plants, engine arrangements therein <class-ref scheme="cpc">G21D</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">All aspects of power plants using steam, vapour or special working fluids in a thermodynamic cycle. It covers also steam or vapour accumulators and power plants which are characterised by steam or heat accumulators, by the use of specific types of engines and by condensers and by the use of steam or condensate extracted from the power plant. Furthermore general lay-out, control and methods of operation of complete power plants and methods of converting heat or fluid energy into mechanical energy are covered.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Specific elements forming a thermodynamic cycle like the steam or vapour generator (<class-ref scheme="cpc">F22B</class-ref>), expander (<class-ref scheme="cpc">F01D</class-ref>), condenser (<class-ref scheme="cpc">F28B</class-ref>) and pump (<class-ref scheme="cpc">F04</class-ref>) are the subject of other subclasses.</paragraph-text>
+        <paragraph-text type="body">Documents related to constructional features of steam turbines, gas turbines, internal combustions piston engines, condensers and pumps can be found in <class-ref scheme="cpc">F01D</class-ref>, <class-ref scheme="cpc">F02C</class-ref>, <class-ref scheme="cpc">F02B</class-ref>, <class-ref scheme="cpc">F28B</class-ref> and <class-ref scheme="cpc">F04B</class-ref>, <class-ref scheme="cpc">F04C</class-ref>, <class-ref scheme="cpc">F04D</class-ref> respectively.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Non-positive displacement machines or engines, like steam turbines</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F01D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Internal-combustion piston engines</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F02B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Gas turbine plants</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F02C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Jet propulsion plants</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F02K</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Refrigeration machines, plants and systems</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F25B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Nuclear power plants and engine arrangements therein</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G21D</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Attention is drawn to the definition of &quot;steam&quot; and &quot;vapour&quot;. In cases where a specific entry for vapour is missing documents related to special vapours are classified in groups where only &quot;steam&quot; is explicitly mentioned.</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">CHP</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Combined Heat and Power, Cogeneration</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Trigeneration</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Combined production of heat, power and cold</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">HRSG</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Heat Recovery Steam Generator</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">CCS</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Carbon capture and storagecarbon capture and sequestration</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Combined cycle</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">The exhaust of one heat engine is used as the heat source for another</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">FBC</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Fluidized Bed Combustion</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">PFBC</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Pressurised Fluidized Bed Combustion</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">APFBC</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Advanced Pressurised Fluidized Bed Combustion</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">GFBCC</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Gasification Fluidized Bed Combustion Combined cycle systems</paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">CHIPPS</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Combustion-based High Performance Power System</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item date-revised="2017-02-01"><classification-symbol scheme="cpc">F01K1/00</classification-symbol><definition-title>Steam accumulators  (use of accumulators in steam engine plants <class-ref scheme="cpc">F01K3/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Steam or vapour accumulators acting as an energy storage device including:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">accumulators for storing steam in a liquid, like varying pressure accumulators (e.g. Ruth&apos;s type);</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">accumulators for storing steam otherwise than in a liquid (e.g. pressure tanks);</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">charging and discharging devices of accumulators with steam;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">safety and regulation means for accumulators;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">other parts, details and accessories of accumulators.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Group <class-ref scheme="cpc">F01K3/00</class-ref> covers the use of accumulators in steam engine plants and not the accumulator per se.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Use of accumulators in steam engine plants </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F01K3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Charging or discharging of accumulators with steam</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F01K1/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Multiple accumulators; Charging, discharging or controlling peculiar thereto</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F01K1/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Steam circulation in multiple accumulators</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F01K1/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Methods of steam generation using heat evolved in a solution absorbing steam; Soda steam boilers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F22B1/20</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">All vapour accumulators which use special vapour instead of water vapour also have to be classified in this group.</paragraph-text>
+      </section-body>
+    </special-rules><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;storage tank&quot;, &quot;pressure tank&quot;, &quot;vessel&quot;, &quot;energy storage device&quot; and &quot;volume&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item date-revised="2018-05-01"><classification-symbol scheme="cpc">F01K3/00</classification-symbol><definition-title>Plants characterised by the use of steam or heat accumulators, or intermediate steam heaters, therein  (regenerating exhaust steam <class-ref scheme="cpc">F01K19/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">This group covers the use of steam/vapour accumulators, in general heat accumulators and intermediate steam/vapour heaters in power plant arrangements and in arrangements adapted for a specific use like for vehicle drive. Control of said devices is also covered.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Vapour or heat accumulators are often used in relationship with steam or vapour regeneration which is treated in <class-ref scheme="cpc">F01K19/00</class-ref></paragraph-text>
+        <paragraph-text type="body">Constructional features of accumulators and the accumulators per se are classified in <class-ref scheme="cpc">F01K1/00</class-ref></paragraph-text>
+        <paragraph-text type="body">Methods of steam generation in general characterized by the form of heating method are classified in <class-ref scheme="cpc">F22B1/00</class-ref></paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Regenerating exhaust steam </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F01K19/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Heat-transfer, heat-exchange or heat-storage materials</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C09K5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Heating, cooling or ventilating devices characterised by comprising regenerative heating or cooling means, e.g. heat accumulators </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B60H1/00492</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Methods of steam generation characterized by the form of heating method</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F22B1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Solar heat collectors having heat storage mass </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F24S60/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Solar heat collectors with hot water storage</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F24S60/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Heat storage plants or apparatus in general </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F28D20/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Ruth&apos;s type steam accumulator</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">accumulator for storing steam in a liquid (variable pressure system)</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">F01K5/00</classification-symbol><definition-title>Plants characterised by use of means for storing steam in an alkali to increase steam pressure, e.g. of Honigmann or Koenemann type</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Storing steam based on thermo chemical energy storage and conversion. Absorbing and desorbing vapour into an alkali solution for discharging heat or producing cold taking into account pressure changes. Furthermore regenerative installations using absorption and desorption are also covered.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Accumulators where steam is stored in a liquid are classified in <class-ref scheme="cpc">F01K1/04</class-ref> in general.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Thermodynamic cycles with an absorption fluid remaining at least partly in the liquid state, like Kalina cycles</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F01K25/065</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Accumulators using materials absorbing or liberating heat during crystallisation </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C09K5/063</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Accumulator of Honigmann type</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Steam or vapour accumulator based on a process based on the vapour pressure depression of a concentrated solution or adsorbed vapour in comparison to the pure working fluid</paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms></definition-item></definitions>

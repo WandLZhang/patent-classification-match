@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">C10C</classification-symbol><definition-title>WORKING-UP PITCH, ASPHALT, BITUMEN, TAR; PYROLIGNEOUS ACID  (compositions of bituminous materials <class-ref scheme="cpc">C08L95/00</class-ref>; carbon filaments by decomposition of organic filaments <class-ref scheme="cpc">D01F9/14</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Working-up, e.g.processing, of tar, pitch, asphalt or bitumen, including use of techniques such as distillation, heat-treatment, water removal or extraction with selective solvents.</paragraph-text>
+        <paragraph-text type="body">Working up implies improvement of the material.</paragraph-text>
+        <paragraph-text type="body">Production of pyroligneous acid.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">This application related subclass covers techniques specially adapted to working up of tar, pitch, asphalt or bitumen, or the production of pyroligneous acid, even though some of the techniques per se are covered by subclasses such as <class-ref scheme="cpc">C10B</class-ref>, <class-ref scheme="cpc">C10G</class-ref>. For example, coking bitumen, tar or the like is covered by <class-ref scheme="cpc">C10B55/00</class-ref></paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">B01D</class-ref> covers distillation in general, e.g. distillation column will be classified in <class-ref scheme="cpc">B01D</class-ref> and a process for working-up tar, by distillation, will be classified in <class-ref scheme="cpc">C10C</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Working up pyroligneous acid for production of acetic acid</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">(<class-ref scheme="cpc">C07C51/42</class-ref>, <class-ref scheme="cpc">C07C53/08</class-ref>) </paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Carbonisation of wood</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C10B53/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Obtaining hydrocarbon oils</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C10G</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Deasphalting hydrocarbon oils</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C10G21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Dewatering of hydrocarbon oils</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C10G33/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Smoke flavours</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A23L27/27</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Shaped ceramic products containing a carbonisable binder</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C04B35/532</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Coumarone resins</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C08F244/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Compositions of bituminous materials</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C08L95/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Coating compositions based on bituminous materials, e.g. asphalt, tar, pitch</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C09D195/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Obtaining natural resins or turpentine</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C09F</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Adhesives based on bituminous materials, e.g. asphalt, tar, pitch</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C09J195/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Anodes for electrolytic production of aluminium</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C25C3/125</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Making carbon filaments by decomposition of organic filaments</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D01F9/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Machines for road construction or repair</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E01C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In the absence of an indication to the contrary, classification is made in the last appropriate place (&quot;last place rule&quot;).</paragraph-text>
+        <paragraph-text type="body">The main group <class-ref scheme="cpc">C10C1/00</class-ref> only covers working-up coal tar.</paragraph-text>
+        <paragraph-text type="body">Working-up petroleum (oil) tar is covered by <class-ref scheme="cpc">C10C3/00</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Tar</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Tar is a black thermoplastic material produced by the destructive distillation of coal &#8211; sometimes referred to as coal tar. Is also a residue in the manufacture of coal gas and coke. May also be derived from plants such as pine trees.</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Pitch</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"> Pitch is the name of a large number of highly viscous liquids which appear solid. Pitch may be made from petroleum or plant sources. Petroleum derived pitch is also known as bitumen whereas plant derived pitch is known as resin. Pitch derived from plant resin however is known as rosin.Tar and pitch are often used interchangeably. However, pitch is considered to be more solid whilst tar is considered to be more liquid.</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Asphalt</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Asphalt is a sticky, black and highly viscous liquid or semi solid that is present in crude petroleum and in some natural deposits sometimes termed asphaltum. In US terminology asphalt (or asphalt cement) is the carefully refined residue from the distillation process of selected crude oils. Outside of the US, the product is called bitumen.</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Bitumen</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Bitumen is a mixture of organic liquids that are highly viscous, black, sticky, entirely soluble in carbon disulfide and composed primarily of highly condensed polycyclic aromatic hydrocarbons.</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Pyroligneous acid</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Pyroligneous acid, also called wood vinegar, is a dark liquid produced by the destructive distillation of wood. Its principal components are acetic acid and methanol. It was once used as a commercial source for acetic acid.</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><instead-of-words><paragraph-text type="preamble">In patent documents, the word/expression in the first column is often used instead of the word/expression in the second column, which is used in the classification scheme of this place:</paragraph-text><table><table-row><table-column><paragraph-text type="body">&quot;wood vinegar&quot;, &quot;pyrolysis oil&quot; and &quot;bio-oil&quot;</paragraph-text></table-column><table-column><paragraph-text type="body">&quot;pyroligneous acid&quot;</paragraph-text></table-column></table-row></table></instead-of-words></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10C5/00</classification-symbol><definition-title>Production of pyroligneous acid {distillation of wood, dry distillation of organic waste} (carbonisation of wood <class-ref scheme="cpc">C10B</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text>Production of pyroligneous acid</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text>Distillation or destructive distillation of wood resulting in charcoal and liquid condensates</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Carbonisation of wood resulting in charcoal, main product and volatile constituents being not recovered is classified in <class-ref scheme="cpc">C10B</class-ref></paragraph-text>
+      </section-body>
+    </relationship></definition-item></definitions>

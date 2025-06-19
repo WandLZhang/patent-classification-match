@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">G21K</classification-symbol><definition-title>TECHNIQUES FOR HANDLING PARTICLES OR IONISING RADIATION NOT OTHERWISE PROVIDED FOR; IRRADIATION DEVICES; GAMMA RAY OR X-RAY MICROSCOPES</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Arrangements for handling particles or ionising radiation, e.g. focusing or moderating;</paragraph-text>
+            <paragraph-text type="body">Ionising radiation filters, e.g. X-ray filters;</paragraph-text>
+            <paragraph-text type="body">Conversion screens for the conversion of the spatial distribution of particles or ionising radiation into visible images, e.g. fluoroscopic screens;</paragraph-text>
+            <paragraph-text type="body">Irradiation devices;</paragraph-text>
+            <paragraph-text type="body">Gamma ray or X-ray microscopes.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Investigating or analysing materials by the use of wave or particle radiation, e.g. X-rays or neutrons</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G01N23/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table></section-body></limiting-references><residual-references><section-title>References out of a residual place</section-title><section-body><paragraph-text type="preamble">Examples of places in relation to which this place is residual:</paragraph-text><table>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Adaptations of reactors to facilitate experimentation or irradiation</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21C23/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Electron-optical arrangements in cathode ray tubes or electron beam tubes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J29/46</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Discharge tubes with provision for emergence of electrons or ions from the vessel; Lenard tubes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J33/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Discharge tubes with provision for introducing objects or material to be exposed to the discharge, e.g. for the purpose of examination or processing thereof</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J37/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Electron or ion microscopes with scanning beams</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J37/28</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Production or acceleration of neutral particle beams, e.g. molecular or atomic beams</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Direct voltage accelerators; accelerators using single pulses</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Targets for producing nuclear reactions</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H6/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Details of linear accelerators, magnetic induction accelerators, cyclotrons and magnetic resonance accelerators</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Linear accelerators</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Magnetic induction accelerators, e.g. betatrons</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H11/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Magnetic resonance accelerators; Cyclotrons</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H13/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Methods or devices for acceleration of charged particles not otherwise provided for</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H15/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table></section-body></residual-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Investigating or analysing materials by investigating the ionisation of gases</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G01N27/62</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Scanning probe techniques or apparatus; applications of scanning probe techniques, e.g. scanning probe microscopy</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G01Q</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Particle spectrometers or separator tubes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J49/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">X-ray apparatus involving X-ray tubes; circuits therefor</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05G1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Apparatus or processes specially adapted for producing X-rays, not involving X-ray tubes, e.g. involving generation of plasma</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05G2/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Generating plasma; handling plasma</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Particle</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Molecular, atomic or subatomic particle</paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Ionising radiation</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">&apos;Ionising radiation&#8217; consists of particles or electromagnetic waves that are sufficiently energetic to detach electrons from atoms or molecules, thus ionising them.</paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/00</classification-symbol><definition-title>Arrangements for handling particles or ionising radiation, e.g. focusing or moderating  (production or acceleration of neutrons, electrically-charged particles, neutral molecular beams or neutral atomic beams <class-ref scheme="cpc">H05H3/00</class-ref> - <class-ref scheme="cpc">H05H15/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text>Diaphragms, collimators for handling ionizing radiation</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text>Arrangements using diffraction, refraction or reflection, e.g. monochromators, for handling ionizing radiation</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text>Deviation, concentration or focusing of the beam by electric or magnetic means </paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text>Scattering devices</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text>Absorbing devices</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text>Filter for ionising radiation</paragraph-text>
+               </list-item>
+            </list>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Moderators in nuclear reactors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21C5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Electrodes, lenses, blanking arrays etc. in discharge tubes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.31cm">
+                     <paragraph-text type="body">Production or acceleration of neutrons, electrically charged particles, or neutral molecular or atomic beams</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.07cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H3/00</class-ref> - <class-ref scheme="cpc">H05H15/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/003</classification-symbol><definition-title>{Manipulation of charged particles by using radiation pressure, e.g. optical levitation  (acceleration of charged particles <class-ref scheme="cpc">H05H5/00</class-ref>, <class-ref scheme="cpc">H05H7/00</class-ref>, <class-ref scheme="cpc">H05H9/00</class-ref>, <class-ref scheme="cpc">H05H11/00</class-ref>, <class-ref scheme="cpc">H05H13/00</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Manipulation of charged nucleons or ions by radiation pressure, such as magneto optical ion traps, capturing cold ions</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Acceleration of charged particles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H5/00</class-ref>, <class-ref scheme="cpc">H05H7/00</class-ref>, <class-ref scheme="cpc">H05H9/00</class-ref>, <class-ref scheme="cpc">H05H11/00</class-ref>, <class-ref scheme="cpc">H05H13/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references><glossary-of-terms> <section-title>Glossary of terms</section-title> <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+   <table>
+<table-row>
+         <table-column>
+            <paragraph-text type="body">Radiation pressure</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body">pressure exerted upon any surface exposed to electromagnetic radiation. If absorbed, the pressure is the power flux density divided by the speed of light. If the radiation is totally reflected, the radiation pressure is doubled</paragraph-text>
+         </table-column>
+      </table-row></table>
+   </section-body> </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/006</classification-symbol><definition-title>{Manipulation of neutral particles by using radiation pressure, e.g. optical levitation  (production or acceleration of neutral particles <class-ref scheme="cpc">H05H3/00</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Manipulation of uncharged nucleons, atoms or molecules by radiation pressure, such as magneto optical atom traps, capturing cold atoms e.g. for cold-atom interferometry.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Sample preparation </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.69cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G01N1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Investigating characteristics of particles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.69cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G01N15/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Production or acceleration of neutral particles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.69cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="12.95cm">
+                     <paragraph-text type="body">Handling suspended soils or molecules independently from the bulk or fluid flow</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.44cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B01L3/502761</class-ref> , also <class-ref scheme="cpc">B01L2400/0454</class-ref> in combination with <class-ref scheme="cpc">B01L3/502761</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="12.95cm">
+                     <paragraph-text type="body">Optical elements, system or apparatus</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.44cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G02B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="12.95cm">
+                     <paragraph-text type="body">Computer generated holograms in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.44cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G03H1/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/02</classification-symbol><definition-title>using diaphragms, collimators</definition-title><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Collimator</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Structure which achieves certain beam properties by absorbing those parts of the beam not having the desired properties, as opposed to structures which actively (through reflection or diffraction) change those properties.</paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/025</classification-symbol><definition-title>{using multiple collimators, e.g. Bucky screens; other devices for eliminating undesired or dispersed radiation}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices selectively blocking rays according to their direction of propagation.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/04</classification-symbol><definition-title>using variable diaphragms, shutters, choppers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices selectively blocking rays according to the position on which they are incident onto the device.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/043</classification-symbol><definition-title>{changing time structure of beams by mechanical means, e.g. choppers, spinning filter wheels}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices such as choppers, scanning wheels e.g. &quot;Nipkov disk&quot;; filter wheels modulating the beam (i.e. continuously moving).</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Moving scattering grids</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21K1/025</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Scanning of charged particle beams</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21K1/08</class-ref>, <class-ref scheme="not-mapped">G21K1/87</class-ref>, <class-ref scheme="not-mapped">G21K1/93</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Optical choppers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G02B26/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">For filter wheels modulating the beam (i.e. continuously moving), <class-ref scheme="cpc">G21K1/10</class-ref> has to be allocated as well.</paragraph-text>
+         </section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text>chaning time structure</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text>changing intensity, phase, polarisation or frequency over time</paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/046</classification-symbol><definition-title>{varying the contour of the field, e.g. multileaf collimators}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Diaphragms allowing a variation of the shape of the field, in a way which goes beyond changing the dimensions or the orientation or the aspect ratio of the field, e.g. by use of a plurality of individually positionable strips.</paragraph-text>
+            <paragraph-text type="body">Example:</paragraph-text>
+            <paragraph-text type="body"> <media id="media0.jpg" file-name="cpc-def-G21K-0000.jpg" type="jpeg" preferred-width="13.06cm" preferred-height="9.5cm"/> </paragraph-text>
+            <paragraph-text type="body">US2009080619, Fig. 3</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Iris diaphragms, setups changing only size or orientation of the irradiated region e.g. rectangular diaphragms</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21K1/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/06</classification-symbol><definition-title>using diffraction, refraction or reflection, e.g. monochromators  (<class-ref scheme="cpc">G21K1/10</class-ref>, <class-ref scheme="cpc">G21K7/00</class-ref> take precedence)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices such as crystals, and all other optics not covered by the definition of the subgroups.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Scattering devices; Absorbing devices; Ionising radiation filters</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21K1/10</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Gamma- or X-ray microscopes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21K7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">Assignment of Indexing Codes <class-ref scheme="cpc">G21K2201/062</class-ref>&#160;-&#160;<class-ref scheme="cpc">G21K2201/068</class-ref> is obligatory as important information for further details.</paragraph-text>
+            <paragraph-text type="body">Assignment of <class-ref scheme="cpc">G21K2201/06</class-ref>&#160;-&#160;<class-ref scheme="cpc">G21K2201/068</class-ref> as additional information is optional.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/062</classification-symbol><definition-title>{Devices having a multilayer structure}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices having a multilayer structure such as multilayer mirrors, multilayer gratings; including multilayers used in Laue geometry.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Multilayer mirrors for IR or visible or UV</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G02B5/0816</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Mirrors for UV light</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G02B5/0891</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">Documents, which could potentially concern UV light and (soft or ultrasoft) X-rays due to the structure of the apparatus, or due to doubts if the wavelength range of intended operation is in the UV or the EUV / X-ray range, are to be classified in <class-ref scheme="cpc">G21K1/062</class-ref> and as well in appropriate places in <class-ref scheme="cpc">G02B5/00</class-ref>.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/065</classification-symbol><definition-title>{using refraction, e.g. Tomie lenses}</definition-title><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Tomie lens</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">compound refractive x-ray lens</paragraph-text>
+                  </table-column>
+               </table-row></table>
+            <paragraph-text type="body">Example:</paragraph-text>
+            <paragraph-text type="body"> <media id="media1.png" file-name="cpc-def-G21K-0001.png" type="png" preferred-width="14.66cm" preferred-height="5.7cm"/> </paragraph-text>
+            <paragraph-text type="body">US5594773 (Tomie), Fig. 4a</paragraph-text>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/067</classification-symbol><definition-title>{using surface reflection, e.g. grazing incidence mirrors, gratings  (multilayer mirrors <class-ref scheme="cpc">G21K1/062</class-ref>; crystal optics <class-ref scheme="cpc">G21K1/06</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Grazing incidence mirrors, gratings, multicapillary lenses (Khumakov lenses).</paragraph-text>
+            <paragraph-text type="body">Example:</paragraph-text>
+            <paragraph-text type="body"> <media id="media2.png" file-name="cpc-def-G21K-0002.png" type="png" preferred-width="14.66cm" preferred-height="7.76cm"/> </paragraph-text>
+            <paragraph-text type="body">US5192869 (Kumakhov), Fig. 10</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Crystal optics</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21K1/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Multilayer mirrors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21K1/062</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/08</classification-symbol><definition-title>Deviation, concentration or focusing of the beam by electric or magnetic means  (electron-optical arrangements in electric discharge tubes <class-ref scheme="cpc">H01J29/46</class-ref>; {details, e.g. electric or magnetic deviating means for direct voltage accelerators or in accelerators using single pulses <class-ref scheme="cpc">H05H5/02</class-ref>; arrangements for injecting particles into orbits <class-ref scheme="cpc">H05H7/08</class-ref>; arrangements for ejecting particles from orbits <class-ref scheme="cpc">H05H7/10</class-ref>})</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Electron optical arrangements in electric discharge tubes in cathode ray tubes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J29/46</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Electron optical arrangements in electric discharge tubes with provision for introducing objects</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J37/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Electron optical arrangements in electric discharge tubes in particle spectrometers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J49/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Details, e.g. electric or magnetic deviating means for direct voltage accelerators or in accelerators using single pulses</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H5/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Arrangements for injecting particles into orbits</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H7/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Arrangements for ejecting particles from orbits</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H7/10</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/087</classification-symbol><definition-title>by electrical means</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Deviation, concentration or focusing of the beam by electrostatic means.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Deviation, concentration or focusing of the beam by electromagnetic means</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21K1/093</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K1/10</classification-symbol><definition-title>Scattering devices; Absorbing devices; Ionising radiation filters</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text>Wavelength selective filter for X rays</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Energy modification of the final beam</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H7/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K4/00</classification-symbol><definition-title>Conversion screens for the conversion of the spatial distribution of X-rays or particle radiation into visible images, e.g. fluoroscopic screens  (photographic processes using X-ray intensifiers <class-ref scheme="cpc">G03C5/17</class-ref>; discharge tubes comprising luminescent screens <class-ref scheme="cpc">H01J1/62</class-ref>; cathode ray tubes for X-ray conversion with optical output <class-ref scheme="cpc">H01J31/50</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Conversion screens for the conversion of the spatial distribution of X-rays or particle radiation into visible images, e.g. fluoroscopic screens</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">Photographic processes using X-rays; using screens to intensify X-ray images</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G03C5/16</class-ref>, <class-ref scheme="cpc">G03C5/17</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">In discharge tubes: screens on or from which an image or pattern is formed; luminescent screens</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J1/54</class-ref>, <class-ref scheme="cpc">H01J1/62</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.9cm">
+                     <paragraph-text type="body">In cathode ray tubes or electron beam tubes: image conversion tubes or image amplification tubes having an X-ray input and an optical output</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.48cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J31/50</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K5/00</classification-symbol><definition-title>Irradiation devices  (discharge tubes for irradiating <class-ref scheme="cpc">H01J37/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        
+            <paragraph-text type="body">This main group contains devices for the irradiation of an object with ionising radiation such as X-rays or electron radiation.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Conservation of food</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A23B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Sterilization other than foodstuff or contact lenses</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A61L2/00</class-ref>, <class-ref scheme="cpc">A61L12/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Preserving, protecting, or purifying packages or package content by irradiation</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65B55/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Discharge tubes with provision for emergence of electrons or ions from the vessel</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J33/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Discharge tubes for irradiating</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J37/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Discharge tubes with provision for introducing objects or material to be exposed to the discharge</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J37/30</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Ion implanters</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J37/3171</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Electron beam or ion beam lithography</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J37/3174</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Irradiation</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Exposure of an item to radiation with the aim to achieve a certain effect in the item, as opposed to techniques aiming at obtaining information from an item e.g. by analysis, obtaining images etc.</paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K5/04</classification-symbol><definition-title>with beam-forming means</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Inter aliae, apparatus aspects of beam outlets for radiation therapy.</paragraph-text>
+         </section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">Additional assignment of a group symbol of <class-ref scheme="cpc">G21K1/00</class-ref> is mandatory whenever the means used for beam forming are relevant.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21K7/00</classification-symbol><definition-title>Gamma- or X-ray microscopes</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Gamma- or X-ray microscopes</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item></definitions>

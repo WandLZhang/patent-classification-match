@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B61G</classification-symbol><definition-title>COUPLINGS; DRAUGHT AND BUFFING APPLIANCES  (vehicle connections in general <class-ref scheme="cpc">B60D</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices and methods for connecting rolling stock in a train and to cushion impact of the railway vehicles against each other.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Vehicle connections in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61G1/00</classification-symbol><definition-title>Couplings comprising interengaging parts of different shape or form and having links, bars, pins, shackles, or hooks as coupling means</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Couplings having interengaging parts having different shape wherein the couplings mounted on adjacent vehicles could be of same shape, but connected together by parts of different shape, e.g. bars or shakles .</paragraph-text>
+            <paragraph-text type="body">Following drawings show two examples:</paragraph-text>
+            <paragraph-text type="body"> <media id="media0.jpg" file-name="cpc-def-B61G-0000.jpg" type="jpeg" preferred-width="5.99cm" preferred-height="4.68cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media1.jpg" file-name="cpc-def-B61G-0001.jpg" type="jpeg" preferred-width="9.69cm" preferred-height="3.79cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Couplings for matching couplings of different types</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B61G5/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61G3/00</classification-symbol><definition-title>Couplings comprising mating parts of similar shape or form which can be coupled without the use of any additional element or elements</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The titles of this group are self-explanatory and do not need to be more specified.</paragraph-text>
+            <paragraph-text type="body">Following drawings show two examples:</paragraph-text>
+            <paragraph-text type="body"> <media id="media2.jpg" file-name="cpc-def-B61G-0002.jpg" type="jpeg" preferred-width="5.61cm" preferred-height="4.93cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media3.jpg" file-name="cpc-def-B61G-0003.jpg" type="jpeg" preferred-width="8.19cm" preferred-height="4.38cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61G5/00</classification-symbol><definition-title>Couplings for special purposes not otherwise provided for</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The titles of this group are self-explanatory and do not need to be more specified.</paragraph-text>
+            <paragraph-text type="body">Typical examples are:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Automatic car coupler.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Transitional coupling for matching couplings of different types.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Air hose support clip to prevent lateral loading.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Centering device for automatic electrical couplings.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Visual coupling indicator.</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">Following drawings show two examples:</paragraph-text>
+            <paragraph-text type="body"> <media id="media4.png" file-name="cpc-def-B61G-0004.png" type="png" preferred-width="8.04cm" preferred-height="3.01cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media5.png" file-name="cpc-def-B61G-0005.png" type="png" preferred-width="4.19cm" preferred-height="4.4cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Gangways for couled vehicles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60D5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Pivotal connections</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16C11/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Flexible line connectors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01R35/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Arrangements of electric cables or lines between relatively movable parts</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H02G11/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61G5/02</classification-symbol><definition-title>for coupling articulated trains, locomotives and tenders or the bogies of a vehicle; Coupling by means of a single coupling bar; Couplings preventing or limiting relative lateral movement of vehicles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Examples:</paragraph-text>
+            <paragraph-text type="body">Coupling between two articulated vehicle parts</paragraph-text>
+            <paragraph-text type="body"> <media id="media6.png" file-name="cpc-def-B61G-0006.png" type="png" preferred-width="8.55cm" preferred-height="7.01cm"/> </paragraph-text>
+            <paragraph-text type="body">Coupling by means of a single coupling bar</paragraph-text>
+            <paragraph-text type="body"> <media id="media7.png" file-name="cpc-def-B61G-0007.png" type="png" preferred-width="8.05cm" preferred-height="5.66cm"/> </paragraph-text>
+            <paragraph-text type="body">A convex surface 75 adapted for contact with a plate 72 to limit lateral movement</paragraph-text>
+            <paragraph-text type="body"> <media id="media8.png" file-name="cpc-def-B61G-0008.png" type="png" preferred-width="8.05cm" preferred-height="5.55cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Gangways for coupled vehicles, e.g. of concertina type </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60D5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Construction details of vehicle bodies </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B61D17/20</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61G7/00</classification-symbol><definition-title>Details or accessories</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The titles of this group are self-explanatory and do not need to be more specified.</paragraph-text>
+            <paragraph-text type="body">Following drawings show two examples (US2584486 and US7686177):</paragraph-text>
+            <paragraph-text type="body"> <media id="media9.jpg" file-name="cpc-def-B61G-0009.jpg" type="jpeg" preferred-width="6.46cm" preferred-height="8.04cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media10.png" file-name="cpc-def-B61G-0010.png" type="png" preferred-width="8.51cm" preferred-height="6.03cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="7.52cm">
+                     <paragraph-text type="body">Hand tools</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="7.52cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25B27/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61G7/10</classification-symbol><definition-title>Mounting of the couplings on the vehicle</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Arrangement of coupling in relation to vehicle body or under-frame, and mounting of coupling on the vehicle.</paragraph-text>
+            <paragraph-text type="body">Example:</paragraph-text>
+            <paragraph-text type="body"> <media id="media11.png" file-name="cpc-def-B61G-0011.png" type="png" preferred-width="7.3cm" preferred-height="5.72cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61G9/00</classification-symbol><definition-title>Draw-gear</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Details of the structure that links the couplings to the end of the wagon.</paragraph-text>
+            <paragraph-text type="body">Following drawing shows one example;</paragraph-text>
+            <paragraph-text type="body"> <media id="media12.jpg" file-name="cpc-def-B61G-0012.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="3.07cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61G11/00</classification-symbol><definition-title>Buffers  (springs <class-ref scheme="cpc">F16F</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The titles of this group are self-explanatory and do not need to be more specified.</paragraph-text>
+            <paragraph-text type="body">Following drawing shows one example:</paragraph-text>
+            <paragraph-text type="body"> <media id="media13.jpg" file-name="cpc-def-B61G-0013.jpg" type="jpeg" preferred-width="8.26cm" preferred-height="5.69cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Manufacturing buffers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B23P15/20</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Dampers using plastic deformation</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="not-mapped">B61F7/12</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Buffer for cranes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B66C7/16</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Dampers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16F</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61G11/16</classification-symbol><definition-title>absorbing shocks by permanent deformation of buffer element</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Energy consumption element or collapsible element for absorbing energy in case of collision. The deformation of the element is not reversible.</paragraph-text>
+            <paragraph-text>Following drawings show two examples:</paragraph-text>
+            <paragraph-text type="body"> <media id="media14.png" file-name="cpc-def-B61G-0014.png" type="png" preferred-width="8.4cm" preferred-height="5.31cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media15.png" file-name="cpc-def-B61G-0015.png" type="png" preferred-width="7.62cm" preferred-height="5.89cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Buffer cars; Arrangements or construction of railway vehicles for protecting them in case of collisions </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B61D15/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Bumpers or like collision guards </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B61F19/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item></definitions>

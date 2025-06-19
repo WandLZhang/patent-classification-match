@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2024-01-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">G07B</classification-symbol><definition-title>TICKET-ISSUING APPARATUS; FARE-REGISTERING APPARATUS; FRANKING APPARATUS</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><list><list-item><paragraph-text type="body">Machines for printing and issuing tickets</paragraph-text></list-item><list-item><paragraph-text type="body">Machines for issuing pre-printed tickets</paragraph-text></list-item><list-item><paragraph-text type="body">Details of, or auxiliary devices for, ticket-issuing machines</paragraph-text></list-item><list-item><paragraph-text type="body">Holders providing direct manual access to tickets</paragraph-text></list-item><list-item><paragraph-text type="body">Ticket punches</paragraph-text></list-item><list-item><paragraph-text type="body">Apparatus for validating or cancelling issued tickets</paragraph-text></list-item><list-item><paragraph-text type="body">Taximeters</paragraph-text></list-item><list-item><paragraph-text type="body">Arrangements or apparatus for collecting fares, tolls or entrance fees at one or more control points</paragraph-text></list-item><list-item><paragraph-text type="body">Franking apparatus</paragraph-text></list-item></list></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Punching or perforating pliers</paragraph-text></table-column><table-column preferred-width="3.82cm"><paragraph-text type="body"><class-ref scheme="cpc">B26F1/36</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Turnstiles with registering means</paragraph-text></table-column><table-column preferred-width="3.82cm"><paragraph-text type="body"><class-ref scheme="cpc">G07C9/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Handling of coins or of paper currency or similar valuable papers</paragraph-text></table-column><table-column preferred-width="3.82cm"><paragraph-text type="body"><class-ref scheme="cpc">G07D</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Mechanisms actuated by objects other than coins to free or to actuate vending, hiring; Coin or paper currency dispensing or refunding apparatus</paragraph-text></table-column><table-column preferred-width="3.82cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F7/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Coin-freed apparatus for hiring articles; Coin-freed facilities or services</paragraph-text></table-column><table-column preferred-width="3.82cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F17/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Parking meters per se</paragraph-text></table-column><table-column preferred-width="3.82cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F17/24</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Printing machines or presses</paragraph-text></table-column><table-column preferred-width="3.82cm"><paragraph-text type="body"><class-ref scheme="cpc">B41F</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Output mechanism for digital computers in which all the computation is effected mechanically</paragraph-text></table-column><table-column preferred-width="3.82cm"><paragraph-text type="body"><class-ref scheme="cpc">G06C11/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Use of Indexing Codes:</paragraph-text><paragraph-text type="body">All ECLA classes have a corresponding <class-ref scheme="cpc">G07B</class-ref> Indexing Code-code, which is to be used for secondary aspects (non-invention aspects).</paragraph-text><paragraph-text type="body">In groups <class-ref scheme="cpc">G07B1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">G07B15/00</class-ref>, from 01/03/2003 onwards, new documents are classified according to the ECLA Reform approach, i.e. &quot;invention information&quot; is identified with classification symbols, e.g. <class-ref scheme="cpc">G07B1/00</class-ref>, while &quot;additional information&quot; is identified with Indexing Code symbols, e.g. <class-ref scheme="cpc">G07B1/00</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B1/00</classification-symbol><definition-title>Machines for printing and issuing tickets  (printing mechanisms per se <class-ref scheme="cpc">B41</class-ref>; output mechanisms of digital computers <class-ref scheme="cpc">G06C11/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Ticket printers dedicated to tickets.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Printing mechanisms per se; Type-printers</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B41J</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Output mechanisms of digital computers</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G06C11/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">This group contains all mechanical aspect of the machine. For computer implemented ticket printing and issuing system, see <class-ref scheme="cpc">G07B15/00</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B1/02</classification-symbol><definition-title>employing selectable printing plates</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Ticket printers comprising pre-defined printing plates (heads), e.g. &quot;valid&quot;, &quot;void&quot;.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B1/04</classification-symbol><definition-title>wherein the plates are inserted</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Ticket printers comprising pre-defined removable printing plates (head).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B1/06</classification-symbol><definition-title>without selectable printing plates</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Ticket printers comprising individual printing heads, e.g. numbers or letters turning on rollers.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B1/08</classification-symbol><definition-title>portable</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The ticket printers are portable.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B3/00</classification-symbol><definition-title>Machines for issuing preprinted tickets</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">the printing of tickets which are already pre-printed, meaning the ticket &quot;data carrier&quot; is already pre-printed with some information before storage in the ticket printer.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B3/02</classification-symbol><definition-title>from stock in wound strip form</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Tickets paper supply in wound strip form.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B3/04</classification-symbol><definition-title>from a stack</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Ticket paper supply from a stack.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B5/00</classification-symbol><definition-title>Details of, or auxiliary devices for, ticket-issuing machines  (for validating inserted tickets <class-ref scheme="cpc">G07B11/02</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The details of the machines for printing and issuing tickets.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Validation of inserted tickets</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07B11/02</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B5/02</classification-symbol><definition-title>for cutting-off or separating tickets</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Means for separating tickets in the machine (e.g.. cutter).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B5/04</classification-symbol><definition-title>for recording or registering tickets issued</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Means for recording or registering the issued tickets (e.g. storage means).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B5/06</classification-symbol><definition-title>for preventing fraudulent operation</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Means for preventing unwanted operation (e.g.. preventing from being pulled out or printing an authorization mark).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B5/08</classification-symbol><definition-title>for avoiding incorrect action of the machine</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Means for monitoring and avoiding incorrect action (e.g.. anti-jam, or testing printed ticket).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B5/10</classification-symbol><definition-title>indicating when ticket supply is exhausted</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Means for indicating exhausted ticket supply (e.g. marking paper or paper sensor).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B5/12</classification-symbol><definition-title>allowing manual writing on the tickets</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Specific tickets permitting additional manual writing on the tickets.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B7/00</classification-symbol><definition-title>Holders providing direct manual access to the tickets</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Holders for tickets with dispensing means for manual access to the tickets.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B9/00</classification-symbol><definition-title>Ticket punches  (perforating pliers <class-ref scheme="cpc">B26F1/36</class-ref>; marking record carriers in digital fashion by punching <class-ref scheme="cpc">G06K1/02</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Devices for punching tickets in order to only make a hole (basic validation).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Portable ticket punches</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07B9/02</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Apparatus for validating issued tickets by perforation</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07B11/05</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Marking record carriers in digital fashion by punching</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G06K1/02</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B9/02</classification-symbol><definition-title>Toy ticket-punches</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Portable ticket punch apparatuses (e.g.. for punching tickets before entering an attraction or selection on lottery ticket).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Perforating pliers or handheld punching</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B26F1/36</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Marking record carriers in digital fashion by punching </paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G06K1/02</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B11/00</classification-symbol><definition-title>Apparatus for validating or cancelling issued tickets</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus for the validation or cancellation of issued ticket; for example in public transports or gaming tickets.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B11/02</classification-symbol><definition-title>for validating inserted tickets</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The devices for &quot;validating&quot; or &quot;cancelling&quot; already issued tickets, for example by printing a &quot;marking&quot; on the ticket or by &quot;cutting off&quot; a part of the ticket. The ticket can be a ticket for accessing an event, public transportation or lottery tickets for example.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B11/03</classification-symbol><definition-title>by printing</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus for validation of the tickets by printing some marking (e.g.. identification or date/time).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B11/05</classification-symbol><definition-title>by perforating</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus for validation of tickets for validation by insertion in a slot and perforation.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B11/07</classification-symbol><definition-title>by separating part of ticket</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The device comprises means for separating a part of the ticket in order to validate the ticket.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B11/09</classification-symbol><definition-title>combined with receptacle for separated part of ticket  (refuse receptacles in general <class-ref scheme="cpc">B65F1/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The device comprises means for separating a part of the ticket in order to validate the ticket.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Refuse receptacle in general</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B65F1/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B11/11</classification-symbol><definition-title>for cancelling tickets</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The device comprises means for cancelling the tickets (e.g.. by printing, perforating, cutting or other means).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B13/00</classification-symbol><definition-title>Taximeters  (measuring distance travelled <class-ref scheme="cpc">G01C</class-ref>; measuring time <class-ref scheme="cpc">G04</class-ref>)</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Taximeters in general.</paragraph-text></section-body> </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Measuring distance travelled</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G01C</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Measuring time</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G04</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B13/005</classification-symbol><definition-title>{operating mechanically}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Devices comprising mechanical or electromechanical means for operation of the taximeter.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B13/02</classification-symbol><definition-title>Details; Accessories</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The details and/or accessories of the taximeters (e.g. connectors, etc).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B13/04</classification-symbol><definition-title>for indicating fare or state of hire</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Means for indicating price to be paid and/or fare (e.g. display means).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B13/045</classification-symbol><definition-title>{with indicating means on the outside of the vehicle}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Means for indicating outside vehicle if taxi is occupied and/or fare.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B13/06</classification-symbol><definition-title>Driving arrangements</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Means for obtaining distance travelled and used by the meter for calculation.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B13/08</classification-symbol><definition-title>Tariff-changing arrangements</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Means for changing tariff, e.g. push-buttons or remotely by downloading new data.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B13/10</classification-symbol><definition-title>automatically actuated</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Means for automatically changing tariff, e.g. based on calendar, time or location with GPS.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2019-01-01"><classification-symbol scheme="cpc">G07B15/00</classification-symbol><definition-title>Arrangements or apparatus for collecting fares, tolls or entrance fees at one or more control points  (handling coins or valuable papers, e.g. banknotes, <class-ref scheme="cpc">G07D</class-ref>; apparatus for vending or hiring articles or services activated by coins, credit cards, paper currency or the like <class-ref scheme="cpc">G07F7/00</class-ref>, <class-ref scheme="cpc">G07F17/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><list><list-item><paragraph-text type="body">Electronic tickets for accessing events</paragraph-text></list-item><list-item><paragraph-text type="body">Access with payment with or without ticket</paragraph-text></list-item><list-item><paragraph-text type="body">Systems for reserving, ordering, loading and using access tickets</paragraph-text></list-item><list-item><paragraph-text type="body">Check-in (in airports)</paragraph-text></list-item><list-item><paragraph-text type="body">Baggage handling system</paragraph-text></list-item><list-item><paragraph-text type="body">Management of fleet of vehicles</paragraph-text></list-item><list-item><paragraph-text type="body">Vehicle rental system</paragraph-text></list-item><list-item><paragraph-text type="body">Car sharing</paragraph-text></list-item><list-item><paragraph-text type="body">Vehicle infringement control, per se</paragraph-text></list-item><list-item><paragraph-text type="body">Car rental systems</paragraph-text></list-item><list-item><paragraph-text type="body">Systems for reserving and using access tickets, e.g. check-in systems</paragraph-text></list-item></list></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Handling of coins or valuable papers</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">G07D</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Mechanisms for vending or hiring articles or services</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F7/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Coin-freed apparatus for hiring articles other than vehicles</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F17/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Airport related systems</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B64F1/30</class-ref>, <class-ref scheme="cpc">B64F1/32</class-ref>, <class-ref scheme="cpc">B64F1/366</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.3cm"><paragraph-text type="body">Reservation systems</paragraph-text></table-column><table-column preferred-width="3.73cm"><paragraph-text type="body"><class-ref scheme="cpc">G06Q10/02</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body"> Payment architectures, schemes or protocols</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">G06Q20/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Tickets, per se</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">G07F17/42</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Tickets for public transportation without reference to time or distance travelled have to be classified in main group (<class-ref scheme="cpc">G07B15/00</class-ref>).</paragraph-text><paragraph-text type="body">Tickets for public transportation based on time or distance travelled have to be classified in <class-ref scheme="cpc">G07B15/02</class-ref>,e.g.. the way the ticket is used.</paragraph-text><paragraph-text type="body">Data processing aspects of payment systems or protocols relating to toll, entrance fee or fare collection, e.g. in road pricing or congestion charging, are also classified in <class-ref scheme="cpc">G06Q20/00</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B15/02</classification-symbol><definition-title>taking into account a variable factor such as distance or time, e.g. for passenger transport, parking systems or car rental systems  (<class-ref scheme="cpc">G07B15/06</class-ref> takes precedence; taximeters <class-ref scheme="cpc">G07B13/00</class-ref>; parking meters per se <class-ref scheme="cpc">G07F17/24</class-ref>; {car rental systems per se <class-ref scheme="cpc">G07B15/00</class-ref>})</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><list><list-item><paragraph-text type="body">public transportation payment based on the travelled journey; and</paragraph-text></list-item><list-item><paragraph-text type="body">parking payment based on the parking time (parking reservation and parking management systems, parking ticket enforcement systems, parking meters for a plurality of parking spaces...).</paragraph-text></list-item></list></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Taximeter </paragraph-text></table-column><table-column preferred-width="3.6cm"><paragraph-text type="body"><class-ref scheme="cpc">G07B13/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Car rental systems per se </paragraph-text></table-column><table-column preferred-width="3.6cm"><paragraph-text type="body"><class-ref scheme="cpc">G07B15/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Arrangements for road pricing or congestion charging of vehicles or vehicle users, e.g. automatic toll systems</paragraph-text></table-column><table-column preferred-width="3.6cm"><paragraph-text type="body"><class-ref scheme="cpc">G07B15/06</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Parking meters without payment means installed inside vehicles</paragraph-text></table-column><table-column preferred-width="3.6cm"><paragraph-text type="body"><class-ref scheme="cpc">G07C1/30</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Parking meters, per se (for one parking meter)</paragraph-text></table-column><table-column preferred-width="3.6cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F17/24</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Vending services in function of time </paragraph-text></table-column><table-column preferred-width="3.6cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F7/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Machines for vending or hiring services paid by card</paragraph-text></table-column><table-column preferred-width="3.6cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F7/0866</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Availability of parking spaces</paragraph-text></table-column><table-column preferred-width="3.6cm"><paragraph-text type="body"><class-ref scheme="cpc">G08G1/14</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Toll Payment system have to be classified in <class-ref scheme="cpc">G07B15/06</class-ref> .</paragraph-text><paragraph-text type="body">Taximeter have to be classified in <class-ref scheme="cpc">G07B13/00</class-ref>.</paragraph-text><paragraph-text type="body">Parking meters installed inside vehicle have to be classified in <class-ref scheme="cpc">G07C1/30</class-ref>.</paragraph-text><paragraph-text type="body">Car rental systems, per se, have to be classified in <class-ref scheme="cpc">G07B15/00</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2020-01-01"><classification-symbol scheme="cpc">G07B15/04</classification-symbol><definition-title>comprising devices to free a barrier, turnstile, or the like {(turnstiles with registering means <class-ref scheme="cpc">G07C9/10</class-ref>; coin-freed aspects <class-ref scheme="cpc">G07F17/00</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The person or vehicle has to free a fence (e.g.. turnstile, barrier, door).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Turnstiles with registering means</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07C9/10</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Coin-freed aspects</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F17/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Mechanisms for vending or hiring articles or services</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F7/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Toll Payment system with barrier have to be classified in <class-ref scheme="cpc">G07B15/04</class-ref> .</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B15/06</classification-symbol><definition-title>Arrangements for road pricing or congestion charging of vehicles or vehicle users, e.g. automatic toll systems</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">the identification or tracking of vehicles or vehicle users for the purpose of road pricing or congestion charging, which means that vehicles or vehicle users are not necessarily channelled through fixed control points, e.g. toll booths or overhead gantries, but may be detected at a number of places when they travel in normal fashion in a pre-defined locality, e.g. a defined area in a city centre or an expressway, and where the information so generated is then used to determine a charge to be paid.</paragraph-text><paragraph-text type="body">This group covers means for paying and using toll roads including:</paragraph-text><list><list-item><paragraph-text type="body">tollbooths</paragraph-text></list-item><list-item><paragraph-text type="body">kiosks for pre-payment</paragraph-text></list-item><list-item><paragraph-text type="body">use GPS location</paragraph-text></list-item><list-item><paragraph-text type="body">cameras for recognizing number plate or ID.</paragraph-text></list-item></list></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Traffic control systems for road vehicles</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G08G1/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B15/063</classification-symbol><definition-title>{using wireless information transmission between the vehicle and a fixed station  (identification of vehicles <class-ref scheme="cpc">G08G</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Every wireless communication between the vehicle and a fixed station for use of toll road, which can be with a central station or local beacons (e.g.. wireless communication with toll booth).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Identification of vehicles</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G08G</class-ref>, <class-ref scheme="cpc">G08G1/017</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B15/066</classification-symbol><definition-title>{being coin-operated}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Means for the payment of toll roads using coins, e.g. toll booths with coins collector.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Handling coins or paper currency</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07D</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Payment means using cards (credit cards) have to classified in <class-ref scheme="cpc">G07B15/06</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2023-02-01"><classification-symbol scheme="cpc">G07B17/00</classification-symbol><definition-title>Franking apparatus  (printing aspects <class-ref scheme="cpc">B41</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus for franking mail items.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Postal sorting</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B07C</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Type printers, selective printing mechanisms e.g. ink-jet printers, thermal printers</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B41J</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Coin-freed apparatus for franking</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F17/26</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Postal sorting</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B07C</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Printing aspects: Type printers, selective printing mechanisms e.g. ink-jet printers, thermal printers</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B41J</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Handling sheets</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B65H</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Systems and methods specially adapted for administrative, commercial, financial, managerial or supervisory purposes</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G06Q</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Use of Indexing Codes:</paragraph-text><paragraph-text type="body">Sub-aspects of subclasses are classified with <class-ref scheme="cpc">G07B17/00</class-ref> Indexing Codes.</paragraph-text><paragraph-text type="body">Additional aspects are classified by corresponding Indexing Codes.</paragraph-text><paragraph-text type="body">Each document is classified in principle with one subclass corresponding to the main aspect and optionally several Indexing Codes.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/00008</classification-symbol><definition-title>{operated by portable carriers, e.g. for inputting credit or information}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Not to be used anymore.</paragraph-text><paragraph-text type="body">Replaced by Indexing Code <class-ref scheme="cpc">G07B2017/00177</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/00016</classification-symbol><definition-title>{Relations between apparatus, e.g. franking machine at customer or apparatus at post office, in a franking system}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Relations between apparatuses in a franking system.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/00024</classification-symbol><definition-title>{Physical or organizational aspects of franking systems}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Physical or organisation aspects of franking systems (determining the location of an apparatus, determining the location of mail pieces outside apparatus, i.e. tracking of mail pieces, software architecture, e.g. client/server,...).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/0008</classification-symbol><definition-title>{Communication details outside or between apparatus  (coin-freed apparatus for franking per se <class-ref scheme="cpc">G07F17/26</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Communication details outside or between apparatus (landlines, wireless, LAN, Internet, for sending information from central location, e.g. for updating rates or software, for sending information from a franking apparatus, e.g. for verifying accounting, for sending information from a portable device, e.g. card or PCMCIA,...).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Coin-freed apparatus for franking per se</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F17/26</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Mechanisms actuated by objects other than coins to free or to actuate vending, hiring, coin or paper currency dispensing or refunding apparatus for cashless transactions only</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F19/20</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Electric communication technique</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">H04</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2024-01-01"><classification-symbol scheme="cpc">G07B17/00185</classification-symbol><definition-title>{Details internally of apparatus in a franking system, e.g. franking machine at customer or apparatus at post office  (digital data processing <class-ref scheme="cpc">G06F</class-ref>; coin-freed apparatus for franking per se <class-ref scheme="cpc">G07F17/26</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Details internally of apparatus in a franking system.</paragraph-text><paragraph-text type="body">The apparatus can be a local device or a distant server.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Digital data processing</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G06F</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">System and methods specially adapted for administrative purposes</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G06Q10/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Payment schemes</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G06Q20/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Business processes related to postal services</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G06Q50/60</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Coin-freed apparatus for franking per se</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F17/26</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/00193</classification-symbol><definition-title>{Constructional details of apparatus in a franking system}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Constructional details of apparatus in a franking system (open franking system, i.e. the printer is not dedicated to franking only, e.g. personal computer, mailbox, i.e. container for mail, portable franking apparatus, i.e. the whole franking apparatus, not parts alone, vending machine or POS (Point of sale) apparatus, housing, e.g. lock or hardened casing, modular design, storage of e.g. ribbon, electronic hardware aspects, e.g. types of circuits used, man-machine interface on the apparatus, ...).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/00314</classification-symbol><definition-title>{Communication within apparatus, personal computer [PC] system, or server, e.g. between printhead and central unit in a franking machine}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Communication aspects within franking apparatus (communication between components, modules, parts, e.g. printer, keyboard, conveyor or central unit,communication with software components, error detection or handling, power handling,setting of date,...).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/00362</classification-symbol><definition-title>{Calculation or computing within apparatus, e.g. calculation of postage value}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Calculation or computing within apparatus (calculation of postage value, calculation of different sending options, currency calculation, memory organisation, redundant storage, software organisation, special accounting procedures,...).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Cryptography or similar procedures in a franking system</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07B17/00733</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/00435</classification-symbol><definition-title>{Details specific to central, non-customer apparatus, e.g. servers at post office or vendor}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Details specific to central, non-customer apparatus, e.g. servers at post office or vendor (for verification of mail pieces by checking databases,...).</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/00459</classification-symbol><definition-title>{Details relating to mailpieces in a franking system}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Details relating to mail pieces in a franking system.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/00467</classification-symbol><definition-title>{Transporting mailpieces  (postal sorting <class-ref scheme="cpc">B07C</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Transporting mail pieces in a franking apparatus (sorting mail pieces, e.g. to get reduced postal rates, batch processing of mail pieces, mail/envelope/insert handling system, e.g. mechanical details or weight optimisation, measures for preventing or handling mailpieces stoppages, e.g. paper jam,...).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Postal sorting</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B07C</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Devices for inserting documents into envelopes</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B43M3/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Devices for closing envelopes</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B43M5/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Handling sheets</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B65H</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/00508</classification-symbol><definition-title>{Printing or attaching on mailpieces  (printing mechanisms <class-ref scheme="cpc">B41J</class-ref>; security printing <class-ref scheme="cpc">B41M3/14</class-ref>; marking methods <class-ref scheme="cpc">B41M5/00</class-ref>; inks <class-ref scheme="cpc">C09D11/00</class-ref>; record carriers with at least a part designed to carry digital markings <class-ref scheme="cpc">G06K19/00</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Printing or attaching on mailpieces in a franking apparatus (details of printing apparatus, e.g. printheads, ensuring quality of print,details of printed item, e.g. code, address, advert or logo, attaching item on mail piece, e.g. label or circuit, special printing techniques, e.g. interlacing, separating fixed and variable parts, special inks, e.g. fluorescent,...).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Type printers, selective printing mechanisms</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B41J</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Security printing</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B41M3/14</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Marking methods</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">B41M5/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Inks</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">C09D11/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Record carriers with at least a part designed to carry digital markings</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G06K19/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2023-01-01"><classification-symbol scheme="cpc">G07B17/00661</classification-symbol><definition-title>{Sensing or measuring mailpieces  (weighing <class-ref scheme="cpc">G01G19/00</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Sensing or measuring mail pieces in a franking apparatus (sensing position of mail piece, measuring the dimensions of mail piece, measuring the speed of mail pieces inside apparatus, measuring the weight of mail pieces, scanning or imaging mail pieces, reading barcodes or symbols,...).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Weighing </paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G01G19/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Character recognition</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">G06V30/10</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Recognition or understanding of postal images</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">G06V30/424</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2023-01-01"><classification-symbol scheme="cpc">G07B17/00733</classification-symbol><definition-title>{Cryptography or similar special procedures in a franking system}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Cryptography or similar special procedures in a franking system (specific cryptography algorithms, time dependency, e.g. timestamps, validity time, continuous communication, including postal data or personal data, i.e. biometrics, key management, passwords, compression techniques, error handling, e.g. EDC (Error Detection Codes), cryptographic mocules, e.g. PSD (Postal Security Device),...).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Random or pseudo-random generators</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G06F7/58</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Error detection and error correction</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G06F11/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Security arrangements for protecting computers or computer systems against unauthorised activity </paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G06F21/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Record carriers with conductive marks and special arrangements for circuits, e.g. for protecting identification code in memory</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G06K19/073</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Character recognition </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">G06V30/10</class-ref> </paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Recognition or understanding of postal images</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">G06V30/424</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Access-control involving the use of a pass in combination with an identity-check of the pass-holder by means of personal physical data, e.g. characteristic facial curves, hand geometry, voice spectrum, fingerprints</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07C9/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Mechanisms actuated by objects other than coins to free or to actuate vending, hiring, coin or paper currency dispensing or refunding apparatus for cashless transactions only</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F7/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Circuits generating pulses having a predetermined statistical distribution</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">H03K3/84</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Coding, decoding or code conversion, for error detection or error correction</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">H03M13/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Arrangements for secret or secure communication</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">H04L9/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Not necessarily standard mathematical cryptography.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms> <section-title>Glossary of terms</section-title> <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">PSD</paragraph-text></table-column><table-column><paragraph-text type="body">Postal Security Device</paragraph-text></table-column></table-row></table></section-body> </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/00975</classification-symbol><definition-title>{using mechanical accounting means}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Franking apparatus using mechanical accounting means.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/00983</classification-symbol><definition-title>{with means for resetting the monetary value of the accounting means}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Not to be used anymore.</paragraph-text><paragraph-text type="body">Replaced by subgroup <class-ref scheme="cpc">G07B17/0008</class-ref> and Indexing Code <class-ref scheme="cpc">G07B2017/00153</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/00991</classification-symbol><definition-title>{from a central point, e.g. post office}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Not to be used anymore.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/02</classification-symbol><definition-title>with means for computing or counting {(<class-ref scheme="cpc">G07B17/00975</class-ref> takes precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="11.24cm"><paragraph-text type="body">Franking apparatus using mechanical accounting means</paragraph-text></table-column><table-column preferred-width="3.79cm"><paragraph-text type="body"><class-ref scheme="cpc">G07B17/00975</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Not to be used anymore.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G07B17/04</classification-symbol><definition-title>with means for avoiding misuse</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Not to be used anymore.</paragraph-text></section-body>
+      </special-rules></definition-item></definitions>

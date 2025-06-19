@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">F16S</classification-symbol><definition-title>CONSTRUCTIONAL ELEMENTS IN GENERAL; STRUCTURES BUILT-UP FROM SUCH ELEMENTS, IN GENERAL</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Sheets, panels, or other members of similar proportions, without an application covered by any other class; Constructions comprising assemblies of such members, without an application covered by any other class</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Layered products </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B32B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Railway vehicles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Motor vehicles </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Ships or other waterborne vessels</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B63</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body"> Aircrafts; Cosmonautics</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B64</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Structural elements for building construction, e.g. beams, columns, panels for buildings</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Frames for doors, windows or the like </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E06B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Devices for fastening or securing general constructional elements or machine parts together</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.31cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">F16S</class-ref> is almost never used for classification.</paragraph-text>
+        <paragraph-text type="body">The documents should be classified in the field(s) of application, even if the claims are drafted in a general way.</paragraph-text>
+        <paragraph-text type="body">Almost all documents contain an indication of the field(s) of application in the description. Rarely this is not the case but the name of the applicant, e.g. a well-known automobile or aeronautical constructor, will suggest a field of application to which the document should be circulated.</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">F16S</class-ref> is used in the very exceptionally case when it is absolutely impossible to infer from the document the field(s) of application and the nature of the object.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">F16S1/00</classification-symbol><definition-title>Sheets, panels, or other members of similar proportions; Constructions comprising assemblies of such members  (built-up gratings <class-ref scheme="cpc">F16S3/00</class-ref>; layered products <class-ref scheme="cpc">B32B</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Sheets, panels, or other members of similar proportions, without an application covered by any other class; Constructions comprising assemblies of such members, without an application covered by any other class</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Built-up gratings </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.32cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16S3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Layered products </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.32cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B32B</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">F16S1/00</class-ref> is almost never used for classification, see <class-ref scheme="cpc">F16S</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">F16S3/00</classification-symbol><definition-title>Elongated members, e.g. profiled members; Assemblies thereof; Gratings or grilles  (gratings or grilles formed from a sheet or the like <class-ref scheme="cpc">F16S1/00</class-ref>, <class-ref scheme="cpc">F16S1/08</class-ref>; frames for doors, windows or the like <class-ref scheme="cpc">E06B1/00</class-ref>, <class-ref scheme="cpc">E06B3/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Elongated members, e.g. profiled members, without an application covered by any other class; Assemblies thereof, without an application covered by any other class; Gratings or grilles, without an application covered by any other class</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Gratings or grilles formed from a sheet or the like </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.32cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16S1/00</class-ref>, <class-ref scheme="cpc">F16S1/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="9.72cm">
+              <paragraph-text type="body">Frames for doors, windows or the like </paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.32cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E06B1/00</class-ref>, <class-ref scheme="cpc">E06B3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">F16S3/00</class-ref> is almost never used for classification, see <class-ref scheme="cpc">F16S</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">F16S5/00</classification-symbol><definition-title>Other constructional members not restricted to an application fully provided for in a single class</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Other constructional members, without an application covered by any other class and not being either a sheet, a panel, an elongated member or a grating</paragraph-text>
+      </section-body>
+    </definition-statement><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">F16S5/00</class-ref> is almost never used for classification, see <class-ref scheme="cpc">F16S</class-ref>.</paragraph-text>
+        <paragraph-text type="body">The documents should be classified in the fields of application, even if there are several fields of application.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item></definitions>

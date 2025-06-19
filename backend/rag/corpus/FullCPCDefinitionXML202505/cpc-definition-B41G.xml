@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B41G</classification-symbol><definition-title>APPARATUS FOR BRONZE PRINTING, LINE PRINTING, OR FOR BORDERING OR EDGING SHEETS OR LIKE ARTICLES; AUXILIARY FOR PERFORATING IN CONJUNCTION WITH PRINTING  (perforating in general <class-ref scheme="cpc">B26D</class-ref>; production of decorations <class-ref scheme="cpc">B44C</class-ref>; perforating in conjunction with sheet or web delivery <class-ref scheme="cpc">B65H35/00</class-ref>; folding or unfolding thin material, e.g. sheets, webs, <class-ref scheme="cpc">B65H45/00</class-ref>, <class-ref scheme="cpc">B65H47/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Bronze printing apparatus using bronze metal material for printing types or printing plates.</paragraph-text>
+        <paragraph-text type="body">Special types of printing apparatus for printing sheet like print products having a specific print image, like lines and/or prints only on sheets edges or borders,</paragraph-text>
+        <paragraph-text type="body">Perforating apparatus exclusively in form of auxiliary devices being part of or in line with a printing machine or press.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Perforating, punching, cutting-out, stamping-out in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26F1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Printing letters or types in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41B1/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Printing machines or presses in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F1/00</class-ref> - <class-ref scheme="cpc">B41F15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Printing apparatus or machines of special types or for particular purposes, not otherwise provided for</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Apparatus or machines for carrying out printing operations combined with other operations in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F19/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Processes for printing, duplicating or marking in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41M</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Printing plates per se in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41N1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41G1/00</classification-symbol><definition-title>Apparatus for bronze printing or for like operations  (applying granular materials or metallic foils for decorative purposes <class-ref scheme="cpc">B44C1/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Printing apparatus of flat bed-type or of rotary type having printing letters or types, or respectively a printing plate made from bronze metallic material.</paragraph-text>
+        <paragraph-text type="body">Specific technology having being mostly used in previous centuries e.g. in East Asia.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41G3/00</classification-symbol><definition-title>Apparatus for printing lines</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Printing apparatus having printing plates specifically adapted to print specific images, essentially lines on various substrates.</paragraph-text>
+        <paragraph-text type="body">Specific technology mostly used until the year 2000.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41G5/00</classification-symbol><definition-title>Apparatus for bordering or edging sheets or like articles, e.g. for producing black rims on mourning cards</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Printing apparatus having printing plates specifically adapted to print specific print images essentially on borders or edges of sheet like articles.</paragraph-text>
+        <paragraph-text type="body">Specific technology mostly used until the year 2000.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B41G7/00</classification-symbol><definition-title>Auxiliary perforating apparatus associated with printing devices  (apparatus or machines for carrying-out printing operations combined with operations other than perforating <class-ref scheme="cpc">B41F19/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Sheet or web perforating apparatus exclusively being part of or being in line with printing apparatus or presses.</paragraph-text>
+        <paragraph-text type="body">Rotary and flat perforating devices.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item></definitions>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">C10H</classification-symbol><definition-title>PRODUCTION OF ACETYLENE BY WET METHODS {(purification of acetylene <class-ref scheme="cpc">C07C7/00</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and apparatus for production of acetylene by wet methods, including arrangements for water feed and carbide feed; high-pressure acetylene generators; details of acetylene generators, e.g. carbide cartridges, carbide compositions, safety devices, sludge removal.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table><table-row>
+            <table-column>
+              <paragraph-text type="body">Purification of acetylene</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C07C7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Gaseous fuel compositions containing acetylene</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C10L3/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Absorbing compositions for acetylene</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C10L3/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Use of gas-solvents or gas-sorbents for acetylene in vessels</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F17C11/002</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table></section-body></limiting-references><residual-references><section-title>References out of a residual place</section-title><section-body><paragraph-text type="preamble">Examples of places in relation to which this place is residual:</paragraph-text><table><table-row>
+            <table-column>
+              <paragraph-text type="body">Burners for combustion of a gasin association with a gaseous fuel source, e.g. acetylene generator</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F23D14/28</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table></section-body></residual-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Apparatus for generating gases by wet methods</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01J7/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Manufacture of acetylene by methods not comprising carbides</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C07C11/24</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Engines or plants characterised by use of other specific gases, e.g. acetylene</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F02B43/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Engine-pertinent apparatus for adding small quantities of acetylene</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F02M25/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Valves, cocks, taps in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16K</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Gas burners in association with a gaseous fuel source, e.g. an acetylene generator</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F23D14/28</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In the absence of an indication to the contrary, classification is made in the last appropriate place (&quot;last place rule&quot;).</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Wet methods for acetylene production</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">Traditionally acetylene is manufactured from calcium carbonate (limestone) and coal. The calcium carbonate is first converted into calcium oxide and the coal into coke, then the two are reacted together to form calcium carbide and carbon monoxide:CaO + 3C &#8594; CaC2 + COCalcium carbide (calcium acetylide) and water are then reacted by any of several methods to produce acetylene and calcium hydroxide, by a reaction discovered by Friedrich W&#246;hler in 1862.CaC2 + 2H2O &#8594; Ca(OH)2 + C2H2</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot; acetylene&quot;, &quot;ethyne&quot;, &quot;C2H2&quot; and &quot;H-C&#8801;C-H&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item></definitions>

@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2022-01-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B21K</classification-symbol><definition-title>MAKING FORGED OR PRESSED METAL PRODUCTS, e.g. HORSE-SHOES, RIVETS, BOLTS OR WHEELS  (making particular articles by working sheet metal without essentially removing material <class-ref scheme="cpc">B21D</class-ref>; processing wire <class-ref scheme="cpc">B21F</class-ref>; making pins, needles or nails <class-ref scheme="cpc">B21G</class-ref>; making particular articles by rolling <class-ref scheme="cpc">B21H</class-ref>; forging machines, pressing machines, hammering machines, in general <class-ref scheme="cpc">B21J</class-ref>; making chains <class-ref scheme="cpc">B21L</class-ref>; plating <class-ref scheme="cpc">B23K</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of specific products; Devices for handling, heating or cooling, controlling forging hammers or presses.</paragraph-text></section-body>
+      </definition-statement><relationship>
+         <section-title>Relationships with other classification places</section-title>
+         <section-body><paragraph-text type="body">This subclass subdivides into:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of specific products: <class-ref scheme="cpc">B21K1/00</class-ref>-<class-ref scheme="cpc">B21K25/005</class-ref>.</paragraph-text><paragraph-text type="body">Devices for handling, heating or cooling, controlling forging hammers or presses: <class-ref scheme="cpc">B21K27/00</class-ref>-<class-ref scheme="cpc">B21K31/00</class-ref>.</paragraph-text></section-body>
+      </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making pressed products by rolling </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21B</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making pressed products from metal sheet, without substantially modifying the metal sheet thickness</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21D</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Processing wire by forging</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21F</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making pins, needles or nails by forging</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21G</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making particular pressed products by rolling </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21H</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making chains by forging </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21L</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">General metal forging or pressing methods not dedicated to the manufacture of a specific product; Metal forging or pressing devices and furnaces</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21J</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Products per se obtainable by forging, e.g. pistons, rocking arms, etc. </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F02F3/00</class-ref>, <class-ref scheme="cpc">F01L1/18</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/00</classification-symbol><definition-title>Making machine elements</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of machine elements.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/02</classification-symbol><definition-title>balls, rolls, or rollers, e.g. for bearings</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of balls, rolls or rollers, e.g. for bearings.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media0.jpg" file-name="cpc-def-B21K-0000.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="2.94cm"/><media id="media1.jpg" file-name="cpc-def-B21K-0001.jpg" type="jpeg" preferred-width="2.62cm" preferred-height="2.91cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/025</classification-symbol><definition-title>{of bullets}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of bullets.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media2.jpg" file-name="cpc-def-B21K-0002.jpg" type="jpeg" preferred-width="7.81cm" preferred-height="1.27cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/04</classification-symbol><definition-title>ball-races {or sliding bearing races}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of ball races.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media3.jpg" file-name="cpc-def-B21K-0003.jpg" type="jpeg" preferred-width="6.85cm" preferred-height="2.06cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Parts of bearings</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16C33/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/05</classification-symbol><definition-title>cages for bearings</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of cages for bearings.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media4.jpg" file-name="cpc-def-B21K-0004.jpg" type="jpeg" preferred-width="3.97cm" preferred-height="2.8cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Parts of bearings</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16C33/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/06</classification-symbol><definition-title>axles or shafts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of axles or shafts.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Axle units</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B60B35/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Shafts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16C3/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/08</classification-symbol><definition-title>crankshafts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of crankshafts.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media5.jpg" file-name="cpc-def-B21K-0005.jpg" type="jpeg" preferred-width="5.5cm" preferred-height="2.41cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Camshafts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F01L1/047</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Crankshafts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16C3/06</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/10</classification-symbol><definition-title>of cylindrical form</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of axles or shafts of cylindrical form.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media6.jpg" file-name="cpc-def-B21K-0006.jpg" type="jpeg" preferred-width="5.55cm" preferred-height="2.49cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Axle units</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B60B35/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/12</classification-symbol><definition-title>of specially-shaped cross-section</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of axles or shafts of special cross-section.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media7.jpg" file-name="cpc-def-B21K-0007.jpg" type="jpeg" preferred-width="4.77cm" preferred-height="3.28cm"/><media id="media8.jpg" file-name="cpc-def-B21K-0008.jpg" type="jpeg" preferred-width="7.62cm" preferred-height="3.15cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Shaping axles or shafts of special cross-section by applying fluid pressure</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21D26/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Axle units</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B60B35/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Shafts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16C3/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/14</classification-symbol><definition-title>fittings</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of fittings, e.g. lubricant fittings.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media9.jpg" file-name="cpc-def-B21K-0009.jpg" type="jpeg" preferred-width="5.66cm" preferred-height="3.3cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Branching pipes</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16L41/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/16</classification-symbol><definition-title>parts of pipe or hose couplings</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of parts of pipe or hose couplings.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media10.jpg" file-name="cpc-def-B21K-0010.jpg" type="jpeg" preferred-width="7.27cm" preferred-height="3.07cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Joints, sealing for fuel injection</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F02M55/004</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Joints or fitting for pipes</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16L13/00</class-ref> - <class-ref scheme="cpc">F16L39/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/18</classification-symbol><definition-title>pistons or plungers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of pistons or plungers.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media11.jpg" file-name="cpc-def-B21K-0011.jpg" type="jpeg" preferred-width="6.61cm" preferred-height="3.86cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making pistons by operations not covered by any other single subclass</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B23P15/10</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pistons in combustion engines</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F02F3/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pistons in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16J</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/20</classification-symbol><definition-title>valve parts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of valve parts.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media12.png" file-name="cpc-def-B21K-0012.png" type="png" preferred-width="12.11cm" preferred-height="3.29cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making branched pieces</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21C37/29</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Rotary valves</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B62D5/083</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/205</classification-symbol><definition-title>{rocker arms}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of rocker arms.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media13.jpg" file-name="cpc-def-B21K-0013.jpg" type="jpeg" preferred-width="4.73cm" preferred-height="3.18cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Rocking arms or levers</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F01L1/18</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/22</classification-symbol><definition-title>poppet valves, e.g. for internal-combustion engines</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of poppet valves, e.g. for internal combustion engines.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media14.jpg" file-name="cpc-def-B21K-0014.jpg" type="jpeg" preferred-width="7.03cm" preferred-height="1.91cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Cyclically operating valves</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F01L</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/24</classification-symbol><definition-title>valve bodies; valve seats</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of valve bodies or valve seats.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media15.jpg" file-name="cpc-def-B21K-0015.jpg" type="jpeg" preferred-width="7.7cm" preferred-height="3.02cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Details of fuel injectors</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F02M61/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Valve housings</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16K27/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/26</classification-symbol><definition-title>housings or supporting parts, e.g. axle housings, engine mountings</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of housings or supporting parts, e.g. axle housings or engine mountings.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media16.jpg" file-name="cpc-def-B21K-0016.jpg" type="jpeg" preferred-width="4.66cm" preferred-height="3.73cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Axle housings</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B60B35/16</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/28</classification-symbol><definition-title>wheels; discs</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of wheels or disks.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Vehicle disk wheels</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B60B3/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/30</classification-symbol><definition-title>with gear-teeth</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of wheels or disks with gear teeth.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media17.jpg" file-name="cpc-def-B21K-0017.jpg" type="jpeg" preferred-width="2.54cm" preferred-height="2.22cm"/><media id="media18.jpg" file-name="cpc-def-B21K-0018.jpg" type="jpeg" preferred-width="3.73cm" preferred-height="2.32cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making gear wheels by rolling</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21H5/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making gear parts by operations not covered in any other single subclass</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B23P15/14</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Gears with teeth</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16H55/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/32</classification-symbol><definition-title>discs, e.g. disc wheels</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of disks, e.g. disc wheels.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media19.jpg" file-name="cpc-def-B21K-0019.jpg" type="jpeg" preferred-width="5.0cm" preferred-height="1.88cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/34</classification-symbol><definition-title>wheels with spokes</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of wheels with spokes.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media20.jpg" file-name="cpc-def-B21K-0020.jpg" type="jpeg" preferred-width="3.22cm" preferred-height="3.22cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/36</classification-symbol><definition-title>with blades</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of disks with blades.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media21.jpg" file-name="cpc-def-B21K-0021.jpg" type="jpeg" preferred-width="6.77cm" preferred-height="2.41cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making turbo blades or propellers by extrusion</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21C23/16</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making turbine wheels by operations not covered in any other single subclass</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B23P15/006</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Rotor-blade aggregates</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F01D5/34</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/38</classification-symbol><definition-title>rims; tyres</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of rims or tyres.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media22.jpg" file-name="cpc-def-B21K-0022.jpg" type="jpeg" preferred-width="7.35cm" preferred-height="3.65cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Rims per se</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B60B21/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/40</classification-symbol><definition-title>hubs</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of hubs.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media23.jpg" file-name="cpc-def-B21K-0023.jpg" type="jpeg" preferred-width="8.44cm" preferred-height="2.83cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Hubs of vehicle wheels</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B60B27/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/42</classification-symbol><definition-title>pulleys, e.g. cable pulleys</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of pulley, e.g. cable pulleys.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media24.jpg" file-name="cpc-def-B21K-0024.jpg" type="jpeg" preferred-width="4.66cm" preferred-height="2.06cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pulleys per se</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16H55/36</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/44</classification-symbol><definition-title>bolts, studs, or the like  (making screw-thread <class-ref scheme="cpc">B21K1/56</class-ref>; making U-bolts <class-ref scheme="cpc">B21K1/74</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of bolts studs, or the like.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Fasteners</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16B</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/46</classification-symbol><definition-title>with heads</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of heads on bolts studs, or the like.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media25.jpg" file-name="cpc-def-B21K-0025.jpg" type="jpeg" preferred-width="5.66cm" preferred-height="2.54cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Forging double ended bolts, studs or the like, i.e. with heads on both ends</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K1/52</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/463</classification-symbol><definition-title>{with recessed heads}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of bolts studs, or the like, with recessed heads.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media26.jpg" file-name="cpc-def-B21K-0026.jpg" type="jpeg" preferred-width="5.69cm" preferred-height="2.78cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/466</classification-symbol><definition-title>{Heading machines with an oscillating die block}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Machines for forge-heading of bolts studs, or the like, and comprising an oscillating die block.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media27.jpg" file-name="cpc-def-B21K-0027.jpg" type="jpeg" preferred-width="5.66cm" preferred-height="4.42cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Multi-stage forging presses</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21J9/022</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/48</classification-symbol><definition-title>Machines working with hammers, e.g. beating in a radial direction, for forming heads</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Machines for forging heads of bolts studs, or the like, and working with hammers, e.g. beating in a radial direction.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">General swaging presses, i.e. beating in radial direction</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21J9/06</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/50</classification-symbol><definition-title>Trimming or shearing formed heads, e.g. working with dies</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the trimming or shearing of formed heads, e.g. with working dies.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media28.jpg" file-name="cpc-def-B21K-0028.jpg" type="jpeg" preferred-width="6.0cm" preferred-height="2.01cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Trimming by using dies in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21J5/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/52</classification-symbol><definition-title>double-ended, e.g. with heads on both ends  (forming heads <class-ref scheme="cpc">B21K1/46</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of double-ended bolts, studs or the like, e-g- with heads on both ends.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media29.jpg" file-name="cpc-def-B21K-0029.jpg" type="jpeg" preferred-width="6.93cm" preferred-height="2.38cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Forming single heads</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K1/46</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/54</classification-symbol><definition-title>with grooves or notches</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of bolts, studs, of the like, with grooves or notches.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media30.jpg" file-name="cpc-def-B21K-0030.jpg" type="jpeg" preferred-width="1.29cm" preferred-height="3.65cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/56</classification-symbol><definition-title>screw-threaded elements</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods for forming screw-threads.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media31.jpg" file-name="cpc-def-B21K-0031.jpg" type="jpeg" preferred-width="3.46cm" preferred-height="2.17cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Forming screw threads by rolling</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21H3/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/58</classification-symbol><definition-title>rivets</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of rivets.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Rivets</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16B19/04</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/60</classification-symbol><definition-title>hollow or semi-hollow rivets</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of hollow or semi-hollow rivets.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media32.png" file-name="cpc-def-B21K-0032.png" type="png" preferred-width="12.53cm" preferred-height="1.96cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Hollow rivets</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16B19/08</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/62</classification-symbol><definition-title>special rivets, e.g. with electrical contacts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of special rivets, e.g. with electrical contacts.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media33.jpg" file-name="cpc-def-B21K-0033.jpg" type="jpeg" preferred-width="2.56cm" preferred-height="1.67cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Rivets</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16B19/04</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Manufacture of electric switches</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">H01H11/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/64</classification-symbol><definition-title>nuts  (making screw-thread <class-ref scheme="cpc">B21K1/56</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of nuts.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pressing nuts from metal sheet without substantially modifying the metal sheet thickness</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21D53/24</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Nuts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16B37/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/66</classification-symbol><definition-title>from strip bars</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of nuts from strip bars.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media34.jpg" file-name="cpc-def-B21K-0034.jpg" type="jpeg" preferred-width="3.73cm" preferred-height="1.53cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/68</classification-symbol><definition-title>from round or profiled bars</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of nuts from round or profiled bars.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media35.jpg" file-name="cpc-def-B21K-0035.jpg" type="jpeg" preferred-width="2.12cm" preferred-height="1.59cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/70</classification-symbol><definition-title>of special shape, e.g. self-locking nuts, wing nuts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of nuts of special shape, e.g. self-locking nuts, wing nuts.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/701</classification-symbol><definition-title>{Weld nuts}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of weld nuts.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media36.png" file-name="cpc-def-B21K-0036.png" type="png" preferred-width="4.12cm" preferred-height="1.71cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Weld nuts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16B37/061</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/702</classification-symbol><definition-title>{Clinch nuts}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of clinch nuts.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media37.jpg" file-name="cpc-def-B21K-0037.jpg" type="jpeg" preferred-width="3.39cm" preferred-height="1.06cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Setting pierce-nuts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B23P19/062</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Nuts deforming the material of the support</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16B37/068</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/704</classification-symbol><definition-title>{Cap nuts}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of cap nuts.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media38.jpg" file-name="cpc-def-B21K-0038.jpg" type="jpeg" preferred-width="1.72cm" preferred-height="1.51cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Cap nuts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16B37/14</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/705</classification-symbol><definition-title>{Castellated nuts}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of castellated nuts.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media39.png" file-name="cpc-def-B21K-0039.png" type="png" preferred-width="3.63cm" preferred-height="1.99cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Locking of nuts with a member penetrating the screw-threaded surface</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16B39/04</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/707</classification-symbol><definition-title>{Self-locking nuts}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of self-locking nuts.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media40.png" file-name="cpc-def-B21K-0040.png" type="png" preferred-width="3.57cm" preferred-height="2.22cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Locking of nuts provided with locking members</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16B39/28</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/708</classification-symbol><definition-title>{wing nuts}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of wing nuts.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media41.png" file-name="cpc-def-B21K-0041.png" type="png" preferred-width="4.8cm" preferred-height="1.83cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Wing nuts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16B37/16</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/72</classification-symbol><definition-title>hooks, e.g. crane hooks, railway track spikes  (making nails in general <class-ref scheme="cpc">B21G</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of hooks, e.g. crane hooks, railway track spikes.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media42.jpg" file-name="cpc-def-B21K-0042.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="2.7cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making nails in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21G</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/74</classification-symbol><definition-title>forked members or members with two or more limbs, e.g. U-bolts, anchors</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of forked members or members with two or more limbs, e.g. U-bolts, anchors.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media43.jpg" file-name="cpc-def-B21K-0043.jpg" type="jpeg" preferred-width="9.34cm" preferred-height="8.62cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">B21K1/76</classification-symbol><definition-title>elements not mentioned in one of the preceding groups</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of machine elements not mentioned in one of the preceding groups.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><residual-references><section-title>References out of a residual place</section-title><section-body><paragraph-text type="preamble">Examples of places in relation to which this place is residual:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making engine or like machine parts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K3/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making tools or tool parts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K5/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making railway appurtenances; vehicle parts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K7/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Reconditioning railroad accessories</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K9/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making cutlery wares; garden tools</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K11/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making locksmith&apos;s goods</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K13/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making blacksmith&apos;s goods</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K15/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making sport articles</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K17/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making articles for agricultural machinery</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K19/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making hollow articles not covered by a single preceding group</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K21/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making other articles</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K23/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Uniting components to form integral members</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K25/00</class-ref></paragraph-text></table-column></table-row></table></section-body></residual-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/761</classification-symbol><definition-title>{rings}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of rings.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media44.jpg" file-name="cpc-def-B21K-0044.jpg" type="jpeg" preferred-width="6.49cm" preferred-height="5.08cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/762</classification-symbol><definition-title>{Coupling members for conveying mechanical motion, e.g. universal joints}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of coupling members for conveying mechanical motion, e.g. universal joints.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media45.jpg" file-name="cpc-def-B21K-0045.jpg" type="jpeg" preferred-width="7.27cm" preferred-height="3.83cm"/><media id="media46.png" file-name="cpc-def-B21K-0046.png" type="png" preferred-width="4.42cm" preferred-height="3.68cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Ball joints</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16C11/06</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Universal joints</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16D3/16</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/766</classification-symbol><definition-title>{Connecting rods}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of connecting rods.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media47.jpg" file-name="cpc-def-B21K-0047.jpg" type="jpeg" preferred-width="6.61cm" preferred-height="2.78cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Connecting rods</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16C7/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K1/767</classification-symbol><definition-title>{Toothed racks}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of toothed racks.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media48.jpg" file-name="cpc-def-B21K-0048.jpg" type="jpeg" preferred-width="5.79cm" preferred-height="2.85cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Rack and pinion steering gears</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B62D3/12</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Racks</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16H55/26</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K3/00</classification-symbol><definition-title>Making engine or like machine parts not covered by sub-groups of <class-ref scheme="cpc">B21K1/00</class-ref>; Making propellers or the like</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of engine or machine parts, e.g. propellers, magnet wheel disks, scrolls for air conditioners.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media49.png" file-name="cpc-def-B21K-0049.png" type="png" preferred-width="14.12cm" preferred-height="3.63cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making machine elements </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K1/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making machine elements not specified elsewhere</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K1/76</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Air conditioning</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F24F</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Dynamo electric machines</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">H02K</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K3/02</classification-symbol><definition-title>cylinder heads</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of cylinder heads.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media50.jpg" file-name="cpc-def-B21K-0050.jpg" type="jpeg" preferred-width="3.22cm" preferred-height="2.91cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Cylinder heads</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F02F1/24</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K3/04</classification-symbol><definition-title>blades, e.g. for turbines; Upsetting of blade roots</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging, pressing or upsetting methods dedicated to the manufacture of blades, e.g. for turbines.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media51.png" file-name="cpc-def-B21K-0051.png" type="png" preferred-width="7.41cm" preferred-height="3.02cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making turbine or like blades by operations not covered in any other single subclass</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B23P15/02</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Blades of non positive displacement machines</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F01D5/12</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K5/00</classification-symbol><definition-title>Making tools or tool parts, e.g. pliers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of tools or tool parts, a non-limiting example being pliers.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K5/02</classification-symbol><definition-title>drilling-tools or other for making or working on holes</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of drilling tools or other for making or working on holes.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Metal drilling tools</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B23B51/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Wood boring or turning tools</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B27G15/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Earth drilling bits</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">E21B10/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2022-01-01"><classification-symbol scheme="cpc">B21K5/04</classification-symbol><definition-title>twisting-tools, e.g. drills, reamers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of twisting tools, e.g. drills, reamers.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media52.png" file-name="cpc-def-B21K-0052.png" type="png" preferred-width="4.77cm" preferred-height="2.58cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Dentistry root canal files</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A61C5/42</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Tools for drilling machines</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B23B51/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Wood boring or turning tools</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B27G15/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K5/06</classification-symbol><definition-title>Dressing, e.g. sharpening rock drills</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of dressing, e.g. sharpening rock drills.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media53.png" file-name="cpc-def-B21K-0053.png" type="png" preferred-width="4.22cm" preferred-height="3.95cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K5/08</classification-symbol><definition-title>drifting tools</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of drifting tools.</paragraph-text><paragraph-text type="body">Remark: this subgroup is empty.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K5/10</classification-symbol><definition-title>Forming drill-bit shanks</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of drill-bit shanks.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media54.jpg" file-name="cpc-def-B21K-0054.jpg" type="jpeg" preferred-width="2.67cm" preferred-height="2.91cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Chucks and tool shanks</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B23B2231/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Tools or bench devices not otherwise provided for</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B25B</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K5/12</classification-symbol><definition-title>other cutting tools  (cutlery wares <class-ref scheme="cpc">B21K11/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of other cutting tools, e.g. chisels, saw blades, chopping blades, nippers, etc.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media55.jpg" file-name="cpc-def-B21K-0055.jpg" type="jpeg" preferred-width="3.55cm" preferred-height="2.57cm"/><media id="media56.jpg" file-name="cpc-def-B21K-0056.jpg" type="jpeg" preferred-width="3.34cm" preferred-height="1.77cm"/><media id="media57.jpg" file-name="cpc-def-B21K-0057.jpg" type="jpeg" preferred-width="5.13cm" preferred-height="2.91cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Forging cutlery wares</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K11/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Cutting stones</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B28D1/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Mining picks</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">E21C35/18</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K5/14</classification-symbol><definition-title>hand hammers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of hand hammers.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Hand hammers</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B25D1/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K5/16</classification-symbol><definition-title>tools for turning nuts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of tool for turning nuts.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media58.png" file-name="cpc-def-B21K-0058.png" type="png" preferred-width="12.11cm" preferred-height="2.37cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Spanners, wrenches</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B25B13/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K5/18</classification-symbol><definition-title>handles or parts therefor</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of handtools or parts therefor.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Surgical scalpels with detachable blade</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A61B17/3213</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K5/20</classification-symbol><definition-title>Making working faces of dies, either recessed or outstanding</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of working faces of dies, either recessed or outstanding.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media59.png" file-name="cpc-def-B21K-0059.png" type="png" preferred-width="12.53cm" preferred-height="2.88cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Metal forging dies</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21J13/02</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making dies by operations not covered in any other single subclass</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B23P15/24</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Dies for working of plastic material</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B29C</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K7/00</classification-symbol><definition-title>Making railway appurtenances; Making vehicle parts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of railway appurtenances or vehicle parts.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making machine elements</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K1/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making engine or like machine parts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K3/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K7/02</classification-symbol><definition-title>parts for permanent way  (spikes <class-ref scheme="cpc">B21K1/72</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of parts for permanent way.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media60.jpg" file-name="cpc-def-B21K-0060.jpg" type="jpeg" preferred-width="4.49cm" preferred-height="2.83cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Forging spikes</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K1/72</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K7/04</classification-symbol><definition-title>switch tongues</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of switch tongues.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K7/06</classification-symbol><definition-title>sleepers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of sleepers.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K7/08</classification-symbol><definition-title>base plates for rails, e.g. chairs</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of base plates for rails, e.g. chairs.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K7/10</classification-symbol><definition-title>rails joints</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of rails joints.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K7/12</classification-symbol><definition-title>parts for locomotives or vehicles, e.g. frames, underframes</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of parts for locomotives or vehicles, e.g. frames, underframes.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K7/14</classification-symbol><definition-title>brake rigging or brake parts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of brake rigging or brake parts.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K9/00</classification-symbol><definition-title>Reconditioning railroad accessories, e.g. rails</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the reconditioning of railroad accessories, e.g. rails.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media61.jpg" file-name="cpc-def-B21K-0061.jpg" type="jpeg" preferred-width="2.96cm" preferred-height="2.75cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Composite power rails</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B60M1/302</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Composite rails</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">E01B5/08</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K11/00</classification-symbol><definition-title>Making cutlery wares; Making garden tools or the like</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of cutlery wares or garden tools. The expression &quot;or the like&quot; is to be ignored.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K11/02</classification-symbol><definition-title>knives</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of knives.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K11/04</classification-symbol><definition-title>spoons; table forks</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of spoons or table forks.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K11/06</classification-symbol><definition-title>scissors</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of scissors.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K11/08</classification-symbol><definition-title>sickles; scythes</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of sickles or scythes.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K11/10</classification-symbol><definition-title>axes; picks</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of axes or picks.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media62.jpg" file-name="cpc-def-B21K-0062.jpg" type="jpeg" preferred-width="8.44cm" preferred-height="5.32cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K11/12</classification-symbol><definition-title>spades; shovels</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of spades or shovels.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media63.jpg" file-name="cpc-def-B21K-0063.jpg" type="jpeg" preferred-width="4.49cm" preferred-height="2.27cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K11/14</classification-symbol><definition-title>rakes; garden forks</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of rakes or garden forks.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media64.jpg" file-name="cpc-def-B21K-0064.jpg" type="jpeg" preferred-width="4.73cm" preferred-height="2.73cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K13/00</classification-symbol><definition-title>Making locksmiths&apos; goods, e.g. handles for cases</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of locksmiths&apos; goods, e.g. handles for cases.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Details of locks</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">E05B15/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K13/02</classification-symbol><definition-title>hinges</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of hinges.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media65.jpg" file-name="cpc-def-B21K-0065.jpg" type="jpeg" preferred-width="3.73cm" preferred-height="2.67cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Construction of hinges</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">E05D5/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K15/00</classification-symbol><definition-title>Making blacksmiths&apos; goods</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of blacksmith&apos;s goods.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K15/02</classification-symbol><definition-title>horseshoes; appurtenances therefor</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of horseshoes or appurtenances therefor.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media66.jpg" file-name="cpc-def-B21K-0066.jpg" type="jpeg" preferred-width="3.07cm" preferred-height="1.69cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Shoeing of animals</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A01L</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K15/04</classification-symbol><definition-title>caulks</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of caulks</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media67.jpg" file-name="cpc-def-B21K-0067.jpg" type="jpeg" preferred-width="2.8cm" preferred-height="1.83cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K15/06</classification-symbol><definition-title>metal attachments for footwear, e.g. wearresisting plates</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of metal attachments for footwear, e.g. wear-resisting plates.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K17/00</classification-symbol><definition-title>Making sport articles, e.g. skates</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of sports articles, e.g. skates or golf clubs.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media68.jpg" file-name="cpc-def-B21K-0068.jpg" type="jpeg" preferred-width="4.39cm" preferred-height="2.86cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Golf clubs</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A63B53/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K19/00</classification-symbol><definition-title>Making articles for agricultural machinery</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of articles for agricultural machinery</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media69.png" file-name="cpc-def-B21K-0069.png" type="png" preferred-width="6.82cm" preferred-height="2.74cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Dredging, soil-shifting</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">E02F</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K19/02</classification-symbol><definition-title>plough blades; ploughshares</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of plough blades or ploughshares.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K21/00</classification-symbol><definition-title>Making hollow articles not covered by a single preceding sub-group  (essentially from sheet-metal or uniform thin-walled tubes <class-ref scheme="cpc">B21D</class-ref>, e.g. <class-ref scheme="cpc">B21D41/00</class-ref>, <class-ref scheme="cpc">B21D51/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of hollow articles.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K21/02</classification-symbol><definition-title>Producing blanks in the shape of discs or cups as semifinished articles for making hollow articles, e.g. to be deep-drawn or extruded</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of discs or cups as semi-finished articles.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media70.jpg" file-name="cpc-def-B21K-0070.jpg" type="jpeg" preferred-width="3.12cm" preferred-height="3.44cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K21/04</classification-symbol><definition-title>Shaping thin-walled hollow articles, e.g. cartridges</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of cartridges.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media71.jpg" file-name="cpc-def-B21K-0071.jpg" type="jpeg" preferred-width="3.12cm" preferred-height="3.97cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Cartridge ammunition</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F42B5/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K21/06</classification-symbol><definition-title>Shaping thick-walled hollow articles, e.g. projectiles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of thick-walled hollow articles, e.g. projectiles.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media72.jpg" file-name="cpc-def-B21K-0072.jpg" type="jpeg" preferred-width="5.66cm" preferred-height="2.14cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Projectiles, missiles</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F42B12/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K21/08</classification-symbol><definition-title>Shaping hollow articles with different cross-section in longitudinal direction, e.g. nozzles, spark-plugs</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of hollow articles with different cross-section, e.g. nozzles, spark-plugs.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media73.jpg" file-name="cpc-def-B21K-0073.jpg" type="jpeg" preferred-width="3.52cm" preferred-height="2.38cm"/><media id="media74.jpg" file-name="cpc-def-B21K-0074.jpg" type="jpeg" preferred-width="4.39cm" preferred-height="2.75cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Spark plugs</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">H01T21/02</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2021-01-01"><classification-symbol scheme="cpc">B21K21/10</classification-symbol><definition-title>cone-shaped or bell-shaped articles, e.g. insulator caps</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of cone-shaped or bell-shaped articles, e.g. insulator caps.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media75.jpg" file-name="cpc-def-B21K-0075.jpg" type="jpeg" preferred-width="1.91cm" preferred-height="3.39cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Electric terminals</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">H01M50/543</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K21/12</classification-symbol><definition-title>Shaping end portions of hollow articles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the shaping of end-portions of hollow articles.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media76.png" file-name="cpc-def-B21K-0076.png" type="png" preferred-width="12.94cm" preferred-height="2.97cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making flanged articles</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K23/04</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Shaping end portions of hollow articles without substantially modifying the workpiece thickness</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21D41/04</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K21/14</classification-symbol><definition-title>closed or substantially-closed ends, e.g. cartridge bottoms</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the shaping of closed or substantially closed end-portions of hollow articles, e.g. cartridge bottoms.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media77.png" file-name="cpc-def-B21K-0077.png" type="png" preferred-width="13.35cm" preferred-height="2.83cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Closing end portions of hollow articles without substantially modifying the workpiece thickness</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21D41/045</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K21/16</classification-symbol><definition-title>Remodelling hollow bodies with respect to the shape of the cross-section  (remodelling end portions only <class-ref scheme="cpc">B21K21/12</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the remodelling of hollow bodies with respect to the shape of their cross-section.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media78.jpg" file-name="cpc-def-B21K-0078.jpg" type="jpeg" preferred-width="2.28cm" preferred-height="4.31cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Remodelling end-portions only</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K21/12</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">B21K23/00</classification-symbol><definition-title>Making other articles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of articles not provided for in the groups <class-ref scheme="cpc">B21K1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">B21K21/00</class-ref>, especially thin articles worked in their thickness.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media79.jpg" file-name="cpc-def-B21K-0079.jpg" type="jpeg" preferred-width="5.34cm" preferred-height="3.47cm"/><media id="media80.jpg" file-name="cpc-def-B21K-0080.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="3.38cm"/></paragraph-text><paragraph-text type="body">Source: EP0945199, WO2006008861.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making machine elements</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K1/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making other machine elements</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K1/76</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Making other engine or machine parts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K3/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K23/02</classification-symbol><definition-title>members of endless tracks, e.g. track guides, shoes  (making from sheet-metal <class-ref scheme="cpc">B21D</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of members</paragraph-text><paragraph-text type="body">of endless tracks, e.g. track guides, shoes.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media81.jpg" file-name="cpc-def-B21K-0081.jpg" type="jpeg" preferred-width="3.97cm" preferred-height="2.41cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making roller chains</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21L9/02</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Endless track vehicles</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B62D55/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K23/04</classification-symbol><definition-title>flanged articles  (<class-ref scheme="cpc">B21K1/28</class-ref> takes precedence; flanging tubes <class-ref scheme="cpc">B21D</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to the manufacture of flanged articles.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media82.jpg" file-name="cpc-def-B21K-0082.jpg" type="jpeg" preferred-width="3.81cm" preferred-height="2.94cm"/><media id="media83.jpg" file-name="cpc-def-B21K-0083.jpg" type="jpeg" preferred-width="1.85cm" preferred-height="2.96cm"/><media id="media84.jpg" file-name="cpc-def-B21K-0084.jpg" type="jpeg" preferred-width="3.73cm" preferred-height="2.54cm"/></paragraph-text></section-body>
+      </definition-statement><relationship>
+         <section-title>Relationships with other classification places</section-title>
+         <section-body><table>
+<table-row><table-column preferred-width="11.69cm"><paragraph-text type="body">Flanging tubes without substantially modifying the tube thickness</paragraph-text></table-column><table-column preferred-width="5.69cm"><paragraph-text type="body"><class-ref scheme="cpc">B21D</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making wheel, disks</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K1/28</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Shaping end-portions of hollow articles</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21K21/12</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K25/00</classification-symbol><definition-title>Uniting components to form integral members, e.g. turbine wheels and shafts, caulks with inserts, with or without shaping of the components  (uniting by interference- or press-fitting <class-ref scheme="cpc">B23P11/02</class-ref>, <class-ref scheme="cpc">B21K19/02</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods for uniting components in order to form integral members, with or without shaping the components.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media85.jpg" file-name="cpc-def-B21K-0085.jpg" type="jpeg" preferred-width="4.92cm" preferred-height="5.45cm"/><media id="media86.jpg" file-name="cpc-def-B21K-0086.jpg" type="jpeg" preferred-width="4.82cm" preferred-height="5.47cm"/><media id="media87.jpg" file-name="cpc-def-B21K-0087.jpg" type="jpeg" preferred-width="4.23cm" preferred-height="4.55cm"/></paragraph-text></section-body>
+      </definition-statement><relationship>
+         <section-title>Relationships with other classification places</section-title>
+         <section-body><table>
+<table-row><table-column preferred-width="10.93cm"><paragraph-text type="body">Interference or press-fitting</paragraph-text></table-column><table-column preferred-width="6.45cm"><paragraph-text type="body"><class-ref scheme="cpc">B23P11/02</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.93cm"><paragraph-text type="body">Uniting metal sheets by deformation</paragraph-text></table-column><table-column preferred-width="6.45cm"><paragraph-text type="body"><class-ref scheme="cpc">B21D39/03</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.93cm"><paragraph-text type="body">Press-welding by means or rolling mills</paragraph-text></table-column><table-column preferred-width="6.45cm"><paragraph-text type="body"><class-ref scheme="cpc">B23K20/04</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Riveting</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21J15/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">B21K25/005</classification-symbol><definition-title>{by friction heat forging  (<class-ref scheme="cpc">B21J15/027</class-ref> takes precedence; friction heat forging per se <class-ref scheme="cpc">B21J5/063</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metal forging or pressing methods dedicated to uniting components by friction heat forging.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media88.jpg" file-name="cpc-def-B21K-0088.jpg" type="jpeg" preferred-width="5.5cm" preferred-height="4.47cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Friction heat riveting</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21J15/027</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Friction heat forging per se</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21J5/063</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K27/00</classification-symbol><definition-title>Handling devices, e.g. for feeding, aligning, discharging, Cutting-off means; Arrangement thereof</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Handling devices in relation to metal forging or pressing, for e.g. feeding, aligning, discharging, cutting off.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Accessories for handling forging work</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21J13/08</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K27/02</classification-symbol><definition-title>Feeding devices for rods, wire, or strips</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Devices for feeding rods, wires or strips into a forging machine.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media89.jpg" file-name="cpc-def-B21K-0089.jpg" type="jpeg" preferred-width="5.58cm" preferred-height="3.44cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K27/04</classification-symbol><definition-title>allowing successive working steps</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Devices for feeding and allowing successive working steps.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media90.jpg" file-name="cpc-def-B21K-0090.jpg" type="jpeg" preferred-width="5.76cm" preferred-height="3.41cm"/><media id="media91.jpg" file-name="cpc-def-B21K-0091.jpg" type="jpeg" preferred-width="7.03cm" preferred-height="3.59cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Multiple die presses</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21J9/022</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K27/06</classification-symbol><definition-title>Cutting-off means; Arrangements thereof</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Means for cutting-off forging material.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media92.jpg" file-name="cpc-def-B21K-0092.jpg" type="jpeg" preferred-width="4.66cm" preferred-height="3.04cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Cutting metal in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B23D</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K29/00</classification-symbol><definition-title>Arrangements for heating or cooling during processing  (for preparing metal stock to be forged or pressed <class-ref scheme="cpc">B21J1/06</class-ref>; heating equipment per se, see the appropriate classes, e.g. <class-ref scheme="cpc">H05B</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Arrangements for heating or cooling during forging.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media93.jpg" file-name="cpc-def-B21K-0093.jpg" type="jpeg" preferred-width="4.18cm" preferred-height="4.42cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Heating processes before forging</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21J1/06</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Heating equipment per se</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">H05B</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B21K31/00</classification-symbol><definition-title>Control devices specially adapted for positioning tool carriers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Control devices specially adapted for positioning tool carriers.</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media94.jpg" file-name="cpc-def-B21K-0094.jpg" type="jpeg" preferred-width="3.81cm" preferred-height="4.05cm"/><media id="media95.jpg" file-name="cpc-def-B21K-0095.jpg" type="jpeg" preferred-width="7.7cm" preferred-height="4.15cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Die mountings</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B21J13/03</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item></definitions>

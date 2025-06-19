@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B02C</classification-symbol><definition-title>CRUSHING, PULVERISING, OR DISINTEGRATING IN GENERAL; MILLING GRAIN  ({household tools and machines for pulverising foodstuffs, e.g. coffee and spice mills <class-ref scheme="cpc">A47J42/00</class-ref>; pharmaceutical mortars <class-ref scheme="cpc">A61J3/02</class-ref>; mechanical processing of refuse and garbage <class-ref scheme="cpc">B03B9/06</class-ref>; dressing mould materials by grinding <class-ref scheme="cpc">B22C5/04</class-ref>}; obtaining metallic powder by crushing, grinding or milling <class-ref scheme="cpc">B22F9/04</class-ref>; {recovery of plastics by disintegrating <class-ref scheme="cpc">B29B17/00</class-ref>; crushing raw materials in starch making <class-ref scheme="cpc">C08B30/02</class-ref>; beaters for papermaking <class-ref scheme="cpc">D21D1/02</class-ref>; crushing devices specially for transport in mines <class-ref scheme="cpc">E21F13/002</class-ref>; slag crushing devices <class-ref scheme="cpc">F23J1/00</class-ref>; fuel milling devices in combustion apparatus <class-ref scheme="cpc">F23K1/00</class-ref>; household devices for crushing coal <class-ref scheme="cpc">F24B15/02</class-ref>; ice disintegrating devices <class-ref scheme="cpc">F25C5/02</class-ref>})</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Apparatus and methods for crushing, pulverizing, comminuting, disintegrating by using reciprocating or rotary crushers, by using rollers or balls, discs or rotary beaters, by tumbling, by using knives or other cutting or tearing members, by using fluid jets.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Auxiliary devices, accessories for such devices e.g. safety, and auxiliary methods.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Whole disintegration plants.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Control arrangements for crushing or disintegrating.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Combinations of such apparatus with other devices, e.g. for separating or sorting.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Preparing specimens for investigation involving mechanical work, e.g. chopping, disintegrating, compacting, homogenising</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G01N1/286</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C1/00</classification-symbol><definition-title>Crushing or disintegrating by reciprocating members</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Crushing where the crushing or disintegrating members are only reciprocating.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2015-12-01"><classification-symbol scheme="cpc">B02C1/12</classification-symbol><definition-title>Mills with non-rotating spiked members</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+  
+  <table>
+<table-row>
+      <table-column>
+        <paragraph-text type="body">Disintegrating devices with spiked members specially adapted for breaking-up bottles: </paragraph-text>
+      </table-column>
+      <table-column>
+        <paragraph-text type="body"><class-ref scheme="cpc">B02C19/0081</class-ref></paragraph-text>
+      </table-column>
+    </table-row></table>
+  
+  
+  </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C2/00</classification-symbol><definition-title>Crushing or disintegrating by gyratory or cone crushers {(with non-coaxial discs with intersecting axes <class-ref scheme="cpc">B02C7/005</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Crushers with a gyrating conical head and a bowl assembly surrounding the head; normally the head is driven.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Cone crushers with non-coaxial discs with intersecting axes</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C7/005</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C4/00</classification-symbol><definition-title>Crushing or disintegrating by roller mills  (with milling members in the form of rollers or balls co-operating with rings or discs <class-ref scheme="cpc">B02C15/00</class-ref>; roller mills or roll refiners exclusively for chocolate <class-ref scheme="cpc">A23G1/10</class-ref>, <class-ref scheme="cpc">A23G1/12</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Roller mills with two or more rollers; with a roller co-operating with a stationary member like a plate, a bar a grid or grating or co-operating with a conveyor.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Roller mills with milling members in the form of rollers or balls co-operating with rings or discs</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Roller mills or roll refiners exclusively for chocolate</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A23G1/10</class-ref>, <class-ref scheme="cpc">A23G1/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Presses characterised by the use of rotary pressing members, e.g. rollers, rings, discs</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B30B3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In the cases where the roller mill is adapted for milling a paste-like material or grain, the document is classified in the appropriate subgroup of <class-ref scheme="cpc">B02C4/00</class-ref>, e.g. <class-ref scheme="cpc">B02C4/04</class-ref>, <class-ref scheme="cpc">B02C4/06</class-ref>, <class-ref scheme="cpc">B02C4/22</class-ref>. For searching, other classes, where the roller mill is not adapted for the specific material concerned, have to be considered.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C7/00</classification-symbol><definition-title>Crushing or disintegrating by disc mills  (apparatus specially adapted for manufacture or treatment of cocoa or cocoa products exclusively <class-ref scheme="cpc">A23G1/04</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Disc mills used to grind, fiberize, pulverize, granulate or refine a feedstock which is fed between opposing discs or plates. The discs may be grooved, serrated or spiked.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Apparatus specially adapted for manufacture or treatment of cocoa or cocoa products</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A23G1/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C7/12</classification-symbol><definition-title>Shape or construction of discs</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Discs for disc mills for refining paper pulp</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D21D1/306</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C9/00</classification-symbol><definition-title>Other milling methods or mills specially adapted for grain</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods or mills, systems, plants or sequences of operations specially adapted for grain with the meaning of cereal grain.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Combined processes for grain treatment</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02B5/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C11/00</classification-symbol><definition-title>Other auxiliary devices or accessories specially adapted for grain mills</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">All auxiliary devices and accessories specially adapted for grain mills like disagglomerators, special sifting and separating, feeding, cooling, heating, conditioning arrangements.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C13/00</classification-symbol><definition-title>Disintegrating by mills having rotary beater elements{; Hammer mills}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Mills with beaters rigidly connected or hinged for swinging movement to a horizontally or vertically arranged rotor for crushing material by impact. The material may be thrown against an anvil or impact member.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Devices for disintegrating materials by collision of these materials against a breaking surface or breaking body and/or by friction between the material particles (also for gra)</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C19/0012</class-ref> </paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C13/22</classification-symbol><definition-title>with intermeshing pins{; Pin Disk Mills}</definition-title><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Mills with intermeshing elements like pins or other impact members, where both disks are rotating, are additionally classified in <class-ref scheme="cpc">B02C13/205</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C15/00</classification-symbol><definition-title>Disintegrating by milling members in the form of rollers or balls co-operating with rings or discs {(high-speed drum mills <class-ref scheme="cpc">B02C19/11</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Mills with rollers or balls co-operating with stationary or rotating rings arranged according to the titles of the sub-groups; many for coal or ore.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Cocoa; Cocoa products, e.g. chocolate; Substitutes therefore; Mixing apparatus; Roller mills for preparing chocolate</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A23G1/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Selective separation of solid materials carried by, or dispersed in, gas currents using centrifugal force</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B07B7/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Selective separation of solid materials carried by, or dispersed in, gas currents, gas currents using centrifugal force, generated by rotating vanes, discs, drums, or brushes</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B07B7/083</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Machines or devices specially designed for dressing or handling the mould material so far as specially adapted for that purpose by grinding, blending, mixing, kneading, or stirring</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B22C5/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Casting in, on, or around objects which form part of the product; for manufacturing or repairing tools</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B22D19/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Preparation of lump or pulverulent fuel in readiness for delivery to combustion apparatus</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F23K1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C17/00</classification-symbol><definition-title>Disintegrating by tumbling mills, i.e. mills having a container charged with the material to be disintegrated with or without special disintegrating members such as pebbles or balls  (high-speed drum mills <class-ref scheme="cpc">B02C19/11</class-ref>{; drums for polishing or grinding <class-ref scheme="cpc">B24B</class-ref>})</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Mills having a rotating, perforated or un-perforated or a fixed container, charged with the material to be disintegrated, with or without special disintegrating members such as pebbles or balls, and/or with or without special stirring means; feeding and discharging devices with the associated sorting or separating arrangements.</paragraph-text>
+        <paragraph-text type="body">Shape, material of grinding media, e.g. balls, pebbles, rods.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Medicinal preparations characterised by special physical form; Particulate form, e.g. powders</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A61K9/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Mixing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Machines or devices designed for polishing or abrading surfaces on work by means of tumbling apparatus or other apparatus in which the work and/or the abrasive material is loose; Accessories therefore; involving rotary barrels</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B24B31/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Discharging devices combined with sorting or separating of material, as well as adding fluid, other than for crushing by fluid energy are classified in the appropriate sub-groups of <class-ref scheme="cpc">B02C17/1835</class-ref> and <class-ref scheme="cpc">B02C17/186</class-ref> and not in the sub-groups of <class-ref scheme="cpc">B02C23/08</class-ref> and <class-ref scheme="cpc">B02C23/18</class-ref>. For searching the <class-ref scheme="cpc">B02C23/00</class-ref> and subgroups should be considered.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C18/00</classification-symbol><definition-title>Disintegrating by knives or other cutting or tearing members which chop material into fragments {(tree stump comminutors <class-ref scheme="cpc">A01G23/067</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Shredding of material into fragments; knives therefore and mountings thereof; feed or discharge means therefore.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Mincing machines with perforated discs and feeding worms.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Cutting apparatus specially adapted for cutting hay, straw or the like </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A01F29/005</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Cutting implements specially adapted for horticultural purposes, for comminuting plant waste</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A01G3/002</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Forestry; extracting or eliminating stumps by comminuting the tree stumps</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A01G23/067</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Fodder distributors with mixer or shredder</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A01K5/001</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Processing meat, poultry or fish</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A22C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Fodder mashers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A23N17/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Kitchen equipment; coffee mills; spice mills; apparatus for making beverages</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47J</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Machines for domestic use not covered elsewhere, e.g. for grinding, mixing, stirring, kneading, emulsifying, whipping or beating foodstuffs, e.g. power-driven</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47J43/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Cutting; Details common to machines for perforating, punching, cutting-out, stamping-out or severing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B26D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Cutting through work characterised by the nature or movement of the cutting member; Apparatus or machines therefore; Cutting members therefore</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B26D1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Manufacture of wood shavings, chips, powder, or the like</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B27L11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Working of plastics; Conditioning or physical treatment of the material to be shaped by grinding, e.g. by triturating; by sieving; by filtering</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B29B13/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Recovery of plastics or other constituents of waste material containing plastics; Disintegrating plastic</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B29B17/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Disintegrating apparatus specially adapted for installation in waste pipes or outlets</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E03C1/2665</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Pumps adapted for handling specific fluids with means for comminuting, mixing stirring or otherwise treating</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F04D7/045</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C18/16</classification-symbol><definition-title>Details</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Details in relation to the shredder housing, jam prevention, safety, lubrication of the knives and the like.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Disintegrating by knives or other cutting or tearing members which chop materials into fragments, specially adapted for disintegrating documents</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C18/0007</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C19/00</classification-symbol><definition-title>Other disintegrating devices or methods  (for grain <class-ref scheme="cpc">B02C9/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Crushing by endless flexible members; by collision of materials against a breaking surface or breaking body and/or by friction between the material particles;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Disintegrating devices or methods specially adapted for specific materials;</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Jet mills; pestle and mortar arrangements; mills in which a friction block is towed along the surface; mills provided with vibrators; use of auxiliary physical effects, e.g. ultrasonics, irradiation, cold or heat for disintegrating; grating; crushing mills with screw-shaped crushing means.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Rotors with beater elements </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C13/09</class-ref>, <class-ref scheme="cpc">B02C13/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C19/0068</classification-symbol><definition-title>{specially adapted for breaking-up fluorescent tubes}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Recovery of material from discharge tubes or lamps</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">H01J9/52</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C19/0081</classification-symbol><definition-title>{specially adapted for breaking-up bottles}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Presses specially adapted for consolidating empty containers, e.g. cans</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B30B9/321</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C19/08</classification-symbol><definition-title>Pestle and mortar</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Pill breaking or crushing devices</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A61J7/0007</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C21/00</classification-symbol><definition-title>Disintegrating plant with or without drying of the material  (for grain <class-ref scheme="cpc">B02C9/04</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Disintegrating plants normally with at least two disintegration devices; transportable disintegration plants may be equipped solely with one crusher or disintegration device.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Milling plants specially adapted for grain</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C9/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Cutting implements specially adapted for horticultural purposes, for comminuting plant waste</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A01G3/002</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Forestry; extracting or eliminating stumps by comminuting the tree stumps</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A01G23/067</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Transportable screening plants</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B07B1/005</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Crushing, pulverising or disintegrating apparatus</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">E01C19/05</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">B02C23/00</classification-symbol><definition-title>Auxiliary methods or auxiliary devices or accessories specially adapted for crushing or disintegrating not provided for in preceding groups or not specially adapted to apparatus covered by a single preceding group  ({specially adapted for grain mills <class-ref scheme="cpc">B02C11/00</class-ref>;} separating or sorting in general <class-ref scheme="cpc">B03</class-ref>, <class-ref scheme="cpc">B04</class-ref>, <class-ref scheme="cpc">B07</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Feeding devices, safety devices, disintegrating additives, separating or sorting of material associated with crushing or disintegrating, adding fluid, liquids or gases which are not intended for crushing or disintegrating.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><residual-references><section-title>References out of a residual place</section-title><section-body><paragraph-text type="preamble">Examples of places in relation to which this place is residual:</paragraph-text><table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Feeding devices for gyratory or cone crushers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C2/007</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Feeding devices for roller mills</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C4/286</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Feeding devices specially adapted for grain mills</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C11/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Arrangements for preventing fire or explosion in grain mills</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C11/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Feeding or discharge for mills having rotary beater elements</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C13/286</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Safety devices or measures for mills having rotary beater elements</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C13/31</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Feeding or discharging devices for tumbling mills</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C17/183</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Feed or discharge means for disintegraters with knives or other cutting or tearing members</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C18/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></residual-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B02C25/00</classification-symbol><definition-title>Control arrangements specially adapted for crushing or disintegrating</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Overall control arrangements and methods.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Jaw clearance or overload control for jaw crushers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C1/025</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Crushing or disintegrating by gyratory or cone crushers moved by an eccentric weight</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C2/042</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Crushing or disintegrating by gyratory or cone crushers eccentrically moved with vertical axis and with bowl adjusting or controlling mechanisms</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C2/045</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Adjusting, applying pressure to or controlling the distance between milling members in roller mills</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C4/32</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Driving mechanisms; Roller speed control in roller mills</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C4/42</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Controlling the distance between discs in disc mills</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C7/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Controlling the distance between discs in disc mills adapted for grain</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C7/186</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column>
+              <paragraph-text type="body">Monitoring devices for tumbling mills</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B02C17/1805</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item></definitions>

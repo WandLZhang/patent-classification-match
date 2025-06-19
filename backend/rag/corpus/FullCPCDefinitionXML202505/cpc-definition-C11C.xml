@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2025-01-01" publication-type="official">
+<definition-item date-revised="2025-01-01"><classification-symbol scheme="cpc">C11C</classification-symbol><definition-title>FATTY ACIDS FROM FATS, OILS OR WAXES; CANDLES; FATS, OILS OR FATTY ACIDS BY CHEMICAL MODIFICATION OF FATS, OILS, OR FATTY ACIDS OBTAINED THEREFROM</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><list><list-item><paragraph-text type="body">Methods and apparatus for preparation of fatty acids from fats, fatty oils, or waxes; compositions thereof</paragraph-text></list-item><list-item><paragraph-text type="body">Refining the fatty acids; methods and apparatus thereof</paragraph-text></list-item><list-item><paragraph-text type="body">Fats, oils, or fatty acids by chemical modification of fats, oils, or fatty acids obtained therefrom; methods and apparatus thereof</paragraph-text></list-item><list-item><paragraph-text type="body">Candles; compositions therefor, processes and apparatus for production thereof</paragraph-text></list-item></list></section-body>
+    </definition-statement><relationship><section-title>Relationships with other classification places</section-title><section-body><paragraph-text type="body">The use of fatty acids, fats, oils or waxes for different purposes should be classified in appropriate application places, e.g. using fatty acids esters of higher fatty acids as emulsifiers should relate to <class-ref scheme="cpc">C09K23/06</class-ref>; using fatty acids as active ingredients for mortars, concrete or artificial stone - to <class-ref scheme="cpc">C04B24/04</class-ref>; using oils, fats, or waxes and derivatives thereof in cosmetics or toilet preparations - to <class-ref scheme="cpc">A61K8/92</class-ref>; using fats, fatty oils, ester type waxes, higher fatty acids, oxidized oils or fats as active ingredients for mortars, concrete or artificial stone - to <class-ref scheme="cpc">C04B24/08</class-ref>; using fatty oil as lubricating composition base - to <class-ref scheme="cpc">C10M101/04</class-ref>.</paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C07</class-ref> covers production or working up chemically synthesized substances, e.g. synthetic waxes, whereas subclass <class-ref scheme="cpc">C11C</class-ref> covers synthesis of substances from natural materials.</paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">C11B</class-ref> covers the production, purification/refining, recovery from waste material or working up of oils and fats (e.g. animal or vegetable oils). <class-ref scheme="cpc">C11B</class-ref> does not cover obtaining fatty acid or chemical modification of fats, oils or fatty acid from fat, fatty oils or waxes, which are covered by <class-ref scheme="cpc">C11C</class-ref>.</paragraph-text><paragraph-text type="body"><class-ref scheme="cpc">A23D</class-ref> covers edible oils or fats and compositions thereof, e.g. margarines, shortenings, cooking oils and provides for subject matter relating to working up of finished products. Preservation of edible oils or fats is classified in <class-ref scheme="cpc">A23B20/00</class-ref>.</paragraph-text><paragraph-text type="body">Obtaining or refining fatty acid or chemically modified fat, oils or fatty acids including edible oils or fats are covered by subclass <class-ref scheme="cpc">C11C</class-ref>, e.g. hydrogenating is covered by <class-ref scheme="cpc">C11C3/12</class-ref>.</paragraph-text><paragraph-text type="body">The various uses of fatty acids for different purposes is classified in corresponding places (see references).</paragraph-text></section-body></relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Preparation of carboxylic acid esters</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C07C67/00</class-ref> </paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Separation, purification, stabilisation, or use of additives associated with the preparation of carboxylic acid esters</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C07C67/48</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Esters of carboxylic acids, e.g. fatty acid esters</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C07C69/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Sulfonated fats or oils</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C07C309/62</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Epoxidised fats</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C07D303/42</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Natural vulcanized oils, e.g. factice</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C08H3/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body"> Compositions of oils, fats or waxes; Compositions of derivatives thereof</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C08L91/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Production, refining, preservation of fats</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C11B</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Recovery of fatty acids from waste materials</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C11B13/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Preparation of fats, fatty oils, ester-type waxes, higher fatty acids or oxidized oils or fats using enzymes or microorganisms </paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C12P7/64</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Lighting devices</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">F21</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Fuels from fatty acids (Biodiesel)</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C10L</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Lubricants from fatty acids</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C10M</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Fat </paragraph-text></table-column><table-column><paragraph-text type="body">Esters of glycerol and fatty acids, generally in solid form</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Fatty acid</paragraph-text></table-column><table-column><paragraph-text type="body"> A carboxylic acid consisting of a hydrocarbon chain, which may have unsaturations and a terminal carboxyl group</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Oil </paragraph-text></table-column><table-column><paragraph-text type="body">Fat which is in liquid form</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Esterification</paragraph-text></table-column><table-column><paragraph-text type="body">Reaction between acid and alcohol resulting in ester bond</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Hydrogenation</paragraph-text></table-column><table-column><paragraph-text type="body">Chemical process that adds hydrogen atoms to a molecule</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Isomerizing</paragraph-text></table-column><table-column><paragraph-text type="body">Process by which one molecule is transformed into another molecule which has exactly the same atoms</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Lipid</paragraph-text></table-column><table-column><paragraph-text type="body">Organic compounds based on fatty acids, generally hydrophobic </paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Wax</paragraph-text></table-column><table-column><paragraph-text type="body">Any of a group of substances composed of hydrophobic hydrocarbons, alcohols, fatty acids, and esters that are solid at ambient temperatures.</paragraph-text></table-column></table-row></table></section-body>
+    </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><abbreviations><paragraph-text type="preamble">In patent documents, the following abbreviations are often used:</paragraph-text>
+        
+        <table>
+<table-row><table-column preferred-width="4.98cm"><paragraph-text type="body">FA</paragraph-text></table-column><table-column preferred-width="9.96cm"><paragraph-text type="body">Fatty acid</paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="4.98cm"><paragraph-text type="body">DE</paragraph-text></table-column><table-column preferred-width="9.96cm"><paragraph-text type="body">Degree of esterification </paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="4.98cm"><paragraph-text type="body">FAME</paragraph-text></table-column><table-column preferred-width="9.96cm"><paragraph-text type="body">Fatty Acid Methyl Ester</paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="4.98cm"><paragraph-text type="body">PUFA</paragraph-text></table-column><table-column preferred-width="9.96cm"><paragraph-text type="body">Polyunsaturated Fatty Acid</paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="4.98cm"><paragraph-text type="body">HUFA</paragraph-text></table-column><table-column preferred-width="9.96cm"><paragraph-text type="body">Highly Unsaturated Fatty Acid</paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="4.98cm"><paragraph-text type="body">TG</paragraph-text></table-column><table-column preferred-width="9.96cm"><paragraph-text type="body">Triglyceride</paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="4.98cm"><paragraph-text type="body">MG</paragraph-text></table-column><table-column preferred-width="9.96cm"><paragraph-text type="body">Monoglyceride</paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="4.98cm"><paragraph-text type="body">DG</paragraph-text></table-column><table-column preferred-width="9.96cm"><paragraph-text type="body">Diglyceride</paragraph-text></table-column></table-row></table>
+      </abbreviations></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C1/00</classification-symbol><definition-title>Preparation of fatty acids from fats, fatty oils, or waxes; Refining the fatty acids  (recovery of fatty acids from waste materials <class-ref scheme="cpc">C11B13/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Production of fatty acids in general.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C1/002</classification-symbol><definition-title>{Sources of fatty acids, e.g. natural glycerides, characterised by the nature, the quantities or the distribution of said acids}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Sources selected for production of particular types of fatty acids (e.g. HUFA, PUFA, CLA, branched fatty acids, etc.)</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C1/005</classification-symbol><definition-title>{Splitting up mixtures of fatty acids into their constituents  (processes intended for both fats and fatty acids <class-ref scheme="cpc">C11B7/00</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Processes specifically for separating fatty acids (e.g. stearic from oleic, CLA from C<sub>18</sub> in general)</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C1/007</classification-symbol><definition-title>{using organic solvents}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Recovery and refining of fatty acids specifically.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C1/02</classification-symbol><definition-title>from fats or fatty oils</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Recovery and refining of fatty acids specifically from pre-separated oils/fats in general.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C1/025</classification-symbol><definition-title>{by saponification and release of fatty acids}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Recovery and refining of fatty acids specifically from pre-separated oils/fats using base hydrolysis.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C1/04</classification-symbol><definition-title>by hydrolysis</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Recovery and refining of fatty acids specifically from pre-separated oils/fats using non-base hydrolysis.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C1/045</classification-symbol><definition-title>{using enzymes or microorganisms, living or dead}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Preparation of fatty acids from fatty acid containing material, e.g. hydrolysis of fats or fatty oils using esterase, lipase to prepare fatty acids</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C1/06</classification-symbol><definition-title>using solid catalysts</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">e.g. clays, resins, etc.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C1/08</classification-symbol><definition-title>Refining</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Undefined processes for removing undesired material from fatty acids.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C1/10</classification-symbol><definition-title>by distillation</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Processes for removing undesired material from fatty acids where process depends on change to gaseous phase., e.g. distillation, short path, wiped film</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C1/103</classification-symbol><definition-title>{after or with the addition of chemicals}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">E.g. steam.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C1/106</classification-symbol><definition-title>{inert gases or vapors}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Refining of fatty acids by distillation after or with the addition of expandable fluids, either noble type, e.g. inert gases, inert co-solvents or molecules, e.g.CO2</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C3/00</classification-symbol><definition-title>Fats, oils, or fatty acids by chemical modification of fats, oils, or fatty acids obtained therefrom  (sulfonated fats or oils <class-ref scheme="cpc">C07C309/62</class-ref>; factice <class-ref scheme="cpc">C08H</class-ref>; drying oils <class-ref scheme="cpc">C09F</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Derivative of natural macromolecular compounds</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C08H</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="11.62cm"><paragraph-text type="body">Natural resins; French polish; drying oils</paragraph-text></table-column><table-column preferred-width="3.41cm"><paragraph-text type="body"><class-ref scheme="cpc">C09F</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C3/003</classification-symbol><definition-title>{by esterification of fatty acids with alcohols  (<class-ref scheme="cpc">C11C3/02</class-ref> takes precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Preparation of fatty acid esters where fatty acid containing material is esterified with an alcohol per se.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C3/006</classification-symbol><definition-title>{by oxidation}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fats, oils, or fatty acids obtained by combination with oxidation, e.g. epoxidation, peroxidation, lactones,</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C3/02</classification-symbol><definition-title>by esterification of fatty acids with glycerol</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Preparation of fatty acid esters where fatty acids which are not esterified are esterified with glycerol.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C3/04</classification-symbol><definition-title>by esterification of fats or fatty oils</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Preparation of fatty acid esters where non-free fatty acid containing material is esterified.</paragraph-text></section-body>
+    </definition-statement><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">General esterification reactions (i.e. transesterification, interesterification)</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C3/06</classification-symbol><definition-title>with glycerol</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Preparation of fatty acid esters where non-free fatty acid containing material is esterified with glycerol (e.g. triglyceride reaction with glycerol)</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C3/08</classification-symbol><definition-title>with fatty acids</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Preparation of fatty acid esters where non-free carboxylic acid with a long unbranched aliphatic tail (fatty acid) containing material is esterified with a free carboxylic cid with a long unbranched aliphatic tail (fatty acid ), for example triglyceride reacted with oleic acid </paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C3/10</classification-symbol><definition-title>Ester interchange</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Preparation of fatty acid esters where non-free fatty acid containing material is esterified with esterifed material by swapping one type of acid-alcohol with another acid-alcohol type, for example triglyceride with ethyl stearate, triglyceride with diglyceride, interesterification.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C3/123</classification-symbol><definition-title>{using catalysts based principally on nickel or derivates}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Preparation of fats, oils or fatty acids by hydrogenation using catalysts based principally on nickel or derivates, i.e. any compounds derived from a nickel based compound , e.g. nickel based organometallic</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C3/126</classification-symbol><definition-title>{using catalysts based principally on other metals or derivates}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Preparation of fats, oils or fatty acids by hydrogenation using catalysts based principally on other metals or derivates, i.e. any compounds derived from a other metal based compound , e.g. other metal based organometallic</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C5/00</classification-symbol><definition-title>Candles</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Wick containing products and processes to prepare.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C5/002</classification-symbol><definition-title>{Ingredients}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">E.g. fuel components, blends, additives, etc.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C5/006</classification-symbol><definition-title>{wicks, related accessories}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Material, usually a fiber bundle, that draws, usually by capillary action, the combustible substance to be burned, wick components, and related apparatus, wicks, wicks related accessories of a candle,eg. wick holders, wick clips, etc.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C5/008</classification-symbol><definition-title>{Candles characterised by their form; Composite candles, e.g. candles containing zones of different composition, inclusions, or the like}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">E.g. decorative, aesthetic, novelty, segmented, etc.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C5/02</classification-symbol><definition-title>Apparatus for preparation thereof</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods and apparatus for candle making</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C5/021</classification-symbol><definition-title>{by compressing solid materials in a mould without heating}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Processes using pressure and no external heat</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C5/023</classification-symbol><definition-title>{by casting or melting in a mould}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Processes whereby candle material is poured</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C5/025</classification-symbol><definition-title>{by dipping a wick in a melt}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Processes involving repetitive dipping of wick into molten candle material</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C5/026</classification-symbol><definition-title>{by a continuous process, e.g. by extrusion by conveying a melt together with the wick through a solidification zone}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Processes whereby candle material is continuously injection molded or extruded</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C11C5/028</classification-symbol><definition-title>{by shaping a preform, e.g. forming the butts, trimming}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Processes whereby the candle is carved or compressed into shape from preformed candle.</paragraph-text></section-body>
+    </definition-statement></definition-item></definitions>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">F16T</classification-symbol><definition-title>STEAM TRAPS OR LIKE APPARATUS FOR DRAINING-OFF LIQUIDS FROM ENCLOSURES PREDOMINANTLY CONTAINING GASES OR VAPOURS</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Steam traps defined by devices or special automatic valves for discharging condensate and non condensable gases from live steam with less possible loss or consumption of live steam. Furthermore not only steam traps are covered but also all kind of apparatus or valves and component parts and accessories thereof for draining-off liquids from enclosures, gas lines, steam lines or containers containing gases or vapours. Said valves are controlled thermally (thermostatically, bi-metallically driven valves), by excess or release of pressure (thermodynamically driven valves), by floats (mechanically driven valves) or controlled without moving parts (Venturi-type or labyrinth-type).</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Valves in general are classified in <class-ref scheme="cpc">F16K</class-ref>. Steam engine plants where engine aspects predominate are classified in <class-ref scheme="cpc">F01K</class-ref>, domestic central heating systems using steam are classified in <class-ref scheme="cpc">F24D</class-ref>, heat exchange or heat transfer in general is classified in <class-ref scheme="cpc">F28</class-ref> and the generation of vapour in cores of nuclear reactors is classified in <class-ref scheme="cpc">G21</class-ref>, steam boilers in general in <class-ref scheme="cpc">F22B</class-ref> and devices for superheating steam in <class-ref scheme="cpc">F22G</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Valves for removing gases or air from condensate</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D5/0069</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Degasification of liquids</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D19/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Treatment of water, waste water or sewage by degassing</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C02F1/20</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Devices, e.g. valves, for venting or aerating enclosures</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16K24/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Attention is drawn to the definition of &quot;steam&quot; and &quot;vapour&quot;. In cases where a specific entry for vapour is missing, documents related to special vapours are classified in groups where only &quot;steam&quot; is explicitly mentioned.</paragraph-text>
+      </section-body>
+    </special-rules><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;deaeration&quot; and &quot;degasification&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item></definitions>

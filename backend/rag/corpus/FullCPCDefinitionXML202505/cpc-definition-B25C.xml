@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item date-revised="2016-01-01"><classification-symbol scheme="cpc">B25C</classification-symbol><definition-title>HAND-HELD NAILING OR STAPLING TOOLS; MANUALLY OPERATED PORTABLE STAPLING TOOLS  (for shoemaking <class-ref scheme="cpc">A43D</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Hand-held nailing tools; Nail feeding devices;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Portable devices for holding and guiding nails; Nail dispensers;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Manually operated portable stapling tools; Hand-held power-operated stapling tools; Staple feeding devices therefore;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Accessories for nailing or stapling tools, e.g. supports;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Nail punches;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Nail, spike, and staple extractors;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Nail straightening devices.</paragraph-text>
+               </list-item>
+            </list>
+         </section-body>
+      </definition-statement><relationship>
+         <section-title>Relationships with other classification places</section-title>
+         <section-body>
+            <paragraph-text type="body"> <class-ref scheme="cpc">B25C</class-ref> covers nailing and stapling tools, powered or manually actuated, including all mechanical details relating to these devices (e.g. feeding, safety, driving means).</paragraph-text>
+            <paragraph-text type="body"> <class-ref scheme="cpc">B27F7/00</class-ref> covers stapling machines, including electric staplers usually incorporated in printing/copying machines, and details of said staplers (e.g. clinching mechanism).</paragraph-text>
+         </section-body>
+      </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">For shoemaking</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Nailing or stapling: driving means operated by manual power</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27F7/07</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Nails, Staples</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16B15/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Washers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16B43/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references><glossary-of-terms> <section-title>Glossary of terms</section-title> <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+   
+   <table>
+      <table-row>
+         <table-column>
+            <paragraph-text type="body">Tool</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body">Any portable instrument of operation for performing, assisting the work or facilitating mechanical operations. Tools can be manually operated or by machine tools, such as millers for milling machines. Machine tools (i.e. industrial or NC/CNC) are not considered as tools.</paragraph-text>
+         </table-column>
+      </table-row>
+      <table-row>
+         <table-column>
+            <paragraph-text type="body">Hand tool</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body">Device for performing work on a material or a physical system using only muscular strength.</paragraph-text>
+         </table-column>
+      </table-row>
+      <table-row>
+         <table-column>
+            <paragraph-text type="body">Power-driven tool</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body">Tool powered by a motor, e.g. electric, hydraulic, pneumatic, fluid-pressure.</paragraph-text>
+         </table-column>
+      </table-row>
+      <table-row>
+         <table-column>
+            <paragraph-text type="body">Portable</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body">Capable of being easily carried or conveyed.</paragraph-text>
+         </table-column>
+      </table-row>
+   </table>
+   </section-body> </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B25C1/00</classification-symbol><definition-title>Hand-held nailing tools  (hammers per se <class-ref scheme="cpc">B25D</class-ref>; nailing machines <class-ref scheme="cpc">B27F7/02</class-ref>); Nail feeding devices</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Nail feeding devices;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Safety devices;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Tools operated by manual power;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Tools operated by fluid pressure;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Tools operated by electric power;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Tools operated by combustion pressure.</paragraph-text>
+               </list-item>
+            </list>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Nailing machines</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27F7/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Manually operated portable stapling tools; Hand-held power-operated stapling tools; Staple feeding devices</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25C5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Portable power-driven screw or nut setting or loosening tools </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25B21/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Details of, or accessories for screwdrivers </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25B23/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Hammers per se</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Nailing or stapling; Nailed or stapled work </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27F7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Gaseous fuels; Natural gas; Synthetic natural gas; Liquefied petroleum gas </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C10L3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Adaptations of engines for driving pumps, hand-held tools or electric generators; Portable combinations of engines with engine-driven devices, for hand-held tools</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F02B63/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Electric spark ignition having characteristics not provided for </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F02P15/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Devices for securing together, or preventing relative movement between, constructional elements or machine parts </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16B1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Nails, staples</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16B15/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body"> Details of vessels or of the filling or discharging of vessels - Means for coding or identifying them and/or their contents </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F17C13/003</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body"> Details of vessels or of the filling or discharging of vessels - Arrangement or mounting of valves and Mounting arrangements for vessels </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F17C13/04</class-ref>, <class-ref scheme="cpc">F17C13/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body"> Burners for combustion of a gas, e.g. of a gas stored under pressure as a liquid in association with a gaseous fuel source, e.g. acetylene generator, or a container for liquefied gas </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F23D14/28</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Functional features or details both common to small arms and ordinance</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F41A</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body"> Cartridge ammunition, e.g. separately-loaded propellant charges - cartridge casesmodified for housing an integral firing-cap </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F42B5/36</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Practice or training ammunition - cartridges</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F42B8/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B25C3/00</classification-symbol><definition-title>Portable devices for holding and guiding nails; Nail dispensers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">nail dispensers with provision for holding and guiding nails;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">devices only for holding and guiding nails.</paragraph-text>
+               </list-item>
+            </list>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Nail punches</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25C9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Hand hammers with provision for withdrawing or holding nails or spikes </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25D1/04</class-ref>, <class-ref scheme="cpc">B25D1/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Nails, staples</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16B15/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2016-01-01"><classification-symbol scheme="cpc">B25C5/00</classification-symbol><definition-title>Manually operated portable stapling tools; Hand-held power-operated stapling tools  ({clip clamping hand tools <class-ref scheme="cpc">B25B27/146</class-ref>;} details or components, e.g. casings, bodies, of portable power-driven tools not particularly related to the operation performed <class-ref scheme="cpc">B25F5/00</class-ref>; stapling machines <class-ref scheme="cpc">B27F7/17</class-ref>); Staple feeding devices therefor  (staples <class-ref scheme="cpc">F16B15/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">tools with provision for bending the ends of the staples on to the work;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">tools without provision for bending the ends of the staples on to the work;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">tool driving means;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">staple-feeding devices (e.g. with feeding means, supports for staples or accessories concerning feeding devices)</paragraph-text>
+               </list-item>
+            </list>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Hand-held power-operated stapling tools clip clamping hand tools</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25B27/146</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Details or components of portable power-driven tool not particularly related to the operation performed</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25F5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Stapling machines</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27F7/17</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Staples</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16B15/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Machines, appliances or methods for setting fastener-elements on garments </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A41H37/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Clips, clamps, or like fastening or attaching devices, e.g. for electric installation </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B21D53/26</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Hand tools for applying fasteners </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25B31/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Nailing machines </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27F7/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Stapling machines with provision for bending the ends of the staples on to the work </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27F7/19</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Permanently attaching together sheets, quires or signatures otherwise than by stitching </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B42B5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Labelling fabrics or comparable materials or articles with deformable surface, e.g. paper, fabric rolls, stockings, shoes using staples</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65C5/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Affixing tags </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65C7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Implements for finishing work on buildings </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E04F21/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Nails, staples</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16B15/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Fastening or securing by means not forming part of the material of the label itself by clamps </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G09F3/16</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references><glossary-of-terms> <section-title>Glossary of terms</section-title> <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+   
+   <table>
+      <table-row>
+         <table-column>
+            <paragraph-text type="body">Stapling tools</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body"> tools for driving u-shaped loops, e.g. of metallic material, into a surface to fix an object thereto, or trough layers of relatively thin material to hold them together, e.g. by clinching.</paragraph-text>
+         </table-column>
+      </table-row>
+   </table>
+   </section-body> </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B25C7/00</classification-symbol><definition-title>Accessories for nailing or stapling tools, e.g. supports  (for tools operated by detonation of a cartridge <class-ref scheme="cpc">B25C1/18</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Accessories and supports for nailing or stapling tools.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Accessories and supports for tools operated by detonation of a cartridge </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25C1/18</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Staple feeding devices coordinating with feeding of a second item (i.e. cap feeding means)</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25C5/1693</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Nails or staples formed in integral series but easily separable </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16B15/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Washers or equivalent devices; Other devices for supporting bolt-heads or nuts </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16B43/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body"> Supports for pipes, cables or protective tubing, partly surrounding the pipes, cables or protective tubing and pressing it against a wall or other support </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16L3/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B25C9/00</classification-symbol><definition-title>Nail punches</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Nail punches Tools with provision to drive nails flush with or below a working surface</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B25C11/00</classification-symbol><definition-title>Nail, spike, and staple extractors  (incorporated in hammers <class-ref scheme="cpc">B25D1/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Nail, spike and staple extractors. Manual and power actuated tools that remove nails, spikes, and staples from a working member.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Hammers (incorporating extractors)</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B25D1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Crowbars or levers </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B66F15/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Laying, rebuilding, or taking-up tracks; Tools or machines therefore</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E01B29/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Removing sheet piles bulkheads, piles, mould-pipes or other moulds </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E02D9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Implements for finishing work on buildings for laying flooring </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E04F21/20</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Wrecking of buildings </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E04G23/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Parts, components, construction details, accessories, interior equipment, specially adapted for tents, e.g. guy-line equipment, skirts, thresholds </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E04H15/32</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.93cm">
+                     <paragraph-text type="body">Devices for erecting or removing fences </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.08cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E04H17/26</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B25C13/00</classification-symbol><definition-title>Nail straightening devices</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Nail straightening devices. This covers devices used to correct the shape of nails, with or without extracting means for nails.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item></definitions>

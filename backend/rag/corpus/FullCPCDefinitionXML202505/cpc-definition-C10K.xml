@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">C10K</classification-symbol><definition-title>PURIFYING OR MODIFYING THE CHEMICAL COMPOSITION OF COMBUSTIBLE GASES CONTAINING CARBON MONOXIDE</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Purifying combustible gases containing carbon monoxide, e.g. synthesis gas, e.g. by dust removal, condensing non-gaseous materials, washing, adsorption using solids such as active carbon; including regeneration of purifying material.</paragraph-text>
+        <paragraph-text type="body">Modifying the chemical composition of combustible gases containing carbon monoxide to produce an improved fuel, e.g. by altering the calorific value, by reducing the carbon monoxide content (e.g. to zero), by catalytic treatment or by mixing with gases.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Production of synthesis gas (syngas) from liquid or gaseous hydrocarbons is covered by <class-ref scheme="cpc">C01B3/00</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Production of combustible gases containing carbon monoxide (including producer gas, wood gas, town gas, synthesis gas, manufactured gas and water gas) from solid carbonaceous fuels, is matter for <class-ref scheme="cpc">C10J</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Destructive distillation processes, e.g. carbonisation or coking, and excluding gasification processes, are covered by subclass <class-ref scheme="cpc">C10B</class-ref>. Combinations of gasification and destructive distillation are covered by group <class-ref scheme="cpc">C10J3/58</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Other gaseous fuels, including natural gas, substitute natural gas or synthetic natural gas (SNG) and liquefied petroleum gas (LPG), are covered by group <class-ref scheme="cpc">C10L3/00</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Modifying the properties of any distillation gases inside the oven is covered by subclass <class-ref scheme="cpc">C10B</class-ref></paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table><table-row>
+            <table-column>
+              <paragraph-text type="body">Isolation of hydrogen from mixtures containing hydrogen and carbon monoxide</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C01B3/50</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table><table-row>
+            <table-column>
+              <paragraph-text type="body">Multi-step process for production of hydrogen or of gaseous mixtures containing a substantial proportion of hydrogen</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C01B3/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Multi-step process for preparation of compounds having hydroxy or O-metal groups bound to a carbon atom not belonging to a six-membered aromatic ring by reduction of oxides of carbon exclusively with hydrogen or hydrogen-containing gases, one step being the formation of initial mixture of carbon oxides and hydrogen for synthesis</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C07C29/1518</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Multi-step process for production of liquid hydrocarbon mixtures of undefined composition from oxides of carbon</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C10G2/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Plants with an integrated combined cycle, having more than one engine delivering power externally to the plant</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F01K23/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Plant characterised by the engines using gaseous fuel generated in the plant from solid fuel</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F02B43/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Gas turbine plant with separate fuel gasifiers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F02C3/28</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Carburettors for supplying combustible mixtures to internal combustion engines</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F02M</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+        </table></section-body></application-references><residual-references><section-title>References out of a residual place</section-title><section-body><paragraph-text type="preamble">Examples of places in relation to which this place is residual:</paragraph-text><table><table-row>
+            <table-column>
+              <paragraph-text type="body">Plants with an integrated combined cycle, having more than one engine delivering power externally to the plant</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="not-mapped">01K23/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Separation of gases or vapour by diffusion</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D53/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Multi-step process for production of hydrogen or of gaseous mixtures containing a substantial proportion of hydrogen</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C01B3/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Multi-step process for preparation of ammonia</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C01C1/0405</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Multi-step process for preparation of hydrocarbons from carbon monoxide with hydrogen</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C07C1/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Multi-step process for preparation of compounds having hydroxy or O-metal groups bound to a carbon atom not belonging to a six-membered aromatic ring by reduction of oxides of carbon exclusively with hydrogen or hydrogen-containing gases, one step being the formation of initial</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C07C29/1518</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Preparation of urea</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C07C273/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Multi-step process for production of liquid hydrocarbon mixtures of undefined composition from oxides of carbon</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C10G2/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Production of synthetic natural gas</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C10L3/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Plant characterised by the engines using gaseous fuel generated in the plant from solid fuel</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F02B43/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Gas turbine plant with separate fuel gasifiers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F02C3/28</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Combination of fuel cell with means for gasification of solid fuel</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">H01M8/0643</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table></section-body></residual-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Gas washers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D47/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Chemical processes such as purification of gases or modification of the chemical composition thereof, applied to compositions other than combustible gases containing carbon monoxide</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D53/00</class-ref>, <class-ref scheme="cpc">B01J19/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Isolation of inorganic compounds from gaseous mixtures which may include carbon monoxide</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C07C</class-ref>, <class-ref scheme="cpc">C01B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Processes of modifying the properties of distillation gases inside an oven</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C10B57/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Natural gas; Synthetic natural gas obtained by processes not covered by <class-ref scheme="cpc">C10G</class-ref>, <class-ref scheme="cpc">C10K3/02</class-ref> or <class-ref scheme="cpc">C10K3/04</class-ref></paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"> <class-ref scheme="cpc">C10L3/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In the absence of an indication to the contrary, classification is made in the last appropriate place (&quot;last place rule&quot;)</paragraph-text>
+        <paragraph-text type="body">When necessary, multiple classification symbols have to be added to cover all the purification steps.</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Combustible gas containing carbon monoxide</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">syngas, synthesis gas, coke oven gas, pyrolysis gas, carbonisation gas</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><abbreviations><paragraph-text type="preamble">In patent documents, the following abbreviations are often used:</paragraph-text>
+  
+  <table>
+    <table-row>
+      <table-column>
+        <paragraph-text type="body">COG</paragraph-text>
+      </table-column>
+      <table-column>
+        <paragraph-text type="body">Coke Oven Gas</paragraph-text>
+      </table-column>
+    </table-row>
+  </table>
+  </abbreviations></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10K1/001</classification-symbol><definition-title>{working-up the condensates  (recovering of NH<sub>3</sub> and NH<sub>4</sub> salts  <class-ref scheme="cpc">C01C1/00</class-ref>; working-up or purifying tars and tar-oils <class-ref scheme="cpc">C10C1/00</class-ref>)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Working-up or purifying tars and tar-oils</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C10C1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10K1/02</classification-symbol><definition-title>Dust removal</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Filters, i.e. particle separators, or filtering processes specially modified for separating dispersed particles from gases or vapours</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D46/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Separating dispersed particles from gases, air or vapours by liquid as separating agent</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D47/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Apparatus using free vortex flow, e.g. cyclones</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B04C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10K1/022</classification-symbol><definition-title>{by baffle plates}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Separating dispersed particles from gases or vapours by inertia</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D45/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10K1/024</classification-symbol><definition-title>{by filtration}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Filters, i.e. particle separators, or filtering processes specially modified for separating dispersed particles from gases or vapours</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D46/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Separating dispersed particles from gases, air or vapours by liquid as separating agent</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D47/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Apparatus using free vortex flow, e.g. cyclones</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B04C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10K1/026</classification-symbol><definition-title>{by centrifugal forces  (cyclones <class-ref scheme="cpc">B04C</class-ref>)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Apparatus using free vortex flow, e.g. cyclones, per se</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B04C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Separating dispersed particles from gases or vapours by centrifugal force</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D45/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10K1/04</classification-symbol><definition-title>by cooling to condense non-gaseous materials {(<class-ref scheme="cpc">C10K1/001</class-ref> takes precedence)}</definition-title><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">C10K1/001</class-ref> takes precedence</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10K1/06</classification-symbol><definition-title>combined with spraying with water {(<class-ref scheme="cpc">C10K1/001</class-ref> takes precedence)}</definition-title><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">C10K1/001</class-ref> takes precedence</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10K1/08</classification-symbol><definition-title>by washing with liquids; Reviving the used wash liquors  (gas washers <class-ref scheme="cpc">B01D</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Acid gas removal, e.g. H2S, HCN, CO2, by absorption process, e.g. amine scrubbing</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Gas washers per se</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D47/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Separation of gases or vapours by absorption, such as acid gas removal</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D53/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10K1/18</classification-symbol><definition-title>hydrocarbon oils {(<class-ref scheme="cpc">C10K1/165</class-ref> takes precedence)}</definition-title><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">C10K1/165</class-ref> takes precedence</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10K1/20</classification-symbol><definition-title>by treating with solids; Regenerating spent purifying masses {(separation by adsorption <class-ref scheme="cpc">B01D53/02</class-ref>; separation by chemical reaction <class-ref scheme="cpc">B01D53/34</class-ref>; refining of hydrocarbon oils with acids <class-ref scheme="cpc">C10G17/02</class-ref>, <class-ref scheme="cpc">C10G27/02</class-ref>, <class-ref scheme="cpc">C10G29/12</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Adsorption of impurities</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Separation of gases by adsorption, e.g. PSA</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D53/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Separation of gases by chemical reaction </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01D53/34</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Adsorbents per se</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01J20/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10K1/32</classification-symbol><definition-title>with selectively adsorptive solids, e.g. active carbon</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Adsorbents per se</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B01J20/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10K1/34</classification-symbol><definition-title>by catalytic conversion of impurities to more readily removable materials</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">e.g. carbonyl sulfide (COS) hydrolysis</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">C10K3/00</classification-symbol><definition-title>Modifying the chemical composition of combustible gases containing carbon monoxide to produce an improved fuel, e.g. one of different calorific value, which may be free from carbon monoxide</definition-title><glossary-of-terms> <section-title>Glossary of terms</section-title> <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+  
+  <table>
+    <table-row>
+      <table-column>
+        <paragraph-text type="body">Calorific value</paragraph-text>
+      </table-column>
+      <table-column>
+        <paragraph-text type="body">Thermal energy content</paragraph-text>
+      </table-column>
+    </table-row>
+  </table>
+  </section-body> </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C10K3/04</classification-symbol><definition-title>reducing the carbon monoxide content {, e.g. water-gas shift [WGS]}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Production of hydrogen or of gaseous mixtures containing a substantial proportion of hydrogen by reaction of water vapour with carbon monoxide, water gas-shift reaction or WGS</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">C01B3/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

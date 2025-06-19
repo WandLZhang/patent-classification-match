@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-01-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">E01F</classification-symbol><definition-title>ADDITIONAL WORK, SUCH AS EQUIPPING ROADS OR THE CONSTRUCTION OF PLATFORMS, HELICOPTER LANDING STAGES, SIGNS, SNOW FENCES, OR THE LIKE</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Additional equipment for roads or railways, including platforms, refuge islands, drainage means of the sub-base of roads or ballastway of railways, arrangements protecting against snow or landslides, arrangements against traffic noise.</paragraph-text>
+    <paragraph-text type="body">Landing stages for helicopters.</paragraph-text>
+    <paragraph-text type="body">Arrangements for facilitating the use of roads, including road signs, traffic signals, arrangement for enforcing caution, arrangements for obstructing or restricting traffic, safety arrangements for errant vehicles or against vehicular impact.</paragraph-text>
+    </section-body></definition-statement><relationship><section-title>Relationships with other classification places</section-title><section-body>
+    <paragraph-text type="body">The structure and construction of railways and roads as such is covered by the respective subclasses <class-ref scheme="cpc">E01B</class-ref> and <class-ref scheme="cpc">E01C</class-ref>.</paragraph-text>
+    <paragraph-text type="body">Ground installations for aircraft in general are covered by the subclass <class-ref scheme="cpc">B64F</class-ref>.</paragraph-text>
+    <paragraph-text type="body">Systems for traffic control or monitoring are covered by the subclass <class-ref scheme="cpc">G08G</class-ref>.</paragraph-text>
+    <paragraph-text type="body">Displaying and advertising signs are covered by the subclass <class-ref scheme="cpc">G09F</class-ref>.</paragraph-text>
+    </section-body></relationship></definition-item>
+<definition-item date-revised="2016-02-01"><classification-symbol scheme="cpc">E01F1/00</classification-symbol><definition-title>Construction of {station or like} platforms or refuge islands {or like islands in traffic areas, e.g. intersection or filling-station islands} (general arrangement {of filling stations <class-ref scheme="cpc">B60S5/02</class-ref>,} of railway platforms {<class-ref scheme="cpc">B61B1/02</class-ref>, of traffic-channelling island at intersections <class-ref scheme="cpc">E01C1/02</class-ref> }){; Kerbs specially adapted for islands in traffic areas  (specially adapted for guiding, marking or signalling <class-ref scheme="cpc">E01F9/535</class-ref>, for illumination <class-ref scheme="cpc">E01F9/547</class-ref>; lane separators diverting traffic past safety zones <class-ref scheme="cpc">E01F9/588</class-ref>)}</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Platforms for e.g. railway or bus stations.</paragraph-text>
+    <paragraph-text type="body">Refuge islands in traffic areas and kerbs specially adapted for such islands.</paragraph-text>
+    <paragraph-text type="body">Filling station islands.</paragraph-text>
+    <paragraph-text type="body">Portable or retractable platforms for traffic officers.</paragraph-text>
+    </section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+    <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+    <table><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Kerbs informing road users</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01F9/535</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Traffic lane delineators</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01F9/588</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">General arrangement of filling stations</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B60S5/02</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">General arrangement of railway stations and platforms </paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B61B1/02</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Horizontal loading or unloading platforms</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B65G69/22</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Traffic islands in roads</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01C1/02</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Waiting shelters for bus stops</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E04H1/1211</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      
+      
+      
+      
+      
+      
+      
+    </table>
+    </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01F3/00</classification-symbol><definition-title>Landing stages for helicopters, e.g. located above buildings  (layout of airfields <class-ref scheme="cpc">B64F</class-ref>; buildings or like structures for special purposes <class-ref scheme="cpc">E04H</class-ref>)</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Landing stages for helicopters located on the ground, over the water surface or above buildings</paragraph-text>
+    </section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+    <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+    <table><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Layout of airfields</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B64F1/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Paving of take-off areas for vertically starting aircraft</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01C9/008</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Buildings for storing aircraft</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E04H6/44</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      
+      
+      
+    </table>
+    </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01F5/00</classification-symbol><definition-title>Draining the sub-base {, i.e. subgrade or ground-work, e.g. embankment} of roads or {of the} ballastway of railways {or draining-off road surface or ballastway drainage} by trenches, culverts, or conduits {or other specially adapted means} ({drainage of the ballastway of railways <class-ref scheme="cpc">E01B11/00</class-ref>; surface drainage of roads <class-ref scheme="cpc">E01C11/224</class-ref>; drainage of soil <class-ref scheme="cpc">E02B11/00</class-ref>;} underground drainage <class-ref scheme="cpc">E02D</class-ref>; conduits for sewerage <class-ref scheme="cpc">E03F</class-ref>)</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Draining of the road foundation, which includes the road sub-base and subgrade or ground work (e.g. embankment), and draining of the ballastway of railways by using trenches, culverts, conduits or other specially adapted means.</paragraph-text>
+    <paragraph-text type="body">Culverts, head structures for culverts or for drainage conduit outlets in slopes.</paragraph-text>
+    </section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+    <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+    <table><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Drainage of the ballastway of railways in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01B1/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Surface drainage of roads</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01C11/224</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Drainage of soil</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E02B11/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Underground drainage</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E02D</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Underground siphons</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E02D29/08</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Conduits for sewerage</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E03F</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Tunnels or galleries</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E21D</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Pipes in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">F16L</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      
+      
+      
+      
+      
+      
+      
+      
+    </table>
+    </section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2016-02-01"><classification-symbol scheme="cpc">E01F7/00</classification-symbol><definition-title>Devices affording protection against snow, sand drifts, side-wind effects, snowslides, avalanches or falling rocks  (permanently installed heating or blowing devices for roads <class-ref scheme="cpc">E01C11/26</class-ref>); Anti-dazzle arrangements {; Sight-screens for roads, e.g. to mask accident site  (<class-ref scheme="cpc">E01F8/00</class-ref> takes precedence)}</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Snow fences, sand fences.</paragraph-text>
+    <paragraph-text type="body">Devices specially adapted for protecting against wind, e.g. screens, deflectors or attenuators at tunnel or lock entrances.</paragraph-text>
+    <paragraph-text type="body">Devices affording protection against snowslides, avalanches or falling rocks, e.g. avalanche preventing structures, galleries, nets, rock traps.</paragraph-text>
+    </section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+    <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+    <table><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Securing signs to safety barriers</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01F9/669</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Crash barriers with nets</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01F15/06</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Protecting plants</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">A01G13/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Securing of slopes or inclines</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E02D17/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Snow traps for roofs</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E04D13/10</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Screens for beach use</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E04H15/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Fences in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E04H17/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      
+      
+      
+      
+      
+      
+      
+    </table>
+    </section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2014-12-01"><classification-symbol scheme="cpc">E01F8/00</classification-symbol><definition-title>Arrangements for absorbing or reflecting air-transmitted noise from road or railway traffic  (ground installations for reducing aircraft noise <class-ref scheme="cpc">B64F1/26</class-ref>; general building constructions for absorbing or reflecting noise, noise absorption or reflection for buildings <class-ref scheme="cpc">E04B1/74</class-ref>)</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Wall type noise barriers.</paragraph-text>
+    <paragraph-text type="body">Arrangements including constructions for generation of phase shifting.</paragraph-text>
+    <paragraph-text type="body">Noise barriers specially adapted for sustaining vegetation or for accommodating plants.</paragraph-text>
+    <paragraph-text type="body">Embankment-type or crib-type noise barriers.</paragraph-text>
+    <paragraph-text type="body">Retaining walls specially adapted to absorb or reflect noise.</paragraph-text>
+    </section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+    <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+    <table><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Receptacles for cultivation of plants</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">A01G9/02</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Ground installations for reducing aircraft noise</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B64F1/26</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Securing slopes or inclines</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E02D17/20</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Retaining or protecting walls</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E02D29/02</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">General building constructions for absorbing or reflecting noise, noise absorption or reflection for buildings</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E04B1/74</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Building elements for planting walls</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E04C1/395</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Solar cells specially adapted to be used in motorway sound barriers</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">H02S20/23</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      
+      
+      
+      
+      
+      
+      
+    </table>
+    </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01F9/00</classification-symbol><definition-title>Arrangement of road signs or traffic signals; Arrangements for enforcing caution  (for obstructing or restricting traffic <class-ref scheme="cpc">E01F13/00</class-ref>)</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Traffic guidance, warning or control posts or bollards, delineator posts, milestones.</paragraph-text>
+    <paragraph-text type="body">Supports for signs or signals, e.g. posts, frames, gantries.</paragraph-text>
+    <paragraph-text type="body">Free-standing signs or signals, e.g. traffic cones, foldable or inflatable devices.</paragraph-text>
+    <paragraph-text type="body">Devices intended to be readily removable, e.g. for insertion into road-stud sockets.</paragraph-text>
+    <paragraph-text type="body">Storing, transporting, placing or retrieving portable devices.</paragraph-text>
+    <paragraph-text type="body">Arrangements for fastening signs or signals to safety barriers or the like.</paragraph-text>
+    <paragraph-text type="body">Road surface markings, also including methods of forming, installing or applying markings in, on or to paving.</paragraph-text>
+    <paragraph-text type="body">Kerbs or road edgings specially adapted for informing road users, e.g. illuminated.</paragraph-text>
+    <paragraph-text type="body">Arrangements specially adapted for audible or vibrational signalling, e.g. rumble strips, or for enforcing reduced speed, e.g. speed bumps.</paragraph-text>
+    <paragraph-text type="body">Traffic studs, marking blocks, also including methods of forming or installing same in or on the road surface.</paragraph-text>
+    <paragraph-text type="body">Traffic lines, lane delineators for discouraging but not preventing crossing, movable traffic lines for repeated use at different locations.</paragraph-text>
+    </section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+    <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+    <table><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Barrier bollards</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01F13/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Buffer bollards</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01F15/003</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Markings specially adapted for playing grounds</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">A63C19/06</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Portable emergency signal devices on board vehicles, e.g. warning triangles</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B60Q7/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Reflecting or signal paints</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">C09D5/004</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Devices for applying prefabricated markings on finished paving</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01C23/18</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Posts or poles in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E04H12/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Post holders to be placed on the ground in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E04H12/2238</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Boundary markers in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">G01C15/04</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Portable traffic signalling devices</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">G08B5/006</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Means for attaching signs to a supporting structure in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">G09F7/18</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Adjustably mounting of signs in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">G09F7/20</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Rotatably or swingably mounting of signs in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">G09F7/22</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </table>
+    </section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2017-01-01"><classification-symbol scheme="cpc">E01F9/696</classification-symbol><definition-title>Overhead structures, e.g. gantries; Foundation means specially adapted therefor</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table><table-row>
+        <table-column>
+          <paragraph-text type="body">Foundations in general</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">E02D</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      
+    </table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01F11/00</classification-symbol><definition-title>{Road engineering aspects of} Embedding pads or other sensitive devices in paving or other road surfaces {, e.g. traffic detectors, vehicle-operated pressure-sensitive actuators, devices for monitoring atmospheric or road conditions} (pressure-sensitive elements <class-ref scheme="cpc">G01L</class-ref>; traffic control systems <class-ref scheme="cpc">G08G</class-ref>)</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Road engineering aspects of embedding pads or other sensitive devices in paving or other road surfaces, e.g. traffic detectors, vehicle-operated pressure-sensitive actuators, devices for monitoring atmospheric or road conditions.</paragraph-text>
+    </section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+    <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+    <table><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Pressure-sensitive elements as such </paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">G01L</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Traffic control systems </paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">G08G</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      
+      
+    </table>
+    </section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2016-02-01"><classification-symbol scheme="cpc">E01F13/00</classification-symbol><definition-title>Arrangements for obstructing or restricting traffic, e.g. gates, barricades  (for railway crossings <class-ref scheme="cpc">B61L</class-ref>){; Preventing passage of vehicles of selected category or dimensions  (<class-ref scheme="cpc">E01F13/12</class-ref>, <class-ref scheme="cpc">E01F13/126</class-ref> take precedence)}</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Portable barriers, pedestrian barriers, barriers for channelling or controlling crowds</paragraph-text>
+    <paragraph-text type="body">Removable barriers with permanently installed base members.</paragraph-text>
+    <paragraph-text type="body">Barriers with flexible members, e.g. cords</paragraph-text>
+    <paragraph-text type="body">Devices movable to allow or prevent passage, with obstructing members situated on, flush with, or below the traffic surface, e.g. with inflatable members on the surface</paragraph-text>
+    <paragraph-text type="body">Devices with obstructing members moving in translatory motion, e.g. telescopic barriers posts, or with members moving by swinging them into a given position, e.g. swinging gates, tiltable sections of the road surface, tiltable posts.</paragraph-text>
+    <paragraph-text type="body">Vehicle barriers adapted for allowing passage in one direction only</paragraph-text>
+    <paragraph-text type="body">Arrangements for forcibly arresting or disabling vehicles, e.g. spiked mats.</paragraph-text>
+    </section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+    <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+    <table><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Retractable speed humps</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01F9/529</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Portable signs co-operating with permanent base</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01F9/677</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Safety means for railroad crossing traffic, e.g. gates for level crossings </paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B61L29/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Corrals</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E04H17/18</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Gates or doors for allowing passage through fences, barriers or the like</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E06B11/02</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      
+      
+      
+      
+      
+    </table>
+    </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E01F15/00</classification-symbol><definition-title>Safety arrangements for slowing, redirecting or stopping errant vehicles, e.g. guard posts or bollards; Arrangements for reducing damage to roadside structures due to vehicular impact  (arrangements for fastening signs or signals to safety barriers or the like <class-ref scheme="cpc">E01F9/669</class-ref>; for forcibly arresting vehicles <class-ref scheme="cpc">E01F13/00</class-ref>)</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Individual devices arranged in spaced relationship, e.g. buffer bollards.</paragraph-text>
+    <paragraph-text type="body">Continuous barriers extending along roads or between traffic lanes, including barriers essentially made of longitudinal beams or rigid strips, essentially made of cables, nettings or the like, essentially made of walls or wall-like elements.</paragraph-text>
+    <paragraph-text type="body">Movable lane separating barriers, e.g. shiftable barriers.</paragraph-text>
+    <paragraph-text type="body">Arrangements specially adapted for local protection, e.g. for bridge piers, for traffic islands.</paragraph-text>
+    </section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+    <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+    <table><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Arrangements for forcibly arresting vehicles</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01F13/12</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Guard barriers on road-bridges</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E01D19/103</class-ref></paragraph-text>
+        </table-column>
+      </table-row><table-row>
+        <table-column preferred-width="9.29cm">
+          <paragraph-text type="body">Fencing in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.74cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">E04H17/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+      
+      
+      
+    </table>
+    </section-body></limiting-references></references></definition-item></definitions>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">F28B</classification-symbol><definition-title>STEAM OR VAPOUR CONDENSERS  (condensation of vapours <class-ref scheme="cpc">B01D5/00</class-ref>; steam engine plants having condensers <class-ref scheme="cpc">F01K</class-ref>; liquefaction of gases <class-ref scheme="cpc">F25J</class-ref>; details of heat-exchange and heat-transfer arrangements of general application <class-ref scheme="cpc">F28F</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">As specified in the head notes of the field <class-ref scheme="cpc">F28</class-ref>, an apparatus using heat exchange for specific purposes is classified either in subclass <class-ref scheme="cpc">F28B</class-ref> or in the appropriate subclasses of, for example, classes <class-ref scheme="cpc">F22</class-ref>, <class-ref scheme="cpc">F24</class-ref>, <class-ref scheme="cpc">F25</class-ref>, <class-ref scheme="cpc">F26</class-ref>, or <class-ref scheme="cpc">F27</class-ref>; or in <class-ref scheme="cpc">F28C</class-ref>, <class-ref scheme="cpc">F28D</class-ref>.</paragraph-text>
+            <paragraph-text type="body">The subclass <class-ref scheme="cpc">F28B</class-ref> covers heat exchangers for converting steam or vapour from its gaseous to its liquid state: typically, a steam condenser has a function to condense exhausted steam from a steam turbine for reuse in the cycle. Steam condensers are widely used in steam turbine power plants. Usually, steam condensers are operated at a pressure below atmospheric pressure, to increase the plant efficiency.</paragraph-text>
+            <paragraph-text type="body">However, <class-ref scheme="cpc">F28B</class-ref> does not cover condensers used for separation, nor condensers for refrigeration systems.</paragraph-text>
+            <paragraph-text type="body">In this subclass, the condenser is not characterised by a mixture of vapours to be separated, nor by a separation process, nor by a specific cooperation with steam engine plants or refrigeration systems:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">in the subclass <class-ref scheme="cpc">B01D</class-ref>, condensers are involved in a process of separating chemical compounds of a mixture of at least 2 vapours, or a vaporised mixture or solution, e.g. vaporised sea water (the term &quot;vapours&quot; is in the plural);</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">in the subclass <class-ref scheme="cpc">F25J</class-ref>, condensers are also involved in separating processes , but operates under pressure and cryogenic temperatures of liquified gaseous mixtures;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">in the subclass <class-ref scheme="cpc">F25B</class-ref>, condensers are used in cooling cycles and are characterised by features related to the refrigerant, e.g. refrigerant subcooler or receiver;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">in the subclass <class-ref scheme="cpc">F01K</class-ref>, condensers are used in steam enginer plants and are characterised by features related to the cycle, e.g. Rankine cycle;</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">Constructional features related to the heat transfer are additionally classified in <class-ref scheme="cpc">F28D</class-ref> / <class-ref scheme="cpc">F28F</class-ref>.</paragraph-text>
+         </section-body>
+      </definition-statement><relationship>
+         <section-title>Relationships with other classification places</section-title>
+         <section-body>
+            <paragraph-text type="body">Combination of condensers are classified in <class-ref scheme="cpc">F28B7/00</class-ref>. However individual condensers are additionally classified according to their type if relevant , e.g. <class-ref scheme="cpc">F28B1/02</class-ref>, <class-ref scheme="cpc">F28B1/06</class-ref>.</paragraph-text>
+         </section-body>
+      </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Condensation of vapours; recovering volatile solvents by condensation</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B01D5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Separation of gases or vapours </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B01D53/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Drying gases or vapours</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B01D53/26</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Condensation during pre-treatment of gases prior to electrostatic precipitation of dispersed particles </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B03C3/014</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Purifying combustible gases containing carbon monoxide by cooling to condense non-gaseous materials </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="not-mapped">C01K1/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Condensing arrangements in domestic laundry driers </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D06F58/24</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Plants characterised by condensers arranged to co-operate with engines </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F01K9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Plants characterised by engines being structurally combined with condensers </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F01K11/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Fluid heaters having heat-generating means specially adapted for extracting latent heat from flue gases by means of condensation</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F24H8/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Condensers for refrigeration systems</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F25B39/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Processes or apparatus for liquefying gases or gaseous mixtures</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F25J1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Separating the constituents of gaseous mixtures involving the use of liquefaction by partial condensation</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F25J3/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28B1/00</classification-symbol><definition-title>Condensers in which the steam or vapour is separate from the cooling medium by walls, e.g. surface condenser</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Indirect contact condensers, also called surface condensers, e.g. using liquid as cooling medium or using air as cooling medium.</paragraph-text>
+            <paragraph-text type="body">Liquid cooled condensers are classified in <class-ref scheme="cpc">F28B1/02</class-ref> </paragraph-text>
+            <paragraph-text type="body">Example of a water cooled condenser: US 6128901 A</paragraph-text>
+            <paragraph-text type="body">Steam from a low pressure turbine enters a tube and shell condenser through the steam inlet (1) at the top of the condenser and is distributed throughout the shell side. Cooling water is pumped through water inlet (2) in the inlet water box (3) and is distributed throughout the tubes in the tube bundles</paragraph-text>
+            <paragraph-text type="body"> <media id="media0.png" file-name="cpc-def-F28B-0000.png" type="png" preferred-width="5.5cm" preferred-height="5.74cm"/> </paragraph-text>
+            <paragraph-text type="body">Air cooled condensers are classified in <class-ref scheme="cpc">F28B1/06</class-ref> </paragraph-text>
+            <paragraph-text type="body">Example of an air cooled condenser: US 2010263840 A</paragraph-text>
+            <paragraph-text type="body">The condenser (20) includes a steam delivery manifold (22), first (24) and second (26) set of bundles of elongated tubes, which are supported on a tent-shaped or V-shaped frame structure (28). The condenser(20) further includes an axial fan (30) directing ambient air upwardly through the first and second sets of tubes (24 ,26).</paragraph-text>
+            <paragraph-text type="body"> <media id="media1.png" file-name="cpc-def-F28B-0001.png" type="png" preferred-width="6.77cm" preferred-height="9.14cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Heat exchangers in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Details of heat exchange</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28F</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28B3/00</classification-symbol><definition-title>Condensers in which the steam or vapour comes into direct contact with the cooling medium</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Direct contact condensers</paragraph-text>
+            <paragraph-text type="body">Direct contact condensers, in which a cooling liquid is injected into the steam are classified in <class-ref scheme="cpc">F28B3/04</class-ref> </paragraph-text>
+            <paragraph-text type="body">Example: US 3834133 A</paragraph-text>
+            <paragraph-text type="body">Water introduced into the partition (20) via the pipes (14,16) is sprayed through the openings (22) outwardly across the housing (10) and in the path of the steam passing therethrough. Due to the resulting transfer of heat from the steam to the water, steam will be condensed, with the mixture of water and condensate falling into a well (24).</paragraph-text>
+            <paragraph-text type="body"> <media id="media2.png" file-name="cpc-def-F28B-0002.png" type="png" preferred-width="6.63cm" preferred-height="8.61cm"/> </paragraph-text>
+            <paragraph-text type="body">Direct contact condensers, in which steam is injected into the cooling liquid are classified in <class-ref scheme="cpc">F28B3/06</class-ref> </paragraph-text>
+            <paragraph-text type="body">Example: US 4304198 A</paragraph-text>
+            <paragraph-text type="body">Steam is passed through a blow-off pipe (11) into a closed vessel (14) having a water space (12) and a gas space (13). A nest of heat exchanger tubes (15) extends through the water space (12) in a heat transfer relationship to cool the water space</paragraph-text>
+            <paragraph-text type="body"> <media id="media3.png" file-name="cpc-def-F28B-0003.png" type="png" preferred-width="4.87cm" preferred-height="7.62cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Direct contact heat exchangers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28B5/00</classification-symbol><definition-title>Condensers employing a combination of the methods covered by main groups <class-ref scheme="cpc">F28B1/00</class-ref> and <class-ref scheme="cpc">F28B3/00</class-ref>; Other condensers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Condensers with cooling by both indirect and direct contact with a cooling medium.</paragraph-text>
+            <paragraph-text type="body">Example: US 6189871 B</paragraph-text>
+            <paragraph-text type="body">In the cooling chamber (4) are nozzles (6) which inject cool condensate in the form of water drops into the chamber. At the end of the cooling chamber (4), the steam passes through the orifices of a perforated diaphragm (8) which brings about a regular distribution of the cooled steam over the cooling tubes in the tube bundles (10).</paragraph-text>
+            <paragraph-text type="body"> <media id="media4.png" file-name="cpc-def-F28B-0004.png" type="png" preferred-width="6.63cm" preferred-height="5.21cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28B7/00</classification-symbol><definition-title>Combinations of two or more condensers, e.g. provision of reserve condenser</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combination of condensers.</paragraph-text>
+            <paragraph-text type="body">Example: US 4301861 A</paragraph-text>
+            <paragraph-text type="body">The duct (10) has a first branch (12) leading to a surface type steam condenser (13) in which a portion of the steam is condensed by means of a medium cooled within a wet type cooling tower (16), and a second branch (14) leading to a dry type cooling tower (15) in which the remaining portion of the steam is condensed.</paragraph-text>
+            <paragraph-text type="body"> <media id="media5.png" file-name="cpc-def-F28B-0005.png" type="png" preferred-width="9.95cm" preferred-height="4.61cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28B9/00</classification-symbol><definition-title>Auxiliary systems, arrangements, or devices</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Details of condensers.</paragraph-text>
+            <paragraph-text type="body">Means for feeding steam or vapours are classified in <class-ref scheme="cpc">F28B9/02</class-ref> </paragraph-text>
+            <paragraph-text type="body">Example: US 2005161094 A</paragraph-text>
+            <paragraph-text type="body">The steam drainage line (5) has air-cooled condensation elements connection to a main steam drainage line (10) via individual branch lines (6), with the cross-section of the main steam drainage line reduced in stages, for reducing pressure losses by allowing gradual reduction in length of branch lines.</paragraph-text>
+            <paragraph-text type="body"> <media id="media6.png" file-name="cpc-def-F28B-0006.png" type="png" preferred-width="8.53cm" preferred-height="3.68cm"/> </paragraph-text>
+            <paragraph-text type="body">Means for feeding cooling liquid are classified in <class-ref scheme="cpc">F28B9/04</class-ref> </paragraph-text>
+            <paragraph-text type="body">Example: US 2003061814 A</paragraph-text>
+            <paragraph-text type="body">The steam surface condenser system (15) includes a make-up water header (19) which introduces make-up water into a condenser steam dome (17). The make-up water header is connected to a make-up water heater bundle (11) and provided with self-adjusting spray nozzles (16). The nozzles spray the make-up water in the direction counter-current to the flow of turbine exhaust steam in the form of fine droplets.</paragraph-text>
+            <paragraph-text type="body"> <media id="media7.png" file-name="cpc-def-F28B-0007.png" type="png" preferred-width="11.24cm" preferred-height="9.02cm"/> </paragraph-text>
+            <paragraph-text type="body">Means for recooling the cooling liquid are classified in <class-ref scheme="cpc">F28B9/06</class-ref> </paragraph-text>
+            <paragraph-text type="body">Example: US 3851702 A</paragraph-text>
+            <paragraph-text type="body">The steam of the turbine (1) flows into the mixing condenser (2) where it is condensed by means of injected condensate which is supplied through the pipe conduit (9). The condensed steam is transferred in the form of a condensate by the circulation pump (3) through the lower branch of the pipe conduit (9) to the air cooled surface heat exchangers (4). The warm condensate traverses the pipes of the latter and returns through the upper branch of the pipe conduit (9) into the mixing condenser 2 .</paragraph-text>
+            <paragraph-text type="body"> <media id="media8.png" file-name="cpc-def-F28B-0008.png" type="png" preferred-width="8.06cm" preferred-height="5.36cm"/> </paragraph-text>
+            <paragraph-text type="body">Means for collecting condensates are classified in <class-ref scheme="cpc">F28B9/08</class-ref> </paragraph-text>
+            <paragraph-text type="body">Example: US 6296049 B</paragraph-text>
+            <paragraph-text type="body">Steam cooling tubes supported by a tube support plate (9) are bisected by a pair of envelopes (28) each of which has a bottom shroud (20B) divided into an inner space (23) and an outer space (24) by a top shroud (20A) which are connected by a circulation opening (8) at the junction. A drain opening (7) is formed at the junction between the tube support plate and the inner space of the bottom shroud.</paragraph-text>
+            <paragraph-text type="body"> <media id="media9.png" file-name="cpc-def-F28B-0009.png" type="png" preferred-width="5.04cm" preferred-height="7.41cm"/> </paragraph-text>
+            <paragraph-text type="body">Means for removing non-condensable gases are classified in <class-ref scheme="cpc">F28B9/10</class-ref> </paragraph-text>
+            <paragraph-text type="body">Example: US 6588499 B</paragraph-text>
+            <paragraph-text type="body">The condenser (10) includes an air ejector system header (22) attached to the top of the D-section condensing tubes (15). Uncondensed steam and inert gas are drawn into and collected in the header at the top of the condensing tubes (15) because a vacuum pump (26) runs continuously thereby lowering the pressure in the air ejector (20) to a point below the pressure of the exhaust steam header (12).</paragraph-text>
+            <paragraph-text type="body"> <media id="media10.png" file-name="cpc-def-F28B-0010.png" type="png" preferred-width="7.6cm" preferred-height="4.36cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Steam traps for draining-off liquids from enclosures containing gases or vapours</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16T</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Details of heat exchangers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28F</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Deaeration systems for heat exchangers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28F9/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Preventing the formation of continuous films of condensate on heat exchangers </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28F13/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Draining condensates from heat exchangers </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28F17/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Preventing deposits of ice in heat exchangers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28F19/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F28B11/00</classification-symbol><definition-title>Controlling arrangements with features specially adapted for condensers  (control arrangements in general <class-ref scheme="cpc">G05</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Condenser controlling means, e.g. methods for monitoring condenser performance.</paragraph-text>
+            <paragraph-text type="body">Example: US 5005351 A</paragraph-text>
+            <paragraph-text type="body">For monitoring condenser operation, the condenser is equipped with temperature sensors (30) and pressure sensors (32), as well as a chemical sensor (34) for permitting measurement of condensate water quality.</paragraph-text>
+            <paragraph-text type="body"> <media id="media11.png" file-name="cpc-def-F28B-0011.png" type="png" preferred-width="10.01cm" preferred-height="7.64cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Control arrangements for heat exchangers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F28F27/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Control in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.58cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">G05</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item></definitions>

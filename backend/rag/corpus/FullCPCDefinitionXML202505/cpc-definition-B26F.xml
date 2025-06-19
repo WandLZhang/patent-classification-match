@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">B26F</classification-symbol><definition-title>PERFORATING; PUNCHING; CUTTING-OUT; STAMPING-OUT; SEVERING BY MEANS OTHER THAN CUTTING  (marking-out, perforating or making buttonholes <class-ref scheme="cpc">A41H25/00</class-ref>; shoemaking <class-ref scheme="cpc">A43D</class-ref>; surgery <class-ref scheme="cpc">A61B</class-ref>; punching metal <class-ref scheme="cpc">B21D</class-ref>; drilling metal <class-ref scheme="cpc">B23B</class-ref>; cutting of metal by applying heat locally, e.g. flame cutting, <class-ref scheme="cpc">B23K</class-ref>; cutting by abrasive fluid jets <class-ref scheme="cpc">B24C5/02</class-ref>; details common to machines for severing <class-ref scheme="cpc">B26D</class-ref>; drilling wood <class-ref scheme="cpc">B27C</class-ref>; drilling stone <class-ref scheme="cpc">B28D</class-ref>; working of plastics or substances in a plastic state <class-ref scheme="cpc">B29</class-ref>; making boxes, cartons, envelopes or bags, of paper or similarly worked materials, e.g. metal foil, <class-ref scheme="cpc">B31B</class-ref>; of glass <class-ref scheme="cpc">C03B</class-ref>; of leather <class-ref scheme="cpc">C14B</class-ref>; of textile materials <class-ref scheme="cpc">D06H</class-ref>; for light guides <class-ref scheme="cpc">G02B6/25</class-ref>; of tickets <class-ref scheme="cpc">G07B</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Perforating, punching, cutting-out, stamping-out;</paragraph-text>
+            <paragraph-text type="body">severing, by means other than cutting, non-metallic sheet material or metal foil in general;</paragraph-text>
+            <paragraph-text type="body">severing, by means other than cutting, other forms of non-metallic materials not otherwise provided for.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Marking-out, perforating or making buttonholes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A41H25/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Punching metal</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B21D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Drilling metal </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B23B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Cutting of metal by applying heat locally, e.g. flame cutting</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B23K</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Guns for cutting by abrasive fluid jets </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C5/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Details common to machines for severing </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B26D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Drilling wood </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Drilling stone </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B28D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Cutting of glass </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C03B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Cutting of leather </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C14B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Severing of textile materials </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D06H</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Cutting for light guides</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G02B6/25</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Cutting of tickets </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G07B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Manufacturing footwear </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Surgery</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A61B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Blasting with jets acting as abrasive jets, but not containing particulate material in the case of de jet milling of local recessions like e.g. grooves</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C1/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Blasting with jets acting as abrasive jets, but not containing particulate material in the case of deburring</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C1/083</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Blasting with jets acting as abrasive jets, but not containing particulate material in the case of removal of extended surfaces</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C1/086</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Working of plastics or substances in a plastic state</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B29</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Making boxes, cartons, envelopes or bags, of paper or similarly worked materials, e.g. metal foil</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B31B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        
+            <table>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">flow drilling</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Friction drilling, also commonly known by the trademarked name Flowdrilling, is a non-machining method of making holes in metal, in which the material is melted by adding high pressure and friction energy.</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">frame </paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">frame is a structure surrounding a second structure</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">passpartout</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Passe-Partout (or passepartout) is the French term for a mat, a paper or, more usually, cardboard sheet with a cutout, which is placed under the glass in a picture frame . A picture (a photo or print, drawing, etc.) is placed beneath it, with the cutout framing it. The passe-partout serves two purposes: first, to prevent the image from touching the glass, and second, to frame the image and enhance its visual appeal. The cutout in the passe-partout is usually beveled to avoid casting shadows on the picture.</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">squeezing</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">means to compress the material in a locally limited area (e.g. by a rounded edge) to such an extend, that the material is displaced and hence tensional stress is produced to such an extend that the material is severed.</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </section-body>
+      </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><instead-of-words><paragraph-text type="preamble">In patent documents, the word/expression in the first column is often used instead of the word/expression in the second column, which is used in the classification scheme of this place:</paragraph-text><table><table-row><table-column><paragraph-text type="body">&quot;drilling&quot;</paragraph-text></table-column><table-column><paragraph-text type="body">&quot;punching or perforating&quot;</paragraph-text></table-column></table-row></table></instead-of-words></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F1/00</classification-symbol><definition-title>Perforating; Punching; Cutting-out; Stamping-out; Apparatus therefor  (subbjecting the grinding tools or the abrading medium to vibration, e.g. grinding with ultrasonic frequency <class-ref scheme="cpc">B24B1/04</class-ref>, perforating by sand-blasting <class-ref scheme="cpc">B24C</class-ref>; {e.g. abrasive blasting used for cutting <class-ref scheme="cpc">B24C1/045</class-ref>}; punching cards or tapes for statistical and record purposes <class-ref scheme="cpc">G06K1/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Perforating, e.g. perforating of particular materials; Punching; Cutting-out; Stamping-out; Apparatus therefor; Perforating characterized by the nature of the punching tool; Hand-held perforating or punching apparatus, e.g. awls; Cutting-out or stamping-out.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Subjecting the grinding tools or the abrading medium to vibration, e.g. grinding with ultrasonic frequency </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24B1/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Punching cards or tapes for statistical and record purposes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06K1/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F1/12</classification-symbol><definition-title>to notch margins of work</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">to notch margins of work</paragraph-text>
+            <paragraph-text type="body"> <media id="media0.jpg" file-name="cpc-def-B26F-0000.jpg" type="jpeg" preferred-width="4.42cm" preferred-height="4.74cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F1/165</classification-symbol><definition-title>{by flow drilling  (for metal <class-ref scheme="cpc">B21C37/292</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">the creation of holes in substrates of non-metallic material, in which the material is melted by adding high pressure and friction energy</paragraph-text>
+            <paragraph-text type="body"> <media id="media0.jpg" file-name="cpc-def-B26F-0000.jpg" type="jpeg" preferred-width="4.42cm" preferred-height="4.74cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Flow drilling of metal</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B21C37/292</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F1/22</classification-symbol><definition-title>to form non-rectilinear cuts, e.g. for tabs</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">to form non-rectilinear cuts, e.g. for tabs</paragraph-text>
+            <paragraph-text type="body"> <media id="media1.jpg" file-name="cpc-def-B26F-0001.jpg" type="jpeg" preferred-width="4.87cm" preferred-height="4.53cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F1/26</classification-symbol><definition-title>Perforating by non-mechanical means, e.g. by fluid jet</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Perforating by non-mechanical means, e.g. by fluid jet like hot air or a water jet.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Needling of non woven fabrics</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D04H1/46</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Thermoforming of plastic webs</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B29C51/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F1/32</classification-symbol><definition-title>Hand-held perforating or punching apparatus, e.g. awls</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Hand-held perforating or punching apparatus, e.g. awls</paragraph-text>
+            <paragraph-text type="body"> <media id="media2.png" file-name="cpc-def-B26F-0002.png" type="png" preferred-width="4.93cm" preferred-height="4.09cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F1/36</classification-symbol><definition-title>Punching or perforating pliers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Punching or perforating pliers. Desktop paper punches.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F1/3853</classification-symbol><definition-title>{cutting out frames  (<class-ref scheme="cpc">B26F1/384</class-ref>, <class-ref scheme="cpc">B26F1/40</class-ref> and <class-ref scheme="cpc">B26F1/44</class-ref> take precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Cutting out frames; Cutters of all kind for cutting out frames, e.g. for cutting out so-called &quot;passpartouts&quot;.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F1/40</classification-symbol><definition-title>using a press, e.g. of the ram type  (presses in general <class-ref scheme="cpc">B30B</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Presses in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B30B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F1/42</classification-symbol><definition-title>having a pressure roller</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">having a pressure roller e.g.</paragraph-text>
+            <paragraph-text type="body"> <media id="media3.jpg" file-name="cpc-def-B26F-0003.jpg" type="jpeg" preferred-width="7.28cm" preferred-height="4.4cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F1/46</classification-symbol><definition-title>Loose press knives</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Loose press knives</paragraph-text>
+            <paragraph-text type="body"> <media id="media4.png" file-name="cpc-def-B26F-0004.png" type="png" preferred-width="8.72cm" preferred-height="8.31cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F3/00</classification-symbol><definition-title>Severing by means other than cutting; Apparatus therefor  (severing by grinding <class-ref scheme="cpc">B24B27/06</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Severing by grinding</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24B27/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F3/004</classification-symbol><definition-title>{by means of a fluid jet  (methods for use of abrasive blasting for cutting <class-ref scheme="cpc">B24C1/045</class-ref>; guns for abrasive fluid jets <class-ref scheme="cpc">B24C5/02</class-ref>; perforating by non-mechanical means, e.g. by fluid jet <class-ref scheme="cpc">B26F1/26</class-ref>)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Perforating by non-mechanical means, e.g. by fluid jet</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B26F1/26</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Methods for use of abrasive blasting for cutting</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C1/045</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Guns for abrasive fluid jets</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B24C5/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B26F3/16</classification-symbol><definition-title>by radiation  (by laser beam <class-ref scheme="cpc">B23K26/00</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.24cm">
+                     <paragraph-text type="body">Cutting by laser beam </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="6.15cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B23K26/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item></definitions>

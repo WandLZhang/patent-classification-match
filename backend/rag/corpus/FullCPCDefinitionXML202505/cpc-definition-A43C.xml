@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">A43C</classification-symbol><definition-title>FASTENINGS OR ATTACHMENTS OF FOOTWEAR; LACES IN GENERAL</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Equipment of the shoe e.g. laces, eyelets, cleats, studs.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="9.89cm">
+                     <paragraph-text type="body">Equipment for ski boots</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.14cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43B5/0415</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="9.89cm">
+                     <paragraph-text type="body">Equipment for skate</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.14cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43B5/16</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43C1/00</classification-symbol><definition-title>Shoe lacing fastenings  (garment fastening devices <class-ref scheme="cpc">A41F</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Every fastening system including at least one lace and concerning the lace, e.g. a special way of lacing, a specific position of the lace on the shoe, several laces used, etc.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="10.14cm">
+                     <paragraph-text type="body">Hooks for laces; Guards for hooks</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.89cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43C3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="10.14cm">
+                     <paragraph-text type="body">Eyelets</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.89cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43C5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="10.14cm">
+                     <paragraph-text type="body">Holding devices for laces</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.89cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43C7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="10.14cm">
+                     <paragraph-text type="body">Laces; Laces in general for garments made of textiles, leather, or plastics</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.89cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43C9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="10.14cm">
+                     <paragraph-text type="body">Cable fastening</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.89cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43C11/16</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="10.11cm">
+                     <paragraph-text type="body">Combined fastening</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.92cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43C11/008</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="10.11cm">
+                     <paragraph-text type="body">Garment fastening device</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.92cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A41F</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43C3/00</classification-symbol><definition-title>Hooks for laces  (making from sheet metal <class-ref scheme="cpc">B21D53/46</class-ref>); Guards for hooks</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Hooks for lacing, along the upper, generally the lace joining together the hooks in the lateral part with the hooks situated on the medial part of the upper.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.18cm">
+                     <paragraph-text type="body">Making of Hooks from metal sheet</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.85cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B21D53/46</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43C5/00</classification-symbol><definition-title>Eyelets  (machines for setting eyelets <class-ref scheme="cpc">A43D100/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Holes in the upper generally to help the lace to bring together the lateral part with the medial part of the upper</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="10.07cm">
+                     <paragraph-text type="body">Machine for setting eyelets</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.96cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43D100/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43C7/00</classification-symbol><definition-title>Holding-devices for laces</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Systems to hold lace(s) in tighten position.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43C9/00</classification-symbol><definition-title>Laces; Laces in general for garments made of textiles, leather, or plastics</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The lace itself.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43C11/00</classification-symbol><definition-title>Other fastenings specially adapted for shoes  (dress fastenings in general <class-ref scheme="cpc">A44B</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Any fastening that is not a lace. Still some of the documents can have a lace, in case they relate to footwear provided with more than one fastening system.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="12.39cm">
+                     <paragraph-text type="body">Fastenings withdevice mounted on the tongue (could still involve lace)</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="2.65cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43C11/20</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="12.39cm">
+                     <paragraph-text type="body">Ornaments and decorative devices with fastening function (could involve a lace)</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="2.65cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43C11/24</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="12.13cm">
+                     <paragraph-text type="body">Dress fastenings in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="2.9cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A44B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43C11/008</classification-symbol><definition-title>{Combined fastenings, e.g. to accelerate undoing or fastening}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combination of two different fastenings e.g. a lace for precision lacing of a boot, and a zipper, for quick release of the boot.</paragraph-text>
+         </section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">If one of the two fastenings is a lace, classification should be given in <class-ref scheme="cpc">A43C1/00</class-ref> and sub-groups.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43C11/24</classification-symbol><definition-title>Ornamental buckles or other ornaments for shoes, with fastening function  (buckles in general <class-ref scheme="cpc">A44B11/00</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="9.09cm">
+                     <paragraph-text type="body">Buckles in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.94cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A44B11/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43C13/00</classification-symbol><definition-title>Wear-resisting attachments</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Additional device(s) attached on the shoe to protect against wear.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43C15/00</classification-symbol><definition-title>Non-skid devices or attachments  (apparatus for climbing poles, trees, or the like <class-ref scheme="cpc">A63B27/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Additional device(s) attached to a footwear to improve friction.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.09cm">
+                     <paragraph-text type="body">Sport footwear</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.94cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43B5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.09cm">
+                     <paragraph-text type="body">Football/soccer footwear</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.94cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43B5/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.09cm">
+                     <paragraph-text type="body">Soles made anti skid, either by impregnation, either by antiskid devices monolithic to the sole, or multilayer soles, with a part of it in contact with the ground, but excluding the cleats, and studs</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.94cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43B13/22</class-ref>, <class-ref scheme="cpc">A43B13/24</class-ref>, <class-ref scheme="cpc">A43B13/26</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.09cm">
+                     <paragraph-text type="body">Apparatus for climbing poles, trees, or the like</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.94cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63B27/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.09cm">
+                     <paragraph-text type="body">Snowshoes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.94cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A63C13/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43C19/00</classification-symbol><definition-title>Attachments for footwear, not provided for in other groups of this subclass</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Any attachment to a footwear not covered by the other groups, e.g. a plate with the name of the user, a tool to clean a golf club with the foot, an electronic device, any attachment not integrated in the footwear.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.18cm">
+                     <paragraph-text type="body">Overshoes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.85cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43B3/16</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.18cm">
+                     <paragraph-text type="body">Overshoes for sporting purpose</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.85cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43B5/18</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body></limiting-references></references></definition-item></definitions>

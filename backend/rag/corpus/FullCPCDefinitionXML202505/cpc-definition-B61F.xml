@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B61F</classification-symbol><definition-title>RAIL VEHICLE SUSPENSIONS, e.g. UNDERFRAMES, BOGIES OR ARRANGEMENTS OF WHEEL AXLES; RAIL VEHICLES FOR USE ON TRACKS OF DIFFERENT WIDTH; PREVENTING DERAILING OF RAIL VEHICLES; WHEEL GUARDS, OBSTRUCTION REMOVERS OR THE LIKE FOR RAIL VEHICLES  (for vehicles in general <class-ref scheme="cpc">B60</class-ref>; axles or wheels <class-ref scheme="cpc">B60B</class-ref>; vehicle tyres <class-ref scheme="cpc">B60C</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Parts of railway vehicles that are located under the body of the car, and that serves to support, guide and move the body on the rail;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text>Parts of rail vehicles for cooperating with tracks of different widths;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text>Devices or parts which prevent derailing;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text>Means to protect vulnerable components on the lower side of the car body, e.g. wheel guards or obstruction removers </paragraph-text>
+               </list-item>
+            </list>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61F1/00</classification-symbol><definition-title>Underframes  (making railway vehicle underframes by forging or pressing <class-ref scheme="cpc">B21K7/12</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Constructional features of frameworks for carrying the main body structure.</paragraph-text>
+            <paragraph-text type="body">Following drawing shows one example:</paragraph-text>
+            <paragraph-text type="body"> <media id="media0.jpg" file-name="cpc-def-B61F-0000.jpg" type="jpeg" preferred-width="6.56cm" preferred-height="5.12cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61F3/00</classification-symbol><definition-title>Types of bogies  (<class-ref scheme="cpc">B61F5/00</class-ref> takes precedence)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Constructional features of bogies relating to the numbers of driven/undriven axle used, bogies for articulated railway vehicles, and air drag reducing details.</paragraph-text>
+            <paragraph-text type="body">Following drawing shows one example:</paragraph-text>
+            <paragraph-text type="body"> <media id="media1.png" file-name="cpc-def-B61F-0001.png" type="png" preferred-width="8.64cm" preferred-height="3.6cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61F5/00</classification-symbol><definition-title>Constructional details of bogies; Connections between bogies and vehicle underframes; Arrangements or devices for adjusting or allowing self-adjustment of wheel axles or bogies when rounding curves</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Details of bogies and their connections to the vehicle underframe to improve the running characteristic of the bogie, to reduce wear of the rail and prevent derailment of the vehicle.</paragraph-text>
+            <paragraph-text type="body">Typical examples are:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Method for optimizin guidance of railway vehicles.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Railroad car truck suspension yaw stabilizer.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Pneumatic spring between bogie and underframe.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Self-steering bogies.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Railway truck leveling device.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Bogie for tilting-body type railcar.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Lightweight truck bolster for railcar.</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">Following drawing show two examples:</paragraph-text>
+            <paragraph-text type="body"> <media id="media2.jpg" file-name="cpc-def-B61F-0002.jpg" type="jpeg" preferred-width="6.63cm" preferred-height="3.49cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media3.png" file-name="cpc-def-B61F-0003.png" type="png" preferred-width="8.76cm" preferred-height="4.7cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Molding </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B22C9/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Vehicle suspension arrangement in general </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60G</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Stabilising vehicles bodies </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B62D37/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Springs and shock absorbers in general </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16F</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61F7/00</classification-symbol><definition-title>Rail vehicles equipped for use on tracks of different width</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The title of this group is self-explanatory and do not need to be more specified.</paragraph-text>
+            <paragraph-text type="body">Following drawing shows one example:</paragraph-text>
+            <paragraph-text type="body"> <media id="media4.png" file-name="cpc-def-B61F-0004.png" type="png" preferred-width="6.52cm" preferred-height="5.48cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Adjustable axle units for varying track </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60B35/10</class-ref>.</paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61F9/00</classification-symbol><definition-title>Rail vehicles characterised by means for preventing derailing, e.g. by use of guide wheels</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices and methods to prevent derailment of the railway vehicle. It concerns additional components that are mounted on the vehicle.</paragraph-text>
+            <paragraph-text type="body">Typical examples are:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Derailment detector unit.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Rail vehicle with guiding device.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Inductive derailment sensor.</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">Following drawing shows one example (EP1422119):</paragraph-text>
+            <paragraph-text type="body"> <media id="media5.png" file-name="cpc-def-B61F-0005.png" type="png" preferred-width="6.22cm" preferred-height="4.61cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Preventing derailment by improving bogie components, e.g. improving the characteristics of the springs in </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B61F5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Power and free systems with vehicles rolling trackless on the ground</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B61B10/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61F11/00</classification-symbol><definition-title>Rail vehicles characterised by rail-engaging elements other than wheels, e.g. balls</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The title of this group is self-explanatory and do not need to be more specified.</paragraph-text>
+            <paragraph-text type="body">Following drawing shows one example (DE29509473U):</paragraph-text>
+            <paragraph-text type="body"> <media id="media6.png" file-name="cpc-def-B61F-0006.png" type="png" preferred-width="6.14cm" preferred-height="7.39cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61F13/00</classification-symbol><definition-title>Rail vehicles characterised by wheel arrangements, not otherwise provided for</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Railway vehicles having a wheel arrangement configuration that is not of the conventional type.</paragraph-text>
+            <paragraph-text type="body">Following drawing shows one example:</paragraph-text>
+            <paragraph-text type="body"> <media id="media7.png" file-name="cpc-def-B61F-0007.png" type="png" preferred-width="6.24cm" preferred-height="7.07cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Wheel in general </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B60B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Wheel characterised by rail-engaging elements </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="not-mapped">B60P17/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61F15/00</classification-symbol><definition-title>Axle-boxes  (mounting or securing axle-boxes <class-ref scheme="cpc">B61F5/26</class-ref>; lubrication <class-ref scheme="cpc">B61F17/00</class-ref>; bearings in general <class-ref scheme="cpc">F16C</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The titles of this group are self-explanatory and do not need to be more specified.</paragraph-text>
+            <paragraph-text type="body">Following drawing shows one example:</paragraph-text>
+            <paragraph-text type="body"> <media id="media8.jpg" file-name="cpc-def-B61F-0008.jpg" type="jpeg" preferred-width="5.33cm" preferred-height="4.21cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Speed measuring</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G01P3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Rotary current collectors with liquid contacts</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01R39/30</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Rotary current collectors with brush holders</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01R39/38</class-ref>, <class-ref scheme="cpc">H01R39/381</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61F17/00</classification-symbol><definition-title>Lubrication specially adapted for axle-boxes of rail vehicles  (lubrication in general <class-ref scheme="cpc">F16N</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The titles of this group are self-explanatory and do not need to be more specified.</paragraph-text>
+            <paragraph-text type="body">Following drawing shows one example:</paragraph-text>
+            <paragraph-text type="body"> <media id="media9.png" file-name="cpc-def-B61F-0009.png" type="png" preferred-width="8.87cm" preferred-height="4.61cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61F19/00</classification-symbol><definition-title>Wheel guards; Bumpers; Obstruction removers or the like  (for vehicles in general <class-ref scheme="cpc">B60R19/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices and methods to protect the railway vehicle components from obstacle, e.g. ballast, or to minimize consequences of collisions with pedestrians.</paragraph-text>
+            <paragraph-text type="body">Typical examples are:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Method and device to detect impacts on specific zones on a railway vehicle.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Collision protection system for rail vehicles.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Track sweeper for rail vehicle.</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">Following drawings show two examples:</paragraph-text>
+            <paragraph-text type="body"> <media id="media10.png" file-name="cpc-def-B61F-0010.png" type="png" preferred-width="8.57cm" preferred-height="4.66cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media11.png" file-name="cpc-def-B61F-0011.png" type="png" preferred-width="7.96cm" preferred-height="4.74cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.62cm">
+                     <paragraph-text type="body">Buffer cars</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.41cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B61D15/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B61F99/00</classification-symbol><definition-title>Subject matter not provided for in other groups of this subclass</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices and methods that are not in <class-ref scheme="cpc">B61F1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">B61F19/00</class-ref>.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item></definitions>

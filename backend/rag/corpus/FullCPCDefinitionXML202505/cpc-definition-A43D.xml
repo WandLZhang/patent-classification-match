@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">A43D</classification-symbol><definition-title>MACHINES, TOOLS, EQUIPMENT OR METHODS FOR MANUFACTURING OR REPAIRING FOOTWEAR</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">All the machines and tools to build a shoe. Each group relates to a machine, or a step of the production. Most of them are explicit. A more detailed explanation will be given to the others.</paragraph-text>
+         </section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body"> <class-ref scheme="cpc">A43D2200/00</class-ref> used to provide additionnal information on those machines, information independent from the type of machine e.g. when they are provided with a magazine for blanks, etc...</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D1/00</classification-symbol><definition-title>Foot or last measuring devices; Measuring devices for shoe parts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Essentially (but not necessarily) in order to build a model in order to produce a shoe.</paragraph-text>
+         </section-body>
+      </definition-statement><relationship>
+         <section-title>Relationships with other classification places</section-title>
+         <section-body>
+            <paragraph-text type="body"> <class-ref scheme="cpc">A43D8/26</class-ref> and subgroups relate to the marking of future work.</paragraph-text>
+         </section-body>
+      </relationship></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D3/00</classification-symbol><definition-title>Lasts</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Lasts and shoe trees.</paragraph-text>
+         </section-body>
+      </definition-statement><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Last</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">a foot shape form used to build a shoe</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Shoe tree</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">a foot shape form used to put inside a shoe in order to maintain over time its original shape, they are sometimes nevertheless still denominated lasts</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D8/00</classification-symbol><definition-title>Machines for cutting, ornamenting, marking or otherwise working up shoe part blanks  (pulling-over or lasting <class-ref scheme="cpc">A43D9/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">A43D23/00</class-ref>; making or fastening soles, heels or welts <class-ref scheme="cpc">A43D25/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">A43D83/00</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Pulling-over or lasting</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43D9/00</class-ref> - <class-ref scheme="cpc">A43D23/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Making or fastening soles, heels or welts</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43D25/00</class-ref> - <class-ref scheme="cpc">A43D83/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D9/00</classification-symbol><definition-title>Devices for binding the uppers upon the lasts  (for the toe ends <class-ref scheme="cpc">A43D15/00</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">For the toe ends</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43D15/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D15/00</classification-symbol><definition-title>Pulling-over or lasting machines for binding the toe end with cord, string, or wire; Machines for lasting with clamps; Lasting machines with sewing devices, also for platform shoes  (special sewing machines for leather or shoes <class-ref scheme="cpc">D05B</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Special sewing machines for leather or shoes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D05B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D23/00</classification-symbol><definition-title>Single parts for pulling-over or lasting machines  (nailing devices <class-ref scheme="cpc">A43D75/00</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Nailing devices</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43D75/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D25/00</classification-symbol><definition-title>Devices for gluing shoe parts</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">As far as the technique used is moulding <class-ref scheme="cpc">B29D35/10</class-ref> is the relevant group.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D27/00</classification-symbol><definition-title>Machines for trimming as an intermediate operation  (working on edges or margins, e.g. by trimming, of shoe part blanks <class-ref scheme="cpc">A43D8/32</class-ref>; trimming as a finishing operation in shoemaking <class-ref scheme="cpc">A43D87/00</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Working on edges or margins, e.g. by trimming, of shoe part blanks</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43D8/32</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Trimming as a finishing operation in shoemaking</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43D87/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D33/00</classification-symbol><definition-title>Machines for assembling lifts for heels  (cutting-out heel lifts <class-ref scheme="cpc">A43D8/02</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cutting-out heel lifts</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43D8/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D35/00</classification-symbol><definition-title>Presses for shaping pre-existing loose soles, shoe bottoms or soles fixed to shoe bottoms  (glueing soles on shoe bottoms <class-ref scheme="cpc">A43D25/06</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Glueing soles on shoe bottoms</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43D25/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D43/00</classification-symbol><definition-title>Machines for making stitch lips, or other preparatory treatment of soles or insoles before fixing same  (flexing of soles or insoles <class-ref scheme="cpc">A43D8/52</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Flexing of soles or insoles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A43D8/52</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D69/00</classification-symbol><definition-title>Shoe-nailing machines  (nailing machines in general <class-ref scheme="cpc">B27F</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Nailing machines in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27F</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D87/00</classification-symbol><definition-title>Edge or heel cutters; Machines for trimming the heel breast  (trimming machines for wooden heels <class-ref scheme="cpc">B27M</class-ref>; copying machines <class-ref scheme="cpc">B44B</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Trimming machines for wooden heels</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27M</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Copying machines</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B44B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">A43D98/00</classification-symbol><definition-title>Machines for making laces  (of leather <class-ref scheme="cpc">C14B</class-ref>; braidings in general <class-ref scheme="cpc">D04C</class-ref>); Applying fibre or celluloid to ends of laces  (making tags from metal sheet <class-ref scheme="cpc">B21D</class-ref>; from wire <class-ref scheme="cpc">B21F</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Making tags from metal sheet</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B21D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Making tags from from wire</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B21F</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Machines for making laces of leather</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C14B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Braidings in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">D04C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item></definitions>

@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B42F</classification-symbol><definition-title>SHEETS TEMPORARILY ATTACHED TOGETHER; FILING APPLIANCES; FILE CARDS; INDEXING  (reading desks <class-ref scheme="cpc">A47B19/00</class-ref>; book rests <class-ref scheme="cpc">A47B23/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Sheets temporarily attached together,with or without involving perforation of the sheets.</paragraph-text>
+        <paragraph-text type="body">Means therefor.</paragraph-text>
+        <paragraph-text type="body">Sheet details for temporary attachment.</paragraph-text>
+        <paragraph-text type="body">Sheets and objects temporarily attached together.</paragraph-text>
+        <paragraph-text type="body">Means therefor.</paragraph-text>
+        <paragraph-text type="body">Filing aspects of albums, especially album sheet details for temporarily attaching objects thereto.</paragraph-text>
+        <paragraph-text type="body">Filing appliances, i.e. Holders for collections of papers, sheets, cards, or units thereof, each paper, sheet, card, or unit being individually insertable and extractable.</paragraph-text>
+        <paragraph-text type="body">Without or with fastening means, e.g. With clamping action, with separate holding means or using perforations.</paragraph-text>
+        <paragraph-text type="body">Adapted for being suspended.</paragraph-text>
+        <paragraph-text type="body">Specially adapted for card-filing.</paragraph-text>
+        <paragraph-text type="body">File cards.</paragraph-text>
+        <paragraph-text type="body">Indexing means; Indexing tabs or protectors therefor, e.g.: book fillings, pads, sheets, papers or cards, having edges cut away to facilitate retrieval of a particular location, tabs integral with, permanently fastened to, or detachably mounted on sheets, papers, cards, or suspension files, to facilitate classifying.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Permanent and temporary attachment.</paragraph-text>
+        <paragraph-text type="body">Machines, devices and methods for permanently attaching together sheets, quires, or signatures or for permanently attaching objects, e.g. map sections, to sheets are covered by <class-ref scheme="cpc">B42B2/00</class-ref> - <class-ref scheme="cpc">B42B7/00</class-ref>. The permanent attachment can be obtained by similar means as the temporary attachment, especially by clips or by finger, claw, or ring-like elements passing through the sheets, quires, or signatures.</paragraph-text>
+        <paragraph-text type="body">Furniture</paragraph-text>
+        <paragraph-text type="body">Reading desks, book rests and cabinets, racks, shelf units or accessories, specially adapted for book-storing are covered by <class-ref scheme="cpc">A47B</class-ref>. Cabinets, racks or shelf units, specially adapted for storing documents, forms, or the like are as well covered by <class-ref scheme="cpc">A47B63/00</class-ref>. Furniture features in general, e.g. of cabinets or drawers, or of show stands, hangers or shelves, are covered by <class-ref scheme="cpc">A47B</class-ref> or <class-ref scheme="cpc">A47F</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Reading desks, e.g. characterised by association with paper clamps as auxiliary devices</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B19/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Book rests</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Cabinets, racks or shelf units, specially adapted for storing books, documents, forms, or the like</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B63/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Book-troughs; Accessories specially adapted for book-storing, e.g. book-ends</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B65/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In this subclass, it is desirable to add the Indexing Codes of groups <class-ref scheme="cpc">B42P2201/00</class-ref> - <class-ref scheme="cpc">B42P2261/00</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Filing appliance</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">means holders for collections of papers, sheets, cards, or units thereof, each paper, sheet, card, or unit being individually insertable and extractable. This expression may thus include a calendar, an instruction manual, or a letter file.</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42F1/00</classification-symbol><definition-title>Sheets temporarily attached together without perforating; Means therefor</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Sheets temporarily attached together and means, other than filing appliances, therefor, which do not involve perforation of the sheets. Usually, the means are repeatedly usable fastening means effecting a gripping action on the sheets, e.g. by a clamping jaws or resilient deformation of a clip.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Filing appliances without fastening means</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Filing appliances with devices clamping file edges; Covers with clamping backs</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Tabs detachably mounted on sheets, papers, cards, or suspension files</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F21/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Clips for holding paper bills</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A45C1/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Wire-working in the manufacture of paper fasteners or clips</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B21F45/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Hand tools for applying fasteners</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B25B31/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Permanently attaching together sheets, quires, or signatures, e.g. by laces, ribbons or clips</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42B5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Combinations of writing implements with other articles, e.g. with memorandum appliances</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B43K29/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Clothes-pegs with pivoted clamping members</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">D06F55/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Friction-grip releasable fastenings in general, e.g. clamps or clips</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B2/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Fastening or securing labels, tag tickets, or similar identification or indication means by clamps</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G09F3/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42F3/00</classification-symbol><definition-title>Sheets temporarily attached together involving perforations; Means therefor; Sheet details therefor  (staples, fasteners in general <class-ref scheme="cpc">F16B</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Sheets temporarily attached together and means, other than filing appliances, therefor which involve perforation of the sheets. Usually, the means are repeatedly usable fastening means engaging perforations previously provided in the sheets, e.g. bifurcated pins with bendable legs or rings engaging punch-holes in the sheets.</paragraph-text>
+        <paragraph-text type="body">Details of sheets intended, prepared or modified for being temporarily attached together, usually perforation details.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Filing appliances with means for engaging perforations or slots, e.g. ring files</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F13/00</class-ref>, <class-ref scheme="cpc">B42F13/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Hand-held punching or perforating pliers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B26F1/36</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Attaching together paper or cardboard sheets by perforating, e.g. by folding over the partially cut part</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B31F5/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Using claws or rings for permanently attaching sheets together</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42B5/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Fasteners in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Staples</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42F5/00</classification-symbol><definition-title>Sheets and objects temporarily attached together; Means therefor; Albums  (bookbinding aspects of albums <class-ref scheme="cpc">B42D1/08</class-ref>; advertising or display aspects <class-ref scheme="cpc">G09</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Sheets and objects temporarily attached together and means for temporarily keeping them attached together;</paragraph-text>
+        <paragraph-text type="body">Filing aspects of albums, especially those of album pages for temporarily attaching objects to the pages.</paragraph-text>
+        <paragraph-text type="body">Usually, the means are repeatedly usable for attaching objects and are integral with, assembled to, or fastenable to, the sheets, e.g. corner-holding slits cut into sheets, filing strips on sheets or corner-holding devices to be applied to album pages.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Filing appliances without fastening means</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Frames or housings for storing medals, badges, or the like</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47G1/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Multiple-step processes for making flat articles by attaching individual objects to webs or sheets or for making mounting corners for photographs or cards</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B31D1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Bookbinding aspects of albums</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D1/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Processes for producing mountings for pictures</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B44C5/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Means for mounting individual pictures to be projected, e.g. cardboard frames for transparency</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B21/64</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Advertising or displaying aspects of sheets and objects temporarily attached together</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G09F</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Cards of samples or books of samples</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G09F5/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Cases or containers for storing record carriers, e.g. disc records</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G11B33/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42F7/00</classification-symbol><definition-title>Filing appliances without fastening means  (<class-ref scheme="cpc">B42F17/00</class-ref> takes precedence; suspension files <class-ref scheme="cpc">B42F15/00</class-ref>; wallets, notecases, briefcases <class-ref scheme="cpc">A45C</class-ref>, e.g. <class-ref scheme="cpc">A45C1/00</class-ref>; furniture features <class-ref scheme="cpc">A47B</class-ref>, <class-ref scheme="cpc">A47F</class-ref>; envelopes <class-ref scheme="cpc">B65D</class-ref>, e.g. <class-ref scheme="cpc">B65D27/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Filing appliances without fastening means acting on the members of the collection can comprise flexible or rigid holders with a single filing space, e.g. pockets, trays, covers with retention means, e.g. for preventing the collection from slipping out, or with a plurality of connected compartments, e.g. portfolios or multi-compartment cases.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Packaging or container features in general, e.g. of a box body or container closure details are covered by <class-ref scheme="cpc">B65D</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Filing aspects of albums</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Filing appliances with separate intermediate holding means</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Suspension aspects of filing appliances</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Card-filing arrangements</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Indexing features</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Wallets, notecases</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A45C1/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Briefcases</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A45C3/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Ticket-holders or credit card holders</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A45C11/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Map-cases used as travelling equipment</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A45F3/50</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Cabinets, racks or shelf units, specially adapted for storing documents, forms, or the like</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B63/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Furniture devices for holding or supporting maps</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B97/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Show stands, hangers, or shelves, adapted for pictures, cards, magazines, newspapers, books or book-like articles, e.g. audio or video cassettes</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47F7/17</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Envelopes, e.g. with two or more compartments</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65D27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Advertising or displaying in general</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G09F</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Cases or containers for storing record carrier discs</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G11B33/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42F9/00</classification-symbol><definition-title>Filing appliances with devices clamping file edges; Covers with clamping backs  (<class-ref scheme="cpc">B42F13/00</class-ref>, <class-ref scheme="cpc">B42F17/00</class-ref> take precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Filing appliances whereby the clamping devices or clamping backs comprise clamps with one or two pivoting or sliding jaws and releasable resilient clips allowing to insert and extract individual collection members.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Permanently attaching together sheets, quires or signatures by clips</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42B5/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Supports for note pads, e.g. combined with auxiliary devices</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Writing or drawing underlays</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B43L3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Drawing boards having means for clamping sheets of paper thereto</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B43L5/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42F11/00</classification-symbol><definition-title>Filing appliances with separate intermediate holding means  (<class-ref scheme="cpc">B42F17/00</class-ref> takes precedence; with adhesive strips for mounting papers or sheets <class-ref scheme="cpc">B42D1/10</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Filing appliances whereby the separate intermediate holding means are detachably mounted to the filing appliance, usually a cover, and can hold or engage parts of the collection, with or without using fastening means. Usually, both, the cover and the separate intermediate holding means are particularly adapted for releasable mutual engagement.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Filing appliances comprising a single pocket or compartment</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F7/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Books or other bound products in which the fillings and covers are united by other means</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D1/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Files with adhesive strips for mounting papers or sheets</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D1/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42F13/00</classification-symbol><definition-title>Filing appliances with means for engaging perforations or slots  (<class-ref scheme="cpc">B42F17/00</class-ref> takes precedence; indexing features <class-ref scheme="cpc">B42F21/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Filing appliances with means for engaging perforations or slots;</paragraph-text>
+        <paragraph-text type="body">Particular parts of, or auxiliary devices or operations for, filing appliances:</paragraph-text>
+        <paragraph-text type="body">Covers for loose leave binders and details thereof.</paragraph-text>
+        <paragraph-text type="body">Locking followers or pressure bars for use therewith.</paragraph-text>
+        <paragraph-text type="body">Content transfer devices.</paragraph-text>
+        <paragraph-text type="body">Converting filing appliances into permanent binders.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Sheet details, e.g. perforations, for sheets temporarily attached together involving perforations</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Suspended filing appliances for suspending stacks of temporarily bound sheets</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Hand held punching or perforating apparatus, e.g. pliers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B26F1/32</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Permanently attaching together sheets, quires or signatures by finger, claw, or ring-like elements passing there through</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42B5/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Manufacturing covers of loose-leaf binders</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42C7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Book covers</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Details of covers which are the same for book covers, and covers of loose-leaf binders, are classified in <class-ref scheme="cpc">B42D3/00</class-ref> only.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42F15/00</classification-symbol><definition-title>Suspended filing appliances  (indexing features <class-ref scheme="cpc">B42F21/00</class-ref>; hanging of books, newspapers or the like <class-ref scheme="cpc">B42D17/00</class-ref>; {manufacturing suspended files <class-ref scheme="cpc">B42C7/001</class-ref>})</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Cabinets, racks or shelf units, specially adapted for storing drawings or the like</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B63/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Devices, as accessories for furniture, for holding or supporting maps, drawings, or the like, including means for preventing rolling-up</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B97/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Manufacturing suspended files</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42C7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Hanging or securing devices for books, newspapers, or the like</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Drawing boards having means for clamping sheets of paper thereto</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B43L5/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42F17/00</classification-symbol><definition-title>Card-filing arrangements, e.g. card indexes or catalogues or filing cabinets  (indexing features <class-ref scheme="cpc">B42F21/00</class-ref>; furniture features <class-ref scheme="cpc">A47B</class-ref>, <class-ref scheme="cpc">A47F</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">File cards </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F19/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Cabinets, racks or shelf units, specially adapted for storing documents, forms, or the like </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B63/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Drawers for cabinets; Guides for drawers </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">A47B88/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Partitions for rigid or semi-rigid containers adapted to be fitted in two or more alternative positions </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B65D25/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Information retrieval from punched cards designed for manual use or handling by machine, e.g. by selecting coincident marginally notched cards </paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G06K21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42F19/00</classification-symbol><definition-title>File cards  (<class-ref scheme="cpc">B42F21/00</class-ref> takes precedence; punched cards for information retrieval, e.g. for manual use, <class-ref scheme="cpc">G06K21/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Cards adapted for filing purposes, e.g. for card filing arrangements</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Card-filing arrangements</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42F17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Identity, credit, cheque or like information-bearing cards</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D25/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Record carriers for use with machines and with at least a part designed to carry digital markings, e.g. being marginally punched or notched with elongated slots</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G06K19/063</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Apparatus or tools adapted for slotting or otherwise marking information-retrieval cards</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G06K21/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42F21/00</classification-symbol><definition-title>Indexing means; Indexing tabs or protectors therefor</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Indexing means, e.g. edges cut away on book or pad sheets, papers, or cards, to facilitate retrieval of a particular location, especially for classifying.</paragraph-text>
+        <paragraph-text type="body">Indexing tabs integral with, permanently fastened to, or detachably mounted on sheets, papers, cards, or suspension files.</paragraph-text>
+        <paragraph-text type="body">Protectors for indexing tabs.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column>
+              <paragraph-text type="body">Bookmarkers, e.g. loose or detachably mounted on a page</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column>
+              <paragraph-text type="body">Labels, tag tickets, or similar identification or indication means, e.g. fastened to an article by an adhesive layer</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body"><class-ref scheme="cpc">G09F3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

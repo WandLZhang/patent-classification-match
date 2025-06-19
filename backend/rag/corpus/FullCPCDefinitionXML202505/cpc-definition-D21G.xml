@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item date-revised="2016-01-01"><classification-symbol scheme="cpc">D21G</classification-symbol><definition-title>CALENDERS; ACCESSORIES FOR PAPER-MAKING MACHINES  (winders or rewinders for finished products, means for adjustment of wrinkles or lateral extensions <class-ref scheme="cpc">B65H</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Calenders, smoothing apparatus.</paragraph-text>
+        <paragraph-text type="body">Rolls for calenders, controlled deflection rolls, doctors, safety devices for paper machinery, damping devices, paper making control systems, devices for threading web tails through a paper machine.</paragraph-text>
+        <paragraph-text type="body">Coating devices in combination with calenders or other sections in a paper machine.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Rolls for rolling metal</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B21B27/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Registering, tensioning, smoothing or guiding webs</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65H23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Methods and devices for coating paper webs in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21H</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Rolls in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16C13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Subgroups and head groups.</paragraph-text>
+        <paragraph-text type="body">If a document concerns embodiments which are covered by several subgroups dependent on a higher hierarchy group, the following rules apply:</paragraph-text>
+        <paragraph-text type="body">the specific technical information relevant for some of the subgroups is classified in all said subgroups;</paragraph-text>
+        <paragraph-text type="body">if relevant, the structural association (e.g. the combination) of the elements covered by the subgroups is classified in the head group;</paragraph-text>
+        <paragraph-text type="body">analogously, if generic technical information common to all of the subgroups is disclosed and only schematic embodiments of the specific subgroup embodiments are represented, the documents is classified in the head group only.</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Section</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">portion of a paper production machine effecting a certain process step, for example forming, pressing, drying, calendering, coating, ...;</paragraph-text>
+            </table-column>
+          </table-row>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Doctor</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">device or cleaning the surface of a band, cylinder or roll or for metering a coating substance on the surface of a web</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21G3/00</classification-symbol><definition-title>Doctors</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Doctor devices for paper machines in general.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Application blades in general </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05C11/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Doctors for cr&#234;ping</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B31F1/14</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Doctors for printing machines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F9/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Doctors for coaters</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21H23/34</class-ref>, <class-ref scheme="cpc">D21H25/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21G7/00</classification-symbol><definition-title>Damping devices</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Damping devices for paper machines, i.e. devices for applying moisture in form of water or steam.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Web conditioning devices arranged in calenders</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21G1/0093</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Damping devices for printing machines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B41F7/24</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Steam blow boxes arranged in the paper machine</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21F7/008</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21G9/00</classification-symbol><definition-title>Other accessories for paper-making machines</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Devices that can be used e.g. for controlling or measuring parameters, not essential for the technical functioning of the machine; Control systems and methods; Coating devices in combination with paper machine sections;</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21G9/0009</classification-symbol><definition-title>{Paper-making control systems}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Sensor rolls</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01L5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Fault detection </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01N21/89</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Measuring paper sheets</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01N33/34</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21G9/009</classification-symbol><definition-title>{Apparatus for glaze-coating paper webs}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Coating processes using two rolls rotating at different speed.</paragraph-text>
+        <paragraph-text type="body">Complete papermaking machines (i.e. at least two sections in combination) comprising a coating section in combination with other paper machine sections, e.g. calendering or drying section.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Apparatus for coating paper webs in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21H23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B62C</classification-symbol><definition-title>VEHICLES DRAWN BY ANIMALS</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Vehicles drawn by animals or parts thereof so far as the relevant features are essential for animal-drawn vehicles.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Passenger vehicles, load carrying vehicles, and racing vehicles such as sulkies.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Connections between the animal and the vehicle and safeguarding appliances to release an animal.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Undercarriages or running gear of vehicles and axle supports.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Braking mechanism and their control devices specially adapted for such vehicles.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Hand-propelled vehicles, hand carts, sledges</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Without specific features for animal-drawn vehicles they are considered as trailers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B62D</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Reins or whips per se</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B68B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Undercarriages for other soil working machines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01B35/30</class-ref>, <class-ref scheme="cpc">A01B39/24</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Undercarriages drawn by animal or tractor for supporting agricultural tools or apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01B51/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Traction harness for traction animals</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B68B3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Fifth wheel</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">coupling between front-wheel axle and carriage to allow front-wheel axle to pivot to facilitate turning.</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B62C1/00</classification-symbol><definition-title>Types of vehicles</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text>Illustrative examples of subject matter classified in this group:</paragraph-text>
+        <paragraph-text><media id="media0.png" file-name="cpc-def-B62C-0000.png" type="png" alt=""/><media id="media1.png" file-name="cpc-def-B62C-0001.png" type="png"/><media id="media2.png" file-name="cpc-def-B62C-0002.png" type="png"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B62C3/00</classification-symbol><definition-title>Undercarriages or running gear of vehicles; Axle supports  (undercarriages for supporting agricultural tools or apparatus <class-ref scheme="cpc">A01B35/30</class-ref>, <class-ref scheme="cpc">A01B39/24</class-ref>; <class-ref scheme="cpc">A01B51/00</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Undercarriages for other soil working machines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01B35/30</class-ref>, <class-ref scheme="cpc">A01B39/24</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Undercarriages drawn by animal or tractor for supporting agricultural tools or apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">A01B51/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B62C5/00</classification-symbol><definition-title>Draught assemblies  (traction harness <class-ref scheme="cpc">B68B3/00</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Traction harness</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B68B3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B62C7/00</classification-symbol><definition-title>Braking mechanisms and brake control devices specially adapted for animal-drawn vehicles  (brakes in general <class-ref scheme="cpc">F16D</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Brakes in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B62C9/00</classification-symbol><definition-title>Carriers or holders for whips; Holders for reins forming part of or attached to vehicles  (reins or whips per se <class-ref scheme="cpc">B68B</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Reins or whips per se</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B68B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item></definitions>

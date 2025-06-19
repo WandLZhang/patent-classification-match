@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B27D</classification-symbol><definition-title>WORKING VENEER OR PLYWOOD  (applying liquids or other fluent materials to surface in general <class-ref scheme="cpc">B05</class-ref>; grinding, sanding, or polishing of wood <class-ref scheme="cpc">B24</class-ref>; applying adhesives or glue to surfaces of wood <class-ref scheme="cpc">B27G11/00</class-ref>; manufacture of veneer <class-ref scheme="cpc">B27L5/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Any machine or process for working veneer or plywood not classified elsewhere under a more specific title.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27D1/00</classification-symbol><definition-title>Joining wood veneer with any material; Forming articles thereby  (in conjunction with moulding of wood particles or fibres <class-ref scheme="cpc">B27N3/06</class-ref>); Preparatory processing of surfaces to be joined, e.g. scoring</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Lay up machines</paragraph-text>
+            <paragraph-text type="body">Laminated Veneer Lumber (LVL)</paragraph-text>
+         </section-body>
+      </definition-statement><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">LVL</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Laminated Veneer Lumber</paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27D1/06</classification-symbol><definition-title>Manufacture of central layers; Form of central layers {(see also <class-ref scheme="cpc">B27M3/002</class-ref> and <class-ref scheme="cpc">B27M3/0026</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Wood-core plywood.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27D1/086</classification-symbol><definition-title>{Manufacture of oblong articles, e.g. tubes by spirally winding veneer blanks}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="7.52cm">
+                     <paragraph-text type="body">Wooden pipes </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="7.52cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16L9/01</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27D3/00</classification-symbol><definition-title>Veneer presses; Press plates; Plywood presses  (presses in general <class-ref scheme="cpc">B30B</class-ref> {; presses for wood fibre sheets <class-ref scheme="cpc">B27N3/08</class-ref>, <class-ref scheme="cpc">B27N3/24</class-ref>, <class-ref scheme="cpc">B27N3/26</class-ref>})</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Apparatus for and methods subjecting veneer or plywood to compressive force.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="7.52cm">
+                     <paragraph-text type="body">Presses specially for the manufacture of shaped plywood articles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="7.52cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B27D1/083</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27D5/00</classification-symbol><definition-title>Other working of veneer or plywood specially adapted to veneer or plywood  (working of strips in the same way as cane <class-ref scheme="cpc">B27J</class-ref> {; repairing tears on veneer blanks <class-ref scheme="cpc">B27D1/10</class-ref>; <class-ref scheme="cpc">B27G1/00</class-ref> takes precedence})</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Apparatus for and methods subjecting veneer or plywood to some form of working not specifically covered elsewhere such as processes wherein the work parts are fastened by cement, glue, or other adhesive, or by use of cohesive characteristics of the work parts to effect an autogenous bond which can then be followed by producing a change in dimension or contour (chamfering, edging and beveling).</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item></definitions>

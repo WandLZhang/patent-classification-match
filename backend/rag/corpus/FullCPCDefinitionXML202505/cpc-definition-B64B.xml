@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-01-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B64B</classification-symbol><definition-title>LIGHTER-THAN AIR AIRCRAFT</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <list>
+         <list-item> <paragraph-text type="body">Balloons</paragraph-text> </list-item>
+         <list-item> <paragraph-text type="body">Blimps</paragraph-text> </list-item>
+         <list-item> <paragraph-text type="body">Zeppelins</paragraph-text> </list-item>
+      </list>
+      </section-body></definition-statement><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Toy balloons</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">A63H27/10</class-ref> </paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Landing gear for aircraft in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">B64C25/00</class-ref> </paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Inflatable tents</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">E04H15/20</class-ref>, <class-ref scheme="cpc">E04H15/22</class-ref> </paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Illuminated balloons</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">F21V3/023</class-ref> </paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Meteorological balloons</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">G01W1/08</class-ref> </paragraph-text>
+            </table-column>
+         </table-row>
+         
+         
+         
+         
+         
+      </table>
+      </section-body></informative-references></references><special-rules><section-title>Special rules of classification</section-title><section-body>
+      <paragraph-text type="body">Orthogonal Indexing Code <class-ref scheme="cpc">B64B2201/00</class-ref> is used for hybrid airships.</paragraph-text>
+      </section-body></special-rules><glossary-of-terms><section-title>Glossary of terms</section-title><section-body>
+      <paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+      <table>
+         <table-row>
+            <table-column>
+               <paragraph-text type="body">Balloon</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body">Rigid or non-rigid free-flying (no directional control) lighter than air aircraft</paragraph-text>
+            </table-column>
+         </table-row>
+         <table-row>
+            <table-column>
+               <paragraph-text type="body">Blimp</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body">Non-rigid flight controlled lighter than air aircraft</paragraph-text>
+            </table-column>
+         </table-row>
+         <table-row>
+            <table-column>
+               <paragraph-text type="body">Zeppelin</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body">Rigid flight controlled lighter than air aircraft</paragraph-text>
+            </table-column>
+         </table-row>
+         <table-row>
+            <table-column>
+               <paragraph-text type="body">Hybrid airship</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body">Aircraft where lift is produced by both lighter than air compartments and aerodynamic surfaces (wings)</paragraph-text>
+            </table-column>
+         </table-row>
+      </table>
+      </section-body></glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B64B1/00</classification-symbol><definition-title>Lighter-than-air aircraft</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <paragraph-text type="body">General lighter-than-air concepts; e.g. hybrid airships.</paragraph-text>
+      </section-body></definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B64B1/005</classification-symbol><definition-title>{Arrangements for landing or taking-off, e.g. alighting gear}</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <paragraph-text type="body">Landing gear for lighter-than-air aircraft.</paragraph-text>
+      </section-body></definition-statement><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Landing gear for aircraft in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">B64C25/00</class-ref> </paragraph-text>
+            </table-column>
+         </table-row>
+         
+      </table>
+      </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B64B1/02</classification-symbol><definition-title>Non-rigid airships  (<class-ref scheme="cpc">B64B1/58</class-ref> takes precedence; balloons <class-ref scheme="cpc">B64B1/40</class-ref>)</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <paragraph-text type="body">Non-conventional balloons, e.g. of non spherical shape.</paragraph-text>
+      </section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+      <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+      <table><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Balloons</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">B64B1/40</class-ref> </paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Arrangements or construction of gas bags</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">B64B1/58</class-ref> </paragraph-text>
+            </table-column>
+         </table-row>
+         
+         
+      </table>
+      </section-body></limiting-references><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Balloons</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">B64B1/48</class-ref> </paragraph-text>
+            </table-column>
+         </table-row>
+         
+      </table>
+      </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B64B1/04</classification-symbol><definition-title>the profile being maintained by ties or cords connecting opposite surfaces</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <paragraph-text type="body">Non-rigid airships in which the contours of the outer covering are maintained by ties or cords connecting opposite inner surfaces of the outer covering</paragraph-text>
+      </section-body></definition-statement><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Framework construction for rigid airships</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">B64B1/08</class-ref> </paragraph-text>
+            </table-column>
+         </table-row>
+         
+      </table>
+      </section-body></informative-references></references><special-rules><section-title>Special rules of classification</section-title><section-body>
+      <paragraph-text>The ties or cords maintain the shape of the inflated airship (note that <class-ref scheme="cpc">B64B1/02</class-ref> is related to non-rigid airships), i.e. they are essentially in tension to maintain the shape. If the ties/cords connect unsubstantial frame members and are in tension due to the pressure in the inflated airship body, they can also connect frames related to the outer covering.</paragraph-text>
+      </section-body></special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B64B1/06</classification-symbol><definition-title>Rigid airships; Semi-rigid airships  (<class-ref scheme="cpc">B64B1/58</class-ref> takes precedence)</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <list>
+         <list-item> <paragraph-text type="body">Blimps</paragraph-text> </list-item>
+         <list-item> <paragraph-text type="body">Zeppelins</paragraph-text> </list-item>
+         <list-item> <paragraph-text type="body">Vacuum airships</paragraph-text> </list-item>
+      </list>
+      </section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+      <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+      <table><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Arrangements or construction of gas-bags</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">B64B1/58</class-ref> </paragraph-text>
+            </table-column>
+         </table-row>
+         
+      </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B64B1/14</classification-symbol><definition-title>Outer covering</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <list>
+         <list-item> <paragraph-text type="body">Construction and materials</paragraph-text> </list-item>
+         <list-item> <paragraph-text type="body">Solar panels attached to the outer covering.</paragraph-text> </list-item>
+      </list>
+      </section-body></definition-statement><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Photovoltaic systems for generating electric power</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">H02S</class-ref> </paragraph-text>
+            </table-column>
+         </table-row>
+         
+      </table>
+      </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B64B1/18</classification-symbol><definition-title>Attachment to structure</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <paragraph-text type="body">Means for attaching the outer covering to the inner structure.</paragraph-text>
+      </section-body></definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B64B1/20</classification-symbol><definition-title>provided with wings or stabilising surfaces {(tail unit construction <class-ref scheme="cpc">B64B1/10</class-ref>; movable control surfaces <class-ref scheme="cpc">B64B1/12</class-ref>)}</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <paragraph-text type="body">Disposition or arrangements of wings or surfaces on the airship.</paragraph-text>
+      </section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body>
+      <paragraph-text type="preamble">This place does not cover:</paragraph-text>
+      <table><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Tail unit construction, e.g. constructional details of fixed tail surfaces</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">B64B1/10</class-ref> </paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Constructional details of movable control surfaces</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">B64B1/12</class-ref> </paragraph-text>
+            </table-column>
+         </table-row>
+         
+         
+      </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B64B1/32</classification-symbol><definition-title>surrounding hull</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <paragraph-text type="body">Arrangement of propellers in relation to the hull</paragraph-text>
+      </section-body></definition-statement><relationship><section-title>Relationships with other classification places</section-title><section-body>
+      <paragraph-text type="body">Propellers in general are covered by <class-ref scheme="cpc">B64C11/00</class-ref> </paragraph-text>
+      </section-body></relationship></definition-item>
+<definition-item><classification-symbol scheme="cpc">B64B1/40</classification-symbol><definition-title>Balloons  (<class-ref scheme="cpc">B64B1/58</class-ref> takes precedence; toy balloons <class-ref scheme="cpc">A63H27/10</class-ref>)</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <paragraph-text type="body">Conventional balloons of generally spherical shape where the outer cover serves as gas bag, e.g. traditional hot air balloons.</paragraph-text>
+      </section-body></definition-statement><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Toy balloons are covered </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">A63H27/10</class-ref> </paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Inflatable tents are covered</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">E04H15/20</class-ref> , <class-ref scheme="cpc">E04H15/22</class-ref> </paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Illuminated balloons are covered</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">F21V3/023</class-ref> </paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Meteorological balloons are covered </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">G01W1/08</class-ref> </paragraph-text>
+            </table-column>
+         </table-row><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Balloons for advertising are covered </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">G09F21/00</class-ref> </paragraph-text>
+            </table-column>
+         </table-row>
+         
+         
+         
+         
+         
+      </table>
+      </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B64B1/58</classification-symbol><definition-title>Arrangements or construction of gas-bags; Filling arrangements</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <list>
+         <list-item> <paragraph-text type="body">Materials for balloons</paragraph-text> </list-item>
+         <list-item> <paragraph-text type="body">Systems for filling the balloons</paragraph-text> </list-item>
+         <list-item> <paragraph-text type="body">Constructional features of the gas bags</paragraph-text> </list-item>
+      </list>
+      </section-body></definition-statement><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table><table-row>
+            <table-column preferred-width="11.41cm">
+               <paragraph-text type="body">Outercovering materials for rigid airships</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+               <paragraph-text type="body"> <class-ref scheme="cpc">B64B1/14</class-ref> </paragraph-text>
+            </table-column>
+         </table-row>
+         
+      </table>
+      </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B64B1/60</classification-symbol><definition-title>Gas-bags surrounded by separate containers of inert gas</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <paragraph-text type="body">Gas-bags separated by containers of inert gas, e.g. ballonets for altitude control.</paragraph-text>
+      </section-body></definition-statement></definition-item>
+<definition-item date-revised="2017-01-01"><classification-symbol scheme="cpc">B64B1/66</classification-symbol><definition-title>Mooring attachments</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+      <paragraph-text type="preamble">This place covers:</paragraph-text>
+      <paragraph-text type="body">Arrangements or devices on the airship for mooring.</paragraph-text>
+      </section-body></definition-statement><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+      <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+      <table><table-row>
+            <table-column>
+               <paragraph-text type="body">Mooring masts for airships or balloons</paragraph-text>
+            </table-column>
+            <table-column>
+               <paragraph-text type="body"><class-ref scheme="cpc">B64F1/14</class-ref></paragraph-text>
+            </table-column>
+         </table-row>
+         
+      </table>
+      </section-body></informative-references></references></definition-item></definitions>

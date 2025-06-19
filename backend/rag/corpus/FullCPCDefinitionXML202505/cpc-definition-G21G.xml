@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">G21G</classification-symbol><definition-title>CONVERSION OF CHEMICAL ELEMENTS; RADIOACTIVE SOURCES  (applications of radiation in general <class-ref scheme="cpc">G21H5/00</class-ref>; handling particles, e.g. neutrons, or electromagnetic radiation not otherwise provided for <class-ref scheme="cpc">G21K</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Methods and apparatus for the conversion of chemical elements, e.g. isotope production or transmutation where a change of atomic number takes place either externally induced or by radioactive decay.</paragraph-text>
+            <paragraph-text type="body">Radioactive sources (solid, liquid or gas).</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Conversion of nuclear fuel</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Adaptations of reactors to facilitate experimentation or irradiation. Examples of such adaptations include modification of the reactor core to enable exposure of samples for investigative purposes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21C23/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Applications of radiation in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21H5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Handling particles.</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21K</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Irradiation devices. These typically include arrangements to deliberately subject bodies or materials to ionising radiation in order to take advantage of known effects of the radiation thereon</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21K5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">X-ray tubes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J35/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+            </table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Radiopharmaceuticals</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A61K51/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Applying radioactive material to the body</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="not-mapped">A61M36/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Radiation therapy using radioactive sources</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A61N5/10</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Detection by neutron activation</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G01N23/222</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Conversion of chemical elements by thermonuclear reactions in fusion reactors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Nuclear reactors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Application of radiation from radioactive sources</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21H5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+               
+            </table></section-body></application-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Preparations containing radioactive substances for use in therapy or testing in vivo</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A61K51/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Separation of different isotopes of the same element</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B01D59/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">In fusion reactors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">In nuclear reactors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">By cosmic radiation</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21H7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Handling particles or electro&#8203;magnetic radiation not otherwise provided for</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21K</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">X-ray tubes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J35/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Gamma masers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01S4/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">In accelerators</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               <table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Producing neutrons or other subatomic particles, X- or gamma rays:</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"/>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">Indexing Codes are only used for <class-ref scheme="cpc">G21G1/00</class-ref>, <class-ref scheme="cpc">G21G1/0005</class-ref> and <class-ref scheme="cpc">G21G1/001</class-ref> for indicating supplementary information. In all other cases multiple ECLA classes are assigned.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">G21G1/00</classification-symbol><definition-title>Arrangements for converting chemical elements by electromagnetic radiation, corpuscular radiation or particle bombardment, e.g. producing radioactive isotopes  (separation of different isotopes of the same element <class-ref scheme="cpc">B01D59/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text>Apparatus and methods for transmutation and isotope production.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text>Conversion isotope generators methods of isotope recovery from targets.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text>Arrangements inside nuclear power reactors</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Arrangements outside nuclear power reactors, e.g. conversion by bombardment with electrically charged particles or neutrons.</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">Further information:</paragraph-text>
+            <paragraph-text type="body">The indexing scheme under <class-ref scheme="cpc">G21G1/00</class-ref> covers: isotope delivery systems; methods for recovering isotopes. Individual subgroups are used to identify particular isotopes recovered from irradiated targets.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Separation of different isotopes of the same element (enrichment)</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B01D59/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Applications of electromagnetic radiation </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21H5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Irradiation devices </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21K5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Targets for nuclear reactions</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H6/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body"> <class-ref scheme="cpc">G21G1/02</class-ref> </paragraph-text>
+            <paragraph-text type="body">Referring to reactors is intended for power reactors which primarily supply electricity to the power grid; otherwise <class-ref scheme="cpc">G21G1/06</class-ref> should be used.</paragraph-text>
+            <paragraph-text type="body"> <class-ref scheme="cpc">G21G1/00</class-ref> </paragraph-text>
+            <paragraph-text type="body">May be assigned to inventions in other classes where isotope conversion, recovery or delivery takes place but is not the main focus.</paragraph-text>
+            <paragraph-text type="body"> <class-ref scheme="cpc">G21G2001/0015</class-ref> through <class-ref scheme="cpc">G21G2001/0094</class-ref> should only be used these particular isotopes are recovered. For more general methods, useful for large groups/lists of isotopes, <class-ref scheme="cpc">G21G1/001</class-ref> should be given.</paragraph-text>
+         </section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Transmutation</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Conversion of nuclear waste to less problematic isotopes.</paragraph-text>
+                  </table-column>
+               </table-row>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Generator</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Shielded delivery system containing a mother isotope which can be eluted or &quot;milked&quot; to deliver an isotope product, which usually has a short half-life, e.g. Technetium-99m.</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </section-body>
+      </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><abbreviations><paragraph-text type="preamble">In patent documents, the following abbreviations are often used:</paragraph-text>
+            
+            <table>
+               <table-row>
+                  <table-column preferred-width="6.34cm">
+                     <paragraph-text type="body">Isotope delivery system</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="11.04cm">
+                     <paragraph-text type="body">&quot;Generator&quot;, &quot;cow&quot;, ion exchange column.</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </abbreviations></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21G4/00</classification-symbol><definition-title>Radioactive sources  (producing neutrons or other subatomic particles, X- or gamma rays, in fusion reactors <class-ref scheme="cpc">G21B</class-ref>, in nuclear reactors <class-ref scheme="cpc">G21C</class-ref>, by cosmic radiation <class-ref scheme="cpc">G21H7/00</class-ref>, in accelerators <class-ref scheme="cpc">H05H</class-ref>; X-ray tubes <class-ref scheme="cpc">H01J35/00</class-ref>; gamma masers <class-ref scheme="cpc">H01S4/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text>Sources of ionising radiation which emit according to radioactive decay.</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text>Neutron sources or other sources used generally or for medical applications.</paragraph-text>
+               </list-item>
+            </list>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Producing neutrons or other subatomic particles, X- or gamma rays in fusion reactors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Producing neutrons or other subatomic particles, X- or gamma rays in nuclear reactors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Producing neutrons or other subatomic particles, X- or gamma rays by cosmic radiation</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21H7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+            </table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Radioactive dressings</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="not-mapped">A61M36/14</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Radiation therapy</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">A61N5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Filling medical containers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65B3/003</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Filling medical containers and related operations</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65B3/006</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Producing neutrons or other subatomic particles, X- or gamma rays by using sources as tracers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21H5/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">X-ray tubes</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01J35/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Gamma masers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01S4/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Plasma eUV sources</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05G2/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Production of accelerated electrically-charged particles or of neutrons, e.g. using accelerators</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H05H</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            </table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21G5/00</classification-symbol><definition-title>Alleged conversion of chemical elements by chemical reaction</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Alchemy, e.g. alleged induction of radioactive decay by chemical means.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table><table-row>
+                  <table-column preferred-width="13.19cm">
+                     <paragraph-text type="body">Cold fusion</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.19cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G21B3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+               
+            </table>
+         </section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">This main group should only be given when a change of atomic number by chemical means is explicitly disclosed. This may also include alleged induction of radioactive decay by chemical means.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G21G7/00</classification-symbol><definition-title>Conversion of chemical elements not provided for in other groups of this subclass</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Miscellaneous apparatus or methods for converting elements or generating isotopes not induced by electromagnetic radiation, corpuscular radiation or particle bombardment.</paragraph-text>
+            <paragraph-text type="body">Such methods which contradict standard physics.</paragraph-text>
+         </section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">This main group should only be given if no other group in this subclass can be assigned.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item></definitions>

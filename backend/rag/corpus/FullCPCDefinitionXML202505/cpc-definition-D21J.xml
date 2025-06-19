@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2018-01-01" publication-type="official">
+<definition-item date-revised="2015-09-01"><classification-symbol scheme="cpc">D21J</classification-symbol><definition-title>FIBREBOARD; MANUFACTURE OF ARTICLES FROM CELLULOSIC FIBROUS SUSPENSIONS OR FROM PAPIER-MACHE  (manufacture of articles by dry processes <class-ref scheme="cpc">B27N</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Manufacture of fibreboard and articles from cellulosic fibrous suspensions by wet methods, and fibreboard product obtained thereby.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Manufacture by dry processes of articles made from particles or fibres consisting of wood other lignocellulosic material </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B27N</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Preparation of pulp compositions </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Addition of chemical agents</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Formation of fibrous webs</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D21F</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Cellulosic materials in the methods for working plastic materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B29K2001/00</class-ref>, <class-ref scheme="cpc">B29B</class-ref>, <class-ref scheme="cpc">B29C</class-ref>, <class-ref scheme="cpc">B29D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Making other paper articles than boxes, cartons, envelopes, bags and tubes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B31D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Making layered products not composed wholly of paper or cardboard </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B32B37/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.41cm">
+              <paragraph-text type="body">Building materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.62cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04C</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Subgroups and head groups.</paragraph-text>
+        <paragraph-text type="body">If a document concerns embodiments which are covered by several subgroups dependent on a higher hierarchy group, the following rules apply:</paragraph-text>
+        <paragraph-text type="body">the specific technical information relevant for some of the subgroups is classified in all said subgroups;</paragraph-text>
+        <paragraph-text type="body">if relevant, the structural association (e.g. the combination) of the elements covered by the subgroups is classified in the head group;</paragraph-text>
+        <paragraph-text type="body">analogously, if generic technical information common to all of the subgroups is disclosed and only schematic embodiments of the specific subgroup embodiments are represented, the documents is classified in the head group only.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21J1/00</classification-symbol><definition-title>Fibreboard  (preparation of pulp compositions or addition of chemical agents <class-ref scheme="cpc">D21B</class-ref>, <class-ref scheme="cpc">D21C</class-ref>, <class-ref scheme="cpc">D21H</class-ref>; formation of the wet web <class-ref scheme="cpc">D21F</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Processes and devices for the production of wet-formed board from raw materials comprising fibrous materials and optionally all kind of other filler material.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21J1/16</classification-symbol><definition-title>Special fibreboard</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Fibreboard specially adapted for a certain purpose.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21J1/20</classification-symbol><definition-title>Insulating board</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">e.g. acoustic or thermal insulating board.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21J3/00</classification-symbol><definition-title>Manufacture of articles by pressing wet fibre pulp, or papier-m&#226;ch&#233;, between moulds</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Fibreboard manufacturing processes without the use of vacuum, i.e. only pressing the moulds together.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21J5/00</classification-symbol><definition-title>Manufacture of hollow articles by transferring sheets, produced from fibres suspensions or papier-m&#226;ch&#233; by suction on wire-net moulds, to couch-moulds</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Fibreboard manufacturing processes comprising sheet forming and subsequent moulding/pressing.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D21J7/00</classification-symbol><definition-title>Manufacture of hollow articles from fibre suspensions or papier-m&#226;ch&#233; by deposition of fibres in or on a wire-net mould</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Fibreboard manufacturing processes comprising simultaneous forming and moulding.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item></definitions>

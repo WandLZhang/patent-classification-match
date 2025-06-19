@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">G03C</classification-symbol><definition-title>PHOTOSENSITIVE MATERIALS FOR PHOTOGRAPHIC PURPOSES  (for photomechanical purposes <class-ref scheme="cpc">G03F</class-ref>); PHOTOGRAPHIC PROCESSES, e.g. CINE, X-RAY, COLOUR, STEREO-PHOTOGRAPHIC PROCESSES; AUXILIARY PROCESSES IN PHOTOGRAPHY  (photographic processes characterised by the use or manipulation of apparatus classifiable per se in subclass <class-ref scheme="cpc">G03B</class-ref>, see <class-ref scheme="cpc">G03B</class-ref>; photomechanical production of textured or patterned surfaces <class-ref scheme="cpc">G03F</class-ref>; electrophotography, magnetography <class-ref scheme="cpc">G03G</class-ref>)</definition-title></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">G03C1/00</classification-symbol><definition-title>Photosensitive materials  (photosensitive materials for multicolour processes <class-ref scheme="cpc">G03C7/00</class-ref>; for diffusion transfer processes <class-ref scheme="cpc">G03C8/00</class-ref>; photosensitive glass <class-ref scheme="cpc">C03C4/04</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Photographic materials in general including additives, compositions, and structural details of the layered products, and their manufacture. When the material is specifically intended for multi-colour use, it is classified in <class-ref scheme="cpc">G03C7/00</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Photosensitive compositions based on metal salts, diazonium compounds and photochromic compounds.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">G03B</class-ref> covers cameras</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">G03H</class-ref> covers holographic materials</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">G11B7/00</class-ref> covers optical recording materials</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Photosensitive compositions based on photopolymers</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Coating processes or apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05C</class-ref>, <class-ref scheme="cpc">B05D</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Dyes as such</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C09B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Photochromic substances as such</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C09K9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">The invention per se is classified in the last appropriate place. If necessary, several classifications can be given.</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms> <section-title>Glossary of terms</section-title> <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+  <table>
+    <table-row>
+      <table-column>
+        <paragraph-text type="body">T-grains</paragraph-text>
+      </table-column>
+      <table-column>
+        <paragraph-text type="body">Tabular grains</paragraph-text>
+      </table-column>
+    </table-row>
+    <table-row>
+      <table-column>
+        <paragraph-text type="body">DP emulsions</paragraph-text>
+      </table-column>
+      <table-column>
+        <paragraph-text type="body">Direct positive emulsions</paragraph-text>
+      </table-column>
+    </table-row>
+  </table>
+  </section-body> </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;tabular&quot;, &quot;plate-like&quot;, &quot;planar&quot;, &quot;flaky&quot;, &quot;high-aspect-ratio grains&quot; and &quot;tabular grains&quot;</paragraph-text></list-item><list-item><paragraph-text type="body">&quot;protective&quot;, &quot;top&quot;, &quot;topmost&quot;, &quot;upper&quot;, &quot;uppermost&quot;, &quot;cover&quot;, &quot;protection&quot;, &quot;outer&quot;, &quot;outermost&quot;, &quot;overlying&quot;, &quot;overcoat&quot;, &quot;surface layers&quot; and &quot;protective layers&quot;</paragraph-text></list-item><list-item><paragraph-text type="body">&quot;subbing&quot;, &quot;anchoring&quot;, &quot;priming&quot;, &quot;precoat&quot;, &quot;undercoat&quot;, &quot;bonding&quot;, &quot;substrate layers&quot; and &quot;subbing layers&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">G03C3/00</classification-symbol><definition-title>Packages of films for inserting into cameras, e.g. roll-films, film-packs; Wrapping materials for light-sensitive plates, films or papers, e.g. materials characterised by the use of special dyes, printing inks, adhesives  (wrapping materials in general <class-ref scheme="cpc">B65D</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Packages and wrapping materials for photographic films and other photosensitive materials.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Packaging of processing agents</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03C5/264</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Holders for X-ray films</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B42/04</class-ref>, <class-ref scheme="cpc">G03B42/042</class-ref>, <class-ref scheme="cpc">G03B42/045</class-ref>, <class-ref scheme="cpc">G03B42/047</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Packaging materials as such</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;can&quot;, &quot;magazine&quot;, &quot;container&quot;, &quot;canister&quot;, &quot;patrone&quot;, &quot;cartridge&quot;, &quot;cassette&quot;, &quot;case&quot;, &quot;box&quot;, &quot;bag&quot;, &quot;packet&quot;, &quot;holder&quot;, &quot;vessel&quot;, &quot;wrapping material&quot; and &quot;packaging material&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03C5/00</classification-symbol><definition-title>Photographic processes or agents therefor; Regeneration of such processing agents  (multicolour processes or agents therefor <class-ref scheme="cpc">G03C7/00</class-ref>; diffusion-transfer processes or agents therefor <class-ref scheme="cpc">G03C8/00</class-ref>; stereo-photographic processes <class-ref scheme="cpc">G03C9/00</class-ref>; photomechanical processes <class-ref scheme="cpc">G03F</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Photographic processes in general applied to the materials of <class-ref scheme="cpc">G03C1/00</class-ref> up to the production of the final processed print image including picture taking, processing of the exposed photosensitive materials and printing.</paragraph-text>
+        <paragraph-text type="body">Ancilliary processes, e.g. sensitometry, regeneration and replenishment of processing agents, and image treatment, e.g. toning, and packaging of processing agents.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">G03D</class-ref> covers apparatus for processing exposed photographic materials</paragraph-text>
+        <paragraph-text type="body"><class-ref scheme="cpc">G03C11/00</class-ref> covers auxiliary processes applied to the final processed printed material including drying.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Photolithographic and photomechanical processes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">G03C7/00</classification-symbol><definition-title>Multicolour photographic processes or agents therefor; Regeneration of such processing agents; Photosensitive materials for multicolour processes  (diffusion transfer processes <class-ref scheme="cpc">G03C8/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Photographic materials intended for multi-colour use.</paragraph-text>
+        <paragraph-text type="body">Treatment processes for said materials.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Metal chelates</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C07C229/76</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Combinations of couplers and additives need to be mentioned in an independent claim</paragraph-text>
+        <paragraph-text type="body">Combinations of couplers of different kinds <class-ref scheme="cpc">G03C7/3225</class-ref></paragraph-text>
+        <paragraph-text type="body">Combinations of couplers of the same kind <class-ref scheme="cpc">G03C7/342</class-ref>, <class-ref scheme="cpc">G03C7/365</class-ref>, <class-ref scheme="cpc">G03C7/3805</class-ref></paragraph-text>
+        <paragraph-text type="body">Combinations of couplers and DIR <class-ref scheme="cpc">G03C7/3225</class-ref></paragraph-text>
+        <paragraph-text type="body">Combination of additives <class-ref scheme="cpc">G03C7/39296</class-ref></paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms> <section-title>Glossary of terms</section-title> <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+  <table>
+    <table-row>
+      <table-column>
+        <paragraph-text type="body">DIR</paragraph-text>
+      </table-column>
+      <table-column>
+        <paragraph-text type="body">Diffusion inhibitor releasing</paragraph-text>
+      </table-column>
+    </table-row>
+    <table-row>
+      <table-column>
+        <paragraph-text type="body">BAR</paragraph-text>
+      </table-column>
+      <table-column>
+        <paragraph-text type="body">Bleaching accelerator releasing</paragraph-text>
+      </table-column>
+    </table-row>
+  </table>
+  </section-body> </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;colour (forming) coupler&quot;, &quot;dye (forming) coupler&quot;, &quot;image (forming) coupler&quot; and &quot;coupler&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03C8/00</classification-symbol><definition-title>Diffusion transfer processes or agents therefor; Photosensitive materials for such processes</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Photosensitive materials intended for diffusion-transfer use.</paragraph-text>
+        <paragraph-text type="body">Processing such materials.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Photothermoraphy</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03C1/498</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">G03C9/00</classification-symbol><definition-title>Stereo-photographic or similar processes</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Stereophotographic processes: producing three-dimensional images.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="13.19cm">
+              <paragraph-text type="body">Stereoscopic photography</paragraph-text>
+            </table-column>
+            <table-column preferred-width="4.19cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B35/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;lenticular screens&quot; and &quot;parallax stereogram&quot;</paragraph-text></list-item><list-item><paragraph-text type="body">&quot;light polarisation&quot; and &quot;vectographic image&quot;</paragraph-text></list-item><list-item><paragraph-text type="body">&quot;separate colour images&quot; and &quot;anaglyph&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03C11/00</classification-symbol><definition-title>Auxiliary processes in photography  (characterised by the apparatus used <class-ref scheme="cpc">G03D15/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Drying during photographic processing.</paragraph-text>
+        <paragraph-text type="body">Processes applied after the production of the final printed product.</paragraph-text>
+        <paragraph-text type="body">Recovery of materials from coated photographic products.</paragraph-text>
+        <paragraph-text type="body">Cleaning of photographic processing and manufacturing apparatus.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Obtaining noble metals</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22B11/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Obtaining metals otherwise</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22B61/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Electrolytic recovery of metals</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C25C1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Drying in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F26B3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Apparatus for drying of photographic materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D15/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Digital marking is classified in <class-ref scheme="cpc">G03C11/02</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item></definitions>

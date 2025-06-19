@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2025-01-01" publication-type="official">
+<definition-item date-revised="2025-01-01"><classification-symbol scheme="cpc">B67C</classification-symbol><definition-title>CLEANING, FILLING WITH LIQUIDS OR SEMILIQUIDS, OR EMPTYING, OF BOTTLES, JARS, CANS, CASKS, BARRELS, OR SIMILAR CONTAINERS, NOT OTHERWISE PROVIDED FOR; FUNNELS</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Bottling liquids or semiliquids; Filling jars or cans with liquids or semiliquids using bottling or like apparatus; Filling casks or barrels with liquids or semiliquids (filling containers with liquids or semiliquids using apparatus other than bottling or like apparatus <class-ref scheme="cpc">B65B3/00</class-ref>).</paragraph-text><paragraph-text type="body">Concurrent cleaning (or sterilizing), filling, and closing of bottles; Processes or devices for at least two of these operations.</paragraph-text><paragraph-text type="body">Devices for emptying bottles, not otherwise provided for during preparation of alcoholic beverages except beer <class-ref scheme="cpc">C12G1/00</class-ref>.</paragraph-text><paragraph-text type="body">Funnels, e.g. for liquids (filter funnels <class-ref scheme="cpc">B01D29/085</class-ref>; volume flow-meters <class-ref scheme="cpc">G01F</class-ref>).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Heat treatment of liquids, i.e. pasteurising or sterilising</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">A23B2/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Disinfecting or sterilising as such of objects</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">A61L2/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Mixing of liquids</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B01F</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Filling bags, sacks, cartons, pouches, cups, etc.</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Filling medical containers such as ampoules, vials, syringes or the like</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B3/003</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Forming and filling of bottles in a mould</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B3/022</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Devices for transferring samples or any liquids to, in, or from, the analysis apparatus, e.g. suction devices, injection devices</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">G01N35/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Pasteurising or sterilising of liquids</paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">A23B2/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Sterilising or disinfecting of objects: </paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">A61L2/00</class-ref>, <class-ref scheme="cpc">A61L2202/23</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Sorting containers according to e.g. fill level </paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">B07C5/3404</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Forming and filling of bottles in a mould</paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B3/022</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Pressurizing filled containers</paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B31/04</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Nozzles with flow cut-off means </paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B39/001</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Preservation of foods in combination with packaging</paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B55/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Grippers</paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">B65G47/847</class-ref>, <class-ref scheme="cpc">B65G47/90</class-ref>, <class-ref scheme="cpc">B08B9/426</class-ref>, <class-ref scheme="cpc">B29C49/4205</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Safety devices for opening doors or panels</paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">F16P3/08</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Filling of gas bottles</paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">F17C13/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Liquid level control in general</paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">G01F</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Measuring volume, or volume flow, in general </paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">G01F1/00</class-ref> - <class-ref scheme="cpc">G01F25/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Weighing of fluids</paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">G01G17/04</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Detection/Investigating the presence of flaws or contamination in a container or its contents</paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">G01N21/90</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Total factory automation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">G05B19/418</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.6cm"><paragraph-text type="body">Vending machines including the filling of containers (e.g. WO2008037974)</paragraph-text></table-column><table-column preferred-width="7.43cm"><paragraph-text type="body"><class-ref scheme="cpc">G07F11/00</class-ref>, <class-ref scheme="cpc">G07F13/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2025-01-01"><classification-symbol scheme="cpc">B67C3/00</classification-symbol><definition-title>Bottling liquids or semiliquids; Filling jars or cans with liquids or semiliquids using bottling or like apparatus; Filling casks or barrels with liquids or semiliquids</definition-title><definition-statement><section-title>Definition statement</section-title><section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Bottling liquids or semiliquids; Filling jars or cans with liquids or semiliquids using bottling or like apparatus; Filling casks or barrels with liquids or semiliquids.</paragraph-text><paragraph-text type="body">Concurrent cleaning (or sterilizing), filling, and closing of bottles; Processes or devices for at least two of these operations.</paragraph-text><paragraph-text type="body">Devices for emptying bottles, not otherwise provided for during preparation of alcoholic beverages except beer <class-ref scheme="cpc">C12G1/00</class-ref>.</paragraph-text><paragraph-text type="body">Funnels, e.g. for liquids (filter funnels <class-ref scheme="cpc">B01D29/085</class-ref>; volume flow-meters <class-ref scheme="cpc">G01F</class-ref>).</paragraph-text></section-body></definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="7.81cm"><paragraph-text type="body">Filling containers with liquids or semi-liquids using apparatus other than bottling or like apparatus</paragraph-text></table-column><table-column preferred-width="7.22cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B3/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.81cm"><paragraph-text type="body">Detection/Investigating the presence of flaws or contamination in a container or its contents </paragraph-text></table-column><table-column preferred-width="7.22cm"><paragraph-text type="body"><class-ref scheme="cpc">G01N21/90</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references><section-title>Informative references</section-title><section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pasteurising or sterilising of liquids</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A23B2/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Sterilising or disinfecting of objects</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A61L2/00</class-ref>, <class-ref scheme="cpc">A61L2202/23</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Mixing of liquids</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B01F</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Sorting containers according to e.g. fill level</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B07C5/3404</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Grippers</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B08B9/426</class-ref>, <class-ref scheme="cpc">B29C49/4205</class-ref>, <class-ref scheme="cpc">B65G47/487</class-ref>, <class-ref scheme="cpc">B65G47/90</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Filling bags, sacks, cartons, pouches, cups, etc.</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65B</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Filling medical containers such as ampoules, vials, syringes or the like</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65B3/003</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Forming and filling of bottles in a mould</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65B3/022</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pressurizing filled containers</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65B31/04</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Nozzles with flow cut-off means</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65B39/001</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Preservation of foods in combination with packaging</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65B55/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Safety devices for opening doors or panels</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F16P3/08</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Devices for transferring samples or any liquids to, in, or from, the analysis apparatus, e.g. suction devices, injection devices</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">G01N35/00</class-ref></paragraph-text></table-column></table-row></table></section-body></informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Pressure-control in counter-pressure filling classified in <class-ref scheme="cpc">B67C3/12</class-ref>.</paragraph-text><paragraph-text type="body">Flow control devices classified in <class-ref scheme="cpc">B67C3/28</class-ref>.</paragraph-text><paragraph-text type="body">Filling heads specially adapted for filling cans are also classified in <class-ref scheme="cpc">B67C2003/2657</class-ref>.</paragraph-text><paragraph-text type="body">Constructional details of bottling equipment or filling machines are classified in <class-ref scheme="cpc">B67C3/22</class-ref>, e.g. frame or support details, or <class-ref scheme="cpc">B67C3/22</class-ref>, e.g. automatic exchange of components.</paragraph-text><paragraph-text type="body">Constructional details of filling heads are also classified in <class-ref scheme="cpc">B67C3/26</class-ref>.</paragraph-text><paragraph-text type="body">Classes <class-ref scheme="cpc">B67C3/2617</class-ref> and <class-ref scheme="cpc">B67C3/2625</class-ref> and subgroups also comprise documents not explicitly directed to counter-pressure filling.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/001</classification-symbol><definition-title>{Cleaning of filling devices}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media24.jpg" file-name="cpc-def-B67C-0024.jpg" type="jpeg" preferred-width="7.18cm" preferred-height="5.1cm"/><media id="media0.jpg" file-name="cpc-def-B67C-0000.jpg" type="jpeg" preferred-width="9.54cm" preferred-height="9.99cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C3/002</classification-symbol><definition-title>{using cups or dummies to be placed under the filling heads}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media26.jpg" file-name="cpc-def-B67C-0026.jpg" type="jpeg" preferred-width="6.01cm" preferred-height="9.13cm"/><media id="media25.png" file-name="cpc-def-B67C-0025.png" type="png" preferred-width="7.49cm" preferred-height="13.15cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C3/004</classification-symbol><definition-title>{permanently attached to the filling machine and movable between a rest and a working position}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media27.png" file-name="cpc-def-B67C-0027.png" type="png" preferred-width="303px" preferred-height="481px"/><media id="media28.png" file-name="cpc-def-B67C-0028.png" type="png" preferred-width="279px" preferred-height="495px"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/005</classification-symbol><definition-title>{Cleaning outside parts of filling devices}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media29.png" file-name="cpc-def-B67C-0029.png" type="png" preferred-width="15.09cm" preferred-height="10.18cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C3/007</classification-symbol><definition-title>{Applications of control, warning or safety devices in filling machinery  (flow-control <class-ref scheme="cpc">B67C3/28</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media1.jpg" file-name="cpc-def-B67C-0001.jpg" type="jpeg" preferred-width="12.28cm" preferred-height="9.96cm"/></paragraph-text><paragraph-text type="body"><media id="media2.jpg" file-name="cpc-def-B67C-0002.jpg" type="jpeg" preferred-width="6.8cm" preferred-height="10.02cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/008</classification-symbol><definition-title>{Bottling or like apparatus specially adapted to be transported, e.g. positioned on a truck or in a container}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media32.png" file-name="cpc-def-B67C-0032.png" type="png" preferred-width="13.48cm" preferred-height="10.01cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C3/02</classification-symbol><definition-title>Bottling liquids or semiliquids; Filling jars or cans with liquids or semiliquids using bottling or like apparatus</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media3.jpg" file-name="cpc-def-B67C-0003.jpg" type="jpeg" preferred-width="14.6cm" preferred-height="8.43cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/023</classification-symbol><definition-title>{Filling multiple liquids in a container  (<class-ref scheme="cpc">B67C3/208</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media34.png" file-name="cpc-def-B67C-0034.png" type="png" preferred-width="8.28cm" preferred-height="12.42cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/026</classification-symbol><definition-title>{Filling the liquids simultaneously}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media35.png" file-name="cpc-def-B67C-0035.png" type="png" preferred-width="6.63cm" preferred-height="10.39cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/04</classification-symbol><definition-title>without applying pressure</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media36.png" file-name="cpc-def-B67C-0036.png" type="png" preferred-width="6.63cm" preferred-height="11.79cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/045</classification-symbol><definition-title>{Apparatus specially adapted for filling bottles with hot liquids}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media37.png" file-name="cpc-def-B67C-0037.png" type="png" preferred-width="16cm" preferred-height="10.66cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/06</classification-symbol><definition-title>using counterpressure, i.e. filling while the container is under pressure</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media38.png" file-name="cpc-def-B67C-0038.png" type="png" preferred-width="6.37cm" preferred-height="7.64cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/065</classification-symbol><definition-title>{Filling siphons, e.g. carbonating beverages during filling  (siphons <class-ref scheme="cpc">B67D1/0456</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media39.png" file-name="cpc-def-B67C-0039.png" type="png" preferred-width="12.3cm" preferred-height="8.74cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/08</classification-symbol><definition-title>and subsequently lowering the counterpressure</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media40.png" file-name="cpc-def-B67C-0040.png" type="png" preferred-width="6.24cm" preferred-height="9.08cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/10</classification-symbol><definition-title>preliminary filling with inert gases, e.g. carbon dioxide</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media41.png" file-name="cpc-def-B67C-0041.png" type="png" preferred-width="8.02cm" preferred-height="11.49cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/12</classification-symbol><definition-title>Pressure-control devices</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media42.png" file-name="cpc-def-B67C-0042.png" type="png" preferred-width="14.67cm" preferred-height="7.01cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/14</classification-symbol><definition-title>specially adapted for filling with hot liquids</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media43.png" file-name="cpc-def-B67C-0043.png" type="png" preferred-width="8.66cm" preferred-height="10.94cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/16</classification-symbol><definition-title>using suction</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media44.png" file-name="cpc-def-B67C-0044.png" type="png" preferred-width="6.84cm" preferred-height="9.93cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/18</classification-symbol><definition-title>using siphoning arrangements</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media45.png" file-name="cpc-def-B67C-0045.png" type="png" preferred-width="6.92cm" preferred-height="11.45cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/20</classification-symbol><definition-title>with provision for metering the liquids to be introduced, e.g. when adding syrups  (measuring volume, or volume flow, in general <class-ref scheme="cpc">G01F</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media46.png" file-name="cpc-def-B67C-0046.png" type="png" preferred-width="8.87cm" preferred-height="5.57cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/202</classification-symbol><definition-title>{by weighing}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media47.png" file-name="cpc-def-B67C-0047.png" type="png" preferred-width="10.94cm" preferred-height="7.98cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/204</classification-symbol><definition-title>{using dosing chambers}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media48.jpg" file-name="cpc-def-B67C-0048.jpg" type="jpeg" preferred-width="11.32cm" preferred-height="7.39cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/206</classification-symbol><definition-title>{using arrangements of cylinders and pistons  (<class-ref scheme="cpc">B67C3/208</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media49.png" file-name="cpc-def-B67C-0049.png" type="png" preferred-width="7.22cm" preferred-height="10.48cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/208</classification-symbol><definition-title>{specially adapted for adding small amounts of additional liquids, e.g. syrup}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media50.png" file-name="cpc-def-B67C-0050.png" type="png" preferred-width="7.68cm" preferred-height="10.52cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/22</classification-symbol><definition-title>Details</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media51.png" file-name="cpc-def-B67C-0051.png" type="png" preferred-width="8.28cm" preferred-height="9.21cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/222</classification-symbol><definition-title>{Head-space air removing devices, e.g. by inducing foam}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media52.png" file-name="cpc-def-B67C-0052.png" type="png" preferred-width="14.88cm" preferred-height="6.16cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table type="informative-references-table">
+<table-row><table-column preferred-width="12.26cm"><paragraph-text type="body">Topping-up containers or receptacles to ensure complete filling </paragraph-text></table-column><table-column preferred-width="2.78cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B3/24</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Adding fluids for preventing deformation of filled and closed containers</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65B31/006</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/223</classification-symbol><definition-title>{by squeezing the container elastically}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media53.png" file-name="cpc-def-B67C-0053.png" type="png" preferred-width="7.47cm" preferred-height="5.78cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/225</classification-symbol><definition-title>{Means for filling simultaneously, e.g. in a rotary filling apparatus or multiple rows of containers}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media54.png" file-name="cpc-def-B67C-0054.png" type="png" preferred-width="10.65cm" preferred-height="8.06cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/24</classification-symbol><definition-title>Devices for supporting or handling bottles  (transport or storing devices in general <class-ref scheme="cpc">B65G</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media55.png" file-name="cpc-def-B67C-0055.png" type="png" preferred-width="12.89cm" preferred-height="10.48cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table type="informative-references-table">
+<table-row><table-column><paragraph-text type="body">Pucks used as container carrier in handling devices such as conveyors</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65G2201/0261</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/242</classification-symbol><definition-title>{engaging with bottle necks  (<class-ref scheme="cpc">B67C3/26</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media56.png" file-name="cpc-def-B67C-0056.png" type="png" preferred-width="7.81cm" preferred-height="10.1cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/244</classification-symbol><definition-title>{Bottle lifting devices actuated by jacks, e.g. hydraulic, pneumatic  (<class-ref scheme="cpc">B67C3/242</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media57.png" file-name="cpc-def-B67C-0057.png" type="png" preferred-width="7.3cm" preferred-height="8.06cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/246</classification-symbol><definition-title>{Bottle lifting devices actuated by cams  (<class-ref scheme="cpc">B67C3/242</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media58.png" file-name="cpc-def-B67C-0058.png" type="png" preferred-width="6.33cm" preferred-height="9.72cm"/></paragraph-text><paragraph-text type="body"><media id="media59.png" file-name="cpc-def-B67C-0059.png" type="png" preferred-width="11.45cm" preferred-height="7.64cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/248</classification-symbol><definition-title>{Bottle lifting devices actuated by threads  (<class-ref scheme="cpc">B67C3/242</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media60.png" file-name="cpc-def-B67C-0060.png" type="png" preferred-width="7.09cm" preferred-height="6.37cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/26</classification-symbol><definition-title>Filling-heads; Means for engaging filling-heads with bottle necks</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media61.png" file-name="cpc-def-B67C-0061.png" type="png" preferred-width="7.6cm" preferred-height="9.17cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/2608</classification-symbol><definition-title>{comprising anti-dripping means}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media62.png" file-name="cpc-def-B67C-0062.png" type="png" preferred-width="6.96cm" preferred-height="7.13cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/2611</classification-symbol><definition-title>{to prevent dripping from sources other than the filling product, e.g. deflectors for vapours condensed on the outer surface of the filling device}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media63.png" file-name="cpc-def-B67C-0063.png" type="png" preferred-width="8.95cm" preferred-height="7.64cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/2614</classification-symbol><definition-title>{specially adapted for counter-pressure filling}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media64.png" file-name="cpc-def-B67C-0064.png" type="png" preferred-width="7.9cm" preferred-height="6.54cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/2617</classification-symbol><definition-title>{the liquid valve being opened by mechanical or electrical actuation}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media65.png" file-name="cpc-def-B67C-0065.png" type="png" preferred-width="7.3cm" preferred-height="9.33cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/262</classification-symbol><definition-title>{and the filling operation stopping when the liquid rises to a level at which it closes a vent opening}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media66.png" file-name="cpc-def-B67C-0066.png" type="png" preferred-width="8.19cm" preferred-height="10.6cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/2622</classification-symbol><definition-title>{and the filling operation stopping when probes, e.g. electrical or optical probes, sense the wanted liquid level  (level control in general <class-ref scheme="cpc">G01F</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media67.png" file-name="cpc-def-B67C-0067.png" type="png" preferred-width="6.63cm" preferred-height="9.93cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/2625</classification-symbol><definition-title>{the liquid valve being opened automatically when a given counter-pressure is obtained in the container to be filled}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media68.png" file-name="cpc-def-B67C-0068.png" type="png" preferred-width="6.96cm" preferred-height="10.52cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/2628</classification-symbol><definition-title>{and the filling operation stopping when the liquid rises to a level at which it closes a vent opening}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media69.png" file-name="cpc-def-B67C-0069.png" type="png" preferred-width="8.06cm" preferred-height="11.41cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/2631</classification-symbol><definition-title>{and the filling operation stopping when probes, e.g. electrical or optical probes, sense the wanted liquid level  (level control in general <class-ref scheme="cpc">G01F</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media70.png" file-name="cpc-def-B67C-0070.png" type="png" preferred-width="6.46cm" preferred-height="8.74cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/2634</classification-symbol><definition-title>{specially adapted for vacuum or suction filling}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media71.png" file-name="cpc-def-B67C-0071.png" type="png" preferred-width="8.7cm" preferred-height="11.28cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/2637</classification-symbol><definition-title>{comprising a liquid valve opened by relative movement between the container and the filling head}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media72.png" file-name="cpc-def-B67C-0072.png" type="png" preferred-width="11.96cm" preferred-height="9.38cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C3/264</classification-symbol><definition-title>{and the filling operation being carried out manually}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media73.png" file-name="cpc-def-B67C-0073.png" type="png" preferred-width="227px" preferred-height="425px"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/2642</classification-symbol><definition-title>{specially adapted for sterilising prior to filling}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media74.jpg" file-name="cpc-def-B67C-0074.jpg" type="jpeg" preferred-width="11.24cm" preferred-height="9.08cm"/></paragraph-text><paragraph-text type="body"><media id="media75.png" file-name="cpc-def-B67C-0075.png" type="png" preferred-width="5.52cm" preferred-height="7.9cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C3/28</classification-symbol><definition-title>Flow-control devices, e.g. using valves  ({<class-ref scheme="cpc">B67C3/2617</class-ref>, <class-ref scheme="cpc">B67C3/2625</class-ref>, <class-ref scheme="cpc">B67C3/2637</class-ref> take precedence}; valves in general <class-ref scheme="cpc">F16K</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media4.jpg" file-name="cpc-def-B67C-0004.jpg" type="jpeg" preferred-width="14.23cm" preferred-height="9.96cm"/></paragraph-text><paragraph-text type="body"><media id="media5.jpg" file-name="cpc-def-B67C-0005.jpg" type="jpeg" preferred-width="8.92cm" preferred-height="9.99cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C3/281</classification-symbol><definition-title>{Profiled valve bodies for smoothing the flow at the outlet of the filling nozzle}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media6.jpg" file-name="cpc-def-B67C-0006.jpg" type="jpeg" preferred-width="12.36cm" preferred-height="9.99cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C3/283</classification-symbol><definition-title>{using pressure sensing means}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media7.jpg" file-name="cpc-def-B67C-0007.jpg" type="jpeg" preferred-width="9.0cm" preferred-height="9.96cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C3/284</classification-symbol><definition-title>{using non-liquid contact sensing means  (<class-ref scheme="cpc">B67C3/283</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media8.jpg" file-name="cpc-def-B67C-0008.jpg" type="jpeg" preferred-width="7.39cm" preferred-height="10.02cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C3/285</classification-symbol><definition-title>{using liquid contact sensing means  (<class-ref scheme="cpc">B67C3/283</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media9.jpg" file-name="cpc-def-B67C-0009.jpg" type="jpeg" preferred-width="7.9cm" preferred-height="9.99cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C3/286</classification-symbol><definition-title>{related to flow rate control, i.e. controlling slow and fast filling phases}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media10.png" file-name="cpc-def-B67C-0010.png" type="png" preferred-width="13.3cm" preferred-height="6.18cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C3/287</classification-symbol><definition-title>{related to flow control using predetermined or real-time calculated parameters}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media11.jpg" file-name="cpc-def-B67C-0011.jpg" type="jpeg" preferred-width="14.62cm" preferred-height="9.46cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C3/288</classification-symbol><definition-title>{using master-slave controls}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media12.jpg" file-name="cpc-def-B67C-0012.jpg" type="jpeg" preferred-width="13.68cm" preferred-height="9.99cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/30</classification-symbol><definition-title>Filling of barrels or casks</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media13.jpg" file-name="cpc-def-B67C-0013.jpg" type="jpeg" preferred-width="6.46cm" preferred-height="9.09cm"/></paragraph-text><paragraph-text type="body"><media id="media76.jpg" file-name="cpc-def-B67C-0076.jpg" type="jpeg" preferred-width="11.28cm" preferred-height="14.41cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/32</classification-symbol><definition-title>using counterpressure, i.e. filling while the container is under pressure</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media77.png" file-name="cpc-def-B67C-0077.png" type="png" preferred-width="4.89cm" preferred-height="8.23cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C3/34</classification-symbol><definition-title>Devices for engaging filling-heads with filling-apertures</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media78.png" file-name="cpc-def-B67C-0078.png" type="png" preferred-width="7.3cm" preferred-height="9.8cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2025-01-01"><classification-symbol scheme="cpc">B67C7/00</classification-symbol><definition-title>Concurrent cleaning, filling, and closing of bottles; Processes or devices for at least two of these operations</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Details of conveying or synchronising.</paragraph-text><paragraph-text type="body">Sterilising, aseptic filling and closing.</paragraph-text><paragraph-text type="body">Lever action devices operated by hand or foot.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Heat treatment of liquids, i.e. pasteurising or sterilising </paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">A23B2/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Details about sterilising processes or apparatuses as such, only in combination with some form of subsequent process in/of a bottling line</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">A61L2/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Disinfecting or sterilising as such of objects</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">A61L2/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Mixing of liquids</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B01F</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Forming and filling of bottles in a mould </paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B3/022</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Pasteurising or sterilising of liquids </paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">A23B2/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Sterilising or disinfecting of objects </paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">A61L2/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Cleaning in general </paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B08B</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Cleaning of containers </paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B08B9/20</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Details related to subsequent processes of blow moulding and filling </paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B29C49/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Preservation of foods in combination with packaging </paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B55/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Packaging in aseptic tunnels</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B55/025</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Packaging in aseptic chambers </paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B55/027</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Conveying of containers in general </paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B65G</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="7.52cm"><paragraph-text type="body">Grippers</paragraph-text></table-column><table-column preferred-width="7.52cm"><paragraph-text type="body"><class-ref scheme="cpc">B65G47/847</class-ref>, <class-ref scheme="cpc">B65G47/90</class-ref>, <class-ref scheme="cpc">B08B9/426</class-ref>, <class-ref scheme="cpc">B29C49/4205</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C7/0006</classification-symbol><definition-title>{Conveying; Synchronising}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media79.png" file-name="cpc-def-B67C-0079.png" type="png" preferred-width="7.98cm" preferred-height="7.43cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C7/0013</classification-symbol><definition-title>{Synchronising}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media80.png" file-name="cpc-def-B67C-0080.png" type="png" preferred-width="7.77cm" preferred-height="11.41cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C7/002</classification-symbol><definition-title>{General lay-out of bottle-handling machines}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media81.png" file-name="cpc-def-B67C-0081.png" type="png" preferred-width="8.15cm" preferred-height="5.14cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C7/0026</classification-symbol><definition-title>{the containers travelling along a linear path}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media82.png" file-name="cpc-def-B67C-0082.png" type="png" preferred-width="11.54cm" preferred-height="6.84cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C7/0033</classification-symbol><definition-title>{the operation being performed batch-wise}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media83.png" file-name="cpc-def-B67C-0083.png" type="png" preferred-width="11.28cm" preferred-height="7.98cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C7/004</classification-symbol><definition-title>{the containers travelling along a circular path}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media84.jpg" file-name="cpc-def-B67C-0084.jpg" type="jpeg" preferred-width="12.51cm" preferred-height="7.73cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C7/0046</classification-symbol><definition-title>{Infeed and outfeed devices}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media85.png" file-name="cpc-def-B67C-0085.png" type="png" preferred-width="8.91cm" preferred-height="8.7cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C7/0053</classification-symbol><definition-title>{using grippers  (for supporting bottle necks during filling <class-ref scheme="cpc">B67C3/242</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media86.png" file-name="cpc-def-B67C-0086.png" type="png" preferred-width="6.75cm" preferred-height="9.97cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C7/0073</classification-symbol><definition-title>{Sterilising, aseptic filling and closing  (<class-ref scheme="cpc">B67C3/2642</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media87.png" file-name="cpc-def-B67C-0087.png" type="png" preferred-width="8.95cm" preferred-height="5.23cm"/><media id="media88.png" file-name="cpc-def-B67C-0088.png" type="png" preferred-width="10.01cm" preferred-height="5.19cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C7/008</classification-symbol><definition-title>{comprising a cleaning step between two closing steps}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media89.png" file-name="cpc-def-B67C-0089.png" type="png" preferred-width="7.13cm" preferred-height="4.55cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2023-08-01"><classification-symbol scheme="cpc">B67C7/0086</classification-symbol><definition-title>{Sterilisation being restricted to the area of application of the closure}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media90.png" file-name="cpc-def-B67C-0090.png" type="png" preferred-width="4.97cm" preferred-height="6.33cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C7/0093</classification-symbol><definition-title>{Lever action devices operated by hand or foot}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media14.jpg" file-name="cpc-def-B67C-0014.jpg" type="jpeg" preferred-width="6.54cm" preferred-height="9.44cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2015-03-01"><classification-symbol scheme="cpc">B67C9/00</classification-symbol><definition-title>Devices for emptying bottles, not otherwise provided for {(during preparation of alcoholic beverages except beer <class-ref scheme="cpc">C12G1/00</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media15.jpg" file-name="cpc-def-B67C-0015.jpg" type="jpeg" preferred-width="10.14cm" preferred-height="9.97cm"/></paragraph-text><paragraph-text type="body"><media id="media16.jpg" file-name="cpc-def-B67C-0016.jpg" type="jpeg" preferred-width="9.78cm" preferred-height="9.8cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C11/00</classification-symbol><definition-title>Funnels, e.g. for liquids  (filter funnels <class-ref scheme="cpc">B01D29/085</class-ref>; volume flow-meters <class-ref scheme="cpc">G01F</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Funnels without discharge valves.</paragraph-text><paragraph-text type="body">Funnels with non-automatic discharge valves.</paragraph-text><paragraph-text type="body">Funnels with automatic discharge valves.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="12.04cm"><paragraph-text type="body">Devices for aerating of wine </paragraph-text></table-column><table-column preferred-width="2.99cm"><paragraph-text type="body"><class-ref scheme="cpc">B01F</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="12.04cm"><paragraph-text type="body">Funnels for introducing articles or materials in containers or wrappers</paragraph-text></table-column><table-column preferred-width="2.99cm"><paragraph-text type="body"><class-ref scheme="cpc">B65B39/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="12.04cm"><paragraph-text type="body">Filling or draining lubricant of or from machines or engines</paragraph-text></table-column><table-column preferred-width="2.99cm"><paragraph-text type="body"><class-ref scheme="cpc">F01M11/04</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Measuring spoons or scoops</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">G01F19/002</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C11/02</classification-symbol><definition-title>without discharge valves</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media19.jpg" file-name="cpc-def-B67C-0019.jpg" type="jpeg" preferred-width="9.23cm" preferred-height="9.25cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C11/04</classification-symbol><definition-title>with non-automatic discharge valves</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media20.jpg" file-name="cpc-def-B67C-0020.jpg" type="jpeg" preferred-width="6.65cm" preferred-height="9.99cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C11/06</classification-symbol><definition-title>with automatic discharge valves</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media21.jpg" file-name="cpc-def-B67C-0021.jpg" type="jpeg" preferred-width="6.35cm" preferred-height="9.93cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C11/063</classification-symbol><definition-title>{for preventing spilling or dripping}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media22.jpg" file-name="cpc-def-B67C-0022.jpg" type="jpeg" preferred-width="7.37cm" preferred-height="9.84cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B67C11/066</classification-symbol><definition-title>{for preventing overflow of the filled container}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body"><media id="media23.jpg" file-name="cpc-def-B67C-0023.jpg" type="jpeg" preferred-width="9.55cm" preferred-height="10.01cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item></definitions>

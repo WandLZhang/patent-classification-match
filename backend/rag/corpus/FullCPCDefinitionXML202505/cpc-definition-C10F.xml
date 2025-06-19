@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">C10F</classification-symbol><definition-title>DRYING OR WORKING-UP OF PEAT</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Drying, dewatering or working up of peat, including drying using presses, band-presses, rolls, centrifuges etc., including drying or dewatering in the field.</paragraph-text>
+        <paragraph-text type="body">Drying or dewatering of peat combined with a carbonisation step for producing turfcoal.</paragraph-text>
+        <paragraph-text type="body">Working-up of peat concerns peat processing processers and apparatus therefor, e.g. involving disintegration, moulding, briquetting, solubilizing and oxidising peat, etc.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.93cm">
+              <paragraph-text type="body">Baling or bundling peat</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.1cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65B27/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.93cm">
+              <paragraph-text type="body">Extracting wax from peat</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.1cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C10G</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.93cm">
+              <paragraph-text type="body">Obtaining fibres from peat</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.1cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">D01B1/50</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.93cm">
+              <paragraph-text type="body">Destructive distillation of peat</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.1cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C10B53/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.93cm">
+              <paragraph-text type="body">Obtaining peat; Machines therefor</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.1cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21C49/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.93cm">
+              <paragraph-text type="body">Combustion of peat</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.1cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F23G7/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.93cm">
+              <paragraph-text type="body">Drying in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.1cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F26B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">In the absence of an indication to the contrary, classification is made in the last appropriate place (&quot;last place rule&quot;).</paragraph-text>
+      </section-body>
+    </special-rules></definition-item></definitions>

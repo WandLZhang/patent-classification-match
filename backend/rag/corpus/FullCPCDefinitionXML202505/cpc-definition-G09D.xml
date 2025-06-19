@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">G09D</classification-symbol><definition-title>RAILWAY OR LIKE TIME OR FARE TABLES; PERPETUAL CALENDARS  (calendar blocks <class-ref scheme="cpc">B42D5/04</class-ref>; clockwork driven <class-ref scheme="cpc">G04B</class-ref>; comprising computing means <class-ref scheme="cpc">G06C</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Railway tables or similar time/fare tables.</paragraph-text>
+        <paragraph-text type="body">Indicating or reading aids for said tables.</paragraph-text>
+        <paragraph-text type="body">Perpetual calendars.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="12.05cm">
+              <paragraph-text type="body">Calendar blocks in printed format</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.96cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B42D5/04</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="12.05cm">
+              <paragraph-text type="body">Indicating positions or identities of vehicles or vehicle trains</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.96cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B61L25/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="12.05cm">
+              <paragraph-text type="body">Clockwork-driven calendars</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.96cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G04B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="12.05cm">
+              <paragraph-text type="body">comprising computing means</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.96cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G06C</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="12.05cm">
+              <paragraph-text type="body">Railway or similar time/fare tables incorporating maps or route diagrams, e.g. railway routing charts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.96cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G09B29/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="12.05cm">
+              <paragraph-text type="body">Display devices in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.96cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G09F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G09D1/00</classification-symbol><definition-title>Railway or like time or fare tables; Indicating or reading aids therefor  (essentially incorporating maps or route diagrams <class-ref scheme="cpc">G09B</class-ref>; railway routing charts <class-ref scheme="cpc">G09B</class-ref>; display devices, e.g. railway indicator boards <class-ref scheme="cpc">G09F</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="12.05cm">
+              <paragraph-text type="body">railway routing charts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.96cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G09B</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="12.05cm">
+              <paragraph-text type="body">display devices, e.g. railway indicator boards</paragraph-text>
+            </table-column>
+            <table-column preferred-width="2.96cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G09F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body></limiting-references></references></definition-item></definitions>

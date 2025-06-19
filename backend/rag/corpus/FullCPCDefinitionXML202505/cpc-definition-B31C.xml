@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31C</classification-symbol><definition-title>MAKING WOUND ARTICLES, e.g. WOUND TUBES, OF PAPER, CARDBOARD OR MATERIAL WORKED IN A MANNER ANALOGOUS TO PAPER</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Making wound articles of material in a plastic state</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B29C53/56</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Wrapping a blank around, e.g. a mandrel to form boxes or bags</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body"><class-ref scheme="cpc">B31B50/28</class-ref>, <class-ref scheme="cpc">B31B70/28</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Shaping paper tubes by bending or folding</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31F1/0003</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Winding webs</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B65H18/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references><glossary-of-terms><section-title>Glossary of terms</section-title><section-body>
+    <paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+    <table>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Winding</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body">forming two or more complete convolutions</paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Wrapping</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body">forming one convolution possibly with an additional overlap</paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></glossary-of-terms></definition-item>
+<definition-item date-revised="2016-01-01"><classification-symbol scheme="cpc">B31C7/00</classification-symbol><definition-title>Making conical articles by winding</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Forming conical paper articles by winding, e.g. winding blanks</paragraph-text>
+    </section-body></definition-statement></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B31C9/00</classification-symbol><definition-title>Simultaneous forming of cylindrical and conical shapes by winding separate webs, e.g. forming bottles</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Paper bottles made by folding</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31B2110/10</class-ref>, <class-ref scheme="cpc">B31B2100/00</class-ref>, <class-ref scheme="cpc">B31B50/26</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31C11/00</classification-symbol><definition-title>Machinery for winding combined with other machinery</definition-title><special-rules><section-title>Special rules of classification</section-title><section-body>
+    <paragraph-text type="body">Documents must additionally be classified in at least one of the groups <class-ref scheme="cpc">B31C1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">B31C9/00</class-ref>.</paragraph-text>
+    </section-body></special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B31C11/02</classification-symbol><definition-title>for additionally shaping the articles</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="9.72cm">
+          <paragraph-text type="body">Making cores</paragraph-text>
+        </table-column>
+        <table-column preferred-width="5.32cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B65H75/50</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item></definitions>

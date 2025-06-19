@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2025-01-01" publication-type="official">
+<definition-item date-revised="2023-02-01"><classification-symbol scheme="cpc">C09C</classification-symbol><definition-title>TREATMENT OF INORGANIC MATERIALS, OTHER THAN FIBROUS FILLERS, TO ENHANCE THEIR PIGMENTING OR FILLING PROPERTIES&#160;  (treatment of materials specially adapted to enhance their filling properties in mortars, concrete or artificial stone&#160;<class-ref scheme="cpc">C04B14/00</class-ref>,&#160;<class-ref scheme="cpc">C04B18/00</class-ref>,&#160;<class-ref scheme="cpc">C04B20/00</class-ref>); PREPARATION OF CARBON BLACK&#160; {; PREPARATION OF INORGANIC MATERIALS WHICH ARE NO SINGLE CHEMICAL COMPOUNDS AND WHICH ARE MAINLY USED AS PIGMENTS OR FILLERS}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The treatment of inorganic compounds other than fibrous fillers, to enhance their pigmenting or filling properties.</paragraph-text><paragraph-text type="body">Preparation of carbon black.</paragraph-text><paragraph-text type="body">Preparation of inorganic materials being no single chemical compounds and used as pigments or fillers.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Treatment of materials specially adapted to enhance their filling properties in mortars, concrete or artificial stone</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C04B14/00</class-ref>, <class-ref scheme="cpc">C04B18/00</class-ref>, <class-ref scheme="cpc">C04B20/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references><section-title>Informative references</section-title><section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparation of inorganic compounds or non-metallic elements</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Treatment by polymerisation onto particle</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C08F292/00</class-ref></paragraph-text></table-column></table-row></table></section-body></informative-references></references><special-rules><section-title>Special rules of classification</section-title><section-body><paragraph-text type="body">Whenever in groups&#160;<class-ref scheme="cpc">C09C1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">C09C1/66</class-ref>&#160;the materials consist of a particulate core bearing a coating or any other deposit, classification is done only according to the composition of the core, unless otherwise stated, e.g.&#160;<class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref>. Preparations of materials which are no single chemical compounds, mainly comprising ceramic pigments (<class-ref scheme="cpc">C09C1/0009</class-ref>), consisting of solid solutions or polycrystalline structures, and compounds defined as composite materials (<class-ref scheme="cpc">C09C1/0081</class-ref>). Preparation and treatment steps are not always easy to distinguish from each other, e.g. preparation in the presence of treating agents (by precipitation or calcination), precise reacting conditions, affecting pigmentary effects. It is common practice to include these complex topics in&#160;<class-ref scheme="cpc">C09C1/00</class-ref>&#160;while avoiding redundancy.</paragraph-text><paragraph-text type="body">The last appropriate place rule applies.</paragraph-text><paragraph-text type="body">When classifying in this subclass, symbols of&#160;<class-ref scheme="cpc">C01P</class-ref>&#160;are used to identify structural or physical aspects of solid inorganic compounds.</paragraph-text><paragraph-text type="body">In case a group is indicated as indexed, the subgroups thereof are also indexed.</paragraph-text><paragraph-text type="body">The symbols of&#160;<class-ref scheme="cpc">C01P</class-ref>&#160;group deals with Structural and Physical Aspects of Solid Inorganic Compounds classified in subclasses&#160;<class-ref scheme="cpc">C01B</class-ref>&#160;-&#160;<class-ref scheme="cpc">C01G</class-ref>&#160;and&#160;<class-ref scheme="cpc">C09C</class-ref>. These aspects include crystal-structural characteristics, particle morphology and physical properties.</paragraph-text><paragraph-text type="body">Exception from the last appropriate place rule:</paragraph-text><paragraph-text type="body">Dopant: A dopant, also called a doping agent, is a trace impurity element that is inserted into a substance (in very low concentrations) in order to alter the physical properties of the substance. For the purpose of classification, a dopant is considered as such, when its concentration is less than 5% (wt, vol, at.) or when mentioned as such in the patent document to be classified.</paragraph-text><paragraph-text type="body">In such a case, the compound is classified ignoring the dopant(s) and the last appropriate place rule does not apply in view of the dopant(s). In case of doubts, the document is given the classification symbol relating to the last appropriate place rule by taking into account the dopant(s) and in the appropriate class, without taking into account the dopant(s).</paragraph-text></section-body></special-rules></definition-item>
+<definition-item date-revised="2023-02-01"><classification-symbol scheme="cpc">C09C1/00</classification-symbol><definition-title>Treatment of specific inorganic materials other than fibrous fillers  (tenebrescent materials <class-ref scheme="cpc">C09K9/00</class-ref>; luminescent materials <class-ref scheme="cpc">C09K11/00</class-ref>); Preparation of carbon black</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Treatment of specific inorganic materials other than fibrous fibers and preparation of carbon black</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Tenebrescent materials</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09K9/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Luminescent materials</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09K11/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Silica, silicates</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01B33/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Aluminium oxide</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01F</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">For the inorganic products itself</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Dyes, pigments, mordants and lakes</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09B</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigment</paragraph-text></table-column><table-column><paragraph-text type="body">A material that changes the color of reflected or transmitted light as the result of wavelength-selective absorption. This physical process differs from fluorescence, phosphorescence, and other forms of luminescence, in which a material emits light. A distinction is usually made between a pigment (inorganic), which is insoluble in the vehicle (resulting in a suspension), and a dye (organic), which either is itself a liquid or is soluble in its vehicle (resulting in a solution).</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0003</classification-symbol><definition-title>{Compounds of molybdenum  (<class-ref scheme="cpc">C09C1/0015</class-ref> takes precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of molybdenum</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G39/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0006</classification-symbol><definition-title>{containing bismuth and vanadium  (<class-ref scheme="cpc">C09C1/0015</class-ref> takes precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds containing vanadium and bismuth</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G31/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0009</classification-symbol><definition-title>{Pigments for ceramics  (<class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref> take precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigments consisting of flaky, non-metallic substrates characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Ceramics</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C04B</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0012</classification-symbol><definition-title>{containing zirconium and silicon}</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Silicates</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01B33/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Compounds of zirconium</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G25/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroup shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2023-02-01"><classification-symbol scheme="cpc">C09C1/0015</classification-symbol><definition-title>{Pigments exhibiting interference colours, e.g. transparent platelets of appropriate thinness or flaky substrates, e.g. mica, bearing appropriate thin transparent coatings}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Pigments with interference colours, e.g. pearlescent pigments, interference pigments, luster pigments, optical variable pigments (OVP), effect pigments.</paragraph-text><paragraph-text type="body">In general interference pigments consist of one substrate coated with one or more optically active layers. The optical active layers have a high or low refractive indices. A comprehensive list of inorganic compounds and their refractive indices can be found in &quot;Sample dispersion &amp; refractive index guide&quot;, Malvern Instruments Ltd. 1997.</paragraph-text><paragraph-text type="body">Protective layers or functional layers applied on said interference pigments consist in general of metal oxides, silica, fatty acids, polymers, silanes etc. and are deemed not to affect the optical properties of the core pigment on which they are applied. Therefore and for the purpose of classification this layers are considered as being not optically active.</paragraph-text><paragraph-text type="body">A rutilisation promoting layer (mostly SnO2) is also not considered as being optically active if not otherwise stated. Also, other layers, like adhesion promoting layers etc., are also considered as optically not active.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigments consisting of flaky, non-metallic substrates characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Metallic pigments or fillers</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/62</class-ref></paragraph-text></table-column></table-row></table></section-body></informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref>- subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0018</classification-symbol><definition-title>{uncoated and unlayered plate-like particles}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Pigments exhibiting interference colours comprising uncoated and unlayered plate-like particles, e.g. Substrate materials suitable for use as substrate for pigments exhibiting interference colours.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> subgroups shall be applied</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0021</classification-symbol><definition-title>{comprising a core coated with only one layer having a high or low refractive index}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Pigments exhibiting interference colours comprising a core coated with only layer having a high or low refractive index, e.g. pearlescent pigments consisting of a substrate and only one optically active layer, e.g. [SiO<sub>2</sub>-(substrate)-SiO<sub>2</sub>], [TiO<sub>2</sub>-(substrate)-TiO<sub>2</sub>], but also [(substrate)-Fe<sub>2</sub>O<sub>3</sub>], [(substrate)-SiO<sub>2</sub>].</paragraph-text><paragraph-text type="body">These pigments can comprise non optically active layers like protective or functional layers (see definition statement <class-ref scheme="cpc">C09C1/0015</class-ref>).</paragraph-text><paragraph-text type="body">These pigments can also comprise a substrate comprising.a protective- or a adhesion promoting layer, which cannot be considered as being optically active, e.g. a substrate comprising an metallic aluminium flake coated with a protective layer to prevent corrosion (e.g. silica, aluminium oxide etc.).</paragraph-text><paragraph-text type="body">A rutilization promoting layer (mostly SnO<sub>2</sub>) is also not considered as being optically active if not otherwise stated.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Metallic effect pigments showing no interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/62</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0024</classification-symbol><definition-title>{comprising a stack of coating layers with alternating high and low refractive indices, wherein the first coating layer on the core surface has the high refractive index}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Pigments exhibiting interference colours comprising a stack of coating layers with alternating high and low refractive indices, the first coating layer on the core surface having high refractive index, e.g Pearlescent pigments consisting of a substrate and with alternating optically active layers, e.g. [SiO<sub>2</sub>-TiO<sub>2</sub>-(substrate)-TiO<sub>2</sub>- SiO<sub>2</sub>] (Low-High-Substrate-High-Low), but also [(substrate)-TiO<sub>2</sub>- SiO<sub>2</sub>-Fe<sub>2</sub>O<sub>3</sub>].</paragraph-text><paragraph-text type="body">These pigments can further comprise non optically active layers like protective or functional layers (see definition statement <class-ref scheme="cpc">C09C1/0015</class-ref>).</paragraph-text><paragraph-text type="body">These pigments can also comprise a substrate comprising.a protective- or a adhesion promoting layer, which cannot be considered as being optically active, e.g. a substrate comprising an metallic aluminium flake coated with a protective layer to prevent corrosion (e.g. silica, aluminium oxide etc.).</paragraph-text><paragraph-text type="body">A rutilization promoting layer (mostly SnO<sub>2</sub>) is also not considered as being optically active if not otherwise stated.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0027</classification-symbol><definition-title>{One layer consisting of at least one sub-stoichiometric inorganic compound}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Pigments exhibiting interference colours comprising a stack of coating layers with alternating high and low refractive indices, the first coating layer on the core surface having high refractive index and one layer consisting of at least one sub-stoichiometric inorganic compound, typically used substoechiometric compounds are non-stoechiometric titanium or silicon oxide, like TiOx, SiOx with 0&lt;x&lt;2.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> subgroups shall be applied.</paragraph-text><paragraph-text type="body">In case said layer is defined to be a light adsorbing layer it has to be classified also in <class-ref scheme="cpc">C09C1/003</class-ref></paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/003</classification-symbol><definition-title>{comprising at least one light-absorbing layer}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Pigments exhibiting interference colours comprising a stack of coating layers with alternating high and low refractive indices, the first coating layer on the core surface having high refractive index and with at least one light-absorbing layer, e.g. a light-absorbing layer is often a compound having an own colour, e.g. metallic oxides, alloys, dyes etc.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Symbols from <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> groups are used for classification.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0033</classification-symbol><definition-title>{consisting of a metal or an alloy}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> subgroups shll be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0036</classification-symbol><definition-title>{consisting of at least one dye}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0039</classification-symbol><definition-title>{consisting of at least one coloured inorganic material}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Pigments exhibiting interference colours comprising a stack of coating layers with alternating high and low refractive indices, the first coating layer on the core surface having high refractive index and with at least one light-absorbing layer consisting of one coloured inorganic material, e.g. typically a coloured metal oxide, e.g. iron oxide</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0042</classification-symbol><definition-title>{Sub-stoichiometric inorganic materials}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0045</classification-symbol><definition-title>{consisting of a carbonaceous material, e.g. carbon black, graphite, SWNT, MWNT incorporated within an inorganic material}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">SWNT</paragraph-text></table-column><table-column><paragraph-text type="body">single-walled carbon nanotubes</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">MWNT</paragraph-text></table-column><table-column><paragraph-text type="body">multi-walled carbon nanotubes</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0048</classification-symbol><definition-title>{comprising at least one optically active layer with at least one organic material layer, e.g. liquid crystal polymers}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0051</classification-symbol><definition-title>{comprising a stack of coating layers with alternating low and high refractive indices, wherein the first coating layer on the core surface has the low refractive index}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Pigments exhibiting interference colours comprising a stack of coating layers with alternating high and low refractive indices with the first coating layer on the core surface having the low refractive index, e.g. pearlescent pigments consisting of a substrate and with alternating optically active layers, e.g. [TiO<sub>2</sub>-SiO<sub>2</sub>-(substrate)-SiO<sub>2</sub>- TiO<sub>2</sub>] (Low-High-Substrate-High-Low), but also [(substrate)-TiO<sub>2</sub>- SiO<sub>2</sub>-Fe<sub>2</sub>O<sub>3</sub>].</paragraph-text><paragraph-text type="body">These pigments can further comprise non optically active layers like protective or functional layers (see definition statement <class-ref scheme="cpc">C09C1/0015</class-ref>).</paragraph-text><paragraph-text type="body">These pigments can also comprise a substrate comprising a protective- or a adhesion promoting layer, which cannot be considered as being optically active, e.g. a substrate comprising an metallic aluminium flake coated with a protective layer to prevent corrosion (e.g. silica, aluminium oxide etc.).</paragraph-text><paragraph-text type="body">A rutilization promoting layer (mostly SnO<sub>2</sub>) is also not considered as being optically active if not otherwise stated.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0054</classification-symbol><definition-title>{one layer consisting of at least one sub-stoichiometric inorganic compound}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Pigments exhibiting interference colours comprising a stack of coating layers with alternating high and low refractive indices with one layer consisting of at least one sub-stoichionetric inorganic compound, e.g. non-stoechiometric titanium or silicon oxide, like TiOx, SiOx with 0&lt;x&lt;2.</paragraph-text><paragraph-text type="body">In case said layer is a light adsorbing layer, see <class-ref scheme="cpc">C09C1/0057</class-ref></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> subgroups shall be applied.</paragraph-text><paragraph-text type="body">In case the layer is a light adsorbing layer, see <class-ref scheme="cpc">C09C1/0057</class-ref></paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0057</classification-symbol><definition-title>{comprising at least one light-absorbing layer}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Pigments exhibiting interference colours comprising a stack of coating layers with alternating high and low refractive indices with the first coating layer on the core surface having the low refractive index and comprising at least one light-absorbing layer, e.g. light-absorbing layer is often a compound having an own colour, e.g. metallic oxides, alloys, dyes etc.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> groups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/006</classification-symbol><definition-title>{consisting of a metal or an alloy}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0063</classification-symbol><definition-title>{consisting of at least one dye}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> groups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0066</classification-symbol><definition-title>{consisting of at least one coloured inorganic material}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Typically a coloured metal oxide, e.g. iron oxide</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> groups shal be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0069</classification-symbol><definition-title>{Sub-stoichiometric inorganic materials}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Pigments exhibiting interference colours comprising a stack of coating layers with alternating high and low refractive indices with the first coating layer on the core surface having the low refractive index and comprising at least one light-absorbing layer consisting of sub-stoichiometric coloured inorganic material,e.g. substoechiometric compounds are non-stoechiometric titanium or silicon oxide, like TiOx, SiOx with 0&lt;x&lt;2.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> groups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0072</classification-symbol><definition-title>{consisting of a carbonaceous material, e.g. carbon black, graphite, SWNT, MWNT incorporated within an inorganic material}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> groups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0075</classification-symbol><definition-title>{comprising at least one optically active layer with at least one organic material layer, e.g. liquid crystal polymers}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> and <class-ref scheme="cpc">C09C2200/00</class-ref> groups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0078</classification-symbol><definition-title>{Pigments consisting of flaky, non-metallic substrates, characterised by a surface-region containing free metal}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Pigments consisting of non metallic substrates having a surface-region comprising only metal, e.g. a substrate consisting a silicate, mica, a metal oxide material coated with a metallic layer.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0081</classification-symbol><definition-title>{Composite particulate pigments or fillers, i.e. containing at least two solid phases, except those consisting of coated particles of one compound  (<class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref> take precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment consisting of flaky, non-metallic substrates, characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0084</classification-symbol><definition-title>{containing titanium dioxide}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0087</classification-symbol><definition-title>{only containing titanium dioxide and silica or silicate}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/009</classification-symbol><definition-title>{whose phases only contain calcium, magnesium and carbonate ions and may contain hydroxyl ions}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0093</classification-symbol><definition-title>{whose phases only contain calcium ions, carbonate ions and silicate ions or silica}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/0096</classification-symbol><definition-title>{Compounds of antimony  (<class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref> take precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment consisting of flaky, non-metallic substrates, characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of antimony</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G30/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/02</classification-symbol><definition-title>Compounds of alkaline earth metals or magnesium {(<class-ref scheme="cpc">C09C1/0003</class-ref>, <class-ref scheme="cpc">C09C1/0009</class-ref>, <class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref> take precedence; dolomitic solids <class-ref scheme="cpc">C09C1/009</class-ref>)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Treatment of molybdenum compounds</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0003</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigments for ceramics</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0009</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment consisting of flaky, non-metallic substrates, characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Dolomitic solids</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/009</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/021</classification-symbol><definition-title>{Calcium carbonates}</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of calcium</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01F11/18</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/025</classification-symbol><definition-title>{Calcium sulfates}</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Gypsum</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01F11/46</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/027</classification-symbol><definition-title>{Barium sulfates}</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of barium</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01F11/46</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/028</classification-symbol><definition-title>{Compounds containing only magnesium as metal}</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of magnesium</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01F5/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/04</classification-symbol><definition-title>Compounds of zinc {(<class-ref scheme="cpc">C09C1/0003</class-ref>, <class-ref scheme="cpc">C09C1/0009</class-ref>, <class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref> take precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Treatment of molybdenum compounds</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0003</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigments for ceramics</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0009</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment consisting of flaky, non-metallic substrates, characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of zinc</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G9/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/043</classification-symbol><definition-title>{Zinc oxide}</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Zinc oxide</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G9/02</class-ref>, <class-ref scheme="cpc">C01G9/03</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/046</classification-symbol><definition-title>{containing phosphorus}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Treatment of zinc compounds containing phosphorous to enhance their pigmenting or filling properties, e.g Zinc phosphate pigments which are as anticorrosion pigments</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds comprising phosphate anions</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01B25/16</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/06</classification-symbol><definition-title>Lithopone</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">lithopone, brilliant white pigment used in paints, inks, leather, paper, linoleum, and face powder. Lithopone was developed in the 1870s as a substitute or supplement for lead carbonate (white lead), to overcome its drawbacks of toxicity, poor weathering, and darkening in atmospheres that contain sulfur compounds. Lithopone is an insoluble mixture of barium sulfate and zinc sulfide that precipitates upon mixing solutions of barium sulfide and zinc sulfate. The precipitate is recovered by filtration, then calcined (roasted) at temperatures above 600&#176; C (1,112&#176; F). Although lithopone has been replaced in many applications by titanium dioxide, introduced after World War I, it is still widely used in a number of products, such as water paints.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/08</classification-symbol><definition-title>Zinc chromate</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Treatment of zinc chromate to enhance their pigmenting or filling properties, e.g like zinc phosphate the zinc chromate is an anticorrosive pigment</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of chromium</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G37/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/10</classification-symbol><definition-title>Compounds of cadmium {(<class-ref scheme="cpc">C09C1/0009</class-ref>, <class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref> take precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Treatment of cadmium compounds to enhance their pigmenting or filling properties, e.g cadmium pigments have particularly brilliant red and yellow colours.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigments for ceramics</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0009</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment consisting of flaky, non-metallic substrates, characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of cadmium</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G11/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Cadmium yellow</paragraph-text></table-column><table-column><paragraph-text type="body">pure CdS or mixed crystalls of zinc and cadmium sulfide (Cd,Zn)S</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Cadmium cinnabar</paragraph-text></table-column><table-column><paragraph-text type="body">(Cd,Hg)S (Cadmium mercury sulfide)</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/12</classification-symbol><definition-title>Cadmium sulfoselenide</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Treatment of cadmium suphoselenide to enhance its pigmenting or filling properties, e.g Cadmium Red Cd(S,Se)</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/14</classification-symbol><definition-title>Compounds of lead {(<class-ref scheme="cpc">C09C1/0009</class-ref>, <class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref> take precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigments for ceramics</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0009</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment consisting of flaky, non-metallic substrates, characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of lead</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G21/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/16</classification-symbol><definition-title>White lead</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">White lead is basic lead carbonate, (PbCO3)2Pb(OH)2) and has the warmest masstone of all the whites. It has a very subtle reddish-yellow undertone that is almost unnoticeable unless you are looking for it, or comparing lead white side by side with other kinds of white. This undertone is minimal in the best quality of lead whites.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/18</classification-symbol><definition-title>Red lead</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Red lead is lead tetroxide, also called minium, red lead or triplumbic tetroxide, is a bright red or orange crystalline or amorphous pigment. Chemically, red lead is lead tetroxide, Pb<sub>3</sub>O<sub>4</sub>, or 2PbO&#183;PbO<sub>2</sub>.</paragraph-text><paragraph-text type="body">Lead tetroxide is used in the manufacture of rust-proof primer paints.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/20</classification-symbol><definition-title>Lead chromate</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Treatment of lead chromate compounds to enhance their pigmenting or filling properties, e.g &quot;chrome yellow&quot; : Lead(II) chromate (PbCrO<sub>4</sub>) is a chemical compound, a chromate of lead, but also a mixed phase compound of the type (Pb(Cr,S)O<sub>4</sub></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of chromium</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G37/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/22</classification-symbol><definition-title>Compounds of iron {(<class-ref scheme="cpc">C09C1/0009</class-ref>, <class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref> take precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigments for ceramics</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0009</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment consisting of flaky, non-metallic substrates, characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of iron</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G49/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/24</classification-symbol><definition-title>Oxides of iron</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Iron oxide pigments consist in general of the well defined compounds like goethite (&#945;-FeOOH) (yellow); lepidocrocite (&#947;-FeOOH) (yellow to orange); hematite (&#945;-Fe<sub>2</sub>O<sub>3</sub>, red) (light red to dark violet); maghemite (&#947;-Fe<sub>2</sub>O<sub>3</sub>) (brown); magnetite (Fe<sub>3</sub>O<sub>4</sub>) (black).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of iron</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G49/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/245</classification-symbol><definition-title>{of plate-like shape}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/26</classification-symbol><definition-title>Iron blues</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">The iron blues are based upon iron (II,III) hexacyanoferrate (II,III), ferric ferrocyanide, ferric hexacyanoferrate, iron (III) ferrocyanide, iron (III) hexacyanoferrate (II). Historical and more common names for said pigments are Prussian blue (Parisian blue, Berlin blue) and Turnbull&apos;s blue</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/28</classification-symbol><definition-title>Compounds of silicon {(<class-ref scheme="cpc">C09C1/0009</class-ref>, <class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref> take precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigments for ceramics</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0009</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment consisting of flaky, non-metallic substrates, characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of silicon</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01B33/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/30</classification-symbol><definition-title>Silicic acid</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Silicic acid is a general name for a family of chemical compounds of the element silicon, hydrogen, and oxygen, with the general formula</paragraph-text><paragraph-text type="body">[SiOx(OH)4-2x]n.</paragraph-text><paragraph-text type="body">Silicon dioxide (SiO2)is considered as anhydrous silicic acid and is classified in <class-ref scheme="cpc">C09C1/30</class-ref></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of silicon</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01B33/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3009</classification-symbol><definition-title>{Physical treatment, e.g. grinding; treatment with ultrasonic vibrations}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3018</classification-symbol><definition-title>{Grinding}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3027</classification-symbol><definition-title>{Drying, calcination}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3036</classification-symbol><definition-title>{Agglomeration, granulation, pelleting}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3045</classification-symbol><definition-title>{Treatment with inorganic compounds}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3054</classification-symbol><definition-title>{Coating}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3063</classification-symbol><definition-title>{Treatment with low-molecular organic compounds}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Low-molecular organic compounds are compounds which consist of one type of molecule, which molecular weight can be exactly defined. The molecular weight of low-molecular compounds is less than 15000 g/mol. Typical low-molecular compounds are fatty acids, ethylene glycols.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3072</classification-symbol><definition-title>{Treatment with macro-molecular organic compounds}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Macromolecular organic compounds are compounds with a molecular weight of more than about 15000 g/mol. Typical macro-molecular organic compouds are polymers like polyethylene, polypropylene etc., waxes etc.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3081</classification-symbol><definition-title>{Treatment with organo-silicon compounds}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroup shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/309</classification-symbol><definition-title>{Combinations of treatments provided for in groups <class-ref scheme="cpc">C09C1/3009</class-ref>&#160;-&#160;<class-ref scheme="cpc">C09C1/3081</class-ref>}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text><paragraph-text type="body">The groups for the single treatments have to be indicated as well, e.g. a silicon dioxide treated with an inorganic compound, further coated with a macromolecular compound and a silane, followed by a grinding process will get the group symbols <class-ref scheme="cpc">C09C1/309</class-ref>, <class-ref scheme="cpc">C09C1/3045</class-ref>, <class-ref scheme="cpc">C09C1/3072</class-ref>, <class-ref scheme="cpc">C09C1/12</class-ref> and <class-ref scheme="cpc">C09C1/3018</class-ref></paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2017-02-01"><classification-symbol scheme="cpc">C09C1/32</classification-symbol><definition-title>Ultramarine</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Ultramarine is a blue pigment consisting primarily of a double silicate of aluminium (three dimensional aluminosilicate lattice) and sodium with some sulfides or sulfates, and occurring in nature as a proximate component of lapis lazuli. In the past, it has also been known as azzurrum ultramarine, azzurrum transmarinum, azzuro oltramarino, azur d&apos;Acre, pierre d&apos;azur, Lazurstein. Current terminology for ultramarine include natural ultramarine (English), outremer lapis (French), Ultramarin echt (German), oltremare genuino (Italian), and ultramarino verdadero (Spanish). Ultramarine is a complex sulfur-containing sodium-silicate (Na<sub>6-10</sub>Al<sub>6</sub>Si<sub>6</sub>O<sub>24</sub>S<sub>2</sub>-4) containing a blue cubic mineral called lazurite (the major component in lapis lazuli). The blue color of the pigment is due to the S<sub>3</sub><sup>&#8722;</sup> radical anion, which contains an unpaired electron.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/34</classification-symbol><definition-title>Compounds of chromium {(<class-ref scheme="cpc">C09C1/0009</class-ref>, <class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref>, <class-ref scheme="cpc">C09C1/08</class-ref>, <class-ref scheme="cpc">C09C1/20</class-ref> take precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigments for ceramics</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0009</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment consisting of flaky, non-metallic substrates, characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Treatment of zinc chromate</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/08</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Treatment of lead chromate</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/20</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of chromium</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G37/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2015-12-01"><classification-symbol scheme="cpc">C09C1/343</classification-symbol><definition-title>{containing silicon or associated with silicon containing material, except when silicon only occurs in a thin coating of the particles}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Treatment of titanium compounds containing silicon or associated with silicon containing material, except when silicon only occurs in a thin coating of the particles.</paragraph-text><paragraph-text type="body">Thin layer coating is a coating thickness being less than 0.1 time the particle radius.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body"> Compounds of silicon</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01B33/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Compounds of chromium</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G37/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/346</classification-symbol><definition-title>{Chromium oxides}</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of chromium</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G37/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/36</classification-symbol><definition-title>Compounds of titanium {(<class-ref scheme="cpc">C09C1/0009</class-ref>, <class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref> take precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigments for ceramics</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0009</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment consisting of flaky, non-metallic substrates, characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of titanium</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G23/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3607</classification-symbol><definition-title>{Titanium dioxide}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Treatment of titanium oxide compounds to enhance their pigmenting or filling properties, e.g rutile, anatase and brookite;</paragraph-text><paragraph-text type="body">Anatase has the higher photocatalytic activity compared with the photocatalytic activity of rutile.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Titanium dioxide</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G23/047</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3615</classification-symbol><definition-title>{Physical treatment, e.g. grinding, treatment with ultrasonic vibrations}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3623</classification-symbol><definition-title>{Grinding}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/363</classification-symbol><definition-title>{Drying, calcination}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3638</classification-symbol><definition-title>{Agglomeration, granulation, pelleting}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3646</classification-symbol><definition-title>{Densifying, degassing, packaging}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3653</classification-symbol><definition-title>{Treatment with inorganic compounds}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3661</classification-symbol><definition-title>{Coating}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3669</classification-symbol><definition-title>{Treatment with low-molecular organic compounds}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Low-molecular organic compounds are compounds which consist of one type of molecule, which molecular weight can be exactly defined. The molecular weight of low-molecular compounds is less than 15000 g/mol. Typical low-molecular compounds are fatty acids, ethylene glycols.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3676</classification-symbol><definition-title>{Treatment with macro-molecular organic compounds}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Macromolecular organic compounds are compounds with a molecular weight of more than about 15000 g/mol. Typical macro-molecular organic compounds are polymers like polyethylene, polypropylene etc., waxes etc.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3684</classification-symbol><definition-title>{Treatment with organo-silicon compounds}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/3692</classification-symbol><definition-title>{Combinations of treatments provided for in groups <class-ref scheme="cpc">C09C1/3615</class-ref>&#160;-&#160;<class-ref scheme="cpc">C09C1/3684</class-ref>}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text><paragraph-text type="body">The classes for the single treatments have to be indicated as well, e.g. a titanium dioxide treated with an inorganic compound, further coated with a macromolecular compound and a silane, followed by a grinding process will get the classes <class-ref scheme="cpc">C09C1/309</class-ref>, <class-ref scheme="cpc">C09C1/3045</class-ref>, <class-ref scheme="cpc">C09C1/3072</class-ref>, <class-ref scheme="cpc">C09C1/12</class-ref> and <class-ref scheme="cpc">C09C1/3018</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/38</classification-symbol><definition-title>Compounds of mercury {(<class-ref scheme="cpc">C09C1/0009</class-ref>, <class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref> take precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigments for ceramics</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0009</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment consisting of flaky, non-metallic substrates, characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of mercury</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01G13/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/40</classification-symbol><definition-title>Compounds of aluminium {(<class-ref scheme="cpc">C09C1/0009</class-ref>, <class-ref scheme="cpc">C09C1/0015</class-ref>, <class-ref scheme="cpc">C09C1/0078</class-ref>, <class-ref scheme="cpc">C09C1/32</class-ref> take precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigments for ceramics</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0009</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pigment consisting of flaky, non-metallic substrates, characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Treatment of ultramarine</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/32</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of aluminium</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01F7/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/402</classification-symbol><definition-title>{Satin white, modifications thereof, e.g. carbonated or silicated; Calcium sulfoaluminates; Mixtures thereof, e.g. with calcium carbonate or kaolin}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Treatment of satin white compounds, calcium sulfoaluminates compounds, mixtures thereof to enhance their pigmenting or filling properties.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><paragraph-text type="body">Satin white is a white pigment consisting essentially of calcium sulfate and aluminum hydroxide</paragraph-text></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/405</classification-symbol><definition-title>{containing combined silica, e.g. mica}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/407</classification-symbol><definition-title>{Aluminium oxides or hydroxides}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2023-02-01"><classification-symbol scheme="cpc">C09C1/42</classification-symbol><definition-title>Clays</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparatory treatment for clay wares</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C04B33/04</class-ref></paragraph-text></table-column></table-row></table></section-body></informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">C09C1/44</classification-symbol><definition-title>Carbon</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Compounds of carbon</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01B32/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2023-02-01"><classification-symbol scheme="cpc">C09C1/46</classification-symbol><definition-title>Graphite {(<class-ref scheme="cpc">C09C1/0015</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Graphite is an allotrope of carbon and has a layered, planar structure. In each layer, the carbon atoms are arranged in a honeycomb lattice.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigments exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references><section-title>Informative references</section-title><section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparation of graphite</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C01B32/205</class-ref></paragraph-text></table-column></table-row></table></section-body></informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/48</classification-symbol><definition-title>Carbon black</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Carbon black is a form of amorphous carbon and produced with the thermal decomposition method or the partial combustion method using hydrocarbons such as oil or natural gas as raw material.</paragraph-text><paragraph-text type="body">The characteristics of carbon black vary depending on manufacturing process, and therefore carbon black is classified by manufacturing process.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2020-01-01"><classification-symbol scheme="cpc">C09C1/482</classification-symbol><definition-title>{Preparation from used rubber products, e.g. tyres  (recovery of plastics or other constituents of waste material containing plastics <class-ref scheme="cpc">B29B17/00</class-ref>)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Processing of used rubber in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B29B17/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/485</classification-symbol><definition-title>{Preparation involving the use of a plasma or of an electric arc}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">C09C1/487</classification-symbol><definition-title>{Separation; Recovery  (quenching <class-ref scheme="cpc">C09C1/50</class-ref>&#160;-&#160;<class-ref scheme="cpc">C09C1/54</class-ref>)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Quenching</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/50</class-ref> - <class-ref scheme="cpc">C09C1/54</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/50</classification-symbol><definition-title>Furnace black {; Preparation thereof  (separation or recovery <class-ref scheme="cpc">C09C1/487</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Furnace black is a carbon black formed by partial combustion of petroleum or coal oil and gaseous hydrocarbons in a closed furnace with a deficiency of oxygen</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Separation or recovery</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/487</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/52</classification-symbol><definition-title>Channel black {; Preparation thereof  (separation or recovery <class-ref scheme="cpc">C09C1/487</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Channel black is a carbon black formed by bringing partially combusted fuel, which is generated with natural gas as raw material, into contact with channel steel and then collecting the carbon black which results.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Separation or recovery</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/487</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/54</classification-symbol><definition-title>Acetylene black; thermal black {; Preparation thereof  (separation or recovery <class-ref scheme="cpc">C09C1/487</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Acetylene black is a carbon black formed by thermally decomposing acetylene gas. It provides carbon black with higher structures and higher crystallinity.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Separation or recovery</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/487</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/56</classification-symbol><definition-title>Treatment of carbon black {; Purification}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/565</classification-symbol><definition-title>{comprising an oxidative treatment with oxygen, ozone or oxygenated compounds, e.g. when such treatment occurs in a region of the furnace next to the carbon black generating reaction zone}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/58</classification-symbol><definition-title>Agglomerating, pelleting, or the like by wet methods</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/60</classification-symbol><definition-title>Agglomerating, pelleting, or the like by dry methods</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2023-02-01"><classification-symbol scheme="cpc">C09C1/62</classification-symbol><definition-title>Metallic pigments or fillers {(<class-ref scheme="cpc">C09C1/0015</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Metallic pigments or fillers, metallic effect pigments provided in their pure metallic form. However, for corrosion prevention the metallic pigments or fillers can be coated with optically non-active, protective coatings.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigments exhibiting interference colours</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0015</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references><section-title>Informative references</section-title><section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Making metallic powder or suspensions thereof</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B22F9/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Metallothermic processes for the manufacture of iron from iron compounds</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C21B15/02</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Dry methods of reducing to metals from metal carbonyls</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C22B5/20</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Electrolytic production, recovery or refining of metal powders or porous metal masses</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C25C5/00</class-ref></paragraph-text></table-column></table-row></table></section-body></informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/622</classification-symbol><definition-title>{Comminution, shaping or abrasion of initially uncoated particles, possibly in presence of grinding aids, abrasives or chemical treating or coating agents; Particle solidification from melted or vaporised metal; Classification}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Comminution, shaping or abrasion of initially uncoated particles, with or without grinding aids, abrasives or chemical treating or coating agents.</paragraph-text><paragraph-text type="body">Particle solidification from melted or vaporised metal</paragraph-text><paragraph-text type="body">Classification</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/625</classification-symbol><definition-title>{the particles consisting of zinc or a zinc alloy}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/627</classification-symbol><definition-title>{Copper}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroupsshall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/64</classification-symbol><definition-title>Aluminium</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/642</classification-symbol><definition-title>{treated with inorganic compounds}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/644</classification-symbol><definition-title>{treated with organic compounds, e.g. polymers}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/646</classification-symbol><definition-title>{concomitant with mechanical comminution, shaping or abrasion of the particles}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/648</classification-symbol><definition-title>{treated with inorganic and organic, e.g. polymeric, compounds}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C1/66</classification-symbol><definition-title>Copper alloys, e.g. bronze</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2023-02-01"><classification-symbol scheme="cpc">C09C3/00</classification-symbol><definition-title>Treatment in general of inorganic materials, other than fibrous fillers, to enhance their pigmenting or filling properties</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Treatment in general of inorganic materials not being fibrous fillers to increase their pigmenting or filling properties.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Dyeing other macromolecular particles</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C08J3/20</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Dyeing macromolecular fibres</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">D06P</class-ref></paragraph-text></table-column></table-row></table></section-body></informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text><paragraph-text type="body">Specific examples shall always be classified in the appropriate <class-ref scheme="cpc">C09C1/00</class-ref> subgroups.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C3/003</classification-symbol><definition-title>{Flushing}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Flushing</paragraph-text></table-column><table-column><paragraph-text type="body">to purge, washing</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C3/006</classification-symbol><definition-title>{Combinations of treatments provided for in groups <class-ref scheme="cpc">C09C3/04</class-ref>&#160;-&#160;<class-ref scheme="cpc">C09C3/12</class-ref>}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied</paragraph-text><paragraph-text type="body">The single treatment steps shall be classified in the appropriate <class-ref scheme="cpc">C09C3/00</class-ref>-class</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C3/04</classification-symbol><definition-title>Physical treatment, e.g. grinding, treatment with ultrasonic vibrations {(<class-ref scheme="cpc">C09C3/006</class-ref> takes precedence)}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C3/041</classification-symbol><definition-title>{Grinding}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C3/043</classification-symbol><definition-title>{Drying, calcination}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C3/045</classification-symbol><definition-title>{Agglomeration, granulation, pelleting}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C3/046</classification-symbol><definition-title>{Densifying, degassing, packaging}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C3/048</classification-symbol><definition-title>{Treatment with a plasma}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">C09C3/06</classification-symbol><definition-title>Treatment with inorganic compounds {(<class-ref scheme="cpc">C09C3/006</class-ref>, <class-ref scheme="cpc">C09C3/048</class-ref> take precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Combination of treatments provided for in groups <class-ref scheme="cpc">C09C3/04</class-ref> - <class-ref scheme="cpc">C09C3/12</class-ref></paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C3/006</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Treatment with plasma</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C3/048</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C3/063</classification-symbol><definition-title>{Coating}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C09C3/066</classification-symbol><definition-title>{Treatment or coating resulting in a free metal containing surface-region  (<class-ref scheme="cpc">C09C1/0078</class-ref> takes precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pigments consisting of flaky, non-metallics subtrates, characterised by a surface-region containing free metal</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C1/0078</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">C09C3/08</classification-symbol><definition-title>Treatment with low-molecular-weight {non-polymer} organic compounds {(<class-ref scheme="cpc">C09C3/006</class-ref>, <class-ref scheme="cpc">C09C3/048</class-ref> take precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Low-molecular organic compounds are compounds which consist of one type of molecule, which molecular weight can be exactly defined. The molecular weight of low-molecular compounds is less than 15000 g/mol. Typical low-molecular compounds are fatty acids, ethylene glycols.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Combination of treatments provided for in groups <class-ref scheme="cpc">C09C3/04</class-ref> - <class-ref scheme="cpc">C09C3/12</class-ref></paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C3/006</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Treatment with plasma</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C3/048</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">C09C3/10</classification-symbol><definition-title>Treatment with macromolecular organic compounds {(<class-ref scheme="cpc">C09C3/006</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Macromolecular organic compounds are compounds with a molecular weight of more than about 15000 g/mol. Typical macro-molecular organic compouds are polymers like polyethylene, polypropylene etc., waxes etc.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Combination of treatments provided for in groups <class-ref scheme="cpc">C09C3/04</class-ref> - <class-ref scheme="cpc">C09C3/12</class-ref></paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C3/006</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">C09C3/12</classification-symbol><definition-title>Treatment with organosilicon compounds {(<class-ref scheme="cpc">C09C3/006</class-ref> takes precedence)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Combination of treatments provided for in groups <class-ref scheme="cpc">C09C3/04</class-ref> - <class-ref scheme="cpc">C09C3/12</class-ref></paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C09C3/006</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Classification in <class-ref scheme="cpc">C01P</class-ref> subgroups shall be applied.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">C09C2200/00</classification-symbol><definition-title>Compositional and structural details of pigments exhibiting interference colours</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">When the subgroups of <class-ref scheme="cpc">C09C2200/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">C09C2220/20</class-ref> are used for classification only for <class-ref scheme="cpc">C09C1/0015</class-ref>&#160;-&#160;<class-ref scheme="cpc">C09C1/0075</class-ref>, no symbols are given for the classification of the particle morphology according to the symbols <class-ref scheme="cpc">C01P2004/10</class-ref>&#160;-&#160;<class-ref scheme="cpc">C01P2004/42</class-ref> or <class-ref scheme="cpc">C01P2004/80</class-ref>&#160;-&#160;<class-ref scheme="cpc">C01P2004/88</class-ref></paragraph-text></section-body>
+      </special-rules></definition-item></definitions>

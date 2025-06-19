@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">G03D</classification-symbol><definition-title>APPARATUS FOR PROCESSING EXPOSED PHOTOGRAPHIC MATERIALS  (apparatus specially adapted for photomechanical production of textured or patterned surfaces <class-ref scheme="cpc">G03F</class-ref>); ACCESSORIES THEREFOR  (photosensitive materials or processes for photographic purposes <class-ref scheme="cpc">G03C</class-ref>; electrographic, electrophotographic, or magnetographic methods or apparatus <class-ref scheme="cpc">G03G</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Liquid processing apparatus, with or without immersion</paragraph-text>
+        <paragraph-text type="body">Washing apparatus, with or without immersion</paragraph-text>
+        <paragraph-text type="body">Gas processing apparatus</paragraph-text>
+        <paragraph-text type="body">Diffusion development apparatus</paragraph-text>
+        <paragraph-text type="body">Reversal processing apparatus</paragraph-text>
+        <paragraph-text type="body">Other processing apparatus or accessories therefor</paragraph-text>
+        <paragraph-text type="body">Apparatus for treating processed material</paragraph-text>
+        <paragraph-text type="body">Dark-room arrangements or portable dark-rooms</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Photosensitive materials or processes for photographic purposes </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.38cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Apparatus specially adapted for photomechanical production of textured or patterned surfaces </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.38cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Electrographic, electrophotographic, or magnetographic methods or apparatus </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.38cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03G</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Cameras with both developing and finishing apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.38cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B17/50</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></application-references><residual-references><section-title>References out of a residual place</section-title><section-body><paragraph-text type="preamble">Examples of places in relation to which this place is residual:</paragraph-text><table>
+<table-row>
+            <table-column preferred-width="11.62cm">
+              <paragraph-text type="body">Exposure apparatus for contact printing adapted to be combined with processing apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.38cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B27/30</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table></section-body></residual-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Spraying apparatus; Atomising apparatus; Nozzles</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Apparatus for applying liquids or other fluent materials to surfaces, in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Processes for applying liquids or other fluent materials to surfaces, in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Photosensitive materials for photographic purposes; Photographic processes; Auxiliary processes in photography</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Apparatus specially adapted for photomechanical production of textured or patterned surfaces</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03F</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Electrographic, electrophotographic, or magnetophotographic methods or apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03G</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D3/00</classification-symbol><definition-title>Liquid processing apparatus involving immersion; Washing apparatus involving immersion  (<class-ref scheme="cpc">G03D9/00</class-ref>, <class-ref scheme="cpc">G03D11/00</class-ref> take precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatus for liquid processing or apparatus for washing exposed photographic materials in which the material is immersed in the processing or washing liquid(s)</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Apparatus for liquid processing or washing in which no immersion into the processing or washing liquids is effected</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Diffusion development apparatus: </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Reversal processing apparatus: </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D3/04</classification-symbol><definition-title>Liquid agitators  (in general <class-ref scheme="cpc">B01F</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Mixing in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B01F</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D3/065</classification-symbol><definition-title>{replenishment or recovery apparatus}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Regeneration; Replenishers as such</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03C5/31</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D3/13</classification-symbol><definition-title>for long films or prints in the shape of strips, e.g. fed by roller assembly</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">E.g. details of rollers.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D3/132</classification-symbol><definition-title>{fed by roller assembly}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">E.g. details of roller drive mechanisms.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Details of rollers: </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D3/13</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D5/00</classification-symbol><definition-title>Liquid processing apparatus in which no immersion is effected; Washing apparatus in which no immersion is effected  (<class-ref scheme="cpc">G11B9/00</class-ref>, <class-ref scheme="cpc">G11B11/00</class-ref> take precedence; application of liquids in general <class-ref scheme="cpc">B05</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatus for liquid processing or apparatus for washing exposed photographic materials in which no immersion of the materials to be processed in the processing or washing liquid(s) is effected</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Diffusion development apparatus: </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Reversal processing apparatus: </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Apparatus for liquid processing or washing in which immersion into the processing or washing liquids is effected</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D5/04</classification-symbol><definition-title>using liquid sprays  (liquid sprayers per se <class-ref scheme="cpc">B05B</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Liquid sprayers per se</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B05B</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D7/00</classification-symbol><definition-title>Gas processing apparatus</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatus for processing exposed photographic materials in which the processing is done by gazeous, not liquid processing materials</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Liquid processing apparatus involving immersion; Washing apparatus involving immersion: </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Liquid processing apparatus in which no immersion is effected; Washing apparatus in which no immersion is effected: </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Diffusion development apparatus </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Reversal processing apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D9/00</classification-symbol><definition-title>Diffusion development apparatus</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatus for processing exposed photographic materials in which photochemical development is done by diffusion</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Liquid processing apparatus involving immersion; Washing apparatus involving immersion: </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Liquid processing apparatus in which no immersion is effected; Washing apparatus in which no immersion is effected: </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Gas processing apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Reversal processing apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D11/00</classification-symbol><definition-title>Reversal processing apparatus</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatus for processing exposed photographic materials in which reversal processing is done, e.g. with controlled intermediate exposure of the materials to be reversal processed to light</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Liquid processing apparatus involving immersion; Washing apparatus involving immersion: </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Liquid processing apparatus in which no immersion is effected; Washing apparatus in which no immersion is effected: </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Gas processing apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Diffusion development apparatus </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D13/00</classification-symbol><definition-title>Processing apparatus or accessories therefor, not covered by groups <class-ref scheme="cpc">G11B3/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">G11B11/00</class-ref></definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatus for processing exposed photographic materials which are not covered by groups <class-ref scheme="cpc">G03D3/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">G03D11/00</class-ref></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Liquid processing apparatus involving immersion; Washing apparatus involving immersion: </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D3/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Liquid processing apparatus in which no immersion is effected; Washing apparatus in which no immersion is effected: </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Gas processing apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Diffusion development apparatus </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Reversal processing apparatus</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D13/02</classification-symbol><definition-title>Containers; Holding-devices</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Containers for storage or transport of articles or materials, in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.83cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65D</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D15/00</classification-symbol><definition-title>Apparatus for treating processed material</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Apparatus for treating processed material, e.g. film cleaning.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D15/001</classification-symbol><definition-title>{Counting; Classifying; Marking}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">E.g. storage of processed of material.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Slide mounting</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D15/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D15/02</classification-symbol><definition-title>Drying; Glazing  (combined with processing apparatus <class-ref scheme="cpc">G11B3/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">G11B13/00</class-ref>; drying in general <class-ref scheme="cpc">F26B</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Drying solid materials or objects by removing liquid therefrom</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F26B</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D15/022</classification-symbol><definition-title>{Drying of filmstrips}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Squeegees </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D15/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D15/027</classification-symbol><definition-title>{Drying of plates or prints}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Squeegees </paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03D15/02</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D15/04</classification-symbol><definition-title>Cutting; Splicing</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Cutting, in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B26D</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G03D15/10</classification-symbol><definition-title>Mounting, e.g. of processed material in a frame  (frames specially adapted for projection <class-ref scheme="cpc">G03B21/64</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="11.63cm">
+              <paragraph-text type="body">Means for mounting individual pictures to be projected, e.g. frame for transparency</paragraph-text>
+            </table-column>
+            <table-column preferred-width="3.41cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G03B21/64</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item></definitions>

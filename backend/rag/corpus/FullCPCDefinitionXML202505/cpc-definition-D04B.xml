@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2022-08-01" publication-type="official">
+<definition-item date-revised="2019-01-01"><classification-symbol scheme="cpc">D04B</classification-symbol><definition-title>KNITTING</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">weft knitting machines are covered by <class-ref scheme="cpc">D04B7/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">D04B13/00</class-ref>,</paragraph-text><paragraph-text type="body">details of, or auxiliary devices incorporated in such machines are covered by <class-ref scheme="cpc">D04B15/00</class-ref> and</paragraph-text><paragraph-text type="body">articles made by such machines are covered by <class-ref scheme="cpc">D04B1/00</class-ref></paragraph-text><paragraph-text type="body">warp knitting machines are covered by <class-ref scheme="cpc">D04B23/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">D04B25/00</class-ref>, details of, or auxiliary devices incorporated in such machines are covered by <class-ref scheme="cpc">D04B27/00</class-ref> and articles made by such machines are covered by <class-ref scheme="cpc">D04B21/00</class-ref></paragraph-text><paragraph-text type="body">details of, or auxiliary devices incorporated in knitting machines not limited to a specific kind of knitting machine are covered by <class-ref scheme="cpc">D04B35/00</class-ref></paragraph-text><paragraph-text type="body">miscellaneous knitting machines and articles made by such machines are covered by <class-ref scheme="cpc">D04B39/00</class-ref></paragraph-text><paragraph-text type="body">hand knitting equipment is covered by <class-ref scheme="cpc">D04B3/00</class-ref>, <class-ref scheme="cpc">D04B5/00</class-ref> and <class-ref scheme="cpc">D04B33/00</class-ref></paragraph-text><paragraph-text type="body">auxiliary apparatuses or devices for use with knitting machines are covered by <class-ref scheme="cpc">D04B37/00</class-ref> or for hand knitting equipment are covered by <class-ref scheme="cpc">D04B17/00</class-ref>, <class-ref scheme="cpc">D04B19/00</class-ref> and <class-ref scheme="cpc">D04B31/00</class-ref></paragraph-text></section-body>
+      </definition-statement><relationship>
+         <section-title>Relationships with other classification places</section-title>
+         <section-body><paragraph-text type="body"> The difference between the subclass <class-ref scheme="cpc">D04B</class-ref> and <class-ref scheme="cpc">B32B5/00</class-ref> is as follows:</paragraph-text><list><list-item><paragraph-text type="body">layered products including knitted products as such should be classified in <class-ref scheme="cpc">B32B5/00</class-ref> only; </paragraph-text></list-item><list-item><paragraph-text type="body">layered products formed by a knitting process featuring specified patterns or information on the composition of the knit article should be classified in <class-ref scheme="cpc">D04B</class-ref>. Note that such products may comprise additional coated faces.</paragraph-text></list-item></list></section-body>
+      </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body"> Knitted products of unspecified structure or composition, e.g. wearing apparel, e.g. filters implantable into blood vessels, prostheses etc.</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">A41</class-ref>, <class-ref scheme="cpc">A61F</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Layered products (i.e. laminates) including knitted articles </paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">B32B5/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules><section-title>Special rules of classification</section-title><section-body><paragraph-text type="body">The distinction between warp and weft knitting processes is essential for correct classification in this group. Fabrics, machines and processes not belonging to one of these two main knitting processes are considered miscellaneous (i.e. <class-ref scheme="cpc">D04B39/00</class-ref>).</paragraph-text><paragraph-text type="body">In this subclass, further classification in indexing scheme <class-ref scheme="cpc">D10B</class-ref> for aspects relating to textiles is required.</paragraph-text></section-body></special-rules><glossary-of-terms> <section-title>Glossary of terms</section-title> <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><paragraph-text type="body">a knitted fabric is a fabric comprising one or more inter-looped yarns</paragraph-text><paragraph-text type="body">a woven fabric is a fabric comprising straight warp yarns interlinked by interlaced weft yarns</paragraph-text></section-body> </glossary-of-terms></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04B1/00</classification-symbol><definition-title>Weft knitting processes for the production of fabrics or articles not dependent on the use of particular machines; Fabrics or articles defined by such processes</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">weft knitting processes or fabrics with specific details on materials and/or fabric structure</paragraph-text><paragraph-text type="body">weft knitted fabrics and weft knitting processes not otherwise provided for, e.g. plain jersey or rib knitting processes and fabrics:</paragraph-text><paragraph-text type="body"><media id="media0.jpg" file-name="cpc-def-D04B-0000.jpg" type="jpeg" preferred-width="6.15cm" preferred-height="4.01cm"/></paragraph-text><paragraph-text type="body"><media id="media1.jpg" file-name="cpc-def-D04B-0001.jpg" type="jpeg" preferred-width="6.15cm" preferred-height="4.86cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Warp knitting processes and products</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B21/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Combined weft and warp knitting</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B39/04</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Weft knitting processes for the production of patterned fabrics (e.g. wrap striping) </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B1/10</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Unravelling knitted fabrics</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B19/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">In this group, multiple classification is allowed. The classification is desirably complemented by a classification in the indexing scheme relating to textiles (i.e. <class-ref scheme="cpc">D10B2101/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">D10B2509/08</class-ref>) for identifying the thread composition, fabric structure and application field.</paragraph-text></section-body>
+      </special-rules><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;standard weft knit fabrics&quot;, &quot;mesh fabric&quot;, &quot;jersey&quot; and &quot;rib knit&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04B1/02</classification-symbol><definition-title>Pile fabrics or articles having similar surface features</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fabrics or articles comprising a weft knit ground fabric with knitted in fibres or yarns projecting from one or both fabric faces. Example:</paragraph-text><paragraph-text type="body"><media id="media2.jpg" file-name="cpc-def-D04B-0002.jpg" type="jpeg" preferred-width="10.69cm" preferred-height="5.42cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><paragraph-text type="body">pile fabrics without pile forming material , e.g. fleece, and loft obtained by finishing treatments like napping <class-ref scheme="cpc">D10B2403/0111</class-ref>, <class-ref scheme="cpc">D10B2403/0121</class-ref> in combination with the appropriate <class-ref scheme="cpc">D04B</class-ref> (sub)group</paragraph-text><paragraph-text type="body">pile fabrics subjected to napping treatment <class-ref scheme="cpc">D06C11/00</class-ref></paragraph-text><paragraph-text type="body">piles applied to a preformed ground fabric (e.g. by tufting) <class-ref scheme="cpc">D05C</class-ref></paragraph-text><paragraph-text type="body">pile fabrics forming part of socks or stockings <class-ref scheme="cpc">D04B1/26</class-ref></paragraph-text><paragraph-text type="body">pile fabrics included in upper parts of panties or pants <class-ref scheme="cpc">D04B1/243</class-ref></paragraph-text></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.78cm"><paragraph-text type="body">Woven pile fabrics</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D03D27/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification is desirably complemented by a classification in the Indexing Code <class-ref scheme="cpc">D10B2403/01</class-ref> identifying surface features.</paragraph-text><paragraph-text type="body">Documents also describing machines for weft knitting pile fabrics should additionally be classified in <class-ref scheme="cpc">D04B7/12</class-ref>, <class-ref scheme="cpc">D04B9/12</class-ref> or <class-ref scheme="cpc">D04B11/08</class-ref>.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pile fabrics </paragraph-text></table-column><table-column><paragraph-text type="body">are fabrics having a significant portion of fibres or yarns, different from ground fabric fibres or yarns, projecting from and oriented transverse to one or both ground fabric faces.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;terry&quot;, &quot;plush&quot;, &quot;velour&quot;, &quot;cut pile&quot; and &quot;velvet&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/025</classification-symbol><definition-title>{incorporating loose fibres, e.g. high-pile fabrics or artificial fur}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fabrics or articles having loose fibres incorporated during the weft knitting process. Examples:</paragraph-text><paragraph-text type="body"><media id="media3.jpg" file-name="cpc-def-D04B-0003.jpg" type="jpeg" preferred-width="6.3cm" preferred-height="6.42cm"/></paragraph-text><paragraph-text type="body"><media id="media4.jpg" file-name="cpc-def-D04B-0004.jpg" type="jpeg" preferred-width="6.89cm" preferred-height="4.74cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Flocked products, i.e. products wherein the projecting fibres are not routed in a stitch thread</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">B05C19/001</class-ref>.</paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents describing fur garments or garments of fur substitute should be complemented with the Indexing Code <class-ref scheme="cpc">D10B2501/044</class-ref>.</paragraph-text><paragraph-text type="body">Documents also describing circular knitting machines forming high-pile fabrics should additionally be classified in <class-ref scheme="cpc">D04B9/14</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/04</classification-symbol><definition-title>characterised by thread material</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">pile fabrics or articles whereby the properties of the pile thread material alone, or in combination with the pile arrangement, ensure special effects, e.g. enhanced cushioning or thermal shielding.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification in this group is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2101/00</class-ref> - <class-ref scheme="cpc">D10B2331/301</class-ref> for identifying the thread composition.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/06</classification-symbol><definition-title>Non-run fabrics or articles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fabrics or articles rendered ravel resistant and/or ladderproof by knitting texture or composition. Example:</paragraph-text><paragraph-text type="body"><media id="media5.jpg" file-name="cpc-def-D04B-0005.jpg" type="jpeg" preferred-width="10.72cm" preferred-height="5.55cm"/></paragraph-text><paragraph-text type="body"><media id="media6.jpg" file-name="cpc-def-D04B-0006.jpg" type="jpeg" preferred-width="10.75cm" preferred-height="5.19cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents covering non-run stockings should be classified in <class-ref scheme="cpc">D04B1/26</class-ref> and <class-ref scheme="cpc">D04B1/06</class-ref>.</paragraph-text><paragraph-text type="body">Documents also describing machines for weft knitting non-run fabrics should additionally be classified in <class-ref scheme="cpc">D04B9/48</class-ref> or <class-ref scheme="cpc">D04B11/30</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/08</classification-symbol><definition-title>characterised by thread material</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">non-run fabrics or articles whereby the properties of a thread material alone, or in combination with the stitch pattern, ensure ravel resistance and render the fabric or article ladderproof.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification in this group is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2101/00</class-ref> - <class-ref scheme="cpc">D10B2331/301</class-ref> for identifying the thread composition.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/10</classification-symbol><definition-title>Patterned fabrics or articles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fabrics or articles wherein the non-uniform arrangement of stitches and/or different threads, alone or in combination, ensures the intended effects.</paragraph-text><paragraph-text type="body"><media id="media7.jpg" file-name="cpc-def-D04B-0007.jpg" type="jpeg" preferred-width="8.5cm" preferred-height="6.19cm"/></paragraph-text><paragraph-text type="body"><media id="media8.jpg" file-name="cpc-def-D04B-0008.jpg" type="jpeg" preferred-width="8.47cm" preferred-height="6.63cm"/></paragraph-text><paragraph-text type="body"><media id="media9.jpg" file-name="cpc-def-D04B-0009.jpg" type="jpeg" preferred-width="8.42cm" preferred-height="6.31cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing machines for weft knitting patterned fabrics should additionally be classified in <class-ref scheme="cpc">D04B7/24</class-ref>, <class-ref scheme="cpc">D04B9/26</class-ref> or <class-ref scheme="cpc">D04B11/18</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/102</classification-symbol><definition-title>{with stitch pattern  (<class-ref scheme="cpc">D04B1/06</class-ref>, <class-ref scheme="cpc">D04B1/08</class-ref> take precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Patterned fabrics or articles wherein primarily the knitted texture ensures the intended effects.</paragraph-text><paragraph-text type="body"><media id="media10.jpg" file-name="cpc-def-D04B-0010.jpg" type="jpeg" preferred-width="6.19cm" preferred-height="6.1cm"/></paragraph-text><paragraph-text type="body"><media id="media11.jpg" file-name="cpc-def-D04B-0011.jpg" type="jpeg" preferred-width="6.21cm" preferred-height="4.84cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing machines for weft knitting stitch patterns should additionally be classified in <class-ref scheme="cpc">D04B7/20</class-ref>, <class-ref scheme="cpc">D04B7/28</class-ref>, <class-ref scheme="cpc">D04B9/06</class-ref>, <class-ref scheme="cpc">D04B9/10</class-ref>, <class-ref scheme="cpc">D04B9/38</class-ref>, <class-ref scheme="cpc">D04B11/14</class-ref>, or <class-ref scheme="cpc">D04B11/22</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/104</classification-symbol><definition-title>{Openwork fabric, e.g. pelerine fabrics}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media12.png" file-name="cpc-def-D04B-0012.png" type="png" preferred-width="4.49cm" preferred-height="6.63cm"/><media id="media13.png" file-name="cpc-def-D04B-0013.png" type="png" preferred-width="3.68cm" preferred-height="6.58cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/106</classification-symbol><definition-title>{at a selvedge, e.g. hems or turned welts}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media14.png" file-name="cpc-def-D04B-0014.png" type="png" preferred-width="8.51cm" preferred-height="6.57cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Binding off methods and stitch structures </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B1/22</class-ref>.</paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing machines for weft knitting hems or welts should additionally be classified in <class-ref scheme="cpc">D04B7/22</class-ref>, <class-ref scheme="cpc">D04B9/24</class-ref>, <class-ref scheme="cpc">D04B9/54</class-ref>, <class-ref scheme="cpc">D04B11/16</class-ref> or <class-ref scheme="cpc">D04B11/32</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/108</classification-symbol><definition-title>{Gussets, e.g. pouches or heel or toe portions}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body"><media id="media15.jpg" file-name="cpc-def-D04B-0015.jpg" type="jpeg" preferred-width="8.24cm" preferred-height="6.82cm"/></paragraph-text><paragraph-text type="body"><media id="media16.jpg" file-name="cpc-def-D04B-0016.jpg" type="jpeg" preferred-width="9.37cm" preferred-height="4.81cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification is desirably complemented by a classification in the Indexing Code <class-ref scheme="cpc">D10B2403/033</class-ref> identifying a three dimensional fabric.</paragraph-text><paragraph-text type="body">Documents also describing machines for weft knitting gussets or pouches should additionally be classified in <class-ref scheme="cpc">D04B7/30</class-ref>, <class-ref scheme="cpc">D04B9/42</class-ref>, <class-ref scheme="cpc">D04B9/56</class-ref>, <class-ref scheme="cpc">D04B11/26</class-ref> or <class-ref scheme="cpc">D04B11/34</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/12</classification-symbol><definition-title>characterised by thread material</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fabrics or articles whereby the properties of a thread material in combination with the stitch pattern ensure intended effects. Example:</paragraph-text><paragraph-text type="body"><media id="media17.jpg" file-name="cpc-def-D04B-0017.jpg" type="jpeg" preferred-width="6.82cm" preferred-height="6.99cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2101/00</class-ref> - <class-ref scheme="cpc">D10B2331/301</class-ref> for identifying the thread composition and/or <class-ref scheme="cpc">D10B2403/0114</class-ref> for identifying plated fabrics.</paragraph-text><paragraph-text type="body">Documents also describing circular knitting machines producing either spliced fabrics or plated fabrics should additionally be classified respectively in <class-ref scheme="cpc">D04B9/18</class-ref> or <class-ref scheme="cpc">D04B9/34</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/123</classification-symbol><definition-title>{with laid-in unlooped yarn, e.g. fleece fabrics  (with elastic weft yarn <class-ref scheme="cpc">D04B1/18</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter covered by this group.</paragraph-text><paragraph-text type="body"><media id="media18.jpg" file-name="cpc-def-D04B-0018.jpg" type="jpeg" preferred-width="5.88cm" preferred-height="7.19cm"/></paragraph-text><paragraph-text type="body"><media id="media19.jpg" file-name="cpc-def-D04B-0019.jpg" type="jpeg" preferred-width="6.53cm" preferred-height="5.95cm"/></paragraph-text><paragraph-text type="body"><media id="media20.jpg" file-name="cpc-def-D04B-0020.jpg" type="jpeg" preferred-width="3.98cm" preferred-height="6.99cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification is desirably complemented with the Indexing Code <class-ref scheme="cpc">D10B2401/063</class-ref> identifying high strength fabric and/or <class-ref scheme="cpc">D10B2403/02411</class-ref> or <class-ref scheme="cpc">D10B2403/02412</class-ref> identifying fabric with enhanced mechanical properties with arrays of unbent yarn.</paragraph-text><paragraph-text type="body">Documents also describing machines for weft knitting yarn inlay fabrics should additionally be classified in <class-ref scheme="cpc">D04B7/14</class-ref>, <class-ref scheme="cpc">D04B9/16</class-ref> or <class-ref scheme="cpc">D04B11/10</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/126</classification-symbol><definition-title>{with colour pattern, e.g. intarsia fabrics}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media21.jpg" file-name="cpc-def-D04B-0021.jpg" type="jpeg" preferred-width="5.35cm" preferred-height="5.29cm"/></paragraph-text><paragraph-text type="body"><media id="media22.jpg" file-name="cpc-def-D04B-0022.jpg" type="jpeg" preferred-width="5.28cm" preferred-height="6.1cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing machines for weft knitting colour patterns should additionally be classified in <class-ref scheme="cpc">D04B7/26</class-ref>, <class-ref scheme="cpc">D04B9/28</class-ref> or <class-ref scheme="cpc">D04B11/20</class-ref>.</paragraph-text><paragraph-text type="body">Documents also describing a thread changing device should additionally be classified in <class-ref scheme="cpc">D04B15/56</class-ref> or <class-ref scheme="cpc">D04B15/58</class-ref>.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Intarsia </paragraph-text></table-column><table-column><paragraph-text type="body">is a knitting technique used to create patterns with multiple colours. There is only one active colour on any given stitch.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/14</classification-symbol><definition-title>Other fabrics or articles characterised primarily by the use of particular thread materials</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">fabrics comprising threads providing special properties, e.g. metal yarns, not provided for in groups <class-ref scheme="cpc">D04B1/16</class-ref>&#160;-&#160;<class-ref scheme="cpc">D04B1/20</class-ref>.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification in this group is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2101/00</class-ref> for identifying the thread composition.</paragraph-text><paragraph-text type="body">Documents also describing circular knitting machines for weft knitting reinforcing threads should additionally be classified in <class-ref scheme="cpc">D04B9/18</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/16</classification-symbol><definition-title>synthetic threads</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">fabrics or articles wherein the properties of a thread material in combination with the thread arrangement ensure the intended effects, e.g. cover, hand or resilience.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification in this group is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2201/20</class-ref>, <class-ref scheme="cpc">D10B2211/20</class-ref>, <class-ref scheme="cpc">D10B2321/00</class-ref> or <class-ref scheme="cpc">D10B2331/00</class-ref> for identifying the thread composition.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Synthetic threads </paragraph-text></table-column><table-column><paragraph-text type="body">are yarns made from or predominantly comprising artificial organic fibres or filaments.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/18</classification-symbol><definition-title>elastic threads</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Fabrics or articles with stitch pattern at a selvedge</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B1/106</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Weft knitting processes specially adapted for upper parts of panties, pants</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B1/243</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Weft knitting processes specially adapted for surgical stockings</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B1/265</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification in this group is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2101/00</class-ref> - <class-ref scheme="cpc">D10B2331/301</class-ref> for identifying the thread composition.</paragraph-text><paragraph-text type="body">Documents also describing machines for producing fabrics incorporating elastic threads should additionally be classified in <class-ref scheme="cpc">D04B7/16</class-ref> or <class-ref scheme="cpc">D04B11/12</class-ref>.</paragraph-text><paragraph-text type="body">Documents also describing a thread feeding device should additionally be classified in <class-ref scheme="cpc">D04B15/48</class-ref>.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms> <section-title>Glossary of terms</section-title> <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Elastic threads</paragraph-text></table-column><table-column><paragraph-text type="body">are threads which fully recover to the initial length from extension by 100 per cent or more.</paragraph-text></table-column></table-row></table></section-body> </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/20</classification-symbol><definition-title>crimped threads</definition-title><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Crimped threads</paragraph-text></table-column><table-column><paragraph-text type="body">are threads having elasticity imparted primarily by the fibre or filament configuration, e.g. by curls or twists.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/22</classification-symbol><definition-title>specially adapted for knitting goods of particular configuration</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Articles requiring adaptation of the standard knitting process and/or the standard knitting machine setup. Examples:</paragraph-text><paragraph-text type="body"><media id="media23.jpg" file-name="cpc-def-D04B-0023.jpg" type="jpeg" preferred-width="5.42cm" preferred-height="7.3cm"/></paragraph-text><paragraph-text type="body"><media id="media24.jpg" file-name="cpc-def-D04B-0024.jpg" type="jpeg" preferred-width="9.91cm" preferred-height="6.91cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification is desirably complemented with the Indexing Code <class-ref scheme="cpc">D10B2403/02</class-ref> identifying cross-sectional features and/or <class-ref scheme="cpc">D10B2403/03</class-ref> identifying shape features.</paragraph-text><paragraph-text type="body">Documents also describing machines for weft knitting articles of particular configuration should additionally be classified in <class-ref scheme="cpc">D04B7/30</class-ref>, <class-ref scheme="cpc">D04B9/42</class-ref> or <class-ref scheme="cpc">D04B11/26</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/225</classification-symbol><definition-title>{Elongated tubular articles of small diameter, e.g. coverings or reinforcements for cables or hoses}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media25.png" file-name="cpc-def-D04B-0025.png" type="png" preferred-width="5.59cm" preferred-height="8.9cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Warp knitted elongated tubular articles of small diameter</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B21/205</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Elongated tubular articles of small diameter made by knitting processes other than weft knitting</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B39/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Hoses with reinforcements embedded in the wall</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">F16L11/08</class-ref>.</paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification is desirably complemented with the Indexing Code <class-ref scheme="cpc">D10B2403/031</class-ref> identifying narrow fabric of constant width.</paragraph-text><paragraph-text type="body">Documents also describing circular knitting machines for weft knitting elongated tubular articles of small diameter should additionally be classified in <class-ref scheme="cpc">D04B9/44</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/24</classification-symbol><definition-title>wearing apparel</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media26.jpg" file-name="cpc-def-D04B-0026.jpg" type="jpeg" preferred-width="3.85cm" preferred-height="6.35cm"/></paragraph-text><paragraph-text type="body"><media id="media27.jpg" file-name="cpc-def-D04B-0027.jpg" type="jpeg" preferred-width="5.96cm" preferred-height="6.12cm"/></paragraph-text><paragraph-text type="body"><media id="media28.jpg" file-name="cpc-def-D04B-0028.jpg" type="jpeg" preferred-width="9.94cm" preferred-height="7.01cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification is desirably complemented with the Indexing Code <class-ref scheme="cpc">D10B2501/00</class-ref> identifying the type of wearing apparel and/or <class-ref scheme="cpc">D10B2403/032</class-ref> or <class-ref scheme="cpc">D10B2403/033</class-ref> identifying respectively flat fabric of variable width and three dimensional fabric.</paragraph-text><paragraph-text type="body">Documents also describing flat knitting machines respectively for tubular goods or for fully-fashioned goods should additionally be classified respectively in <class-ref scheme="cpc">D04B7/32</class-ref> or <class-ref scheme="cpc">D04B7/10</class-ref>.</paragraph-text><paragraph-text type="body">Documents also describing circular knitting machines for flat fabric portions should additionally be classified in <class-ref scheme="cpc">D04B9/20</class-ref>.</paragraph-text><paragraph-text type="body">Documents also describing straight bar knitting machines for wearing apparel should additionally be classified in <class-ref scheme="cpc">D04B11/36</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/243</classification-symbol><definition-title>{upper parts of panties; pants}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media29.png" file-name="cpc-def-D04B-0029.png" type="png" preferred-width="2.67cm" preferred-height="6.56cm"/><media id="media30.png" file-name="cpc-def-D04B-0030.png" type="png" preferred-width="6.23cm" preferred-height="6.53cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/246</classification-symbol><definition-title>{Upper torso garments, e.g. sweaters, shirts, leotards}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media31.jpg" file-name="cpc-def-D04B-0031.jpg" type="jpeg" preferred-width="5.29cm" preferred-height="4.34cm"/></paragraph-text><paragraph-text type="body"><media id="media32.jpg" file-name="cpc-def-D04B-0032.jpg" type="jpeg" preferred-width="5.35cm" preferred-height="4.4cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification is desirably complemented with the Indexing Code <class-ref scheme="cpc">D10B2403/032</class-ref> identifying flat fabric of variable width and/or <class-ref scheme="cpc">D10B2403/0333</class-ref> identifying three dimensional fabric with tubular portions of variable diameter or distinct axial orientation.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/26</classification-symbol><definition-title>stockings</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media33.jpg" file-name="cpc-def-D04B-0033.jpg" type="jpeg" preferred-width="3.07cm" preferred-height="4.28cm"/></paragraph-text><paragraph-text type="body"><media id="media34.jpg" file-name="cpc-def-D04B-0034.jpg" type="jpeg" preferred-width="7.49cm" preferred-height="4.62cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents describing heel or toe portions should additionally be classified in <class-ref scheme="cpc">D04B1/108</class-ref>.</paragraph-text><paragraph-text type="body">Documents also describing machines for weft knitting socks or stockings should additionally be classified in <class-ref scheme="cpc">D04B7/32</class-ref>, <class-ref scheme="cpc">D04B9/46</class-ref> or <class-ref scheme="cpc">D04B11/28</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/265</classification-symbol><definition-title>{Surgical stockings  (of unspecified knit construction and reinforced <class-ref scheme="cpc">A41B11/02</class-ref>; of unspecified knit construction and elastic <class-ref scheme="cpc">A61F13/08</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media35.png" file-name="cpc-def-D04B-0035.png" type="png" preferred-width="4.61cm" preferred-height="7.08cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Fabrics or articles including elastic threads</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B1/18</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing circular knitting machines for weft knitting surgical stockings should additionally be classified in <class-ref scheme="cpc">D04B9/52</class-ref>.</paragraph-text><paragraph-text type="body">Documents also describing elastic hems, e.g. mock rib should additionally be classified in <class-ref scheme="cpc">D04B1/106</class-ref>.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Surgical stockings </paragraph-text></table-column><table-column><paragraph-text type="body">means socks or stockings with predominantly therapeutic effect, e.g. against veins disease.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B1/28</classification-symbol><definition-title>gloves</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media36.jpg" file-name="cpc-def-D04B-0036.jpg" type="jpeg" preferred-width="4.15cm" preferred-height="6.36cm"/></paragraph-text><paragraph-text type="body"><media id="media37.jpg" file-name="cpc-def-D04B-0037.jpg" type="jpeg" preferred-width="4.15cm" preferred-height="7.02cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing machines for weft knitting gloves should additionally be classified in <class-ref scheme="cpc">D04B7/34</class-ref> or <class-ref scheme="cpc">D04B9/58</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B3/00</classification-symbol><definition-title>Hand tools or implements</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Hand knitting methods using knitting needles for forming stitches, and devices for effecting such knitting methods.</paragraph-text><paragraph-text type="body"><media id="media38.jpg" file-name="cpc-def-D04B-0038.jpg" type="jpeg" preferred-width="4.67cm" preferred-height="4.46cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents describing hand driven flat knitting machines should additionally be classified in <class-ref scheme="cpc">D04B7/08</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B3/02</classification-symbol><definition-title>Needles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media39.png" file-name="cpc-def-D04B-0039.png" type="png" preferred-width="5.1cm" preferred-height="5.81cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B3/04</classification-symbol><definition-title>Finger protectors; Thread tensioners</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media40.png" file-name="cpc-def-D04B-0040.png" type="png" preferred-width="6.99cm" preferred-height="5.82cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B3/06</classification-symbol><definition-title>Ball holders or receptacles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media41.png" file-name="cpc-def-D04B-0041.png" type="png" preferred-width="5.11cm" preferred-height="5.8cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B5/00</classification-symbol><definition-title>Knitting apparatus or machines without needles for domestic use  (with needles <class-ref scheme="cpc">D04B7/08</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Knitting tools forming stitches without needle movements. Example:</paragraph-text><paragraph-text type="body"><media id="media42.jpg" file-name="cpc-def-D04B-0042.jpg" type="jpeg" preferred-width="13.33cm" preferred-height="4.55cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/00</classification-symbol><definition-title>Flat-bed knitting machines with independently-movable needles  (straight-bar machines with fixed needles <class-ref scheme="cpc">D04B11/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Flat weft knitting machines with sequential stitch formation in a row of stitches.</paragraph-text><paragraph-text type="body"><media id="media43.jpg" file-name="cpc-def-D04B-0043.jpg" type="jpeg" preferred-width="12.6cm" preferred-height="8.81cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Flat warp knitting machines</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B23/00</class-ref>.</paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/025</classification-symbol><definition-title>{with stitch-length regulation  (cam systems for stitch-length regulation <class-ref scheme="cpc">D04B15/327</class-ref>)}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods of particular configuration should additionally be classified in <class-ref scheme="cpc">D04B1/22</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/045</classification-symbol><definition-title>{with stitch-length regulation  (cam systems for stitch-length regulation <class-ref scheme="cpc">D04B15/327</class-ref>)}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods of particular configuration should additionally be classified in <class-ref scheme="cpc">D04B1/22</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/06</classification-symbol><definition-title>for purl work or Links-Links loop formation</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles with stitch pattern should additionally be classified in <class-ref scheme="cpc">D04B1/102</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/10</classification-symbol><definition-title>with provision for narrowing or widening to produce fully-fashioned goods</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods of particular configuration should additionally be classified in <class-ref scheme="cpc">D04B1/22</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/12</classification-symbol><definition-title>with provision for incorporating pile threads</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted pile fabrics should additionally be classified in <class-ref scheme="cpc">D04B1/02</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/14</classification-symbol><definition-title>with provision for incorporating internal threads in laid-in fabrics</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods with laid-in unlooped yarn should additionally be classified in <class-ref scheme="cpc">D04B1/123</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/16</classification-symbol><definition-title>for producing fabrics consisting of, or incorporating, elastic threads</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods consisting of, or incorporating elastic threads should additionally be classified in <class-ref scheme="cpc">D04B1/18</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/20</classification-symbol><definition-title>with provision for changing the fabric construction, e.g. from plain to rib-loop fabric</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles with stitch pattern should additionally be classified in <class-ref scheme="cpc">D04B1/102</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/22</classification-symbol><definition-title>with special provision for commencing goods, e.g. with non-run edges</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles with stitch pattern at a selvedge should additionally be classified in <class-ref scheme="cpc">D04B1/106</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/24</classification-symbol><definition-title>for producing patterned fabrics</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing non-run fabrics or articles should additionally be classified in <class-ref scheme="cpc">D04B1/06</class-ref>.</paragraph-text><paragraph-text type="body">Documents also describing patterned fabrics characterised by thread material should additionally be classified in <class-ref scheme="cpc">D04B1/12</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/26</classification-symbol><definition-title>with colour patterns</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods with colour pattern should additionally be classified in <class-ref scheme="cpc">D04B1/126</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/28</classification-symbol><definition-title>with stitch patterns</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles with stitch pattern should additionally be classified in <class-ref scheme="cpc">D04B1/102</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/30</classification-symbol><definition-title>specially adapted for knitting goods of particular configuration</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods of particular configuration should additionally be classified in <class-ref scheme="cpc">D04B1/22</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/32</classification-symbol><definition-title>tubular goods</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing integrally knitted wearing apparel should additionally be classified in <class-ref scheme="cpc">D04B1/24</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B7/34</classification-symbol><definition-title>gloves</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted gloves should additionally be classified in <class-ref scheme="cpc">D04B1/28</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/00</classification-symbol><definition-title>Circular knitting machines with independently-movable needles  (with fixed spring or bearded needles <class-ref scheme="cpc">D04B13/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">circular weft knitting machines with sequential stitch formation in a row of stitches. Example:</paragraph-text><paragraph-text type="body"><media id="media44.jpg" file-name="cpc-def-D04B-0044.jpg" type="jpeg" preferred-width="9.91cm" preferred-height="10.0cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.78cm"><paragraph-text type="body">circular warp knitting machines </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B25/02</class-ref>, <class-ref scheme="cpc">D04B25/04</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/025</classification-symbol><definition-title>{with stitch-length regulation  (cam systems for stitch-length regulation <class-ref scheme="cpc">D04B15/327</class-ref>)}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods of particular configuration should additionally be classified in <class-ref scheme="cpc">D04B1/22</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/065</classification-symbol><definition-title>{with stitch-length regulation  (cam systems for stitch-length regulation <class-ref scheme="cpc">D04B15/327</class-ref>)}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods of particular configuration should additionally be classified in <class-ref scheme="cpc">D04B1/22</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/08</classification-symbol><definition-title>for interlock goods</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles with stitch pattern should additionally be classified in <class-ref scheme="cpc">D04B1/102</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/12</classification-symbol><definition-title>with provision for incorporating pile threads</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted pile fabrics should additionally be classified in <class-ref scheme="cpc">D04B1/02</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/14</classification-symbol><definition-title>with provision for incorporating loose fibres, e.g. in high-pile fabrics</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted pile fabrics incorporating loose fibres should additionally be classified in <class-ref scheme="cpc">D04B1/025</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/16</classification-symbol><definition-title>with provision for incorporating internal threads in laid-in fabrics</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted fabrics with laid-in unlooped yarn should additionally be classified in <class-ref scheme="cpc">D04B1/123</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/18</classification-symbol><definition-title>with provision for splicing by incorporating reinforcing threads</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing patterned fabrics characterised by thread material should additionally be classified in <class-ref scheme="cpc">D04B1/12</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/20</classification-symbol><definition-title>with provision for narrowing or widening; with reciprocatory action, e.g. for knitting of flat portions</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods of particular configuration should additionally be classified in <class-ref scheme="cpc">D04B1/22</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/22</classification-symbol><definition-title>with provision for changing the fabric construction, e.g. from plain to rib-loop fabric</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles characterised by the stitch pattern should additionally be classified in <class-ref scheme="cpc">D04B1/102</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/24</classification-symbol><definition-title>with special provision for commencing goods, e.g. with non-run edges</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles with stitch pattern at a selvedge should additionally be classified in <class-ref scheme="cpc">D04B1/106</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/26</classification-symbol><definition-title>for producing patterned fabrics</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing non-run fabrics or articles should additionally be classified in <class-ref scheme="cpc">D04B1/06</class-ref>.</paragraph-text><paragraph-text type="body">Documents also describing patterned fabrics characterised by thread material should additionally be classified in <class-ref scheme="cpc">D04B1/12</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/28</classification-symbol><definition-title>with colour patterns</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods with colour pattern should additionally be classified in <class-ref scheme="cpc">D04B1/126</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/36</classification-symbol><definition-title>Intarsia work obtained by reciprocatory action</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing intarsia knitted goods should additionally be classified in <class-ref scheme="cpc">D04B1/126</class-ref>.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Intarsia</paragraph-text></table-column><table-column><paragraph-text type="body">is a knitting technique used to create patterns with multiple colours. There is only one active colour on any given stitch.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/38</classification-symbol><definition-title>with stitch patterns</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles with stitch pattern should additionally be classified in <class-ref scheme="cpc">D04B1/102</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/40</classification-symbol><definition-title>with provision for transfer of knitted goods from one machine to another</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Circular knitting machines with the provision for transfer of knitted goods from one machine to another whereby the other machine may form part of the knitting machine but performs a special function, e.g. toe closing, not performed on the knitting head.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Circular knitting machines with toe closing at the knitting head, i.e. no transfer from the knitting needles at toe closing</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B9/56</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body"> Sewing units for assembling parts of knitted panties or closing the stocking toe part </paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">D05B23/007</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/42</classification-symbol><definition-title>specially adapted for producing goods of particular configuration</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">knitting machines modified for performing particular knitting processes, e.g. knitting of one-piece panty hose.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods of particular configuration should additionally be classified in <class-ref scheme="cpc">D04B1/22</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/44</classification-symbol><definition-title>elongated tubular articles of small diameter, e.g. coverings for cables  (sheathing electric cables <class-ref scheme="cpc">H01B13/22</class-ref>)</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted elongated tubular articles of small diameter should additionally be classified in <class-ref scheme="cpc">D04B1/225</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/46</classification-symbol><definition-title>stockings, or portions thereof</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted socks or stockings should additionally be classified in <class-ref scheme="cpc">D04B1/26</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/48</classification-symbol><definition-title>non-run stockings</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents covering non-run stockings should additionally be classified in <class-ref scheme="cpc">D04B1/26</class-ref> and <class-ref scheme="cpc">D04B1/06</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/52</classification-symbol><definition-title>surgical stockings</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing surgical stockings should additionally be classified in <class-ref scheme="cpc">D04B1/265</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/54</classification-symbol><definition-title>welts, e.g. double or turned welts</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles with stitch pattern at a selvedge should additionally be classified in <class-ref scheme="cpc">D04B1/106</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B9/56</classification-symbol><definition-title>heel or toe portions</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles with stitch pattern at heel or toe portions should additionally be classified in <class-ref scheme="cpc">D04B1/108</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/00</classification-symbol><definition-title>Straight-bar knitting machines with fixed needles  (flat-bed machines with independently-movable needles <class-ref scheme="cpc">D04B7/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Flat straight bar weft knitting machines with concurrent stitch formation in a row of stitches.</paragraph-text><paragraph-text type="body"><media id="media45.jpg" file-name="cpc-def-D04B-0045.jpg" type="jpeg" preferred-width="12.35cm" preferred-height="7.94cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Flat warp knitting machines </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B23/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/025</classification-symbol><definition-title>{with stitch-length-regulating mechanism}</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods of particular configuration should additionally be classified in <class-ref scheme="cpc">D04B1/22</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/06</classification-symbol><definition-title>with provision for narrowing or widening to produce fully-fashioned goods</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods of particular configuration should additionally be classified in <class-ref scheme="cpc">D04B1/22</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/08</classification-symbol><definition-title>with provision for incorporating pile threads</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted pile fabrics should additionally be classified in <class-ref scheme="cpc">D04B1/02</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/10</classification-symbol><definition-title>with provision for incorporating internal threads in laid-in fabrics</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted fabrics with laid-in unlooped yarn should additionally be classified in <class-ref scheme="cpc">D04B1/123</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/12</classification-symbol><definition-title>for producing fabrics from, or incorporating, elastic threads</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods consisting of, or incorporating elastic threads should additionally be classified in <class-ref scheme="cpc">D04B1/18</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/14</classification-symbol><definition-title>with provision for changing the fabric construction, e.g. from plain to rib-loop fabric</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles characterised by the stitch pattern should additionally be classified in <class-ref scheme="cpc">D04B1/102</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/16</classification-symbol><definition-title>with special provision for commencing goods, e.g. with non-run edges</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles with stitch pattern at a selvedge should additionally be classified in <class-ref scheme="cpc">D04B1/106</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/18</classification-symbol><definition-title>for producing patterned fabrics</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing non-run fabrics or articles should additionally be classified in <class-ref scheme="cpc">D04B1/06</class-ref>.</paragraph-text><paragraph-text type="body">Documents also describing patterned fabrics characterised by thread material should additionally be classified in <class-ref scheme="cpc">D04B1/12</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/20</classification-symbol><definition-title>with colour patterns</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods with colour pattern should additionally be classified in <class-ref scheme="cpc">D04B1/126</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/22</classification-symbol><definition-title>with stitch patterns</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles with stitch pattern should additionally be classified in <class-ref scheme="cpc">D04B1/102</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/24</classification-symbol><definition-title>with provision for transfer of knitted goods from one machine to another</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">straight bar knitting machines with the provision for transfer of knitted goods from one machine to another whereby the other machine may form part of the knitting machine but performs a special function, e.g. rib knitting, not performed on the knitting head.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/26</classification-symbol><definition-title>specially adapted for producing goods of particular configuration</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted goods of particular configuration should additionally be classified in <class-ref scheme="cpc">D04B1/22</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/28</classification-symbol><definition-title>stockings, or portions thereof</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing knitted socks or stockings should additionally be classified in <class-ref scheme="cpc">D04B1/26</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/30</classification-symbol><definition-title>non-run stockings</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents covering non-run stockings should additionally be classified in <class-ref scheme="cpc">D04B1/26</class-ref> and <class-ref scheme="cpc">D04B1/06</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/32</classification-symbol><definition-title>welts, e.g. double or turned welts</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles with stitch pattern at a selvedge should additionally be classified in <class-ref scheme="cpc">D04B1/106</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/34</classification-symbol><definition-title>heel or toe portions</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing fabrics or articles with stitch pattern at heel or toe portions should additionally be classified in <class-ref scheme="cpc">D04B1/108</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B11/36</classification-symbol><definition-title>other wearing apparel</definition-title><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing wearing apparel should additionally be classified in <class-ref scheme="cpc">D04B1/24</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B13/00</classification-symbol><definition-title>Circular knitting machines with fixed spring or bearded needles, e.g. loop-wheel machines  (with independently-movable needles <class-ref scheme="cpc">D04B9/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Circular weft knitting machines with concurrent stitch formation in a row of stitches. Example:</paragraph-text><paragraph-text type="body"><media id="media46.jpg" file-name="cpc-def-D04B-0046.jpg" type="jpeg" preferred-width="7.89cm" preferred-height="8.95cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Circular warp knitting machines </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B25/02</class-ref>, <class-ref scheme="cpc">D04B25/04</class-ref>. </paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B15/00</classification-symbol><definition-title>Details of, or auxiliary devices incorporated in, weft knitting machines, restricted to machines of this kind  (details or auxiliary devices not so restricted <class-ref scheme="cpc">D04B35/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">All details on devices for weft knitting machines not provided for in one of the sub-groups, e.g. frames or servicing aids.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Details or auxiliary devices incorporated in warp knitting machines </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B27/00</class-ref>.</paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Details of, or auxiliary devices incorporated in, knitting machines not limited to a specific type of knitting or not otherwise provided for </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B35/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Needles for knitting devices</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B35/04</class-ref> - <class-ref scheme="cpc">D04B35/08</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Auxiliary apparatus or devices for use with weft knitting machines, e.g. spare parts containers or computerised design systems</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B37/02</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">In this subclass, multiple classification is allowed, especially in combination with main groups <class-ref scheme="cpc">D04B7/00</class-ref>, <class-ref scheme="cpc">D04B9/00</class-ref>, <class-ref scheme="cpc">D04B11/00</class-ref> and <class-ref scheme="cpc">D04B13/00</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B15/44</classification-symbol><definition-title>Tensioning devices for individual threads</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.78cm"><paragraph-text type="body">Guides for filamentary material in general </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">B65H57/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.78cm"><paragraph-text type="body">Adjusting or controlling tension in filamentary material in general </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">B65H59/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B15/48</classification-symbol><definition-title>Thread-feeding devices</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">All positive thread feeding devices actively forwarding thread from the storage to a knitting head and thread feeding devices not covered by one of the sub-groups.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Handling the weft between bulk storage and weft-inserting means (e.g. thread feeding devices for looms)</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D03D47/34</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body"> Adjusting or controlling tension in filamentary material by regulating speed of driving mechanism of unwinding, paying-out, forwarding, winding or depositing devices in general</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D03D47/34</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Thread-feeding devices designed for purposes other than feeding threads to weft knitting machines are not classified here.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B15/482</classification-symbol><definition-title>{comprising a rotatable or stationary intermediate storage drum from which the thread is axially and intermittently pulled off; Devices which can be switched between positive feed and intermittent feed}</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Forwarding filamentary material in general</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">B65H51/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B15/665</classification-symbol><definition-title>{Driving-gear for programme or pattern devices}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Driving-gear including electronic control means, e.g. microcomputers for driving the knitting machine.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B15/94</classification-symbol><definition-title>Driving-gear not otherwise provided for</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Driving-gear including electronic control means, e.g. microcomputers for driving a device associated with a knitting machine.</paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B15/99</classification-symbol><definition-title>electrically controlled</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">devices subordinate to a control means of higher hierarchy, e.g. driving gear for individual knitting machines, when subject to remote control by a central plant controller.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.78cm"><paragraph-text type="body">Knitwear design systems </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B37/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B17/00</classification-symbol><definition-title>Repairing knitted fabrics by knitting operations</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fabric repairing processes and devices for effecting repairs. Example:</paragraph-text><paragraph-text type="body"><media id="media47.jpg" file-name="cpc-def-D04B-0047.jpg" type="jpeg" preferred-width="7.28cm" preferred-height="7.28cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B19/00</classification-symbol><definition-title>Unravelling knitted fabrics</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fabric unravelling processes and apparatus for such processes. Example:</paragraph-text><paragraph-text type="body"><media id="media48.jpg" file-name="cpc-def-D04B-0048.jpg" type="jpeg" preferred-width="6.07cm" preferred-height="8.68cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B21/00</classification-symbol><definition-title>Warp knitting processes for the production of fabrics or articles not dependent on the use of particular machines; Fabrics or articles defined by such processes</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Warp knitting processes or fabrics with specific details on materials and/or fabric structure</paragraph-text><paragraph-text type="body">Warp knitted fabrics and warp knitting processes not otherwise provided for. Example:</paragraph-text><paragraph-text type="body"><media id="media49.jpg" file-name="cpc-def-D04B-0049.jpg" type="jpeg" preferred-width="5.69cm" preferred-height="6.39cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Weft knitting processes and products </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B1/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Combined weft and warp knitting</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B39/04</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">In this group, multiple classification is allowed. The classification is desirably complemented by a classification in the indexing scheme relating to textiles, i.e. <class-ref scheme="cpc">D10B2101/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">D10B2509/08</class-ref> for identifying the thread composition, fabric structure and application field. Warp knitted fabrics or articles of unspecified construction or composition are not classified here.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04B21/02</classification-symbol><definition-title>Pile fabrics or articles having similar surface features</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media50.png" file-name="cpc-def-D04B-0050.png" type="png" preferred-width="12.32cm" preferred-height="5.83cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Pile fabrics without pile forming material , e.g. fleece, and loft obtained by finishing treatments like napping</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B35/36</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Pile fabrics with piles applied to a preformed ground fabric (e.g. by tufting)</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">D05C</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body"> Pile fabrics subjected to napping treatment</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">D06C11/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Flocked products, i.e. products wherein the projecting fibres are not routed in a stitch thread</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">B05C19/001</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Woven pile fabrics</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">D03D27/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification is desirably complemented by a classification with the Indexing Code <class-ref scheme="cpc">D10B2403/01</class-ref> for identifying surface features.</paragraph-text><paragraph-text type="body">Pile fabrics without pile forming material , e.g. fleece, and loft obtained by finishing treatments like napping is complemented in combination with the appropriate <class-ref scheme="cpc">D04B</class-ref> (sub)groupwith the Indexing Code <class-ref scheme="cpc">D10B2403/0111</class-ref>, <class-ref scheme="cpc">D10B2403/0121</class-ref></paragraph-text><paragraph-text type="body">Documents also describing machines for warp knitting pile fabrics should additionally be classified in <class-ref scheme="cpc">D04B23/08</class-ref> or <class-ref scheme="cpc">D04B25/08</class-ref>.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pile fabrics </paragraph-text></table-column><table-column><paragraph-text type="body">are fabrics having a significant portion of fibres or yarns, different from ground fabric fibres or yarns, projecting from and oriented transverse to one or both ground fabric faces.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;terry&quot;, &quot;plush&quot;, &quot;velour&quot;, &quot;cut pile&quot; and &quot;velvet&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B21/04</classification-symbol><definition-title>characterised by thread material</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">pile fabrics or articles whereby the properties of the pile thread material alone, or in combination with the pile arrangement, ensure special effects, e.g. enhanced cushioning or thermal shielding.</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification in this group is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2101/00</class-ref> - <class-ref scheme="cpc">D10B2331/301</class-ref> for identifying the thread composition.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04B21/06</classification-symbol><definition-title>Patterned fabrics or articles  (open-work fabrics <class-ref scheme="cpc">D04B21/10</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fabrics or articles wherein the non-uniform arrangement of stitches and/or different threads, alone or in combination, ensures the intended effects. Examples:</paragraph-text><paragraph-text type="body"><media id="media51.jpg" file-name="cpc-def-D04B-0051.jpg" type="jpeg" preferred-width="7.3cm" preferred-height="8.26cm"/></paragraph-text><paragraph-text type="body"><media id="media52.jpg" file-name="cpc-def-D04B-0052.jpg" type="jpeg" preferred-width="9.76cm" preferred-height="6.86cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing machines for warp knitting patterned fabrics should additionally be classified in <class-ref scheme="cpc">D04B23/22</class-ref>, <class-ref scheme="cpc">D04B23/24</class-ref> or <class-ref scheme="cpc">D04B25/10</class-ref>.</paragraph-text><paragraph-text type="body">Documents also describing thread guide bars with independently movable thread guides should additionally be classified in <class-ref scheme="cpc">D04B27/32</class-ref>.</paragraph-text></section-body>
+      </special-rules><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms>
+   <paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text>
+   
+   
+   <list><list-item><paragraph-text type="body">&quot;jacquard fabric&quot; and &quot;patterned fabric&quot;</paragraph-text></list-item></list>
+   
+   </synonyms></synonyms-keywords></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04B21/08</classification-symbol><definition-title>characterised by thread material</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fabrics or articles whereby the properties of a thread material in combination with the stitch pattern ensure intended effects. Example:</paragraph-text><paragraph-text type="body"><media id="media53.jpg" file-name="cpc-def-D04B-0053.jpg" type="jpeg" preferred-width="6.73cm" preferred-height="7.42cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification in this group is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2101/00</class-ref> - <class-ref scheme="cpc">D10B2331/301</class-ref> for identifying the thread composition.</paragraph-text></section-body>
+      </special-rules><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms>
+   <paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text>
+   
+   
+   <list><list-item><paragraph-text type="body">&quot;jacquard fabric&quot; and &quot;embroidered fabric&quot;</paragraph-text></list-item></list>
+   
+   </synonyms></synonyms-keywords></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04B21/10</classification-symbol><definition-title>Open-work fabrics</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media54.jpg" file-name="cpc-def-D04B-0054.jpg" type="jpeg" preferred-width="7.98cm" preferred-height="5.66cm"/></paragraph-text><paragraph-text type="body"><media id="media55.jpg" file-name="cpc-def-D04B-0055.jpg" type="jpeg" preferred-width="7.97cm" preferred-height="7.36cm"/></paragraph-text><paragraph-text type="body"><media id="media56.jpg" file-name="cpc-def-D04B-0056.jpg" type="jpeg" preferred-width="7.9cm" preferred-height="7.81cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.78cm"><paragraph-text type="body">Braided tulle fabrics </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04C1/08</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.78cm"><paragraph-text type="body">Making nets by knotting </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04G1/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms>
+   <paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text>
+   
+   
+   <list><list-item><paragraph-text type="body">&quot;tulle&quot;, &quot;mesh&quot;, &quot;net&quot; and &quot;netting&quot;</paragraph-text></list-item></list>
+   
+   </synonyms></synonyms-keywords></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04B21/12</classification-symbol><definition-title>characterised by thread material</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fabrics or articles whereby the properties of a thread material in combination with the stitch pattern ensure intended effects. Example:</paragraph-text><paragraph-text type="body"><media id="media57.jpg" file-name="cpc-def-D04B-0057.jpg" type="jpeg" preferred-width="8.84cm" preferred-height="8.8cm"/></paragraph-text><paragraph-text type="body"><media id="media58.jpg" file-name="cpc-def-D04B-0058.jpg" type="jpeg" preferred-width="11.1cm" preferred-height="5.15cm"/></paragraph-text><paragraph-text type="body">The example above shows a double ply mesh including thread material (3) having a spacer effect separating both face layers (2).</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Patterned braided lace or tulle </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04C1/10</class-ref>.</paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification in this group is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2101/00</class-ref> - <class-ref scheme="cpc">D10B2331/301</class-ref> for identifying the thread composition.</paragraph-text></section-body>
+      </special-rules><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;lace&quot; and &quot;embroidery&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B21/14</classification-symbol><definition-title>Fabrics characterised by the incorporation by knitting, in one or more thread, fleece, or fabric layers, of reinforcing, binding, or decorative threads; Fabrics incorporating small auxiliary elements, e.g. for decorative purposes  (pile fabrics <class-ref scheme="cpc">D04B21/02</class-ref>; non-woven fabrics in general <class-ref scheme="cpc">D04H</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fabrics comprising components providing special properties, e.g. metal yarns or stiffening wires, not provided for in groups <class-ref scheme="cpc">D04B21/145</class-ref> - <class-ref scheme="cpc">D04B21/18</class-ref></paragraph-text><paragraph-text type="body">fabrics coated with a film or incorporating additional compounds, e.g. fillings. Example:</paragraph-text><paragraph-text type="body"><media id="media59.jpg" file-name="cpc-def-D04B-0059.jpg" type="jpeg" preferred-width="9.61cm" preferred-height="6.91cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Pile fabrics </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B21/02</class-ref>;</paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Woven fabrics in general</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04H</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification in this group is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2101/00</class-ref> for identifying the thread composition and/or <class-ref scheme="cpc">D10B2403/02</class-ref> for identifying the cross-sectional features.</paragraph-text><paragraph-text type="body">Documents also describing machines for incorporating small auxiliary elements should additionally be classified in <class-ref scheme="cpc">D04B23/14</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04B21/145</classification-symbol><definition-title>{with stitches drawn from loose fibres, e.g. web-knitted fabrics}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media60.jpg" file-name="cpc-def-D04B-0060.jpg" type="jpeg" preferred-width="13.39cm" preferred-height="4.11cm"/></paragraph-text><paragraph-text type="body"><media id="media61.jpg" file-name="cpc-def-D04B-0061.jpg" type="jpeg" preferred-width="9.68cm" preferred-height="6.7cm"/></paragraph-text><paragraph-text type="body"><media id="media62.jpg" file-name="cpc-def-D04B-0062.jpg" type="jpeg" preferred-width="9.48cm" preferred-height="8.16cm"/></paragraph-text><paragraph-text type="body">The stitches (4) shown in the above example are formed by piercing a web and drawing loops from the fibres caught in the needle head (5).</paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing machines for knitting through thread, fleece or fabric layers should additionally be classified in <class-ref scheme="cpc">D04B23/10</class-ref>.</paragraph-text></section-body>
+      </special-rules><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;Malivlies&quot;, &quot;Voltex&quot; and &quot;Kunit&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B21/16</classification-symbol><definition-title>incorporating synthetic threads</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">fabrics or articles wherein the properties of a thread material (e.g. wicking, optical, chemical, biocompatible, biostatic, etc) in combination with the thread arrangement (e.g. inner, intermediate or outer layer) ensure intended effects, e.g. cover, hand or resilience. Examples:</paragraph-text><paragraph-text type="body"><media id="media63.jpg" file-name="cpc-def-D04B-0063.jpg" type="jpeg" preferred-width="13.21cm" preferred-height="2.08cm"/></paragraph-text><paragraph-text type="body">The thread material in the intermediate layer in the example above has a spacer effect.</paragraph-text><paragraph-text type="body"><media id="media64.jpg" file-name="cpc-def-D04B-0064.jpg" type="jpeg" preferred-width="13.22cm" preferred-height="6.26cm"/></paragraph-text><paragraph-text type="body">The thread material (6) in the intermediate layer in the example above can provide moisture transport.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.78cm"><paragraph-text type="body">Warp knitting processes and fabrics incorporating elastic threads </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B21/18</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification in this group is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2201/20</class-ref>, <class-ref scheme="cpc">D10B2211/20</class-ref>, <class-ref scheme="cpc">D10B2321/00</class-ref> or <class-ref scheme="cpc">D10B2331/00</class-ref> for identifying the thread composition and/or <class-ref scheme="cpc">D10B2403/00</class-ref> for identifying details of fabric structure established in the fabric forming process.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Synthetic threads </paragraph-text></table-column><table-column><paragraph-text type="body">are yarns made from or predominantly comprising artificial organic fibres or filaments.</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">D04B21/165</classification-symbol><definition-title>{with yarns stitched through one or more layers or tows, e.g. stitch-bonded fabrics  (layered products not united by stitch loops <class-ref scheme="cpc">B32B5/22</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fabrics with synthetic threads as stitching threads combining all components of the fabric. Examples:</paragraph-text><paragraph-text type="body"><media id="media65.jpg" file-name="cpc-def-D04B-0065.jpg" type="jpeg" preferred-width="10.66cm" preferred-height="2.34cm"/><media id="media66.jpg" file-name="cpc-def-D04B-0066.jpg" type="jpeg" preferred-width="10.94cm" preferred-height="7.14cm"/></paragraph-text><paragraph-text type="body"><media id="media67.jpg" file-name="cpc-def-D04B-0067.jpg" type="jpeg" preferred-width="4.6cm" preferred-height="7.66cm"/></paragraph-text><paragraph-text type="body">The example above shows a voluminous web consolidated by stitching interlinked threads through the web (see also example below).</paragraph-text><paragraph-text type="body"><media id="media68.jpg" file-name="cpc-def-D04B-0068.jpg" type="jpeg" preferred-width="8.49cm" preferred-height="6.1cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Warp knitted fabrics with mutually interlaced warp and weft inlay threads </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B39/06</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Layered products with one or more fibrous layers needled to another layer </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">B32B5/06</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Layered products characterised by the presence of two or more layers which comprise fibres, filaments, granules, or powder, or are foamed or specifically porous </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">B32B5/22</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Layered products characterised by the connection of layers by mechanical connection </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">B32B7/08</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Non-woven fabrics formed wholly or mainly of yarns or like filamentary material of substantial length in rectilinear paths (e.g. unstitched yarn lay-ups) </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04H3/04</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents describing also machines for incorporating unlooped wefts extending from selvedge to selvedge should additionally be classified in <class-ref scheme="cpc">D04B23/12</class-ref>.</paragraph-text></section-body>
+      </special-rules><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;Maliwatt&quot;, &quot;Arachne&quot;, and &quot;stitch-bonded&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B21/18</classification-symbol><definition-title>incorporating elastic threads</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Warp knitting processes specially adapted for wearing apparel or garment blanks </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B21/207</class-ref>.</paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification in this group is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2101/00</class-ref> - <class-ref scheme="cpc">D10B2331/301</class-ref> for identifying the thread composition.</paragraph-text><paragraph-text type="body">Documents also describing flat warp knitting machines for producing fabrics consisting of, or incorporating elastic threads should additionally be classified in <class-ref scheme="cpc">D04B23/06</class-ref>.</paragraph-text></section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Elastic threads</paragraph-text></table-column><table-column><paragraph-text type="body">are threads which fully recover to the initial length from extension by 100 per cent or more</paragraph-text></table-column></table-row></table></section-body>
+      </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B21/20</classification-symbol><definition-title>specially adapted for knitting articles of particular configuration</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Articles requiring adaptation of the standard knitting process and/or the standard knitting machine setup. Example:</paragraph-text><paragraph-text type="body"><media id="media69.jpg" file-name="cpc-def-D04B-0069.jpg" type="jpeg" preferred-width="7.35cm" preferred-height="7.68cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification is desirably complemented with the Indexing Code <class-ref scheme="cpc">D10B2403/02</class-ref> identifying cross-sectional features and/or <class-ref scheme="cpc">D10B2403/03</class-ref> identifying shape features.</paragraph-text><paragraph-text type="body">Documents also describing machines for warp knitting articles of particular configuration should additionally be classified in <class-ref scheme="cpc">D04B23/16</class-ref> or <class-ref scheme="cpc">D04B25/14</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B21/202</classification-symbol><definition-title>{warp knitted yarns}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Flexible elongate structures composed of one or more threads interlaced by warp knit stitches, suitable for being further processed into fabrics on textile machines. Example:</paragraph-text><paragraph-text type="body"><media id="media70.jpg" file-name="cpc-def-D04B-0070.jpg" type="jpeg" preferred-width="10.96cm" preferred-height="5.5cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Such as warp knit tapes or belts, which remain in</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B21/20</class-ref>.</paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Narrow fabrics of constant width</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D10B2403/031</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification in this group is desirably complemented by a classification in the indexing scheme <class-ref scheme="cpc">D10B2101/00</class-ref> - <class-ref scheme="cpc">D10B2331/301</class-ref> for identifying the thread composition.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B21/205</classification-symbol><definition-title>{Elongated tubular articles of small diameter, e.g. coverings or reinforcements for cables or hoses}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media71.png" file-name="cpc-def-D04B-0071.png" type="png" preferred-width="3.37cm" preferred-height="8.45cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Weft knitted elongated tubular articles of small diameter</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B1/225</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Elongated tubular articles of small diameter knitted by miscellaneous knitting processes</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B39/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">Documents also describing machines for knitting around elongated core material should additionally be classified in <class-ref scheme="cpc">D04B23/10</class-ref>, <class-ref scheme="cpc">D04B25/02</class-ref> or <class-ref scheme="cpc">D04B25/04</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B21/207</classification-symbol><definition-title>{Wearing apparel or garment blanks}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media72.png" file-name="cpc-def-D04B-0072.png" type="png" preferred-width="5.56cm" preferred-height="4.42cm"/></paragraph-text><paragraph-text type="body"><media id="media73.jpg" file-name="cpc-def-D04B-0073.jpg" type="jpeg" preferred-width="4.09cm" preferred-height="5.94cm"/></paragraph-text></section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">The classification is desirably complemented with the Indexing Code <class-ref scheme="cpc">D10B2501/00</class-ref> identifying the type of wearing apparel and/or <class-ref scheme="cpc">D10B2403/033</class-ref> identifying three dimensional fabric.</paragraph-text><paragraph-text type="body">Documents also describing flat warp knitting machines with provision for narrowing or widening should additionally be classified in <class-ref scheme="cpc">D04B23/18</class-ref>.</paragraph-text><paragraph-text type="body">Documents also describing flat warp knitting machines for producing stocking blanks should additionally be classified in <class-ref scheme="cpc">D04B23/20</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B23/00</classification-symbol><definition-title>Flat warp knitting machines</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Flat warp knitting machines with one or two needle bars, e.g. tricot or raschel machines. Example:</paragraph-text><paragraph-text type="body"><media id="media74.jpg" file-name="cpc-def-D04B-0074.jpg" type="jpeg" preferred-width="8.02cm" preferred-height="10.0cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B25/00</classification-symbol><definition-title>Warp knitting machines not otherwise provided for</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Warp knitting machines specially adapted for knitting articles of particular structure or configuration, e.g. meat casings, ornamental articles etc. Example:</paragraph-text><paragraph-text type="body"><media id="media75.jpg" file-name="cpc-def-D04B-0075.jpg" type="jpeg" preferred-width="10.2cm" preferred-height="8.14cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B27/00</classification-symbol><definition-title>Details of, or auxiliary devices incorporated in, warp knitting machines, restricted to machines of this kind  (details or auxiliary devices not so restricted <class-ref scheme="cpc">D04B35/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">all details on devices for warp knitting machines not provided for in one of the sub-groups, e.g. frames or servicing aids.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body"> Details of, or auxiliary devices incorporated in, weft knitting machines</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B15/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Details of, or auxiliary devices incorporated in, knitting machines not limited to a specific type of knitting or not otherwise provided for</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B35/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Needles for knitting devices</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B35/04</class-ref> - <class-ref scheme="cpc">D04B35/08</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Auxiliary apparatus or devices for use with warp knitting machines, e.g. spare parts containers or computerised design systems</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B37/06</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">In this subclass, multiple classification is allowed, especially in combination with main groups <class-ref scheme="cpc">D04B23/00</class-ref> or <class-ref scheme="cpc">D04B25/00</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B31/00</classification-symbol><definition-title>Crocheting processes for the production of fabrics or articles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Crocheting methods using crocheting needles for drawing stitches. Example:</paragraph-text><paragraph-text type="body"><media id="media76.jpg" file-name="cpc-def-D04B-0076.jpg" type="jpeg" preferred-width="6.07cm" preferred-height="4.0cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B33/00</classification-symbol><definition-title>Crocheting tools or apparatus</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Devices for effecting crocheting methods. Example:</paragraph-text><paragraph-text type="body"><media id="media77.jpg" file-name="cpc-def-D04B-0077.jpg" type="jpeg" preferred-width="10.76cm" preferred-height="1.46cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.78cm"><paragraph-text type="body">Galloon crocheting machines</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B25/06</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B35/00</classification-symbol><definition-title>Details of, or auxiliary devices incorporated in, knitting machines, not otherwise provided for</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.78cm"><paragraph-text type="body">Auxiliary apparatus or devices for use with knitting machines </paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B37/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">In this group, multiple classification is allowed, especially in combination with groups <class-ref scheme="cpc">D04B7/00</class-ref>, <class-ref scheme="cpc">D04B9/00</class-ref>, <class-ref scheme="cpc">D04B11/00</class-ref>, <class-ref scheme="cpc">D04B13/00</class-ref>, <class-ref scheme="cpc">D04B23/00</class-ref> or <class-ref scheme="cpc">D04B25/00</class-ref>. Devices not applied to or not used in conjunction with knitting machines are not classified here.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B35/02</classification-symbol><definition-title>Knitting tools or instruments not provided for in group <class-ref scheme="cpc">D04B15/00</class-ref> or <class-ref scheme="cpc">D04B27/00</class-ref>  (needle manufacture <class-ref scheme="cpc">B21G1/00</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Needles used for hand knitting</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B3/02</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Needles used for mending knit fabric</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B17/04</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B35/10</classification-symbol><definition-title>Indicating, warning, or safety devices, e.g. stop motions</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Warning or safety devices, e.g. automatic fault detectors, stop-motions in general</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">B65H63/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B35/24</classification-symbol><definition-title>by moistening or lubricating</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Moistening, sizing, oiling, waxing, colouring or drying filamentary material as additional measures during package formation </paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">B65H71/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B35/32</classification-symbol><definition-title>Devices for removing lint or fluff</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Arrangements for confining or removing dust in winding, coiling or depositing filamentary material </paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">B65H54/702</class-ref>.</paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B37/00</classification-symbol><definition-title>Auxiliary apparatus or devices for use with knitting machines  (Jacquard cards, pattern chains, apparatus for punching same <class-ref scheme="cpc">D03C</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Ancillaries for use with but separate from knitting machines, e.g. design systems or knitting tool containers.</paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Devices exclusively incorporated in weft knitting machines </paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B15/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body">Devices exclusively incorporated in warp knitting machines</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B27/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.56cm"><paragraph-text type="body"> Details of, or auxiliary devices incorporated in, knitting machines not limited to specific types of knitting machines or not otherwise provided for</paragraph-text></table-column><table-column preferred-width="4.47cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B35/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body><paragraph-text type="body">In this group, multiple classification is allowed, especially in combination with groups <class-ref scheme="cpc">D04B7/00</class-ref>, <class-ref scheme="cpc">D04B9/00</class-ref>, <class-ref scheme="cpc">D04B11/00</class-ref>, <class-ref scheme="cpc">D04B13/00</class-ref>, <class-ref scheme="cpc">D04B23/00</class-ref> or <class-ref scheme="cpc">D04B25/00</class-ref>.</paragraph-text></section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B39/00</classification-symbol><definition-title>Knitting processes,&#160;apparatus&#160;or machines not otherwise provided for</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Knitted articles, knitting processes and apparatus for making such articles not or not fully covered by weft or warp knitting technology, e.g. Kemafil articles or needleless knitting machines. Examples:</paragraph-text><paragraph-text type="body"><media id="media78.jpg" file-name="cpc-def-D04B-0078.jpg" type="jpeg" preferred-width="12.29cm" preferred-height="2.82cm"/></paragraph-text><paragraph-text type="body"><media id="media79.jpg" file-name="cpc-def-D04B-0079.jpg" type="jpeg" preferred-width="12.3cm" preferred-height="2.68cm"/></paragraph-text><paragraph-text type="body"><media id="media80.jpg" file-name="cpc-def-D04B-0080.jpg" type="jpeg" preferred-width="6.37cm" preferred-height="5.78cm"/></paragraph-text></section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B39/04</classification-symbol><definition-title>adapted for combined weft and warp knitting</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media81.jpg" file-name="cpc-def-D04B-0081.jpg" type="jpeg" preferred-width="7.9cm" preferred-height="4.65cm"/></paragraph-text><paragraph-text type="body"><media id="media82.jpg" file-name="cpc-def-D04B-0082.jpg" type="jpeg" preferred-width="6.4cm" preferred-height="6.67cm"/></paragraph-text></section-body> </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Circular knitting machines for wrap striping</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B9/32</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Warp knitting machines with independently-movable knitting needles</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B23/04</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Milanese machines</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B25/04</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">D04B39/06</classification-symbol><definition-title>adapted for combined knitting and weaving</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative examples of subject matter classified in this group.</paragraph-text><paragraph-text type="body"><media id="media83.png" file-name="cpc-def-D04B-0083.png" type="png" preferred-width="8.39cm" preferred-height="8.39cm"/></paragraph-text></section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column preferred-width="10.77cm"><paragraph-text type="body">Warp knitting machines for knitting through fabric layers.</paragraph-text></table-column><table-column preferred-width="4.26cm"><paragraph-text type="body"><class-ref scheme="cpc">D04B23/10</class-ref></paragraph-text></table-column></table-row></table></section-body>
+      </informative-references></references></definition-item></definitions>

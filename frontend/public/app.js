@@ -940,6 +940,14 @@ function handleRankingsToCpcTransition() {
         return;
     }
 
+    // Hide the rankings to CPC arrow
+    if (rankingsToCpcArrow) {
+        rankingsToCpcArrow.classList.add('hidden');
+        rankingsToCpcArrow.classList.remove('fade-in');
+        // Directly set display to none to override any CSS conflicts
+        rankingsToCpcArrow.style.display = 'none';
+    }
+
     // 1. Fade out the PDF viewer preview on the left
     rankingsPreviewContainer.classList.add('fade-out');
     setTimeout(() => {

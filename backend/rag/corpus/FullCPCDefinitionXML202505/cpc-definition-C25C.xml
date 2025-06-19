@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">C25C</classification-symbol><definition-title>PROCESSES FOR THE ELECTROLYTIC PRODUCTION, RECOVERY OR REFINING OF METALS; APPARATUS THEREFOR</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Electrolytic production or recovery (electrowinning) of metals and alloys from solutions or melts.</paragraph-text>
+        <paragraph-text type="body">Electrorefining of metals and alloys in solutions or melts.</paragraph-text>
+        <paragraph-text type="body">Constructional parts, cells or assemblies of cells for the electrolytic production, recovery or refining of metals or alloys.</paragraph-text>
+        <paragraph-text type="body">Servicing or operating of cells for the electrolytic production, recovery or refining of metals or alloys.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <list>
+          <list-item>
+            <paragraph-text type="body">Multi-step processes for surface treatment of metallic material involving at least one process provided for in class <class-ref scheme="cpc">C23</class-ref> and at least one process provided for in class <class-ref scheme="cpc">C25</class-ref> are classified in group <class-ref scheme="cpc">C23F17/00</class-ref></paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Compounds of particular interest are also classified in the relevant classes, <class-ref scheme="cpc">C01</class-ref> (inorganic chemistry), <class-ref scheme="cpc">C07</class-ref> (organic chemistry) and <class-ref scheme="cpc">C08</class-ref> (organic macromolecular compounds).</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">The electrolytic or electrophoretic purification of materials is classified according to the nature of the liquid in the relevant places, e.g. <class-ref scheme="cpc">A01K63/00</class-ref>, <class-ref scheme="cpc">C02F1/46</class-ref>, <class-ref scheme="cpc">C25B15/08</class-ref>, <class-ref scheme="cpc">C25D21/16</class-ref>, <class-ref scheme="cpc">C25F7/02</class-ref></paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">The electrolytic deposition of coatings (electroplating), the electrophoretic production of coatings and electroforming is classified in <class-ref scheme="cpc">C25D</class-ref>.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Production and refining of metals by non-electrolytic processes is classified in <class-ref scheme="cpc">C22B</class-ref>, <class-ref scheme="cpc">C21B</class-ref>, <class-ref scheme="cpc">C21C</class-ref>. An electrothermal treatment (<class-ref scheme="cpc">C22B4/00</class-ref>) does not involve an electrolytic process.</paragraph-text>
+          </list-item>
+          <list-item>
+            <paragraph-text type="body">Alloys as such, prepared by electrolytic methods are classified in <class-ref scheme="cpc">C22C</class-ref>.</paragraph-text>
+          </list-item>
+        </list>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Removing metallic impurities from waste water or sewage by electrolytic methods</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C02F1/461</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Inhibiting corrosion of metals by anodic or cathodic protection </paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C23F13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Single crystal growth</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C30B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Catalysts comprising metals, metal oxides or hydroxides</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B01J21/00</class-ref> , <class-ref scheme="cpc">B01J23/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Processes for preparing catalysts </paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B01J37/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Refining molten metal during a continuous casting process</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B22D11/116</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">General processes of refining metals </paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22B9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Composition of alloys</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C22C</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Multistep processes for surface treatment of metallic material </paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C23F17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Electrodes, membranes for fuel cells </paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H01M4/86</class-ref> , <class-ref scheme="cpc">H01M8/10</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Classify each metal mentioned in the document, if too many are mentioned, then classify the examples and for the rest of the metals use <class-ref scheme="cpc">C25C1/00</class-ref> or <class-ref scheme="cpc">C25C3/00</class-ref>, respectively.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25C1/00</classification-symbol><definition-title>Electrolytic production, recovery or refining of metals by electrolysis of solutions  (<class-ref scheme="cpc">C25C5/00</class-ref> takes precedence)</definition-title><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Classify also in <class-ref scheme="cpc">C25C5/02</class-ref>, when applicable.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25C3/00</classification-symbol><definition-title>Electrolytic production, recovery or refining of metals by electrolysis of melts  (<class-ref scheme="cpc">C25C5/00</class-ref> takes precedence)</definition-title><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Classify also in <class-ref scheme="cpc">C25C5/04</class-ref>, when applicable.</paragraph-text>
+      </section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">Melt</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">molten salt or ionic liquid or fused bath</paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25C3/08</classification-symbol><definition-title>Cell construction, e.g. bottoms, walls, cathodes</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.5cm">
+              <paragraph-text type="body">Constructional parts, or assemblies thereof, of cells; servicing or operating of cells for the production of alloys or metals other than aluminium</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.88cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C25C7/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25C3/12</classification-symbol><definition-title>Anodes</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Electrodes used in cells for the electrolysis of melts, other than aluminium production</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C25C7/025</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25C3/125</classification-symbol><definition-title>{based on carbon}</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Electrodes used in cells for the electrolysis of melts, other than aluminium production</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C25C7/025</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Carbon masses</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C04B35/52</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Electrodes used for heating by electrical discharge, electrodes mainly consisting of carbon, self-baking type (e.g. S&#246;derberg anodes)</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="not-mapped">H01B7/09</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Heating by electrical discharge, electrodes mainly consisting of carbon</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H05B7/085</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+          <table-row>
+            <table-column>
+              <paragraph-text type="body">S&#246;derberg anode</paragraph-text>
+            </table-column>
+            <table-column>
+              <paragraph-text type="body">An electrode used in metallurgy, which continuously forms in an electrical furnace when a mixture of coke and coal-tar pitch is added to a heated steel casing and is baked as it passes through. It emerges into the furnace where it is continuously consumed. </paragraph-text>
+            </table-column>
+          </table-row>
+        </table>
+      </section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25C3/20</classification-symbol><definition-title>Automatic control or regulation of cells  (controlling or regulating in general <class-ref scheme="cpc">G05</class-ref>)</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Controlling or regulating in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G05</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25C3/26</classification-symbol><definition-title>of titanium, zirconium, hafnium, tantalum or vanadium</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Electrolytic production of the metal (titanium, hafnium, tantalum, vanadium) by the direct reduction of the metal ion at the electrode.</paragraph-text>
+        <paragraph-text type="body">Reduction of the metal oxide by another metal (usually calcium) which is itself electrolytically reduced from the electrolyte (usually calcium chloride), although the reduction step of the metal ions is chemical rather than electrolytic.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Documents involving the latter reaction should also be considered by a classifier in <class-ref scheme="cpc">C22B34/00</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Classification should also be made in <class-ref scheme="cpc">C25C5/04</class-ref>, when applicable.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25C3/28</classification-symbol><definition-title>of titanium</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Electrolytic production of titanium by the direct reduction of the metal ion at the electrode.</paragraph-text>
+        <paragraph-text type="body">Reduction of titanium oxide by another metal (usually calcium) which is itself electrolytically reduced from the electrolyte (usually calcium chloride), although the reduction step of the titanium ions is chemical rather than electrolytic.</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Documents involving the latter reaction should also be considered by a classifier in <class-ref scheme="cpc">C22B34/12</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25C7/00</classification-symbol><definition-title>Constructional parts, or assemblies thereof, of cells; Servicing or operating of cells  (for the production of aluminium <class-ref scheme="cpc">C25C3/06</class-ref>&#160;-&#160;<class-ref scheme="cpc">C25C3/22</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Constructional parts, or assemblies thereof, of cells; servicing or operating of cells for the production of aluminium</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C25C3/06</class-ref> - <class-ref scheme="cpc">C25C3/22</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25C7/007</classification-symbol><definition-title>{of cells comprising at least a movable electrode  (<class-ref scheme="cpc">C25C7/002</class-ref>, <class-ref scheme="cpc">C25C7/02</class-ref>&#160;-&#160;<class-ref scheme="cpc">C25C7/06</class-ref> take precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Movable electrodes, be it electrodes that move in space or electrodes that move around an axis, such as rotary electrodes.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">C25C7/04</classification-symbol><definition-title>Diaphragms; Spacing elements</definition-title><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Diaphragms used in the electrolytic or electrophoretic production of compounds or non-metals</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C25B13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Membranes for fuel cells</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">H01M8/0289</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms>
+  <paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text>
+  
+  
+  <list>
+    <list-item><paragraph-text type="body">&quot;diaphragm&quot; and &quot;membrane&quot;</paragraph-text></list-item>
+  </list>
+  
+  </synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">C25C7/06</classification-symbol><definition-title>Operating or servicing</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Operating or servicing of cells, when generally applied to a cell or in a process of <class-ref scheme="cpc">C25C</class-ref>.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Controlling or regulating in general</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G05</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

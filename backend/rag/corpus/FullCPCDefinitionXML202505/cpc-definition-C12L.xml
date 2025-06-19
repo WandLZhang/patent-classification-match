@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">C12L</classification-symbol><definition-title>PITCHING OR DEPITCHING MACHINES; CELLAR TOOLS  (cleaning of casks <class-ref scheme="cpc">B08B9/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Pitching and depitching machines, venting devices (for casks, barrels, and the like), cellar tools.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12L3/00</classification-symbol><definition-title>Pitching or depitching machines</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Pitching and depitching machines, typically devices for coating the inner surface of wooden barrels with pitch, or for removing pitch therefrom, respectively.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Cleaning of casks</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B08B9/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12L9/00</classification-symbol><definition-title>Venting devices for casks, barrels, or the like</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Venting devices for casks, barrels, or the like.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Details of beverage containers (e.g. casks, kegs) relating to container closing (e.g. bungholes, barrel bungs)</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B67D1/0808</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body"> Fermentation tanks for beer brewing</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C12C11/006</class-ref></paragraph-text>
+            </table-column>
+          </table-row><table-row>
+            <table-column preferred-width="9.29cm">
+              <paragraph-text type="body">Bioreactors for continuous fermentation (beer brewing)</paragraph-text>
+            </table-column>
+            <table-column preferred-width="5.74cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C12C11/075</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+          
+          
+          
+        </table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12L11/00</classification-symbol><definition-title>Cellar tools</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Cellar tools (typically used in wine or champagne production).</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item></definitions>

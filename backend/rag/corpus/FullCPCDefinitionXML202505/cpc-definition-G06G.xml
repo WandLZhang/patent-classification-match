@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">G06G</classification-symbol><definition-title>ANALOGUE COMPUTERS  (analogue optical computing devices <class-ref scheme="cpc">G06E3/00</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.53cm">
+                     <paragraph-text type="body">Analogue optical computing devices</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06E3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.53cm">
+                     <paragraph-text type="body">Computer systems based on specific computational models</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.95cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06N</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">G06G1/00</classification-symbol><definition-title>Hand manipulated computing devices  (planimeters <class-ref scheme="cpc">G01B5/26</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Hand operated, mainly portable, mechanical devices using movable scales (linear or circular) for computing an analogue outcome as a result of the mechanical setting of the input scales.</paragraph-text>
+            <paragraph-text type="body">These are very simple mechanical devices for solving specific problems involving the resolving of one or a limited number of mathematical equations by moving mechanically one scale relative to another scale and reading out the result on another scale. It does not involve electricity nor electronics.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="5.98cm">
+                     <paragraph-text type="body">Planimeters</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="10.51cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G01B5/26</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="5.98cm">
+                     <paragraph-text type="body">Digital mechanical computers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="10.51cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="5.98cm">
+                     <paragraph-text type="body">Electronic portable computers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="10.51cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06F15/02</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">The documents should be classified in the subgroups of <class-ref scheme="cpc">G06G1/0005</class-ref> according to their field of application AND in the subgroups of <class-ref scheme="cpc">G06G1/02</class-ref> according to their construction.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G06G1/0005</classification-symbol><definition-title>{characterised by a specific application}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">For the different applications see the titles of the subgroups.</paragraph-text>
+         </section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">Documents should be classified in every subgroup dealing with a specific application where the hand manipulated analogue computing device is used.</paragraph-text>
+            <paragraph-text type="body">Documents should also be classified in the subgroups of <class-ref scheme="cpc">G06G1/02</class-ref> according to their construction.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G06G1/02</classification-symbol><definition-title>Devices in which computing is effected by adding, subtracting, or comparing lengths of parallel or concentric graduated scales {(<class-ref scheme="cpc">G06G1/0005</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Hand-manipulated devices of the kind specified in the title are classified here independently from the specific application.</paragraph-text>
+            <paragraph-text type="body">The different constructional arrangements of these devices are classified in accordance with the titles of the subgroups under <class-ref scheme="cpc">G06G1/04</class-ref>.</paragraph-text>
+         </section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">The documents should also be classified in the subgroups of <class-ref scheme="cpc">G06G1/0005</class-ref> according to their field of application.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G06G3/00</classification-symbol><definition-title>Devices in which the computing operation is performed mechanically  (<class-ref scheme="cpc">G06G1/00</class-ref> takes precedence)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Pure mechanical analogue computation mechanisms.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="7.68cm">
+                     <paragraph-text type="body">Electric or electronic analogue computers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.6cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06G7/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="7.68cm">
+                     <paragraph-text type="body">Digital mechanical computers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="8.6cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">Obsolete technology, there are currently almost no new publications on the subject.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G06G5/00</classification-symbol><definition-title>Devices in which the computing operation is performed by means of fluid-pressure elements  (such elements in general <class-ref scheme="cpc">F15C</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Analogue computation mechanisms based on fluid-pressure elements, e.g. using water, oil, pneumatics.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.67cm">
+                     <paragraph-text type="body">Fluid-circuit elements as such used for computing</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="1.49cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F15C</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.67cm">
+                     <paragraph-text type="body">Digital fluid-pressure computing devices</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="1.49cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G06D</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">Obsolete technology, not used anymore.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G06G7/00</classification-symbol><definition-title>Devices in which the computing operation is performed by varying electric or magnetic quantities</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">General analogue computation performed by electric or magnetic elements.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="5.23cm">
+                     <paragraph-text type="body">Analogue control systems</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.81cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G05B1/00</class-ref> - <class-ref scheme="cpc">G05B11/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="5.23cm">
+                     <paragraph-text type="body">Analogue filters or mixers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="4.81cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">H03</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">Documents are to be classified in these subgroups only if they are used for pure computation per se.</paragraph-text>
+            <paragraph-text type="body">Analogue computation for a specific application are classified in the specific application field only.</paragraph-text>
+            <paragraph-text type="body">This is an old technology that is hardly used anymore for performing computation as such. It is mainly used as a component in larger systems such as analogue control systems, telecommunication devices, etc.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">G06G99/00</classification-symbol><definition-title>Subject matter not provided for in other groups of this subclass</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Subject-matter not provided for in <class-ref scheme="cpc">G06G1/00</class-ref> - <class-ref scheme="cpc">G06G7/80</class-ref>.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item></definitions>

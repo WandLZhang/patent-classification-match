@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">C13B</classification-symbol><definition-title>PRODUCTION OF SUCROSE; APPARATUS SPECIALLY ADAPTED THEREFOR  (chemically synthesised sugars or sugar derivatives <class-ref scheme="cpc">C07H</class-ref>; fermentation or enzyme-using processes for preparing compounds containing saccharide radicals <class-ref scheme="cpc">C12P19/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Reducing the size of material from which sugars are to be extracted; Presses and knives therefor,</paragraph-text>
+        <paragraph-text type="body">Production and purification of sugar juices, e.g. juices derived from beet, cane or maple,</paragraph-text>
+        <paragraph-text type="body">Expressing water from material from which sugars have been extracted,</paragraph-text>
+        <paragraph-text type="body">Evaporators or boiling pans specially adapted for sugar juices; Evaporating, or boiling sugar juices,</paragraph-text>
+        <paragraph-text type="body">Crystallisation; Crystallising apparatus; Separating crystals from mother liquors,</paragraph-text>
+        <paragraph-text type="body">Extraction of sucrose from molasses; Extraction apparatus,</paragraph-text>
+        <paragraph-text type="body">Drying sugar,</paragraph-text>
+        <paragraph-text type="body">Cutting machines, combined cutting, sorting, and packing machines specially adapted for sugar, or</paragraph-text>
+        <paragraph-text type="body">Sugar products, i.e. physical forms of sugar, such as powdered, lump or liquid sugar; Working-up of sugar</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">Chemically synthesised sugars or sugar derivatives are classified in <class-ref scheme="cpc">C07H</class-ref></paragraph-text>
+        <paragraph-text type="body">Naturally-occuring saccharides, other than sucrose, are classified in <class-ref scheme="cpc">C13K</class-ref></paragraph-text>
+        <paragraph-text type="body">Preparation of cellulose derivatives are classified in <class-ref scheme="cpc">C08B1/00</class-ref>-<class-ref scheme="cpc">C08B17/00</class-ref>.</paragraph-text>
+        <paragraph-text type="body">Fermentation or enzyme-using processes for preparing compounds containing saccharide radicals <class-ref scheme="cpc">C12P19/00</class-ref></paragraph-text>
+        <paragraph-text type="body">Food or foodstuff containing carbohydrate syrups; containing sugars; containing sugar alcohols, e.g. xylitol; containing starch hydrolysates, e.g. dextrin <class-ref scheme="cpc">A23L29/30</class-ref>, artificial sweetening agent <class-ref scheme="cpc">A23L27/30</class-ref></paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column> <paragraph-text type="body">Harvesting of sugar beets</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">A01D11/02</class-ref>, <class-ref scheme="cpc">A01D13/00</class-ref>, <class-ref scheme="cpc">A01D25/00</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Harvesting of sugar-cane</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">A01D45/10</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Tapping of tree-juices</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">A01G23/10</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Tapping-spouts, Receptacles for juices </paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">A01G23/14</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Sweetmeats, Confectionery </paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">A23G3/00</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Foods containing carbohydrate syrups, sugars, sugar alcohols or starch hydrolysates</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">A23L29/30</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Extraction of starch</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">C08B30/02</class-ref>, <class-ref scheme="cpc">C08B30/04</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Pressing water from starch-extracted material</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">C08B30/10</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Fermentation or enzyme-using processes for preparing compounds containing saccharide radicals</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">C12P19/00</class-ref></paragraph-text> </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column> <paragraph-text type="body">Boiling apparatus</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B01B</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Separation</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B01D</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Crushing, pulverizing, or disintegrating in general</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B02C</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Centrifuges</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B04B</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Hand-held cutting tools not otherwise provided for</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B26B</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Cutting in general</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B26D</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Presses in general</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B30B</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Storing in general</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">B65D</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Obtaining or extracting cellulose for the purpose of making paper </paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">D21C</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Drying in general</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">F26B</class-ref></paragraph-text> </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+        <table>
+<table-row>
+            <table-column> <paragraph-text type="body">Aldose</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body">An aldose is a monosaccharide (a simple sugar) containing one aldehyde group per molecule and having a chemical formula of the form C<sub>n</sub>(H2O)<sub>n</sub> (n&gt;= 3). With only 3 carbon atoms, glyceraldehyde is the simplest of all aldoses.Aldoses isomerise to ketoses in the Lobry-de Bruyn-van Ekenstein transformation. Aldose differs from ketose in that it has a carbonyl group at the end of the carbon chain whereas the carbonyl group of a ketose is in the middle; this fact allows them to be chemically differentiated through Seliwanoff&apos;s test.</paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Disaccharide</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"> A disaccharide is a sugar (a carbohydrate) composed of two monosaccharides.&#8216;Disaccharide&#8217; is one of the four chemical groupings of carbohydrates (monosaccharide, disaccharide, oligosaccharide and polysaccharide).</paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Hexose</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body">A hexose is a monosaccharide with six carbon atoms having the chemical formula C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>.</paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Ketose</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"> A ketose is a sugar containing one ketone group per molecule.With 3 carbon atoms, dihydroxyacetone is the simplest of all ketoses and is the only one having no optical activity. Ketoses can isomerise into an aldose when the carbonyl group is located at the end of the molecule. Such ketoses are reducing sugars.</paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Monosaccharide</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body">Monosaccharides (from Greek monos: single, sacchar: sugar) are the most basic unit of carbohydrates. They consist of one sugar and are usually colorless, water-soluble, crystalline solids. Some monosaccharides have a sweet taste. Examples of monosaccharides include glucose (dextrose), fructose, galactose, xylose and ribose. Monosaccharides are the building blocks of disaccharides such as sucrose (common sugar) and polysaccharides (such as cellulose and starch). </paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Oligosaccharide</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body">An oligosaccharide is a saccharide containing less than six monosaccharides. The name derived from the Greek oligos, meaning &quot;a few&quot;.</paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Pentose</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body">A pentose is a monosaccharide with five carbon atoms.</paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Polysaccharide</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"> Polysaccharides are polymers containing more than five monosaccharides joined together by glycosidic bonds. They are therefore very large, often branched, macromolecules. They tend to be amorphous, insoluble in water and have no sweet taste. When all the monosaccharides in a polysaccharide are the same type, the polysaccharide is called a homopolysaccharide, but when more than one type of monosaccharide is present, they are called heteropolysaccharides.Examples include storage polysaccharides such as starch and glycogen and structural polysaccharides such as cellulose and chitin.</paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Saccharose</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body">Synonym for sucrose</paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Sucrose</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body">Sucrose (common name: table sugar, also called saccharose) is a disaccharide of glucose and fructose, with the molecular formula C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>. Its systematic name is &#945;-D-glucopyranosyl- (1&#8596;2)-&#946;-D-fructofuranoside (ending in &quot;oside&quot;, because it&apos;s not a reducing sugar).</paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Sugar</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"> Sugar is a class of edible crystalline water-soluble carbohydrates that vary widely in sweetness and typically are optically active, including the mono-, di- and oligosaccharides (e. g. sucrose, lactose, and fructose). Sugar as a basic food carbohydrate primarily comes from sugar cane and from sugar beet, but also appears in fruit, honey, sorghum, sugar maple (in maple syrup), and in many other sources. It forms the main ingredient in much candy.In non-scientific use, the term sugar refers to sucrose (also called &quot;table sugar&quot; or &quot;saccharose&quot;) &#8212; a white crystalline solid disaccharide. In this informal sense, the word &quot;sugar&quot; principally refers to crystalline sugars.</paragraph-text> </table-column>
+          </table-row></table>
+      </section-body>
+    </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;saccharose&quot; and &quot;sucrose&quot;</paragraph-text></list-item></list></synonyms></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B5/00</classification-symbol><definition-title>Reducing the size of material from which sugar is to be extracted  (for extraction of starch <class-ref scheme="cpc">C08B30/02</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods for reducing the size of material from which sugar is to be extracted and not disclosed in the subgroups</paragraph-text>
+        <paragraph-text type="body">Mechanical means to minimize the length, width or thickness of the sugar stock other than the ones disclosed in the subgroups.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B5/02</classification-symbol><definition-title>Cutting sugar cane</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The cutting of sugar cane, whatever type of cutting, i.e. penetrating cane with an edged instrument.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B5/04</classification-symbol><definition-title>Shredding sugar cane</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">The shredding of sugar cane, shredding producing long narrow strips or fragments.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B10/00</classification-symbol><definition-title>Production of sugar juices  (tapping of tree-juices <class-ref scheme="cpc">A01G23/10</class-ref>; tapping-spouts, receptacles for juices <class-ref scheme="cpc">A01G23/14</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Production of sugar juices, sugar juices being solutions of sugar, comprising mainly sucrose, glucose, fructose which are derived from different plants, e.g. beet, cane</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B10/003</classification-symbol><definition-title>{using chemicals other than extracting agents}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Chemical agents can be for example preservative or antioxidants to avoid oxidation of some components in the sugar juices</paragraph-text>
+        <paragraph-text type="body">Extracting agents being for example water</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body">a chemical compound that has also the function of preserving will be classified in <class-ref scheme="cpc">C13B10/003</class-ref> and <class-ref scheme="not-mapped">C13B13/006</class-ref></paragraph-text>
+      </section-body>
+    </relationship></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B10/006</classification-symbol><definition-title>{Conservation of sugar juices}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Any methods, agents used to preserve the sugar juices, e.g. use of preservative, pH, low temperature</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B10/02</classification-symbol><definition-title>Expressing juice from sugar cane or similar material, e.g. sorghum saccharatum</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Juice from sugar cane e.g. sorghum saccharum or from same plant family</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B10/04</classification-symbol><definition-title>combined with imbibition</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Production of sugars juices by expressing juice form sugar cane combined with imbibition, the imbibition being the displacement of one liquid with another liquid, e.g. by adding hot water</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B10/107</classification-symbol><definition-title>{with transportation in the form of thin layers, e.g. by endless chains}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Continuous processes of extracting sugar from sugar beet with water, with transportation in the form of thin layers, e.g. conveyor belt of 30 m long, 7 m wide and the layer of cossettes being 1 m (maximisation of surface area)</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B10/14</classification-symbol><definition-title>using extracting agents other than water, e.g. alcohol or salt solutions</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Production of sugar juices using extracting agents other than water, e.g. alcohol, aqueous salt solutions</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B15/00</classification-symbol><definition-title>Expressing water from material from which sugar has been extracted  (from starch-extracted material <class-ref scheme="cpc">C08B30/10</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Water being extracted from material from which the majority of the sugar has already been extracted, i.e. extraction of the remaining water out from the sugar cane or beet material which contains still some traces of sugar.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B20/00</classification-symbol><definition-title>Purification of sugar juices</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Elimination of imperfections of solutions of mainly sucrose, glucose, fructose which are derived from different plants, e.g. beet, cane, etc.</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B20/04</classification-symbol><definition-title>followed by saturation</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Purification of sugar juices using alkaline earth metal compounds followed by saturation, e.g. addition of Ca (OH)<sub>2</sub> that precipitates as calcium carbonate after addition of CO<sub>2</sub>, which absorbs impurities contained in the sugar juices. and the addition of this alkaline earth metal compound is done until saturation, saturation being the point at which a solution of a substance can dissolve no more of that substance</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B20/148</classification-symbol><definition-title>{for fractionating, adsorption or ion exclusion processes combined with elution or desorption of a sugar fraction}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Purification of sugar juices using ion-exchange materials for fractionating, adsorption or ion exclusion processes combined with elution or desorption of a sugar fraction. The desired sugar fraction is adsorbed in the ion exchange material itself and needs to be treated from the ion exchange material, e.g. by elution</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B20/165</classification-symbol><definition-title>{using membranes, e.g. osmosis, ultrafiltration  (electrodialysis <class-ref scheme="cpc">C13B20/18</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Purification of sugar juices by physical means using membranes, i.e. filter materials, e.g. nanofiltration, ultrafiltration</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column> <paragraph-text type="body">Purification of sugar juices by electrical means, e.g. electrodialysis </paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">C13B20/18</class-ref></paragraph-text> </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B25/00</classification-symbol><definition-title>Evaporators or boiling pans specially adapted for sugar juices; Evaporating or boiling sugar juices</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Processes and apparatus for evaporating, dissipating vapour or boiling solutions of sugar, comprising mainly sucrose, glucose, fructose which are derived from different plants, e.g. beet, canes </paragraph-text>
+        <paragraph-text type="body">e.g. boiling pans specially adapted for sugar juices</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B30/00</classification-symbol><definition-title>Crystallisation; Crystallising apparatus; Separating crystals from mother liquors{; Evaporating or boiling sugar juice}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Crystallisation of sugar, e.g by using chemicals, in continuous or discontinuous processes; crystallising apparatus for sugar; Separating crystals of sucrose from mother liquors, e.g. by washing in centrifuges; evaporating or boiling sugar juices</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B35/00</classification-symbol><definition-title>Extraction of sucrose from molasses</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Processes and apparatus of extracting sucrose from molasses, e.g. by precipitation, by osmosis</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B40/00</classification-symbol><definition-title>Drying sugar</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Processes and apparatus for elimination or water or other undesirable liquids from sugar</paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B45/00</classification-symbol><definition-title>Cutting machines specially adapted for sugar</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Machines specially adapted to cut sugar, i.e. to penetrate sugar with an edged instrument.</paragraph-text>
+        <paragraph-text type="body">Machines combining cutting, sorting and packing are classified in <class-ref scheme="cpc">C13B45/02</class-ref></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C13B50/00</classification-symbol><definition-title>Sugar products, e.g. powdered, lump or liquid sugar; Working-up of sugar  (<class-ref scheme="cpc">C13B40/00</class-ref>, <class-ref scheme="cpc">C13B45/00</class-ref> take precedence; confectionery <class-ref scheme="cpc">A23G3/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Powdered, lump or liquid sugar</paragraph-text>
+        <paragraph-text type="body">Working-up of sugar</paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">C13B50/00</class-ref> concerns sugar end product and the use of this sugar end product is classified for example in <class-ref scheme="cpc">A23G3/00</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column> <paragraph-text type="body">Processes and apparatus for drying sugar</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">C13B40/00</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Cutting machines specially adapted for sugar</paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">C13B45/00</class-ref></paragraph-text> </table-column>
+          </table-row>
+<table-row>
+            <table-column> <paragraph-text type="body">Sweetmeats, Confectionery </paragraph-text> </table-column>
+            <table-column> <paragraph-text type="body"><class-ref scheme="cpc">A23G3/00</class-ref></paragraph-text> </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item></definitions>

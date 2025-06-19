@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B23H</classification-symbol><definition-title>WORKING OF METAL BY THE ACTION OF A HIGH CONCENTRATION OF ELECTRIC CURRENT ON A WORKPIECE USING AN ELECTRODE WHICH TAKES THE PLACE OF A TOOL; SUCH WORKING COMBINED WITH OTHER FORMS OF WORKING OF METAL  (processes for the electrolytic or electrophoretic production of coatings, electroforming, or apparatus therefor <class-ref scheme="cpc">C25D</class-ref>; processes for the electrolytic removal of material from objects <class-ref scheme="cpc">C25F</class-ref>; manufacturing printed circuits using precipitation techniques to apply the conductive material to form the desired conductive pattern <class-ref scheme="cpc">H05K3/18</class-ref>)</definition-title></definition-item>
+<definition-item><classification-symbol scheme="cpc">B23H1/00</classification-symbol><definition-title>Electrical discharge machining, i.e. removing metal with a series of rapidly recurring electrical discharges between an electrode and a workpiece in the presence of a fluid dielectric</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The documents concerned with electrical discharge machining, i.e. the removal of metal with a series of rapidly recurring electrical discharges between an electrode and a workpiece in the presence of a dielectric fluid.</paragraph-text>
+            <paragraph-text type="body">In particular, this group contains documents concerned with:</paragraph-text>
+            <paragraph-text type="body">Electric circuits specially adapted for electric discharge machining, e.g. power supply, control, preventing short circuits or other abnormal discharges, electrodes specially adapted therefore or their manufacture, Working media and their supply or regeneration.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B23H3/00</classification-symbol><definition-title>Electrochemical machining, i.e. removing metal by passing current between an electrode and a workpiece in the presence of an electrolyte</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The documents concerned with electrochemical machining, i.e. removing metal by passing current between an electrode and a workpiece in the presence of an electrolyte</paragraph-text>
+            <paragraph-text type="body">In particular, this group contains documents concerned with:</paragraph-text>
+            <paragraph-text type="body">Electric circuits specially adapted for electrochemical machining, e.g. power supply, control, preventing short circuits, electrodes specially adapted therefore or their manufacture, Working media therefore and their supply and regeneration.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B23H5/00</classification-symbol><definition-title>Combined machining</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The documents concerned with combined machining processes and apparatus applicable to combined processes. In particular it covers processes or apparatus applicable to both electrical discharge machining and electrochemical machining, electrical discharge machining combined with mechanical working.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B23H7/00</classification-symbol><definition-title>Processes or apparatus applicable to both electrical discharge machining and electrochemical machining</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The documents concerned with processes and apparatus applicable to both electrical discharge machining and electrochemical machining:</paragraph-text>
+            <paragraph-text type="body">In particular, it contains the documents concerned with:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Wire&#8209;cutting, i.e. cutting metal with an electrode in the form of a wire and apparatus for supplying current to working gap for wire machining for wire cutting; for control of the travel curve of the relative movement between the wire electrode and workpiece; and the material and shape of the wire electrodes, the supporting, winding and/or electrical connection of wire&#8209;electrode;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Rotating&#8209;disc electrodes;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Electric circuits specially adapted for both electrical discharge machining and electrochemical machining , e.g. power supply, circuits for maintaining or controlling the desired spacing between electrode and workpiece, programme&#8209;control of the process or apparatus;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Electrodes specially adapted for both electrical discharge machining and electrochemical machining or their manufacture;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Apparatus for moving or positioning electrode relatively to workpiece and mounting of electrode(s);</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Working media and their supply or regeneration of working media;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Influencing the metal working using specially adapted means not directly involved in the removal of metal, e.g. ultrasonic waves, magnetic fields or laser irradiation.</paragraph-text>
+               </list-item>
+            </list>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B23H9/00</classification-symbol><definition-title>Machining specially adapted for treating particular metal objects or for obtaining special effects or results on metal objects  (heat treatment by cathodic discharge <class-ref scheme="cpc">C21D1/38</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Machining especially adapted for treating particular metal objects or for obtaining special effects or results on metal objects.</paragraph-text>
+            <paragraph-text type="body">In particular it concerns:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Disintegrating</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Making screw&#8209;threads or gears</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Machining elongated bodies, e.g. rods</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Cavity sinking</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Surface roughening or texturing</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Trimming or deburring</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Treating surfaces of rolls</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Marking or engraving</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Sharpening</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Working turbine blades or nozzles</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Forming parts of complementary shape, e.g. punch&#8209;and&#8209;die</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Making of holes</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Producing external conical surfaces or spikes.</paragraph-text>
+               </list-item>
+            </list>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B23H11/00</classification-symbol><definition-title>Auxiliary apparatus or details, not otherwise provided for</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">This group concerns auxiliary apparatus or details for electric or electrochemical discharge machines, not otherwise provided for.</paragraph-text>
+            <paragraph-text type="body">In particular the group concerns:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">The mounting of workpieces, e.g. working&#8209;tables;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Electrical contacts or wires.</paragraph-text>
+               </list-item>
+            </list>
+         </section-body>
+      </definition-statement></definition-item></definitions>

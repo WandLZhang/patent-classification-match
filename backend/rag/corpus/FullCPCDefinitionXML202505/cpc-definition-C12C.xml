@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2025-01-01" publication-type="official">
+<definition-item date-revised="2020-02-01"><classification-symbol scheme="cpc">C12C</classification-symbol><definition-title>BEER; PREPARATION OF BEER BY FERMENTATION  (ageing or ripening by storing <class-ref scheme="cpc">C12H1/22</class-ref>; methods for reducing the alcohol content after fermentation <class-ref scheme="cpc">C12H3/00</class-ref>; methods for increasing the alcohol content after fermentation <class-ref scheme="cpc">C12H6/00</class-ref>; venting devices for casks, barrels or the like <class-ref scheme="cpc">C12L9/00</class-ref>); PREPARATION OF MALT FOR MAKING BEER; PREPARATION OF HOPS FOR MAKING BEER</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Raw materials used in preparing beer (e.g. malt, hops), and treatment thereof.</paragraph-text><paragraph-text type="body">Preparation of wort.</paragraph-text><paragraph-text type="body">Fermentation processes for beer.</paragraph-text><paragraph-text type="body">Processes for producing special kinds of beer.</paragraph-text><paragraph-text type="body">Brewing devices.</paragraph-text><paragraph-text type="body">Beer per se.</paragraph-text></section-body>
+    </definition-statement><relationship><section-title>Relationships with other classification places</section-title><section-body><paragraph-text type="body"><class-ref scheme="cpc">C12H</class-ref> deals only with pasteurisation, sterilisation, preservation, purification, clarification or ageing of alcoholic beverages.</paragraph-text><paragraph-text type="body">Post-fermentation treatment such as carbonation is subject matter of this subclass but is classified in <class-ref scheme="cpc">C12H</class-ref> when combined with subject matter of that subclass.</paragraph-text><paragraph-text type="body">Low alcohol beer is classified in <class-ref scheme="cpc">C12C12/04</class-ref>.</paragraph-text><paragraph-text type="body">Low alcohol wine is classified in <class-ref scheme="cpc">C12G1/14</class-ref> and other low alcohol beverages are classified in <class-ref scheme="cpc">C12G3/025</class-ref>.</paragraph-text></section-body></relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Ageing or ripening by storing </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12H1/22</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Methods for reducing the alcohol content after fermentation </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12H3/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Methods for increasing the alcohol content after fermentation </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12H6/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Venting devices for casks, barrels or the like </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12L9/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparation of malt for use as foodstuffs </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A23L</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Cleaning of raw materials, e.g. fruit and vegetables </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A23N</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Separation of solids from liquids in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B01D</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Containers with means for effervescing potable liquids </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65D85/73</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pitching or depitching machines, or cellar tools </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12L</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Propagating yeasts </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12N1/14</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Ethanolic fermentation for non-beverage purposes </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12P7/06</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Beer</paragraph-text></table-column><table-column><paragraph-text type="body">The term beer includes alcoholic drinks produced by the fermentation of sugars derived from grains of barley, wheat, sorghum, maize or rice. </paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Brew kettles</paragraph-text></table-column><table-column><paragraph-text type="body">Apparatus in which the wort is boiled.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Caramel/black malt</paragraph-text></table-column><table-column><paragraph-text type="body">Malt which has been sufficiently heated to caused sugars to caramelize.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Fermentation</paragraph-text></table-column><table-column><paragraph-text type="body">Process whereby yeast converts sugar to ethyl alcohol.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Germ</paragraph-text></table-column><table-column><paragraph-text type="body">The germ is the shoot which has started to grow from a grain.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Immobilized yeast</paragraph-text></table-column><table-column><paragraph-text type="body">The yeast is absorbed on a material instead of being dispersed in the liquid.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Low alcohol</paragraph-text></table-column><table-column><paragraph-text type="body">This is beer which has a lower alcohol content than would be expected from complete fermentation of the wort. </paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Malt</paragraph-text></table-column><table-column><paragraph-text type="body">Malt is the term used for partially germinated and subsequently dried grains in which part of the starch has been converted to sugar.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Mash</paragraph-text></table-column><table-column><paragraph-text type="body">Mash is a mixture of malt and water. Mashing refers to the process of extracting the sugars from the grains, often at elevated temperature.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pitching</paragraph-text></table-column><table-column><paragraph-text type="body">This is the process of adding yeast to the wort.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Steeping</paragraph-text></table-column><table-column><paragraph-text type="body">Soaking the grains in water primarily to stimulate germination.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Wort</paragraph-text></table-column><table-column><paragraph-text type="body">Wort is the liquid part of the mash which is left after removal of the insolubles</paragraph-text></table-column></table-row></table></section-body>
+    </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><synonyms><paragraph-text type="preamble">In patent documents, the following words/expressions are often used as synonyms:</paragraph-text><list><list-item><paragraph-text type="body">&quot;Low alcohol&quot;, &quot;Reduced alcohol&quot; and &quot;dealcoholized&quot;</paragraph-text></list-item></list></synonyms><special-meanings><paragraph-text type="preamble">In patent documents, the following words/expressions are often used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">&quot;malt&quot;</paragraph-text></table-column><table-column><paragraph-text type="body">&quot;malted barley&quot;.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">&quot; Secondary sources of starch/sugar&quot;</paragraph-text></table-column><table-column><paragraph-text type="body">&quot; adjuncts.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">&quot;&quot;wort&quot;</paragraph-text></table-column><table-column><paragraph-text type="body">&quot;beerwort&quot;.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">&quot;Brew kettles&quot;</paragraph-text></table-column><table-column><paragraph-text type="body">&quot;coppers&quot;.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">&quot; Water when used in brewing&quot;</paragraph-text></table-column><table-column><paragraph-text type="body">&quot;liquor&quot;.</paragraph-text></table-column></table-row></table></special-meanings></synonyms-keywords></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">C12C1/00</classification-symbol><definition-title>Preparation of malt</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for preparing malt for brewing beer.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Malt products for use in food</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A23L7/20</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">Methods or apparatus for preparing malt for purposes other than brewing beer may/might be classified in this group if there is a similarity with typical beer brewing methods/apparatus and/or if no group that is more pertinent exists.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/02</classification-symbol><definition-title>Pretreatment of grains, e.g. washing, steeping</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for the pretreatment of brewing grains, such as cleaning, washing or steeping.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparation of grain for milling </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B02B</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/027</classification-symbol><definition-title>Germinating</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Germination of brewing grains.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/0275</classification-symbol><definition-title>{on single or multi-stage floors}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Germination of brewing grains on single or multi-stage floors.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Germination in boxes or drums</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C1/033</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">For the distinction of &quot;floors&quot; from &quot;boxes&quot; the dimensions are relevant: the term &quot;floors&quot; designates large surfaces (such as classical hurdles), whereas &quot;boxes&quot; implies relatively small surface areas.</paragraph-text></section-body>
+    </special-rules><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Hurdle</paragraph-text></table-column><table-column><paragraph-text type="body">Malt germination (or drying) floor</paragraph-text></table-column></table-row></table></section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/033</classification-symbol><definition-title>in boxes or drums</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Germination of brewing grains in boxes or drums.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Germination of brewing grains on single or multi-stage floors</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C1/0275</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Malt drying on moving supports (may involve drums)</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C1/12</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">For the distinction of &quot;floors&quot; from &quot;boxes&quot; the dimensions are relevant: the term &quot;floors&quot; designates large surfaces (such as classical hurdles), whereas &quot;boxes&quot; implies relatively small surface areas.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/047</classification-symbol><definition-title>Influencing the germination by chemical or physical means</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for preparing malt for brewing beer, wherein the germination is influenced by chemical and/or physical means.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/053</classification-symbol><definition-title>by irradiation or electric {or wave energy} treatment</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for preparing malt for brewing beer, wherein the germination is influenced by irradiation, electric or wave energy treatment.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/067</classification-symbol><definition-title>Drying</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for preparing brewing malt, wherein the brewing grains are subjected to drying.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Continuous or semi-continuous drying</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C1/125</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Kilning, kiln-drying</paragraph-text></table-column><table-column><paragraph-text type="body">Drying of malt in a kiln</paragraph-text></table-column></table-row></table></section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/073</classification-symbol><definition-title>Processes or apparatus specially adapted to save or recover energy</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus specially adapted to save or recover energy during drying of brewing grains.</paragraph-text></section-body>
+    </definition-statement><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">Since saving or recovering energy is a general goal of grain drying, this symbol should only be given if the respective means are specifically emphasised and/or claimed, i.e. if they form an important aspect of the invention.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/10</classification-symbol><definition-title>Drying on fixed supports</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for preparing brewing malt, wherein the brewing grains are subjected to drying on fixed supports.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/12</classification-symbol><definition-title>Drying on moving supports</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for preparing brewing malt, wherein the brewing grains are subjected to drying on moving supports.</paragraph-text></section-body>
+    </definition-statement><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">This symbol is only to be given if the supports move during the drying process (i.e. rotating hurdles). For instance, floor segments that can be inclined to discharge grains do not fall within this group, because they are actuated only when drying is complete.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/125</classification-symbol><definition-title>Continuous or semi-continuous processes for steeping, germinating or drying</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for the semi-continuous or continuous steeping, germination and/or drying of brewing grains.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Batch mode steeping, germination and/or drying of brewing grains</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C1/02</class-ref>, <class-ref scheme="cpc">C12C1/027</class-ref>, <class-ref scheme="cpc">C12C1/067</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">This symbol should be given if (semi-) continuous steeping, germination and/or drying is specifically emphasised and/or claimed.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/13</classification-symbol><definition-title>with vertical transport of the grains</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for the semi-continuous or continuous steeping, germination and/or drying of brewing grains, wherein the grains are transported vertically.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/135</classification-symbol><definition-title>with horizontal transport of the grains</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for the semi-continuous or continuous steeping, germination and/or drying of brewing grains, wherein the grains are transported horizontally.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/15</classification-symbol><definition-title>Grain or malt turning, charging or discharging apparatus</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus for turning, charging and/or discharging brewing grain or malt.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C1/16</classification-symbol><definition-title>After-treatment of malt, e.g. malt cleaning, detachment of the germ</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for the after-treatment of malt, e.g. malt cleaning or detachment of the germ.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">C12C1/18</classification-symbol><definition-title>Preparation of malt extract or of special kinds of malt, e.g. caramel, black malt  (malt products for use as foodstuffs <class-ref scheme="cpc">A23L</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Preparation of malt extract or of special kinds of malt, e.g. caramel malt, black malt.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparation of wort</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Malt products for use as foodstuffs</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A23L7/20</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C3/00</classification-symbol><definition-title>Treatment of hops</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus and methods adapted for the treatment of hops used in brewing beer.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Boiling of wort (beerwort) with hops</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/205</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C3/02</classification-symbol><definition-title>Drying</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus and methods adapted for drying hops used in brewing beer.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Processes for drying</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F26B3/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Apparatus for drying</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">F26B9/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2025-01-01"><classification-symbol scheme="cpc">C12C3/04</classification-symbol><definition-title>Conserving; Storing; Packing</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus or methods adapted for conserving, storing and/or packaging hops used in brewing beer.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preservation of foods</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A23B2/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C3/06</classification-symbol><definition-title>Powder or pellets from hops</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus or methods adapted for the preparation of hop powder or hop pellets.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C3/08</classification-symbol><definition-title>Solvent extracts from hops</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for the preparation of solvent extracts from hops.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Boiling of wort (beerwort) with hops</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/205</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C3/085</classification-symbol><definition-title>{Extraction of hops with beerwort}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for the solvent extraction of hops with beerwort.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Boiling of wort (beerwort) with hops</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/205</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C3/10</classification-symbol><definition-title>using carbon dioxide</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for the solvent extraction of hops using carbon dioxide.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C3/12</classification-symbol><definition-title>Isomerised products from hops</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for preparing isomerised products from hops used in beer brewing.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C5/00</classification-symbol><definition-title>Other raw materials for the preparation of beer</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Raw materials or ingredients other than malt (or grains) and hops for the preparation of beer.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Malt</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C1/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Hops</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C3/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C5/002</classification-symbol><definition-title>{Brewing water}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Brewing water used as ingredient for preparing beer.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C5/004</classification-symbol><definition-title>{Enzymes}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Enzymes used as raw material (or as ingredient) in the preparation of beer.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">The use of malt extract or special malt products as enzyme source </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C1/18</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C5/006</classification-symbol><definition-title>{Beta-glucanase or functionally equivalent enzymes}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Beta-glucanase or functionally equivalent enzymes used as raw material or as ingredient in the preparation of beer.</paragraph-text></section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Functionally equivalent</paragraph-text></table-column><table-column><paragraph-text type="body"> Beta-glucanase is usually added to avoid &quot;gushing&quot;, i.e. undesired excessive foaming of beer. Enzymes other than Beta-glucanase used to give the same effect are considered as functionally equivalent.</paragraph-text></table-column></table-row></table></section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C5/008</classification-symbol><definition-title>{Hop surrogates}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Use of hop surrogates as raw material or ingredient in the preparation of beer.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Hops, i.e. the standard hopping ingredient</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C3/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Hop surrogates</paragraph-text></table-column><table-column><paragraph-text type="body">Materials used for obtaining the same or similar effects usually provided by hop, in particular flavouring.</paragraph-text></table-column></table-row></table></section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C5/02</classification-symbol><definition-title>Additives for beer</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Additives for beer.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preserving agents for beer</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12H1/14</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">This group is considered as relating to the addition of additives to finished beer only.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">C12C5/023</classification-symbol><definition-title>{enhancing the vitamin content}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Beer additives used for enhancing the vitamin content.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Adding vitamins to foods</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A23L33/15</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">This group covers also any vitamin containing material in so far as the purpose of its addition is indicated to be vitamin enrichment of beer.</paragraph-text><paragraph-text type="body">This group is considered as relating to the addition of (vitamin containing) additives to finished beer only.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C5/026</classification-symbol><definition-title>{Beer flavouring preparations}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Beer additives used for flavouring purposes.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Hops</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C3/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Hop surrogates</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C5/008</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Flavouring additives for non-alcoholic beverages</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A23L2/56</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">This group is considered as relating to the addition of flavouring additives to finished beer only.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C5/04</classification-symbol><definition-title>Colouring additives</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Beer additives used for colouring purposes.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Black malt or other colouring malts</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C1/18</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">This group is considered as relating to the addition of colouring additives to finished beer only.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">C12C7/00</classification-symbol><definition-title>Preparation of wort  (malt extract <class-ref scheme="cpc">C12C1/18</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for preparing wort in a beer brewing process.</paragraph-text><paragraph-text type="body">Methods or apparatus for preparing wort in processes other than beer brewing, e.g. production of industrial alcohol from cereals, in so far as significant similarities with the usual beer brewing methods or apparatus and/or no classes that are more relevant exist.</paragraph-text></section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body><paragraph-text type="body">Wort preparation is also common in the industrial / non-beverage preparation of alcohol and is covered by <class-ref scheme="cpc">C12P7/06</class-ref>.</paragraph-text></section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Malt extract</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C1/18</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">Until further notice, wort preparation in processes other than beer brewing is also covered, in so far as it is considered that significant similarities with the usual beer brewing methods or apparatus and/or no better classes for covering the subject-matter exist.</paragraph-text></section-body>
+    </special-rules><synonyms-keywords><section-title>Synonyms and Keywords</section-title><special-meanings><paragraph-text type="preamble">In patent documents, the following words/expressions are often used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">&quot; Wort &quot;</paragraph-text></table-column><table-column><paragraph-text type="body">&quot; beerwort &quot;.</paragraph-text></table-column></table-row></table></special-meanings></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/01</classification-symbol><definition-title>Pretreatment of malt, e.g. malt grinding</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for pre-treating malt, e.g. malt grinding used for preparing wort in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparation of grain for milling in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B02B</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Milling grain in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B02C</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/04</classification-symbol><definition-title>Preparation or treatment of the mash</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for preparing or treating mash in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body><paragraph-text type="body">Mash preparation is also common in the industrial / non-beverage preparation of alcohol and is covered by <class-ref scheme="cpc">C12P7/06</class-ref>.</paragraph-text></section-body>
+    </relationship><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">Until further notice, mash preparation in processes other than beer brewing is also covered, in so far as it is considered that significant similarities with the usual beer brewing methods or apparatus and/or no better classes for covering the subject-matter exist.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/042</classification-symbol><definition-title>{Mixing malt with water}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for mixing malt with water in the preparation of mash for beer brewing.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Steeping brewing grains</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C1/02</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/044</classification-symbol><definition-title>{Cooling the mash  (<class-ref scheme="cpc">C12C7/067</class-ref> takes precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods for cooling the mash in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Apparatus, with cooling means for cooling the mash in a beer brewing process, per se</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/067</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/047</classification-symbol><definition-title>part of the mash being unmalted cereal mash</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods for preparing or treating mash in a beer brewing process, wherein at least part of the mash is derived from unmalted cereal material.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Use of non-cereal material</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/053</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/053</classification-symbol><definition-title>part of the mash being non-cereal material</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods for preparing or treating mash in a beer brewing process, wherein at least part of the mash is derived from non-cereal material.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Use of unmalted cereal material</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/047</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/06</classification-symbol><definition-title>Mashing apparatus</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Mashing apparatus adapted for preparing and/or treating the mash in a beer brewing process.</paragraph-text><paragraph-text type="body">Until further notice, mashing apparatus adapted for processes other than beer brewing is also covered, in so far as it is considered that significant similarities with the apparatus typically used in beer brewing and/or no better classes for covering the subject-matter exist.</paragraph-text></section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body><paragraph-text type="body">Mashing apparatus are also commonly used in the industrial / non-beverage preparation of alcohol ind is covered by <class-ref scheme="cpc">C12P7/06</class-ref>.</paragraph-text></section-body>
+    </relationship></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/062</classification-symbol><definition-title>{with a horizontal stirrer shaft}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Mashing apparatus with a horizontal stirrer shaft, adapted for preparing and/or treating the mash in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/065</classification-symbol><definition-title>{with a vertical stirrer shaft}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Mashing apparatus with a vertical stirrer shaft, adapted for preparing and/or treating the mash in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/067</classification-symbol><definition-title>{with cooling means}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Mashing apparatus with cooling means, adapted for preparing and/or treating the mash in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Methods for cooling the mash in a beer brewing process</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/044</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/14</classification-symbol><definition-title>Lautering, i.e. clarifying wort</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for converting mash into wort by clarification, which relate to a beer brewing process (typically L&#228;uterung, i.e. &quot;lautering&quot;).</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2016-11-01"><classification-symbol scheme="cpc">C12C7/16</classification-symbol><definition-title>by straining</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for converting mash into wort by straining, which relate to a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><synonyms-keywords><section-title>Synonyms and Keywords</section-title><special-meanings><paragraph-text type="preamble">In patent documents, the following words/expressions are often used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">&quot; Straining &quot;</paragraph-text></table-column><table-column><paragraph-text type="body">&quot; filtering &quot;.</paragraph-text></table-column></table-row></table></special-meanings></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/161</classification-symbol><definition-title>{in a tub with a perforated false bottom}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Note: This group no longer used, see corresponding group <class-ref scheme="cpc">C12C7/17</class-ref>.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/163</classification-symbol><definition-title>{with transport of the mash by or relative to a filtering surface}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for converting mash into wort by straining, relating to a beer brewing process, with transport of the mash by or relative to a filtering surface.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/165</classification-symbol><definition-title>in mash filters</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for converting mash into wort by straining in mash filters, relating to a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Straining in lauter tuns</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/17</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/17</classification-symbol><definition-title>in lautertuns {, e.g. in a tub with perforated false bottom}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for converting mash into wort by straining in a lauter tun, relating to a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Straining in mash filters</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/165</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Lauter tun</paragraph-text></table-column><table-column><paragraph-text type="body">Tub or vessel having a false / perforated bottom for straining / filtering</paragraph-text></table-column></table-row></table></section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/175</classification-symbol><definition-title>by centrifuging</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for converting mash into wort by centrifuging, relating to a beer brewing process.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/20</classification-symbol><definition-title>Boiling the beerwort  (brew kettles <class-ref scheme="cpc">C12C13/02</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for boiling the wort in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Brewing kettles used for boiling wort</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C13/02</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/205</classification-symbol><definition-title>{Boiling with hops}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for boiling the wort with hops in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Hop extraction with wort</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C3/085</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Brewing kettles used for boiling wort</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C13/02</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/22</classification-symbol><definition-title>Processes or apparatus specially adapted to save or recover energy</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for boiling the wort with hops in a beer brewing process, which are adapted to save or recover energy.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Brewing kettles used for boiling wort in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C13/02</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">This group should be used only if saving and/or recovering energy is specifically emphasised and/or claimed.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/24</classification-symbol><definition-title>Clarifying beerwort between hop boiling and cooling</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus and methods for clarifying wort between hop boiling and cooling, relating to a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Clarification of word during or after cooling; Cooling as such</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/26</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">If the specific stage of clarification (i.e. before, during or after boiling) is not indicated, <class-ref scheme="cpc">C12C7/24</class-ref> (rather than <class-ref scheme="cpc">C12C7/26</class-ref>) is allocated.</paragraph-text><paragraph-text type="body">This rule is based on the consideration (or assumption) that the standard brewing procedure involves clarifying prior to cooling.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/26</classification-symbol><definition-title>Cooling beerwort; Clarifying beerwort during or after the cooling</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus or methods for cooling wort and/or for clarifying wort during or after the cooling, relating to a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Clarifying before cooling</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/24</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">If the specific stage of clarification (i.e. before, during or after boiling) is not indicated, <class-ref scheme="cpc">C12C7/24</class-ref> (rather than <class-ref scheme="cpc">C12C7/26</class-ref>) is allocated.</paragraph-text><paragraph-text type="body">This rule is based on the consideration (or assumption) that the standard brewing procedure involves clarifying prior to cooling.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/28</classification-symbol><definition-title>After-treatment {, e.g. sterilisation  (<class-ref scheme="cpc">C12C11/00</class-ref> takes precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for after-treatment of wort in a beer brewing process (e.g. sterilisation).</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Fermentation of wort</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C11/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Acidifying the wort</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C11/06</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">Until further notice, &quot;after-treatment&quot; is considered as covering the stages between wort boiling and fermentation. In case of doubt, &quot;after treatment of wort &quot; should be given a broad scope and considered as covering various types of treatment. When a certain treatment qualifies specifically as after-treatment of wort, the symbol should be given.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/282</classification-symbol><definition-title>{Concentration or beerwort}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for the concentration of wort in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Drying of wort</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/285</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/285</classification-symbol><definition-title>{Drying beerwort}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for drying wort in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Concentration of wort</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/282</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C7/287</classification-symbol><definition-title>{Treating beerwort with hopextract  (<class-ref scheme="cpc">C12C7/205</class-ref> takes precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for treating wort with hop extract, as after-treatment of wort in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Extraction of hops with beerwort</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C3/085</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Boiling wort with hops</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/205</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C9/00</classification-symbol><definition-title>{Methods specially adapted for the making of beerwort}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Note: This group is no longer used, see warning in header.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C9/02</classification-symbol><definition-title>{Beerwort treatment; Boiling with hops; Hop extraction}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Note: This group is no longer used, see warning in header.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C9/025</classification-symbol><definition-title>{Preparation of hop extracts  (extraction with beerwort <class-ref scheme="cpc">C12C9/02</class-ref>); Isomerisation of these extracts; Treatment of beerwort with these extracts; Surrogates of the hop}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Note: This group is no longer used, see warning in header.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C11/00</classification-symbol><definition-title>Fermentation processes for beer  (preparation of wine <class-ref scheme="cpc">C12G1/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus for fermentation in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparation of wine</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12G1/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Preparation of alcoholic beverages other than beer and wine </paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12G3/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Non-beverage alcoholic fermentation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12P7/06</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Fermentation apparatus in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12M</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C11/003</classification-symbol><definition-title>{Fermentation of beerwort}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus adapted for the fermentation of wort in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Continuous fermentation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C11/07</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Preparation of wine</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12G1/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Preparation of alcoholic beverages other than beer and wine</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12G3/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Non-beverage alcoholic fermentation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12P7/06</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Fermentation apparatus in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12M</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C11/006</classification-symbol><definition-title>{Fermentation tanks therefor}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Fermentation tanks adapted for the fermentation of wort in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Bioreactors, i.e. fermentation tanks for continuous fermentation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C11/075</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Fermentation apparatus in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12M</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C11/02</classification-symbol><definition-title>Pitching yeast</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods for pitching yeast for the fermentation of wort in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Propagating yeast</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12N1/16</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pitching and depitching machines</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12L3/00</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Pitching</paragraph-text></table-column><table-column><paragraph-text type="body">Seeding yeast to initiate/allow fermentation</paragraph-text></table-column></table-row></table></section-body>
+    </glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C11/06</classification-symbol><definition-title>Acidifying the wort</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus adapted for acidifying the wort to be fermented in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C11/07</classification-symbol><definition-title>Continuous fermentation</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus adapted for continuous fermentation in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Fermentation of beerwort in general (in particular discontinuous)</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C11/003</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Fermentation apparatus in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12M</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">This group is pertinent if the aspect of continuous fermentation is specifically emphasised and/or claimed.</paragraph-text><paragraph-text type="body">This group takes precedence over <class-ref scheme="cpc">C12C11/003</class-ref>.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C11/075</classification-symbol><definition-title>{Bioreactors for continuous fermentation}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Bioreactors adapted for continuous fermentation in a beer brewing process.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Fermentation tanks in general (in particular for discontinuous fermentation)</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C11/006</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Fermentation apparatus in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12M</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">This group is pertinent if the aspect of continuous fermentation is specifically emphasised and/or claimed.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C11/09</classification-symbol><definition-title>Fermentation with immobilised yeast</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus adapted for fermentation in a beer brewing process, wherein immobilised yeast is used.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Continuous fermentation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C11/07</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Fermentation apparatus in general</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12M</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2019-02-01"><classification-symbol scheme="cpc">C12C11/11</classification-symbol><definition-title>Post fermentation treatments, e.g. carbonation, or concentration  (methods for reducing the alcohol content after fermentation <class-ref scheme="cpc">C12H3/00</class-ref>; methods for increasing the alcohol content after fermentation <class-ref scheme="cpc">C12H6/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus adapted for post fermentation treatment of fermented wort (i.e. beer), such as carbonation or concentration.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Methods for reducing the alcohol content after fermentation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12H3/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Methods for increasing the alcohol content after fermentation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12H6/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references><section-title>Informative references</section-title><section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">After-treatment of unfermented wort</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/28</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Containers with means specially adapted for effervescing potable liquids</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">B65D85/73</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Pasteurisation, sterilisation, preservation, purification, clarification, ageing of finished alcoholic beverages, e.g. beer</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12H</class-ref></paragraph-text></table-column></table-row></table></section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C12/00</classification-symbol><definition-title>Processes specially adapted for making special kinds of beer</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus specially adapted for making special kinds of beer.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparation of special malt products</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C1/18</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Use of hop surrogates</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C5/008</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Beer flavouring preparations</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C5/026</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">The designation of beer as &quot;special&quot; inevitably involves some degree of subjectivity. This group should only be given for beer which significantly differs from standard beer and/or is emphasised/claimed as having specific particular qualities.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">C12C12/002</classification-symbol><definition-title>{using special microorganisms}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus specially adapted for making special kinds of beer using special microorganisms , i.e. any non-standard microorganism which does not fall within the subgroups <class-ref scheme="cpc">C12C12/004</class-ref>,<class-ref scheme="cpc">C12C12/006</class-ref> and <class-ref scheme="cpc">C12C12/008</class-ref>, e.g. moulds such a (non-GMO) Aspergillus strains, strains of bacteria such as Acetobacter that are non-GMO and which do not belong to lactic acid bacteria</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparation of alcoholic beverages other than beer and wine</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12G3/02</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">C12C12/004</classification-symbol><definition-title>{Genetically modified microorganisms}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus specially adapted for making special kinds of beer using genetically modified (e.g. recombinant) microorganisms, e.g. genetically modified microbes</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparation of alcoholic beverages other than beer and wine</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12G3/02</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">The specific method for genetic modification is not relevant, a broad interpretation should be given.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C12/006</classification-symbol><definition-title>{Yeasts  (processes for seeding <class-ref scheme="cpc">C12C11/02</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus specially adapted for making special kinds of beer using special yeasts, i.e. not standard or pitching yeast, e.g. yeast having magnetic particles adsorbed onto the cell surface, yeast attenuated by UV radiation, yeast isolated form soil of a vocanic area, genetically modified yeast, yeast with increased enzyme activity such as to produce a high amount of volatile flavour compounds</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Fermentation using standard yeast</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C11/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Fermentation using pitching yeast</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C11/02</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparation of alcoholic beverages other than beer and wine</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12G3/02</class-ref></paragraph-text></table-column></table-row></table></section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body><paragraph-text type="body">This symbol should be given if the character of the yeast used for fermentation is emphasised or claimed as being special.</paragraph-text></section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C12/008</classification-symbol><definition-title>{Lactic acid bacteria}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus specially adapted for making special kinds of beer using lactic acid bacteria.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C12/02</classification-symbol><definition-title>Beer with low calorie content  (<class-ref scheme="cpc">C12C12/04</class-ref> takes precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus adapted for preparing beer with low calorie content.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Preparation of beer with low alcohol content</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C12/04</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item date-revised="2019-02-01"><classification-symbol scheme="cpc">C12C12/04</classification-symbol><definition-title>Beer with low alcohol content  (methods for reducing the alcohol content after fermentation <class-ref scheme="cpc">C12H3/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Methods or apparatus adapted for preparing beer with low alcohol content.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Methods for reducing the alcohol content after fermentation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12H3/00</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references><informative-references><section-title>Informative references</section-title><section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Non-alcoholic beverages</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">A23L2/00</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">Preparation of low alcoholic beverages other than wine and beer by fermentation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12G3/025</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body"> Reducing the alcohol content of alcoholic beverages other than wine and beer prepared by fermentation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12G3/08</class-ref></paragraph-text></table-column></table-row></table></section-body></informative-references></references></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">C12C13/00</classification-symbol><definition-title>Brewing devices, not covered by a single group of <class-ref scheme="cpc">C12C1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">C12C12/04</class-ref></definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus or devices for beer brewing, the classification of which is not completely covered by a single group of <class-ref scheme="cpc">C12C1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">C12C12/04</class-ref>.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C13/02</classification-symbol><definition-title>Brew kettles {(<class-ref scheme="cpc">C12C11/075</class-ref> takes precedence)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Brew kettles for use in beer brewing.</paragraph-text></section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Apparatus adapted for saving or recovering energy during the boiling of wort with hops</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C7/22</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body"> Fermentation tanks for fermenting wort</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C11/006</class-ref></paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body"> Bioreactors for continuous wort fermentation</paragraph-text></table-column><table-column><paragraph-text type="body"><class-ref scheme="cpc">C12C11/075</class-ref></paragraph-text></table-column></table-row></table></section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C13/025</classification-symbol><definition-title>{heated with steam}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Brew kettles for use in beer brewing which are heated with steam.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C13/06</classification-symbol><definition-title>heated with fire</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Brew kettles for use in beer brewing which are heated with fire.</paragraph-text><paragraph-text type="body">Note: This technology is no longer in use, mainly very old documents are classified in this group.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">C12C13/08</classification-symbol><definition-title>with internal heating elements</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Brew kettles for use in beer brewing comprising internal heating elements.</paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">C12C13/10</classification-symbol><definition-title>Home brew equipment</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Equipment for brewing beer on a domestic (or small) scale. Microbrewing equipment.</paragraph-text></section-body>
+    </definition-statement><glossary-of-terms>
+      <section-title>Glossary of terms</section-title>
+      <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">Home brewing, Microbrewing</paragraph-text></table-column><table-column><paragraph-text type="body">Brewing beer on a small scale, e.g. at home or in restaurants or pubs.</paragraph-text></table-column></table-row></table></section-body>
+    </glossary-of-terms></definition-item></definitions>

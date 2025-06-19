@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">E21D</classification-symbol><definition-title>SHAFTS; TUNNELS; GALLERIES; LARGE UNDERGROUND CHAMBERS  (soil-conditioning or soil-stabilising materials <class-ref scheme="cpc">C09K17/00</class-ref>; drilling or cutting machines for mining or quarrying <class-ref scheme="cpc">E21C</class-ref>; safety devices, transport, rescue, ventilation or drainage <class-ref scheme="cpc">E21F</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods or apparatus for making or lining tunnels, galleries or large underground chambers, using underground mining methods only, i.e. not involving disturbance of the ground surface.</paragraph-text>
+        <paragraph-text type="body">Techniques and tools for stabilising such underground constructions against the pressure of the surrounding soil or rock.</paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Soil conditioning or soil stabilising materials</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">C09K17/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Underground spaces made by foundation engineering, i.e. involving disturbance of the ground surface.</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E02D</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Deep drilling</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21B</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Drilling or cutting machines for mining or quarrying</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21C</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Safety devices, transport, rescue, ventilation or drainage</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21F</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D1/00</classification-symbol><definition-title>Sinking shafts</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Vertical excavation of shafts from the surface and removal of cuttings:</paragraph-text>
+        <paragraph-text type="body"><media id="media0.jpg" file-name="cpc-def-E21D-0000.jpg" type="jpeg" preferred-width="5.0cm" preferred-height="5.5cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Shafts can also be used as a starting point for the excavation of tunnels or for the excavation of galleries or horizontal bores for the production of hydrocarbons. Only the specific technical details disclosed relative to each part of the operative sequence should be classified in the corresponding groups.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D3/00</classification-symbol><definition-title>Raising shafts, i.e. working upwards from the bottom</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Shafts starting from a gallery at a lower level, and which can be made by a single boring machine of by drilling multiple boreholes:</paragraph-text>
+        <paragraph-text type="body"><media id="media1.jpg" file-name="cpc-def-E21D-0001.jpg" type="jpeg" preferred-width="5.0cm" preferred-height="7.62cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Making drillholes for rock anchors</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21D20/003</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D5/00</classification-symbol><definition-title>Lining shafts; Linings therefor  (<class-ref scheme="cpc">E21D11/00</class-ref> takes precedence{; sinking with simultaneous lowering of the lining <class-ref scheme="cpc">E21D1/08</class-ref>})</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods, materials and apparatuses for lining a shaft, regardless of the method of excavation:</paragraph-text>
+        <paragraph-text type="body"><media id="media2.png" file-name="cpc-def-E21D-0002.png" type="png" preferred-width="5.0cm" preferred-height="7.21cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Sinking with simultaneous lowering of the lining</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21D1/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Lining tunnels or galleries</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21D11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D7/00</classification-symbol><definition-title>Shaft equipment, e.g. timbering within the shaft {(lifts in hoistways or mines <class-ref scheme="cpc">B66B15/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">B66B19/00</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Equipment installed permanently or removably in the shaft other than excavating or lining equipment</paragraph-text>
+        <paragraph-text><media id="media17.png" file-name="cpc-def-E21D-0017.png" type="png" preferred-width="4cm" preferred-height="6cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Lifts in hoistways or mines</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B66B15/00</class-ref> - <class-ref scheme="cpc">B66B19/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D8/00</classification-symbol><definition-title>Shafts not provided for in groups <class-ref scheme="cpc">E21D1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">E21D7/00</class-ref></definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Shafts characterised by features other than the excavation form or the lining installed, such as by a particular layout:</paragraph-text>
+        <paragraph-text type="body"><media id="media18.png" file-name="cpc-def-E21D-0018.png" type="png" preferred-width="9cm" preferred-height="6cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D9/00</classification-symbol><definition-title>Tunnels or galleries, with or without linings; Methods or apparatus for making thereof  (<class-ref scheme="cpc">E02D29/045</class-ref>, <class-ref scheme="cpc">E02D29/063</class-ref> take precedence; linings per se <class-ref scheme="cpc">E21D11/00</class-ref>); Layout of tunnels or galleries</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods or apparatus for excavating tunnels. This includes the stabilisation of the soil prior to the excavation, and the constructive details of the tunnel boring machines:</paragraph-text>
+        <paragraph-text type="body"><media id="media19.png" file-name="cpc-def-E21D-0019.png" type="png" preferred-width="6cm" preferred-height="4cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Tunnel linings per se</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21D11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Tunnels or galleries, built in the open air or by methods involving disturbance of the ground surface all along the location line</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E02D29/045</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Tunnels submerged into, or built in, open water</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E02D29/063</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Laying of pipes by horizontal earth drilling techniques</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21B7/046</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D9/06</classification-symbol><definition-title>Making by using a driving shield{, i.e. advanced by pushing means bearing against the already placed lining  (pushing prefabricated elements through the ground from an access pit <class-ref scheme="cpc">E21D9/005</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Making by using a driving shield, i.e. advanced by pushing means bearing against the already placed lining; Tunnel boring machines featuring driving shields with a cutting action or for protection against collapse of the tunnel:</paragraph-text>
+        <paragraph-text type="body"><media id="media6.jpg" file-name="cpc-def-E21D-0006.jpg" type="jpeg" preferred-width="5.0cm" preferred-height="2.27cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D9/10</classification-symbol><definition-title>Making by using boring or cutting machines  (<class-ref scheme="cpc">E21D9/08</class-ref> takes precedence; mining picks <class-ref scheme="cpc">E21C35/18</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Tunnel boring machines for which no driving shield is mentioned:</paragraph-text>
+        <paragraph-text type="body"><media id="media7.jpg" file-name="cpc-def-E21D-0007.jpg" type="jpeg" preferred-width="5.0cm" preferred-height="8.28cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D11/00</classification-symbol><definition-title>Lining tunnels, galleries or other underground cavities, e.g. large underground chambers; Linings therefor; Making such linings in situ, e.g. by assembling  (<class-ref scheme="cpc">E21D15/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">E21D23/00</class-ref> take precedence; specially for shafts <class-ref scheme="cpc">E21D5/00</class-ref>; {driving shields in combination with means for lining the tunnel <class-ref scheme="cpc">E21D9/06</class-ref>}; lining pressure water galleries, linings therefor <class-ref scheme="cpc">E02B9/06</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Materials, methods and machines for lining the surface of an excavated tunnel:</paragraph-text>
+        <paragraph-text type="body"><media id="media20.png" file-name="cpc-def-E21D-0020.png" type="png" preferred-width="6cm" preferred-height="4cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><relationship>
+      <section-title>Relationships with other classification places</section-title>
+      <section-body>
+        <paragraph-text type="body"><class-ref scheme="cpc">E21D9/06</class-ref> has several subgroups relative to a combination of driving shield and devices for lining the tunnel. The specific details of the lining operation are also classified in the corresponding subgroup under <class-ref scheme="cpc">E21D11/00</class-ref>.</paragraph-text>
+      </section-body>
+    </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Linings specially for shafts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21D5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Setting anchoring bolts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21D20/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Anchoring bolts</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21D21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Driving shields in combination with means for lining the tunnel</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21D9/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Lining pressure water galleries, linings therefor</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E02B9/06</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Documents mentioning aspects of lining, but focussing on the details covered by groups <class-ref scheme="cpc">E21D15/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">E21D23/00</class-ref> are classified only in those groups.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D13/00</classification-symbol><definition-title>Large underground chambers; Methods or apparatus for making them  (lining <class-ref scheme="cpc">E21D11/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Underground chambers having a three-dimensional volume, in contrast with vertical linear cavities (shafts) or with horizontal linear cavities (tunnels)</paragraph-text>
+        <paragraph-text type="body"><media id="media21.png" file-name="cpc-def-E21D-0021.png" type="png" preferred-width="4cm" preferred-height="6cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Linings per se</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21D11/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="8.46cm">
+              <paragraph-text type="body">Modification of passages or chambers for storage purposes</paragraph-text>
+            </table-column>
+            <table-column preferred-width="8.92cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21F17/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.5cm">
+              <paragraph-text type="body">Storing fluids in natural or artificial cavities or chambers in the earth</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.88cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B65G5/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.5cm">
+              <paragraph-text type="body">Modification of mine passages or chambers for storage purposes, especially for liquids or gases </paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.88cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21F17/16</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D15/00</classification-symbol><definition-title>Props  (in the building art <class-ref scheme="cpc">E04G25/00</class-ref>); Chocks{, e.g. made of flexible containers filled with backfilling material}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Props: elongated supports to prop the roof of tunnels or galleries.</paragraph-text>
+        <paragraph-text type="body"><media id="media10.jpg" file-name="cpc-def-E21D-0010.jpg" type="jpeg" preferred-width="5.0cm" preferred-height="4.82cm"/></paragraph-text>
+        <paragraph-text type="body">Chocks: roof support formed by fillable bags or stapled cribs:</paragraph-text>
+        <paragraph-text type="body"><media id="media11.jpg" file-name="cpc-def-E21D-0011.jpg" type="jpeg" preferred-width="5.58cm" preferred-height="3.33cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Props in the building art</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04G25/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references></references><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Props forming part of supports for step-by-step movement are classified in <class-ref scheme="cpc">E21D23/00</class-ref>. If one such prop contains specific details not covered by <class-ref scheme="cpc">E21D23/00</class-ref>, then it should also be classified in <class-ref scheme="cpc">E21D15/00</class-ref>.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D17/00</classification-symbol><definition-title>Caps for supporting mine roofs</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">A cap is understood as the roof or top piece in a three-piece , support or beam set used for tunnel support. A piece of plank, timber, support or beam placed on top of a prop, stull, or post. The horizontal member of a set of timber, support or beam used as a roadway support:</paragraph-text>
+        <paragraph-text type="body"><media id="media12.jpg" file-name="cpc-def-E21D-0012.jpg" type="jpeg" preferred-width="5.0cm" preferred-height="3.76cm"/></paragraph-text>
+      </section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D19/00</classification-symbol><definition-title>Provisional protective covers for working space  (<class-ref scheme="cpc">E21D9/06</class-ref>, <class-ref scheme="cpc">E21D23/00</class-ref> take precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Means for protecting a work area from rocks falling from the roof or tunnels other than the final lining. This temporary roof support can be in the form of movable shields, caps or covers, of mobile or temporary roof supports, or of linings fixed to the walls and intended to be supplemented by additional lining at a subsequent stage:</paragraph-text>
+        <paragraph-text type="body"><media id="media13.jpg" file-name="cpc-def-E21D-0013.jpg" type="jpeg" preferred-width="5.0cm" preferred-height="3.73cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><special-rules>
+      <section-title>Special rules of classification</section-title>
+      <section-body>
+        <paragraph-text type="body">Documents mentioning aspects of provisional support by way of a driving shield for tunnels, or of mine roof supports for step-by-step movement, are classified instead in <class-ref scheme="cpc">E21D9/06</class-ref> and in <class-ref scheme="cpc">E21D23/00</class-ref> respectively.</paragraph-text>
+      </section-body>
+    </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D20/00</classification-symbol><definition-title>Setting anchoring-bolts  (anchoring bolts for shafts, tunnels or galleries <class-ref scheme="cpc">E21D21/00</class-ref>; means for anchoring structural elements or bulkheads specially adapted to foundation engineering <class-ref scheme="cpc">E02D5/74</class-ref>; dowels or other devices fastened in walls or the like by inserting them in holes made therein for that purpose <class-ref scheme="cpc">F16B13/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Methods and machines for installing anchoring bolts or rock bolts, including machines for drilling a hole and inserting an bolt in combination. Under this main group is also classified the use of resins or mortars for fixing anchoring-bolts:</paragraph-text>
+        <paragraph-text type="body"><media id="media14.png" file-name="cpc-def-E21D-0014.png" type="png" preferred-width="7.39cm" preferred-height="5.46cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Anchoring bolts for shafts, tunnels or galleries</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21D21/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Means for anchoring structural elements or bulkheads specially adapted to foundation engineering</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E02D5/74</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Dowels or other devices fastened in walls or the like by inserting them in holes made therein for that purpose</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Removing dust</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">B23Q11/0046</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Cleaning by suction</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="not-mapped">B25D17/18</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">E21D21/00</classification-symbol><definition-title>Anchoring-bolts for roof, floor {in galleries or longwall working}, or shaft-lining protection  ({ground anchors <class-ref scheme="cpc">E02D5/80</class-ref>; anchorings for building constructions <class-ref scheme="cpc">E04B1/41</class-ref>, <class-ref scheme="cpc">E21D21/00</class-ref>}; dowels or other devices fastened in walls or the like by inserting them in holes made therein for that purpose <class-ref scheme="cpc">F16B13/00</class-ref>{; bolts with visible load <class-ref scheme="cpc">G01L1/00</class-ref>})</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Anchoring bolts, also known as rock bolts or roof bolts, characterised by their construction or by additional elements forming part of them, such as washer or anchoring heads.</paragraph-text>
+        <paragraph-text type="body"><media id="media22.png" file-name="cpc-def-E21D-0022.png" type="png" preferred-width="6cm" preferred-height="4cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Ground anchors <class-ref scheme="cpc">E02D5/80</class-ref></paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"> <class-ref scheme="cpc">E02D5/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Anchorings for building constructions</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E04B1/41</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Dowels or other devices fastened in walls or the like by inserting them in holes made therein for that purpose</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F16B13/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Bolts with visible load</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">G01L1/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body></limiting-references><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Lining anchored in the rock</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21D11/006</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item>
+<definition-item date-revised="2016-05-01"><classification-symbol scheme="cpc">E21D23/00</classification-symbol><definition-title>Mine roof supports for step- by- step movement, e.g. in combination with provisions for shifting of conveyors, mining machines, or guides therefor  ({transport of mine roof support units <class-ref scheme="cpc">E21F13/008</class-ref>; } shifting of mine conveyors at the working face <class-ref scheme="cpc">E21F13/08</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+        <paragraph-text type="body">Hydraulic jacks and frame for supporting the roof of the coal seam, as in longwall mining. A shearer cuts the coalface ahead of the support, and the support moves forward as the cutting progresses. The overburden collapses behind the support after passage of the same:</paragraph-text>
+        <paragraph-text type="body"><media id="media16.jpg" file-name="cpc-def-E21D-0016.jpg" type="jpeg" preferred-width="5.0cm" preferred-height="3.54cm"/></paragraph-text>
+      </section-body>
+    </definition-statement><references><section-title>References</section-title><informative-references>
+      <section-title>Informative references</section-title>
+      <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+        <table>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Props</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21D15/00</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Coal ploughs</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21C27/34</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Guiding a mining machine along a conveyor for cut mineral</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21C35/12</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Transport of mine roof support units</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21F13/008</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Scraper chain conveyors</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21F13/066</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Shifting of mine conveyors at the working face</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">E21F13/08</class-ref></paragraph-text>
+            </table-column>
+          </table-row>
+<table-row>
+            <table-column preferred-width="10.75cm">
+              <paragraph-text type="body">Details of hydraulic circuits</paragraph-text>
+            </table-column>
+            <table-column preferred-width="6.64cm">
+              <paragraph-text type="body"><class-ref scheme="cpc">F15B</class-ref></paragraph-text>
+            </table-column>
+          </table-row></table>
+      </section-body>
+    </informative-references></references></definition-item></definitions>

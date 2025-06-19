@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2016-11-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B27J</classification-symbol><definition-title>MECHANICAL WORKING OF CANE, CORK, OR SIMILAR MATERIALS</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Mechanical working of cane or similar materials and cork or similar materials (examples of similar materials to cane are flexible, woody stalks such as bamboo, wicker, rattan; examples of similar materials to cork might include some plastics) where it is the cane that is the product (sugar cane crushers for sugar juice <class-ref scheme="not-mapped">C10B13/06</class-ref>)</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27J3/00</classification-symbol><definition-title>Peeling osier rods  (removing bark from trunks of trees <class-ref scheme="cpc">B27L1/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Machine for removing the bark from an osier by scraping or rubbing.</paragraph-text>
+            <paragraph-text>An &quot;osier&quot; comprises a branch or &quot;slender trunk&quot; or twig of any of several willow trees (or trees related to the willow) and in particular long rodlike willow twigs for use in basketry or basket making.</paragraph-text>
+            <paragraph-text>The product of this subclass is commonly used in basket making.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B27J7/00</classification-symbol><definition-title>Mechanical working of tree or plant materials not otherwise provided for</definition-title><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+               <table-row>
+                  <table-column>
+                     <paragraph-text type="body">Plant</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">Any of a kingdom (Plantae) of multicellular eukaryotic mostly photosynthetic organisms typically lacking locomotive movement or obvious nervous or sensory organs and possessing cellulose cell walls</paragraph-text>
+                  </table-column>
+               </table-row>
+            </table>
+         </section-body>
+      </glossary-of-terms></definition-item></definitions>

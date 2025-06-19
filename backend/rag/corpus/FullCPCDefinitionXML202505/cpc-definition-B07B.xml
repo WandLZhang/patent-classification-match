@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2021-01-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">B07B</classification-symbol><definition-title>SEPARATING SOLIDS FROM SOLIDS BY SIEVING, SCREENING, SIFTING OR BY USING GAS CURRENTS; SEPARATING BY OTHER DRY METHODS APPLICABLE TO BULK MATERIAL, e.g. LOOSE ARTICLES FIT TO BE HANDLED LIKE BULK MATERIAL  (wet separating processes, sorting by processes using fluent material in the same way as liquid <class-ref scheme="cpc">B03</class-ref>; combinations of dry separating apparatus with wet separating apparatus <class-ref scheme="cpc">B03B</class-ref>; using liquids <class-ref scheme="cpc">B03B</class-ref>, <class-ref scheme="cpc">B03D</class-ref>; sorting by magnetic or electrostatic separation of solid materials from solid materials or fluids, separation by high voltage electric fields <class-ref scheme="cpc">B03C</class-ref>; centrifuges or vortex apparatus for carrying out physical processes <class-ref scheme="cpc">B04</class-ref>; hand sorting, postal sorting, sorting by switching or other devices actuated in response to detection or measurement of some feature of articles or samples of material <class-ref scheme="cpc">B07C</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Apparatus or methods for the separation of solids from solids that include:</paragraph-text><list><list-item><paragraph-text type="body">Any sorting or grading of bulk material or loose articles fit to be handled like bulk material which results automatically from the construction of the apparatus and properties of the material or articles, e.g. by a trap opening under an object of a certain minimum weight, by an aperture of graduated size.</paragraph-text></list-item><list-item><paragraph-text type="body">Sorting of articles in so far as the same conditions apply, e.g. sorting of timber by passing it over successively longer openings; the articles may or may not be orientated for the purpose of sorting.</paragraph-text></list-item><list-item><paragraph-text type="body">Sieving, screening, sifting or sorting solid materials using networks, gratings, grids or the like.</paragraph-text></list-item><list-item><paragraph-text type="body">Separating solids from solids that are initially a mixture using apparatus or methods that subject the mixture to a gas current, dispenses the mixture within a gas, carries the mixture on a gas current while it is being separated, or uses a gas current on it to cause separation, including combinations of disparate types of apparatus utilizing gas currents in the separation of solids from solids.</paragraph-text></list-item><list-item><paragraph-text type="body">Other types of apparatus for directly controlled dry method grading or sorting of solid materials in a bulk form or of loose articles that are being handled like solid type bulk material, e.g. grading according to size or weight or using momentum effects.</paragraph-text></list-item><list-item><paragraph-text type="body">Constructional features of screens per se, or screens and their driving mechanisms, which are used in dry or wet separating methods.</paragraph-text></list-item><list-item><paragraph-text type="body">Combinations of disparate types of apparatus or methods for separating solids from solids that applicable to bulk material or to loose articles fit to be handled like bulk material.</paragraph-text></list-item><list-item><paragraph-text type="body">Accessories that are specially adapted for, or arranged in conjunction with, the above types of separating, sorting or grading of bulk material or articles.</paragraph-text></list-item></list></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/005</classification-symbol><definition-title>{Transportable screening plants}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">WO-A1-96/25245</paragraph-text><paragraph-text type="body"><media id="media0.png" file-name="cpc-def-B07B-0000.png" type="png" preferred-width="8.11cm" preferred-height="5.38cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/02</classification-symbol><definition-title>Hand screens</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">LU-A2-91105</paragraph-text><paragraph-text type="body"><media id="media1.png" file-name="cpc-def-B07B-0001.png" type="png" preferred-width="6.75cm" preferred-height="6.52cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/04</classification-symbol><definition-title>Stationary flat screens</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A1-2003/0080031</paragraph-text><paragraph-text type="body"><media id="media2.png" file-name="cpc-def-B07B-0002.png" type="png" preferred-width="8.36cm" preferred-height="6.46cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/06</classification-symbol><definition-title>Cone or disc shaped screens</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">GB-A-2307428</paragraph-text><paragraph-text type="body"><media id="media3.png" file-name="cpc-def-B07B-0003.png" type="png" preferred-width="4.3cm" preferred-height="4.95cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/08</classification-symbol><definition-title>Screens rotating within their own plane</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">EP-A1-0411803</paragraph-text><paragraph-text type="body"><media id="media4.png" file-name="cpc-def-B07B-0004.png" type="png" preferred-width="7.77cm" preferred-height="6.58cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/10</classification-symbol><definition-title>Screens in the form of endless moving bands</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-5887729</paragraph-text><paragraph-text type="body"><media id="media5.png" file-name="cpc-def-B07B-0005.png" type="png" preferred-width="6.24cm" preferred-height="5.5cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/12</classification-symbol><definition-title>Apparatus having only parallel elements</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-B1-7861867</paragraph-text><paragraph-text type="body"><media id="media6.png" file-name="cpc-def-B07B-0006.png" type="png" preferred-width="8.36cm" preferred-height="6.37cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/14</classification-symbol><definition-title>Roller screens</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-B1-7117996</paragraph-text><paragraph-text type="body"><media id="media7.png" file-name="cpc-def-B07B-0007.png" type="png" preferred-width="8.7cm" preferred-height="4.8cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/15</classification-symbol><definition-title>using corrugated, grooved or ribbed rollers</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">EP-A1-2248602</paragraph-text><paragraph-text type="body"><media id="media8.png" file-name="cpc-def-B07B-0008.png" type="png" preferred-width="5.4cm" preferred-height="5.1cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/16</classification-symbol><definition-title>the elements being movable and in other than roller form</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US3971716 A</paragraph-text><paragraph-text type="body"><media id="media9.jpg" file-name="cpc-def-B07B-0009.jpg" type="jpeg" preferred-width="8.68cm" preferred-height="6.03cm"/></paragraph-text><paragraph-text type="body">GB326834 A</paragraph-text><paragraph-text type="body"><media id="media10.jpg" file-name="cpc-def-B07B-0010.jpg" type="jpeg" preferred-width="6.57cm" preferred-height="6.14cm"/></paragraph-text><paragraph-text type="body">US5392931 A</paragraph-text><paragraph-text type="body"><media id="media11.jpg" file-name="cpc-def-B07B-0011.jpg" type="jpeg" preferred-width="6.56cm" preferred-height="5.75cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/20</classification-symbol><definition-title>Stationary drums with moving interior agitators</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">FR-A-2686273</paragraph-text><paragraph-text type="body"><media id="media12.png" file-name="cpc-def-B07B-0012.png" type="png" preferred-width="4.89cm" preferred-height="4.49cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/22</classification-symbol><definition-title>Revolving drums</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">GB-A-536054</paragraph-text><paragraph-text type="body"><media id="media13.png" file-name="cpc-def-B07B-0013.png" type="png" preferred-width="5.06cm" preferred-height="4.76cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/24</classification-symbol><definition-title>with fixed or moving interior agitators</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">FR-A-2568492</paragraph-text><paragraph-text type="body"><media id="media14.png" file-name="cpc-def-B07B-0014.png" type="png" preferred-width="5.91cm" preferred-height="2.46cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/26</classification-symbol><definition-title>with additional axial or radial movement of the drum</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">WO-A1-84/04473</paragraph-text><paragraph-text type="body"><media id="media15.png" file-name="cpc-def-B07B-0015.png" type="png" preferred-width="5.4cm" preferred-height="4.32cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/282</classification-symbol><definition-title>{their jigging movement being a closed or open curvilinear path in a plane perpendicular to the plane of the screen and parrallel or transverse to the direction of conveyance}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-2258789</paragraph-text><paragraph-text type="body"><media id="media16.png" file-name="cpc-def-B07B-0016.png" type="png" preferred-width="5.74cm" preferred-height="3.62cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/284</classification-symbol><definition-title>{with unbalanced weights}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-B-1176979</paragraph-text><paragraph-text type="body"><media id="media17.png" file-name="cpc-def-B07B-0017.png" type="png" preferred-width="6.33cm" preferred-height="4.87cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/286</classification-symbol><definition-title>{with excentric shafts}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-C-948574</paragraph-text><paragraph-text type="body"><media id="media18.png" file-name="cpc-def-B07B-0018.png" type="png" preferred-width="7.6cm" preferred-height="3.41cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/30</classification-symbol><definition-title>jigging or moving to-and-fro {within their own plane} in or approximately in {or transverse to} the direction of conveyance</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-A1-4039934</paragraph-text><paragraph-text type="body"><media id="media19.png" file-name="cpc-def-B07B-0019.png" type="png" preferred-width="7.94cm" preferred-height="5.25cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/34</classification-symbol><definition-title>jigging or moving to-and-fro perpendicularly or approximately perpendiculary to the plane of the screen</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">EP-A2-0212378</paragraph-text><paragraph-text type="body"><media id="media20.png" file-name="cpc-def-B07B-0020.png" type="png" preferred-width="6.16cm" preferred-height="4.45cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/343</classification-symbol><definition-title>{with mechanical drive elements other than electromagnets}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-E-RE16701</paragraph-text><paragraph-text type="body"><media id="media21.png" file-name="cpc-def-B07B-0021.png" type="png" preferred-width="5.23cm" preferred-height="5.61cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/346</classification-symbol><definition-title>{with electromagnets}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-A1-2120244</paragraph-text><paragraph-text type="body"><media id="media22.png" file-name="cpc-def-B07B-0022.png" type="png" preferred-width="3.53cm" preferred-height="5.46cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/36</classification-symbol><definition-title>jigging or moving to-and-fro in more than one direction</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">WO-A1-03/024626</paragraph-text><paragraph-text type="body"><media id="media23.png" file-name="cpc-def-B07B-0023.png" type="png" preferred-width="3.28cm" preferred-height="3.96cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/38</classification-symbol><definition-title>oscillating in a circular arc in their own plane; Plansifters</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-C-74002</paragraph-text><paragraph-text type="body"><media id="media24.png" file-name="cpc-def-B07B-0024.png" type="png" preferred-width="5.14cm" preferred-height="4.13cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/40</classification-symbol><definition-title>Resonant vibration screens</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-C1-10054089</paragraph-text><paragraph-text type="body"><media id="media25.png" file-name="cpc-def-B07B-0025.png" type="png" preferred-width="6.75cm" preferred-height="4.34cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/42</classification-symbol><definition-title>Drive mechanisms, regulating or controlling devices, or balancing devices, specially adapted for screens</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">GB-A-2123520</paragraph-text><paragraph-text type="body"><media id="media26.png" file-name="cpc-def-B07B-0026.png" type="png" preferred-width="8.02cm" preferred-height="5.0cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/44</classification-symbol><definition-title>Balancing devices</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-C-641512</paragraph-text><paragraph-text type="body"><media id="media27.png" file-name="cpc-def-B07B-0027.png" type="png" preferred-width="5.48cm" preferred-height="3.01cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/4609</classification-symbol><definition-title>{constructional details of screening surfaces or meshes}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-B-1022448</paragraph-text><paragraph-text type="body"><media id="media28.png" file-name="cpc-def-B07B-0028.png" type="png" preferred-width="6.67cm" preferred-height="3.66cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/4618</classification-symbol><definition-title>{Manufacturing of screening surfaces}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-4396503</paragraph-text><paragraph-text type="body"><media id="media29.png" file-name="cpc-def-B07B-0029.png" type="png" preferred-width="2.86cm" preferred-height="3.92cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/4627</classification-symbol><definition-title>{Repairing of screening surfaces}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">WO-A-92/00133</paragraph-text><paragraph-text type="body"><media id="media30.png" file-name="cpc-def-B07B-0030.png" type="png" preferred-width="5.74cm" preferred-height="4.49cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/4636</classification-symbol><definition-title>{Regulation of screen apertures}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">FR-A-1140961</paragraph-text><paragraph-text type="body"><media id="media31.png" file-name="cpc-def-B07B-0031.png" type="png" preferred-width="5.99cm" preferred-height="1.5cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/4645</classification-symbol><definition-title>{Screening surfaces built up of modular elements}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">WO-A1-03/066243</paragraph-text><paragraph-text type="body"><media id="media32.png" file-name="cpc-def-B07B-0032.png" type="png" preferred-width="5.99cm" preferred-height="4.42cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/4654</classification-symbol><definition-title>{Corrugated Screening surfaces}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-B1-6340089</paragraph-text><paragraph-text type="body"><media id="media33.png" file-name="cpc-def-B07B-0033.png" type="png" preferred-width="7.34cm" preferred-height="3.68cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/4663</classification-symbol><definition-title>{Multi-layer screening surfaces}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A1-2004/0102117</paragraph-text><paragraph-text type="body"><media id="media34.png" file-name="cpc-def-B07B-0034.png" type="png" preferred-width="8.45cm" preferred-height="5.46cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/4672</classification-symbol><definition-title>{Woven meshes}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-U1-29501985</paragraph-text><paragraph-text type="body"><media id="media35.png" file-name="cpc-def-B07B-0035.png" type="png" preferred-width="3.62cm" preferred-height="4.21cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/4681</classification-symbol><definition-title>{Meshes of intersecting, non-woven, elements}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">FR-A1-2880289</paragraph-text><paragraph-text type="body"><media id="media36.png" file-name="cpc-def-B07B-0036.png" type="png" preferred-width="5.65cm" preferred-height="5.25cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/469</classification-symbol><definition-title>{Perforated sheet-like material}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-U1-20018385</paragraph-text><paragraph-text type="body"><media id="media37.png" file-name="cpc-def-B07B-0037.png" type="png" preferred-width="3.2cm" preferred-height="4.38cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/48</classification-symbol><definition-title>Stretching devices for screens</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-5221008</paragraph-text><paragraph-text type="body"><media id="media38.png" file-name="cpc-def-B07B-0038.png" type="png" preferred-width="7.6cm" preferred-height="2.77cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/485</classification-symbol><definition-title>{Devices for alternately stretching and sagging screening surfaces}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-A1-3411719</paragraph-text><paragraph-text type="body"><media id="media39.png" file-name="cpc-def-B07B-0039.png" type="png" preferred-width="5.65cm" preferred-height="3.81cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/49</classification-symbol><definition-title>stretching more than one screen or screen section by the same or different stretching means</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-C-608376</paragraph-text><paragraph-text type="body"><media id="media40.png" file-name="cpc-def-B07B-0040.png" type="png" preferred-width="5.65cm" preferred-height="5.27cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/522</classification-symbol><definition-title>{with brushes}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">FR-A-1059722</paragraph-text><paragraph-text type="body"><media id="media41.png" file-name="cpc-def-B07B-0041.png" type="png" preferred-width="7.01cm" preferred-height="3.22cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/524</classification-symbol><definition-title>{the brushes being rotating}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-U1-20214115</paragraph-text><paragraph-text type="body"><media id="media42.png" file-name="cpc-def-B07B-0042.png" type="png" preferred-width="7.85cm" preferred-height="3.34cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/526</classification-symbol><definition-title>{with scrapers}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-4289614</paragraph-text><paragraph-text type="body"><media id="media43.png" file-name="cpc-def-B07B-0043.png" type="png" preferred-width="4.47cm" preferred-height="3.62cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/528</classification-symbol><definition-title>{the scrapers being rotating}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-3863765</paragraph-text><paragraph-text type="body"><media id="media44.png" file-name="cpc-def-B07B-0044.png" type="png" preferred-width="5.14cm" preferred-height="3.75cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/54</classification-symbol><definition-title>with beating devices</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-A1-2223079</paragraph-text><paragraph-text type="body"><media id="media45.png" file-name="cpc-def-B07B-0045.png" type="png" preferred-width="6.5cm" preferred-height="5.59cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/55</classification-symbol><definition-title>with fluid jets</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">GB-A-1193260</paragraph-text><paragraph-text type="body"><media id="media46.png" file-name="cpc-def-B07B-0046.png" type="png" preferred-width="4.64cm" preferred-height="3.58cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/56</classification-symbol><definition-title>Heated screens</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">FR-A1-2567776</paragraph-text><paragraph-text type="body"><media id="media47.png" file-name="cpc-def-B07B-0047.png" type="png" preferred-width="4.55cm" preferred-height="3.98cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/58</classification-symbol><definition-title>heated by heated fluid</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-C-870935</paragraph-text><paragraph-text type="body"><media id="media48.png" file-name="cpc-def-B07B-0048.png" type="png" preferred-width="4.97cm" preferred-height="3.7cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B1/62</classification-symbol><definition-title>heated by direct electric heating</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">FR-E-61502</paragraph-text><paragraph-text type="body"><media id="media49.png" file-name="cpc-def-B07B-0049.png" type="png" preferred-width="3.96cm" preferred-height="4.4cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B4/00</classification-symbol><definition-title>Separating solids from solids by subjecting their mixture to gas currents  (using tables or jigs <class-ref scheme="cpc">B03B4/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">EP-A2-1072800</paragraph-text><paragraph-text type="body"><media id="media50.png" file-name="cpc-def-B07B-0050.png" type="png" preferred-width="4.8cm" preferred-height="4.51cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B4/02</classification-symbol><definition-title>while the mixtures fall</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">WO-A1-2010/056220</paragraph-text><paragraph-text type="body"><media id="media51.png" file-name="cpc-def-B07B-0051.png" type="png" preferred-width="3.79cm" preferred-height="4.4cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B4/025</classification-symbol><definition-title>{the material being slingered or fled out horizontally before falling, e.g. by dispersing elements}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">GB-A-1526050</paragraph-text><paragraph-text type="body"><media id="media52.png" file-name="cpc-def-B07B-0052.png" type="png" preferred-width="4.89cm" preferred-height="5.02cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B4/04</classification-symbol><definition-title>in cascades</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-4568453</paragraph-text><paragraph-text type="body"><media id="media53.png" file-name="cpc-def-B07B-0053.png" type="png" preferred-width="2.01cm" preferred-height="5.21cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B4/06</classification-symbol><definition-title>using revolving drums</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-4207177</paragraph-text><paragraph-text type="body"><media id="media54.png" file-name="cpc-def-B07B-0054.png" type="png" preferred-width="7.6cm" preferred-height="4.87cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B4/08</classification-symbol><definition-title>while the mixtures are supported by sieves, screens, or like mechanical elements</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-U1-202010004167</paragraph-text><paragraph-text type="body"><media id="media55.png" file-name="cpc-def-B07B-0055.png" type="png" preferred-width="8.02cm" preferred-height="4.87cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B7/00</classification-symbol><definition-title>Selective separation of solid materials carried by, or dispersed in, gas currents  (sieves or filters for separating dispersed particles from gases or vapours <class-ref scheme="cpc">B01D</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">EP-A1-1591172</paragraph-text><paragraph-text type="body"><media id="media56.png" file-name="cpc-def-B07B-0056.png" type="png" preferred-width="3.53cm" preferred-height="3.85cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B7/01</classification-symbol><definition-title>using gravity</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-B1-6883667</paragraph-text><paragraph-text type="body"><media id="media57.png" file-name="cpc-def-B07B-0057.png" type="png" preferred-width="5.4cm" preferred-height="3.87cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B7/02</classification-symbol><definition-title>by reversal of direction of flow</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-4418871</paragraph-text><paragraph-text type="body"><media id="media58.png" file-name="cpc-def-B07B-0058.png" type="png" preferred-width="7.26cm" preferred-height="3.66cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B7/04</classification-symbol><definition-title>by impingement against baffle separators</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">WO-A1-94/16995</paragraph-text><paragraph-text type="body"><media id="media59.png" file-name="cpc-def-B07B-0059.png" type="png" preferred-width="4.55cm" preferred-height="4.55cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B7/06</classification-symbol><definition-title>by impingement against sieves</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">WO-A1-95/32811</paragraph-text><paragraph-text type="body"><media id="media60.png" file-name="cpc-def-B07B-0060.png" type="png" preferred-width="5.57cm" preferred-height="5.44cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B7/08</classification-symbol><definition-title>using centrifugal force  (centrifuges <class-ref scheme="cpc">B04B</class-ref>; cyclones <class-ref scheme="cpc">B04C</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-4159942</paragraph-text><paragraph-text type="body"><media id="media61.png" file-name="cpc-def-B07B-0061.png" type="png" preferred-width="5.57cm" preferred-height="5.46cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B7/083</classification-symbol><definition-title>generated by rotating vanes, discs, drums, or brushes</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-A1-19945646</paragraph-text><paragraph-text type="body"><media id="media62.png" file-name="cpc-def-B07B-0062.png" type="png" preferred-width="3.45cm" preferred-height="4.17cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B7/086</classification-symbol><definition-title>generated by the winding course of the gas stream</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">WO-A1-2006/126577</paragraph-text><paragraph-text type="body"><media id="media63.png" file-name="cpc-def-B07B-0063.png" type="png" preferred-width="4.8cm" preferred-height="5.19cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B7/10</classification-symbol><definition-title>having air recirculating within the apparatus</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">EP-A2-0073567</paragraph-text><paragraph-text type="body"><media id="media64.png" file-name="cpc-def-B07B-0064.png" type="png" preferred-width="3.87cm" preferred-height="3.77cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B7/12</classification-symbol><definition-title>with pulsating air currents</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-3421619</paragraph-text><paragraph-text type="body"><media id="media65.png" file-name="cpc-def-B07B-0065.png" type="png" preferred-width="4.8cm" preferred-height="5.65cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B9/00</classification-symbol><definition-title>Combinations of apparatus for screening or sifting or for separating solids from solids using gas currents; General arrangement of plant, e.g. flow sheets</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A1-2002/0175113</paragraph-text><paragraph-text type="body"><media id="media66.png" file-name="cpc-def-B07B-0066.png" type="png" preferred-width="5.99cm" preferred-height="3.56cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B9/02</classification-symbol><definition-title>Combinations of similar or different apparatus for separating solids from solids using gas currents</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">EP-A1-2206557</paragraph-text><paragraph-text type="body"><media id="media67.png" file-name="cpc-def-B07B-0067.png" type="png" preferred-width="3.11cm" preferred-height="3.73cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B11/04</classification-symbol><definition-title>Control arrangements</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-B1-6883668</paragraph-text><paragraph-text type="body"><media id="media68.png" file-name="cpc-def-B07B-0068.png" type="png" preferred-width="5.14cm" preferred-height="3.49cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B11/06</classification-symbol><definition-title>Feeding or discharging arrangements</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">FR-A-2553009</paragraph-text><paragraph-text type="body"><media id="media69.png" file-name="cpc-def-B07B-0069.png" type="png" preferred-width="3.37cm" preferred-height="5.14cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B11/08</classification-symbol><definition-title>Cleaning arrangements</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-4913807</paragraph-text><paragraph-text type="body"><media id="media70.png" file-name="cpc-def-B07B-0070.png" type="png" preferred-width="2.86cm" preferred-height="4.68cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/003</classification-symbol><definition-title>{Separation of articles by differences in their geometrical form or by difference in their physical properties, e.g. elasticity, compressibility, hardness}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">WO-A1-03/013789</paragraph-text><paragraph-text type="body"><media id="media71.png" file-name="cpc-def-B07B-0071.png" type="png" preferred-width="5.57cm" preferred-height="4.13cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/006</classification-symbol><definition-title>{Sorting molded pieces and runners}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">FR-A1-2324379</paragraph-text><paragraph-text type="body"><media id="media72.png" file-name="cpc-def-B07B-0072.png" type="png" preferred-width="3.11cm" preferred-height="4.11cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/02</classification-symbol><definition-title>Apparatus for grading using pockets for taking out particles from aggregates</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">FR-A-748864</paragraph-text><paragraph-text type="body"><media id="media73.png" file-name="cpc-def-B07B-0073.png" type="png" preferred-width="3.7cm" preferred-height="3.3cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/04</classification-symbol><definition-title>according to size</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">DE-A-4410871</paragraph-text><paragraph-text type="body"><media id="media74.png" file-name="cpc-def-B07B-0074.png" type="png" preferred-width="3.28cm" preferred-height="4.7cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/05</classification-symbol><definition-title>using material mover cooperating with retainer, deflector or discharger  (<class-ref scheme="cpc">B07B13/065</class-ref>&#160;-&#160;<class-ref scheme="cpc">B07B13/075</class-ref> take precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">FR-A-1028638</paragraph-text><paragraph-text type="body"><media id="media75.png" file-name="cpc-def-B07B-0075.png" type="png" preferred-width="7.09cm" preferred-height="4.7cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/065</classification-symbol><definition-title>Apparatus for grading or sorting using divergent conveyor belts or cables</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">GB-A-594867</paragraph-text><paragraph-text type="body"><media id="media76.png" file-name="cpc-def-B07B-0076.png" type="png" preferred-width="8.19cm" preferred-height="5.08cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/07</classification-symbol><definition-title>Apparatus in which aggregates or articles are moved along or past openings which increase in size in the direction of movement</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">FR-A-2545385</paragraph-text><paragraph-text type="body"><media id="media77.png" file-name="cpc-def-B07B-0077.png" type="png" preferred-width="5.14cm" preferred-height="3.62cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/075</classification-symbol><definition-title>Apparatus comprising moving article - receiving openings, the size of which varies as they move</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">AU-B-592500</paragraph-text><paragraph-text type="body"><media id="media78.png" file-name="cpc-def-B07B-0078.png" type="png" preferred-width="7.77cm" preferred-height="4.89cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/08</classification-symbol><definition-title>according to weight  (<class-ref scheme="cpc">B07B13/10</class-ref> takes precedence)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-5301816</paragraph-text><paragraph-text type="body"><media id="media79.png" file-name="cpc-def-B07B-0079.png" type="png" preferred-width="4.38cm" preferred-height="3.34cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/10</classification-symbol><definition-title>using momentum effects</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">WO-A1-2006/089326</paragraph-text><paragraph-text type="body"><media id="media80.png" file-name="cpc-def-B07B-0080.png" type="png" preferred-width="3.28cm" preferred-height="4.87cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/11</classification-symbol><definition-title>involving travel of particles over surfaces which separate by centrifugal force or by relative friction between particles and such surfaces, e.g. helical sorters</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-B1-6382427</paragraph-text><paragraph-text type="body"><media id="media81.png" file-name="cpc-def-B07B-0081.png" type="png" preferred-width="6.5cm" preferred-height="3.68cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/113</classification-symbol><definition-title>{shaking tables  (for wet separating <class-ref scheme="cpc">B03B5/04</class-ref>; tables with water impulse <class-ref scheme="cpc">B03B5/70</class-ref>; pneumatic tables <class-ref scheme="cpc">B03B4/02</class-ref>; moving screens <class-ref scheme="cpc">B07B1/28</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A1-2002117428</paragraph-text><paragraph-text type="body"><media id="media82.png" file-name="cpc-def-B07B-0082.png" type="png" preferred-width="6.5cm" preferred-height="4.36cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/116</classification-symbol><definition-title>{stratification of dry granular material on a continuously travelling surface, e.g. belt conveyor  (vanner for wet separation <class-ref scheme="cpc">B03B5/08</class-ref>)}</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-3419143</paragraph-text><paragraph-text type="body"><media id="media83.png" file-name="cpc-def-B07B-0083.png" type="png" preferred-width="3.96cm" preferred-height="3.18cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/16</classification-symbol><definition-title>Feed or discharge arrangements</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">WO-A-03/068406</paragraph-text><paragraph-text type="body"><media id="media84.png" file-name="cpc-def-B07B-0084.png" type="png" preferred-width="9.72cm" preferred-height="4.57cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B13/18</classification-symbol><definition-title>Control</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">US-A-5024334</paragraph-text><paragraph-text type="body"><media id="media85.png" file-name="cpc-def-B07B-0085.png" type="png" preferred-width="7.68cm" preferred-height="5.4cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B07B15/00</classification-symbol><definition-title>Combinations of apparatus for separating solids from solids by dry methods applicable to bulk material, e.g. loose articles fit to be handled like bulk material  (using wet methods <class-ref scheme="cpc">B03B7/00</class-ref>; using gas currents <class-ref scheme="cpc">B07B9/00</class-ref>)</definition-title><definition-statement>
+      <section-title>Definition statement</section-title>
+      <section-body><paragraph-text type="preamble">This place covers:</paragraph-text><paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text><paragraph-text type="body">BE-A-898799</paragraph-text><paragraph-text type="body"><media id="media86.png" file-name="cpc-def-B07B-0086.png" type="png" preferred-width="5.57cm" preferred-height="4.23cm"/></paragraph-text></section-body>
+    </definition-statement></definition-item></definitions>

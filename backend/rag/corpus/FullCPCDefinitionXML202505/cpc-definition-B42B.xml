@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B42B</classification-symbol><definition-title>PERMANENTLY ATTACHING TOGETHER SHEETS, QUIRES OR SIGNATURES OR PERMANENTLY ATTACHING OBJECTS THERETO  (nailing or stapling in general <class-ref scheme="cpc">B25C</class-ref>, <class-ref scheme="cpc">B27F</class-ref>; machines for both collating or gathering and permanently attaching together sheets or signatures <class-ref scheme="cpc">B42C1/12</class-ref>; temporarily attaching sheets together <class-ref scheme="cpc">B42F</class-ref>)</definition-title><definition-statement><section-title>Definition statement</section-title><section-body>
+    <paragraph-text type="preamble">This place covers:</paragraph-text>
+    <paragraph-text type="body">Machines, devices and methods for permanently attaching together all kinds of flat or folded sheets, e.g. quires or signatures, to obtain book sections, book blocks or fillings, booklets, pads or blocks.</paragraph-text>
+    <paragraph-text type="body">The permanent attachment can be performed by continuous or discontinuous stitching or otherwise, e.g. by adhesive or with binding elements like clips or finger, claw, or ring-like elements passing through the sheets. Usually, continuous stitching unites several quires or signatures to a book block with a single piece of thread. Discontinuous stitching usually uses wire staples to unite a single set of flat or folded sheets, usually comprising already a back or cover sheet, to a block or booklet.</paragraph-text>
+    <paragraph-text type="body">The binding of collated flat sheets is usually performed by block stitching in a binding margin, the binding of folded sheets is usually performed by saddle stitching along the fold.</paragraph-text>
+    <paragraph-text type="body">Machines, devices and methods for permanently attaching objects to sheets, quires or signatures, e.g. map sections or extensions thereto.</paragraph-text>
+    </section-body></definition-statement><relationship><section-title>Relationships with other classification places</section-title><section-body>
+    <paragraph-text type="body">Permanent and temporary attachment</paragraph-text>
+    <paragraph-text type="body">Devices and methods for temporarily attaching sheets together and filing appliances are covered by subclass <class-ref scheme="cpc">B42F</class-ref>. Temporary attachment means can be repeatedly applied to, and released from, collections of papers, sheets, cards, or units thereof. Filing appliances allow to individually insert and extract each paper, sheet, card, or unit into resp. from the collection.</paragraph-text>
+    <paragraph-text type="body">Subclass <class-ref scheme="cpc">B42F</class-ref> covers as well devices and methods for temporarily attaching together sheets and objects and especially the filing aspects of albums.</paragraph-text>
+    <paragraph-text type="body">Binding and bookbinding</paragraph-text>
+    <paragraph-text type="body">Bookbinding subclass <class-ref scheme="cpc">B42C</class-ref> covers particular complex binding processes typical for bookbinding:</paragraph-text>
+    <list>
+      <list-item> <paragraph-text type="body">Processes for permanently attaching together sheets or signatures combined with sheet collating or gathering operations, e.g. machines for both, collating or gathering and permanently attaching together the sheets or signatures or processes for making booklets, pads, or form sets from multiple webs,</paragraph-text> </list-item>
+      <list-item> <paragraph-text type="body">Bookbinding operations involving the association of a cover with a loose or bound set of sheets, e.g. for applying paper covers to sets of sheets to obtain paper-covered booklets by perfect binding or for casing-in fillings and bookbinding cases to obtain books,</paragraph-text> </list-item>
+      <list-item> <paragraph-text type="body">Multi-step processes and arrangements for making books starting with single sheets, signatures, webs or the like.</paragraph-text> </list-item>
+    </list>
+    </section-body></relationship><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Box, carton, envelope or bag making machinery having means for uniting opposed surfaces, e.g. by adhesive, stitching or stapling</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body">  <class-ref scheme="cpc">B31B50/60</class-ref>, <class-ref scheme="cpc">B31B70/60</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Rotary presses or machines with auxiliary folding, cutting, collecting, or depositing of sheets or webs, e.g. with devices for collecting and stapling</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B41F13/54</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Article or web delivery apparatus incorporating devices for securing together articles or webs, e.g. by adhesive, stitching or stapling</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B65H37/04</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references><glossary-of-terms><section-title>Glossary of terms</section-title><section-body>
+    <paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+    <table>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Sheet</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body">Piece of paper or cardboard, usually rectangular, flat and printed</paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Quire</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body">Set of a predetermined number of flat or folded sheets, usually 24 or 25 flat sheets or 12 folded sheets comprising 48 print pages</paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column>
+          <paragraph-text type="body">Signature</paragraph-text>
+        </table-column>
+        <table-column>
+          <paragraph-text type="body">Printed sheet that consists of a number of print pages of a book, so layed out, that they will fold, usually with several folds, and bind together as a section of a book</paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></glossary-of-terms></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42B2/00</classification-symbol><definition-title>Permanently attaching together sheets, quires or signatures by stitching with filamentary material, e.g. textile threads  (discontinuously <class-ref scheme="cpc">B42B4/00</class-ref>)</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Yarns or threads characterised by the materials from which they are made, by constructional features or by the purpose for which they are designed</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">D02G3/02</class-ref>, <class-ref scheme="cpc">D02G3/22</class-ref>, <class-ref scheme="cpc">D02G3/44</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Sewing in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">D05B</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item date-revised="2017-08-01"><classification-symbol scheme="cpc">B42B4/00</classification-symbol><definition-title>Permanently attaching together sheets, quires or signatures by discontinuous stitching with filamentary material, e.g. wire {(by stapling <class-ref scheme="cpc">B25C5/00</class-ref>; staples <class-ref scheme="cpc">F16B15/00</class-ref>)}</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Wire-working in the manufacture of staples</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B21F45/24</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Manually operated portable stapling tools; Hand-held power-operated stapling tools; Staple feeding devices therefor</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B25C5/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Stapling machines</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B27F7/17</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Box, carton, envelope or bag making machinery having means for uniting opposed surfaces or edges of paper sheets, blanks or webs by stitching or stapling</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31B50/68</class-ref>, <class-ref scheme="cpc">B31B70/68</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Rotary printing presses with auxiliary collecting and stapling</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B41F13/66</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Staples</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">F16B15/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Binding sets of sheets, e.g. by stapling or stitching, adapted to electrographic charge pattern printers</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">G03G15/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42B5/00</classification-symbol><definition-title>Permanently attaching together sheets, quires or signatures otherwise than by stitching  (by deformation thereof <class-ref scheme="cpc">B31F</class-ref>; by adhesive peculiar to bookbinding <class-ref scheme="cpc">B42C9/00</class-ref>)</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Joining, e.g. welding, plastic sheets by heating, with or without pressure</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B29C65/02</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Attaching together paper or cardboard sheets, strips, or webs, e.g. by crimpling</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B31F5/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Applying glue or adhesive peculiar to bookbinding</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B42C9/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42B7/00</classification-symbol><definition-title>Permanently attaching objects, e.g. map sections, to sheets</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Sheets or cards attached to a continuous form set strip or web</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B42D5/02</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Postcards, menu, business or like cards, letter-sheets combined with permanently fastened other articles, e.g. photographs</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B42D15/02</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Sheets and objects temporarily attached together; Means therefor</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B42F5/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B42B9/00</classification-symbol><definition-title>Devices common to machines for carrying out the processes according to more than one of the preceding main groups  (auxiliary equipment in making paper articles <class-ref scheme="cpc">B31F</class-ref>; auxiliary equipment in printing machines <class-ref scheme="cpc">B41</class-ref>; conveyors in general <class-ref scheme="cpc">B65G</class-ref>; {handling sheets in general <class-ref scheme="cpc">B65H</class-ref>})</definition-title><references><section-title>References</section-title><informative-references><section-title>Informative references</section-title><section-body>
+    <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+    <table>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Devices performing auxiliary operations in box, carton, envelope or bag making machinery</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="not-mapped">B31C1/74</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Auxiliary equipment in printing machines, e.g. indicating, counting or control devices</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B41</class-ref>, e.g. <class-ref scheme="cpc">B41F1/56</class-ref>, <class-ref scheme="cpc">B41F3/84</class-ref>, <class-ref scheme="cpc">B41F33/00</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Opening devices for folded sheets or signatures, in general</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B65H5/30</class-ref></paragraph-text>
+        </table-column>
+      </table-row>
+<table-row>
+        <table-column preferred-width="11.62cm">
+          <paragraph-text type="body">Saddle-like members over which partially-unfolded sheets or signatures are fed to signature-gathering, stitching, or like machines</paragraph-text>
+        </table-column>
+        <table-column preferred-width="3.41cm">
+          <paragraph-text type="body"><class-ref scheme="cpc">B65H5/32</class-ref></paragraph-text>
+        </table-column>
+      </table-row></table>
+    </section-body></informative-references></references></definition-item></definitions>

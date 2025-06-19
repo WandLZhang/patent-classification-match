@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-08-01" publication-type="official">
+<definition-item><classification-symbol scheme="cpc">F42D</classification-symbol><definition-title>BLASTING  (fuses, e.g. fuse cords, <class-ref scheme="cpc">C06C5/00</class-ref>; {for obtaining fluid from wells <class-ref scheme="cpc">E21B43/00</class-ref>; for mining or quarrying <class-ref scheme="cpc">E21C37/00</class-ref>; for making tunnels or galleries <class-ref scheme="cpc">E21D9/006</class-ref>}; cartridges <class-ref scheme="cpc">F42B3/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">This subclass covers devices and methods for blasting for both civilian and military applications. The documentation is also organised according to the particular blasting operations. Further it includes particular safety arrangements for blasting or detonations.</paragraph-text>
+         </section-body>
+      </definition-statement><relationship>
+         <section-title>Relationships with other classification places</section-title>
+         <section-body>
+            <paragraph-text type="body"> <class-ref scheme="cpc">C06B</class-ref> : Chemical aspects of explosives, explosive compositions</paragraph-text>
+            <paragraph-text type="body"> <class-ref scheme="cpc">C06C</class-ref>:Chemical aspects of primers and detonators</paragraph-text>
+         </section-body>
+      </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Fuses, e.g. fuse cords</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C06C5/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Blasting cartridges</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F42B3/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.23cm">
+                     <paragraph-text type="body">For obtaining fluid from wells</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.8cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E21B43/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.23cm">
+                     <paragraph-text type="body">For mining or quarring</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.8cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E21C37/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.23cm">
+                     <paragraph-text type="body">For making tunnels or galleries</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.8cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E21D9/006</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.23cm">
+                     <paragraph-text type="body">Seismic investigation using explosives</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.8cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G01V1/104</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F42D1/00</classification-symbol><definition-title>Blasting methods or apparatus, e.g. loading or tamping</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices and methods for blasting, including the arrangement of blasting cartridges as the smallest explosive unit into assemblies, pyrotechnic, electric and electronic ignition arrangements, in particular for the timed ignition of a multitude of single blasting units, and methods and apparatus for the tamping or loading of explosives. Further includes set-ups for breaching of doors or walls.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">F42D1/042</classification-symbol><definition-title>{Logic explosive circuits, e.g. with explosive diodes}</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Electric circuits for blasting</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="not-mapped">F41D1/05</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F42D1/043</classification-symbol><definition-title>{Connectors for detonating cords and ignition tubes, e.g. Nonel tubes  (mounting of detonators in blasting cartridges <class-ref scheme="cpc">F42B3/26</class-ref>)}</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Mounting of detonators in blasting cartridges</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F42B3/26</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Fuze connectors</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C06C5/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F42D3/00</classification-symbol><definition-title>Particular applications of blasting techniques {(explosive welding <class-ref scheme="cpc">B23K20/08</class-ref>; explosive bolts or actuators <class-ref scheme="cpc">F42B3/006</class-ref>; explosive valves <class-ref scheme="cpc">F16K13/06</class-ref>; cutting devices actuated by explosion <class-ref scheme="cpc">B23D15/145</class-ref>; pyrotechnical actuators <class-ref scheme="cpc">F15B15/19</class-ref>; switching devices actuated by explosion <class-ref scheme="cpc">H01H39/00</class-ref>)}</definition-title><relationship>
+         <section-title>Relationships with other classification places</section-title>
+         <section-body>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Cleaning by explosions</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B08B7/0007</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Well/Drilling blast units, perforating guns</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">E21B</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </relationship><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.33cm">
+                     <paragraph-text type="body">Cutting devices actuated by explosion</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.7cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B23D15/145</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.33cm">
+                     <paragraph-text type="body">Explosive welding</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.7cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B23K20/08</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.33cm">
+                     <paragraph-text type="body">Pyrotechnical actuators</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.7cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F15B15/19</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.33cm">
+                     <paragraph-text type="body">Explosive valves</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.7cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F16K13/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.33cm">
+                     <paragraph-text type="body">Explosive bolts or actuators</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.7cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F42B3/006</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.33cm">
+                     <paragraph-text type="body">Switching devices actuated by explosion</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.7cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01H39/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F42D3/06</classification-symbol><definition-title>for seismic purposes</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Generating seismic energy using explosive charges</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G01V1/104</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F42D5/00</classification-symbol><definition-title>Safety arrangements</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Methods and devices for increasing the safety of blasting operation, e.g. during blasting operation by providing a physical detonation wave absorbing shield, or the identification, neutralisation and removal of explosives in cases where the explosive did not detonate (abort of operation, malfunction/dud or decommissioning).</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">F42D5/04</classification-symbol><definition-title>Rendering explosive charges harmless, e.g. destroying ammunition  ({<class-ref scheme="cpc">F42B39/14</class-ref> and <class-ref scheme="cpc">F42B39/20</class-ref> take precedence } ; extracting primers, dismantling ammunition <class-ref scheme="cpc">F42B33/04</class-ref>, <class-ref scheme="cpc">F42B33/06</class-ref>{; chemical deactivating of explosives <class-ref scheme="cpc">C06B21/0091</class-ref>}); Rendering detonation of explosive charges harmless</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Fitting or extracting primers in or from fuzes or charges</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F42B33/04</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Dismantling fuzes, cartridges, projectiles, missiles, rockets or bombs</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F42B33/06</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Explosion or fire protection arrangements on packages or ammunition</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F42B39/14</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Packages or ammunition having valves for pressure-equalising; Packages or ammunition having plugs for pressure release, e.g. meltable</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F42B39/20</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.27cm">
+                     <paragraph-text type="body">Elimination of undesirable or temporary components of an intermediate or finished product, e.g. making porous or low density products, purifying, stabilising, drying; Deactivating; Reclaiming</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.65cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">C06B21/0091</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F42D5/045</classification-symbol><definition-title>Detonation-wave absorbing or damping means</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">This group includes all means to avoid the propagation of the detonation or blast wave during the destruction of ammunition by controlled detonation in a pressure chamber which is able to withstand a detonation inside. Also includes detonation wave guiding means.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="9.29cm">
+                     <paragraph-text type="body">Dismantling fuzes, cartridges, projectiles, missiles, rockets or bombs by combustion</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="5.74cm">
+                     <paragraph-text type="body"> <class-ref scheme="cpc">F42B33/067</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item></definitions>

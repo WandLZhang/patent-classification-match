@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2018-05-01" publication-type="official">
+<definition-item date-revised="2018-05-01"><classification-symbol scheme="cpc">F23B</classification-symbol><definition-title>METHODS OR APPARATUS FOR COMBUSTION USING ONLY SOLID FUEL  (for combustion of fuels that are solid at room temperatures, but burned in melted form, e.g. candle wax, <class-ref scheme="cpc">C11C5/00</class-ref>, <class-ref scheme="cpc">F23C</class-ref>, <class-ref scheme="cpc">F23D</class-ref>; using solid fuel suspended in air <class-ref scheme="cpc">F23C</class-ref>, <class-ref scheme="cpc">F23D1/00</class-ref>; using solid fuel suspended in liquids <class-ref scheme="cpc">F23C</class-ref>, <class-ref scheme="cpc">F23D11/00</class-ref>; using solid fuel and fluent fuel simultaneously or alternately <class-ref scheme="cpc">F23C</class-ref>, <class-ref scheme="cpc">F23D17/00</class-ref>; burning of low grade fuel <class-ref scheme="cpc">F23G</class-ref>; grates <class-ref scheme="cpc">F23H</class-ref>; feeding solid fuel to combustion apparatus <class-ref scheme="cpc">F23K</class-ref>; combustion chambers, not otherwise provided for <class-ref scheme="cpc">F23M</class-ref>; domestic apparatus <class-ref scheme="cpc">F24</class-ref>; central heating boilers <class-ref scheme="cpc">F24D</class-ref>; package boilers <class-ref scheme="cpc">F24H</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">General function-oriented aspects of methods and apparatus for combustion of solid fuel wherein the main body of fuel is either</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">essentially stationary during combustion or</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">mechanically transported, as opposed to pneumatically transported or suspended in air, during combustion</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">and wherein the combustion does not involve liquid or gaseous fuels, or pulverulent fuel burned in suspension.</paragraph-text>
+            <paragraph-text type="body">The solid fuel can be in the form of lumps or pieces, e.g. coal, briquettes or firewood, or pulverulent or granulated, e.g. coal powder, wood pellets or wood chips.</paragraph-text>
+         </section-body>
+      </definition-statement><relationship>
+         <section-title>Relationships with other classification places</section-title>
+         <section-body>
+            <paragraph-text type="body">Relationship between this subclass and application subclasses of class <class-ref scheme="cpc">F23</class-ref>.</paragraph-text>
+            <paragraph-text type="body">Subclass <class-ref scheme="cpc">F23G</class-ref>, Cremation furnaces; Consuming waste by combustion is to be seen as an application place in relation to the function-oriented aspects of this subclass. In case of doubt, classification should be made in both subclasses, or in both <class-ref scheme="cpc">F23G</class-ref> and detail subclasses of class <class-ref scheme="cpc">F23</class-ref>.</paragraph-text>
+            <paragraph-text type="body">Classification is made in this subclass if the method or apparatus is:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">of general interest for combustion of different types of solid fuel, for example not specially adapted for a particular fuel, or</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">specially adapted for specific solid fuels other than those provided for in <class-ref scheme="cpc">F23G</class-ref>, see the list below, for example &quot;normal&quot; commercial fuel, such as coal, firewood, wood chips, wood pellets or straw.</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">Classification is made in <class-ref scheme="cpc">F23G</class-ref> if a method or apparatus is specially adapted for combustion of any of the following types of substances:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Human corpses or amputated body parts;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Animal carcasses or their discarded body parts;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Fuels, e.g. waste, presenting particular fuel-related environmental problems requiring specially adapted methods or apparatus for combustion, for example toxic, explosive, radioactive or corrosive fuels;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Waste having a special physical form requiring specially adapted methods or apparatus for combustion, for example packaged waste, rubber tyres or discarded cars;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Low-grade fuels presenting particular problems of combustion requiring specially adapted methods or apparatus for combustion, for example fuels containing high amounts of water or other non-combustible substances;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Fuels that vary considerably in composition or form and therefore require specially adapted methods or apparatus for combustion;</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Household, municipal, or similar waste that is solely or primarily burned for the purpose of its destruction.</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">Subclass <class-ref scheme="cpc">F23R</class-ref>, Generating combustion products of high pressure or high velocity, especially group <class-ref scheme="cpc">F23B5/00</class-ref>, is also to be seen as an application place in relationship to this subclass. Classification is made in <class-ref scheme="cpc">F23R</class-ref> if the apparatus or method is specially adapted for generating combustion products of high pressure or high velocity.</paragraph-text>
+            <paragraph-text type="body">Relationship between this subclass and other application places.</paragraph-text>
+            <paragraph-text type="body">Combustion of solid fuel is often used for purpose of heating or performing different operations. Apparatus for combustion of solid fuel can be self-contained devices, but are often part of, or used in connection with, heat-consuming apparatus, such as heating boilers. This subclass is therefore related to several places providing for uses of heat. In many of these fields the solid fuel combustion apparatus can be considered a detail of a bigger entity. A non-exhaustive list of examples of such classes or subclasses will be found under the heading &quot;Informative references&quot; below.</paragraph-text>
+            <paragraph-text type="body">Combinations of combustion apparatus with other apparatus, where the combustion apparatus can be seen as a detail of the complete apparatus, e.g. a steam boiler, are classified as a whole, in the place for the other apparatus. Additional classification is made in this subclass only if features relating to the combustion apparatus per se are of interest apart from its application.</paragraph-text>
+            <paragraph-text type="body">Relationship between this subclass and detail subclasses of class <class-ref scheme="cpc">F23</class-ref>.</paragraph-text>
+            <paragraph-text type="body">Subclasses <class-ref scheme="cpc">F23H</class-ref> - <class-ref scheme="cpc">F23Q</class-ref> are to be seen as detail places in relation to this subclass. Classification is made in this subclass if the apparatus as a whole is of interest or if a detail is of use only for a particular type of combustion apparatus and not specifically provided for in any of subclasses <class-ref scheme="cpc">F23H</class-ref> - <class-ref scheme="cpc">F23Q</class-ref>. If a detail of a combustion apparatus is of interest, classification is made in the relevant subclass providing for such matter.</paragraph-text>
+            <paragraph-text type="body">Relationship between this subclass and places for gasification or destructive distillation.</paragraph-text>
+            <paragraph-text type="body"><class-ref scheme="cpc">C10B</class-ref> covers destructive distillation of carbonaceous material for production of gas, coke, tar or similar matter.</paragraph-text>
+            <paragraph-text type="body"><class-ref scheme="cpc">C10J</class-ref> covers production of combustible gases containing carbon monoxide from solid carbonaceous fuels.</paragraph-text>
+            <paragraph-text type="body">Classification is made in these subclasses if the combustible substances produced, e.g. gases or coke, are burned in an apparatus separate from the gasification or distillation apparatus.</paragraph-text>
+            <paragraph-text type="body">Classification is made in this subclass if complete combustion takes place in the same apparatus as the gasification, for example in different parts of the same combustion chamber or in an afterburner immediately connected to a primary combustion chamber.</paragraph-text>
+         </section-body>
+      </relationship><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text><table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion of fuels that are solid at room temperatures, but burned in melted form, e.g. candle wax</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">C11C5/00</class-ref>, <class-ref scheme="cpc">F23C</class-ref>, <class-ref scheme="cpc">F23D</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion of solid fuel suspended in a stream of air, e.g. combustion in fluidised beds or combustion of pulverised fuel using burners where the fuel is transported into the combustion chamber by an air stream</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23C</class-ref>, <class-ref scheme="cpc">F23D1/00</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion of solid fuel suspended in a liquid, e.g. combustion of coal-water slurry</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23C</class-ref>, <class-ref scheme="cpc">F23D</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion of both solid fuel and fluent fuel, simultaneously or alternately</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23C1/00</class-ref>, <class-ref scheme="cpc">F23D17/00</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table></section-body></limiting-references><application-references><section-title>Application-oriented references</section-title><section-body><paragraph-text type="preamble">Examples of places where the subject matter of this place is covered when specially adapted, used for a particular purpose, or incorporated in a larger system:</paragraph-text><table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Baking ovens</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">A21B</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Cooking apparatus</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">A47J</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Lighting</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F21</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Generating steam</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F22B</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion specially adapted for waste or low grade fuel</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23G</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Domestic stoves or ranges for cooking or local heating</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F24B</class-ref>, <class-ref scheme="cpc">F24C</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Domestic heating systems or space-heating systems</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F24D</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Heating of fluids, e.g. air or water</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F24H</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Drying</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F26B</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Heat treatment of material or articles</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F27</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table></section-body></application-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Chemical or biological purification of waste gases</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">B01D53/34</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Chemical or physical processes or apparatus in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">B01J</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion apparatus using fluent fuel</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23C</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Burners for fluent fuel, e.g. pulverulent fuel</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23D</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Grates, cleaning or raking of grates</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23H</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Removal or treatment of combustion products, e.g. flue gases or combustion residues, e.g. ash</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23J</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Feeding fuel</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23K</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Supplying air or other non-combustible liquids or gases e.g. water or steam</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23L</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Constructional details of combustion chambers, not otherwise provided for</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23M</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Regulating or controlling combustion</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23N</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Ignition</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23Q</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Heat-producing reactions of chemical substances, other than combustion, e.g. of hydrogen peroxide and methane, or iron oxide and aluminium</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F24V30/00</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">In this subclass, the first place priority rule is applied, i.e. at each hierarchical level, classification is made in the first appropriate place.</paragraph-text>
+            <paragraph-text type="body">In this subclass methods are classified in the groups that cover the apparatus used. Methods that are of general applicability are classified in group <class-ref scheme="cpc">F23B90/00</class-ref>.</paragraph-text>
+            <paragraph-text type="body">When classifying in this subclass, add the Indexing Codes:</paragraph-text>
+            <paragraph-text type="body"><class-ref scheme="cpc">F23B2101/00</class-ref>;</paragraph-text>
+            <paragraph-text type="body"><class-ref scheme="cpc">F23B2103/00</class-ref>-<class-ref scheme="cpc">F23B2103/02</class-ref>;</paragraph-text>
+            <paragraph-text type="body"><class-ref scheme="cpc">F23B2900/00001</class-ref> -<class-ref scheme="cpc">F23B2900/99001</class-ref>.</paragraph-text>
+         </section-body>
+      </special-rules><glossary-of-terms>
+         <section-title>Glossary of terms</section-title>
+         <section-body><paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Air</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">a mixture of gases containing free oxygen and able to promote or support combustion</paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Primary air</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">air supplied to the burning fuel in order to liberate combustible gases</paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Secondary air</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">air supplied to the combustible gases liberated by the primary air in order to complete their combustion. The term &quot;secondary air&quot; covers &quot;tertiary air&quot; etc.</paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Ash</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">means any solid combustion residues, for example remaining in the fuel bed or suspended in the flue gases</paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Burner</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">a device by which fluid fuel or solid fuel suspended in air is passed to a combustion space where it burns to produce a self-supporting flame</paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Combustion</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">means the direct combination of oxygen gas, e.g. in air, and a burnable substance</paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Combustion chamber</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">a chamber in which fuel is burned to establish a self-supporting fire or flame and which surrounds that fire or flame</paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Combustion zone</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">the part of the apparatus where the reaction takes place between air and fuel</paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Firebridge</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">a low wall separating the fuel bed from adjacent flue gas passages in apparatus for combustion of solid fuel, for example in reverberatory furnaces or fire-tube boilers</paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Flue gases</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">any gaseous products of combustion</paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Grate</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body">a perforated surface, e.g. a grid, which supports or delimits a bed of burning fuel and serves to supply primary air</paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><special-meanings><paragraph-text type="preamble">In patent documents, the following words/expressions are often used with the meaning indicated:</paragraph-text><table>
+<table-row><table-column><paragraph-text type="body">&quot;boiler&quot;</paragraph-text></table-column><table-column><paragraph-text type="body">&quot;combustion apparatus&quot;.</paragraph-text></table-column></table-row>
+<table-row><table-column><paragraph-text type="body">&quot;burner&quot;</paragraph-text></table-column><table-column><paragraph-text type="body">&quot;combustion apparatus&quot;.</paragraph-text></table-column></table-row></table></special-meanings></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B1/00</classification-symbol><definition-title>{Combustion apparatus using only lump fuel}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combustion apparatus using only lump fuel.</paragraph-text>
+         </section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body"><class-ref scheme="cpc">F23B1/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">F23B1/12</class-ref> are not used anymore for classification, please refer to groups <class-ref scheme="cpc">F23B10/00</class-ref> - <class-ref scheme="cpc">F23B99/00</class-ref> instead.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B3/00</classification-symbol><definition-title>{Combustion apparatus which is portable or removable with respect to the boiler or other apparatus which is heated}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combustion apparatus which is portable or removable with respect to the boiler or other apparatus which is heated.</paragraph-text>
+         </section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body"><class-ref scheme="cpc">F23B3/00</class-ref> is not used anymore for classification, please refer to groups <class-ref scheme="cpc">F23B10/00</class-ref> - <class-ref scheme="cpc">F23B99/00</class-ref> instead.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B5/00</classification-symbol><definition-title>{Combustion apparatus with arrangements for burning uncombusted material from primary combustion  (combustion apparatus characterised by the combination of two or more combustion chambers <class-ref scheme="cpc">F23C6/00</class-ref>; the primary combustion being pulverulent fuel <class-ref scheme="cpc">F23C9/003</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combustion apparatus with arrangements for burning uncombusted material from primary combustion.</paragraph-text>
+         </section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body"><class-ref scheme="cpc">F23B5/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">F23B5/04</class-ref> are not used anymore for classification, please refer to groups <class-ref scheme="cpc">F23B10/00</class-ref> - <class-ref scheme="cpc">F23B99/00</class-ref> instead.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B7/00</classification-symbol><definition-title>{Combustion techniques; Other solid-fuel combustion apparatus}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combustion techniques; Other solid-fuel combustion apparatus.</paragraph-text>
+         </section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body"><class-ref scheme="cpc">F23B7/00</class-ref>&#160;-&#160;<class-ref scheme="cpc">F23B7/007</class-ref> are not used anymore for classification, please refer to groups <class-ref scheme="cpc">F23B10/00</class-ref> - <class-ref scheme="cpc">F23B99/00</class-ref> instead.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B10/00</classification-symbol><definition-title>Combustion apparatus characterised by the combination of two or more combustion chambers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combustion apparatus characterized by the combination of two or more combustion chambers.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion methods including secondary combustion in the same combustion chamber</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="not-mapped">F23B99/04</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B10/02</classification-symbol><definition-title>including separate secondary combustion chambers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combustion apparatus including two or more combustion chambers in which one of the combustion chambers works as a secondary combustion chamber.</paragraph-text>
+            <paragraph-text type="body">Combustion apparatus including two or more physically separated combustion zones, e.g. by a perforated partition wall in a single enclosure in which one of the combustion zones works as a secondary combustion chamber.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.2cm">
+                     <paragraph-text type="body">Combustion apparatus using fluent fuel with two or more combustion chambers in series connection</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.84cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23C6/04</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.2cm">
+                     <paragraph-text type="body">Waste or low grade fuel incinerators with separate secondary combustion chamber </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.84cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23G5/16</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.2cm">
+                     <paragraph-text type="body">Combustion methods or apparatus adapted for combustion of waste gases or noxious gases, e.g. exhaust gases</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.84cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23G7/06</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B20/00</classification-symbol><definition-title>Combustion apparatus specially adapted for portability or transportability</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Portable or movable incinerators for waste</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23G5/40</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B30/00</classification-symbol><definition-title>Combustion apparatus with driven means for agitating the burning fuel; Combustion apparatus with driven means for advancing the burning fuel through the combustion chamber</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combustion apparatus using e.g. rotary, vibrating or travelling grates, reciprocating bars or pushers, rocking bars, screw conveyors or any other means located inside the combustion chamber for agitating or advancing the fuel.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion grates or details of grates per se</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23H</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B30/04</classification-symbol><definition-title>with fuel-supporting surfaces that are rotatable around a horizontal or inclined axis and support the fuel on their inside, e.g. cylindrical grates</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Waste incinerators having rotating drums</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23G5/20</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Revolving cylindrical grates per se</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23H9/02</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B30/08</classification-symbol><definition-title>with fuel-supporting surfaces that move through the combustion zone, e.g. with chain grates</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Travelling grates per se </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23H11/00</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B30/10</classification-symbol><definition-title>with fuel-supporting surfaces having fuel advancing elements that are movable, but remain essentially in the same place, e.g. with rollers or reciprocating grate bars</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Grates with movable bars per se</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23H7/00</class-ref>, <class-ref scheme="cpc">F23H9/00</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B40/00</classification-symbol><definition-title>Combustion apparatus with driven means for feeding fuel into the combustion chamber</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combustion apparatus using e.g. throwing devices, reciprocating pushers, screw conveyors or other driven means located outside the combustion chamber for supplying fuel directly into the combustion chamber.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion apparatus wherein the driven means, located outside the combustion chamber, advance the fuel only up to a location above the burning bed, from where it proceeds by gravity, e.g. on a slide or chute</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23B50/12</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B40/02</classification-symbol><definition-title>the fuel being fed by scattering over the fuel-supporting surface</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Pneumatic feeding arrangements per se </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23K3/02</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Spreader stokers per se</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23K3/18</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B40/04</classification-symbol><definition-title>the fuel being fed from below through an opening in the fuel-supporting surface</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Under-feed arrangements per se </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23K3/10</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B50/00</classification-symbol><definition-title>Combustion apparatus in which the fuel is fed into or through the combustion zone by gravity, e.g. from a fuel storage situated above the combustion zone</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combustion apparatus using gravity as sole means for feeding the fuel into the combustion zone.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Over-feed arrangements per se </paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23K3/16</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Stoves with fuel storage in hoppers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F24B1/08</class-ref>, <class-ref scheme="cpc">F24B1/16</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B60/00</classification-symbol><definition-title>Combustion apparatus in which the fuel burns essentially without moving</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combustion apparatus wherein the fuel is loaded on a grate or on a support on which it rests till complete exhaustion without further move or agitation.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B70/00</classification-symbol><definition-title>Combustion apparatus characterised by means returning solid combustion residues to the combustion chamber</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combustion apparatus wherein solid combustion residues, e.g. ashes or fly-ashes are returned to the chamber for complete burning.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Fluidised bed combustors for solid fuels.</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23C10/002</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B80/00</classification-symbol><definition-title>Combustion apparatus characterised by means creating a distinct flow path for flue gases or for non-combusted gases given off by the fuel</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Combustion apparatus having either means guiding the flue gas along specific path, e.g. for increasing heat transfer to the heat recovery means or creating longer permanence time of the gases in the combustion chamber, or for flue gas recirculation.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Devices for conducting smoke or fumes per se</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23J11/00</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Flue gas circulation on or around stoves</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F24B5/00</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B80/04</classification-symbol><definition-title>by means for guiding the flow of flue gases, e.g. baffles</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Baffles or deflectors for combustion products per se</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23M9/00</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B90/00</classification-symbol><definition-title>Combustion methods not related to a particular type of apparatus</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Methods for starting the combustion, for staged combustion, i.e. a first combustion in a oxidant deficient atmosphere followed by secondary combustion in oxidant rich atmosphere, or for catalytic combustion.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B90/02</classification-symbol><definition-title>Start-up techniques</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Controlling combustion</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23N</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Ignition in general</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23Q</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B90/04</classification-symbol><definition-title>including secondary combustion  (in separate combustion chambers <class-ref scheme="cpc">F23B10/02</class-ref>)</definition-title><references><section-title>References</section-title><limiting-references><section-title>Limiting references</section-title><section-body><paragraph-text type="preamble">This place does not cover:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion apparatus including separate secondary combustion chambers</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23B10/02</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body></limiting-references><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Waste or low grade fuel incinerators with secondary combustion</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23G5/14</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion methods or apparatus adapted for combustion of waste gases or noxious gases, e.g. exhaust gases</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23G7/06</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Supplying secondary air</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="not-mapped">F23L/00</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B90/06</classification-symbol><definition-title>the primary combustion being a gasification or pyrolysis in a reductive atmosphere</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Among combustion methods including secondary combustion, those involving gasification or pyrolysis in a reductive atmosphere in the primary zone, and, involving combustion in an oxidative atmosphere in the secondary zone.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Destructive distillation of carbonaceous materials</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">C10B53/00</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion methods or apparatus adapted for waste or low grade fuel including pyrolising or gasifying as pretreatment</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23G5/027</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">F23B90/08</classification-symbol><definition-title>in the presence of catalytic material</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion apparatus using fluent fuel in which combustion takes place in the presence of catalytic material</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23C13/00</class-ref></paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column preferred-width="11.41cm">
+                     <paragraph-text type="body">Combustion methods or apparatus adapted for combustion of waste gases or noxious gases, e.g. exhaust gases, in which combustion takes place in the presence of catalytic material</paragraph-text>
+                  </table-column>
+                  <table-column preferred-width="3.62cm">
+                     <paragraph-text type="body"><class-ref scheme="cpc">F23G7/07</class-ref></paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item></definitions>

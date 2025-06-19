@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions publication-date="2017-02-01" publication-type="official">
+<definition-item date-revised="2017-02-01"><classification-symbol scheme="cpc">B65C</classification-symbol><definition-title>LABELLING OR TAGGING MACHINES, APPARATUS, OR PROCESSES  (nailing or stapling in general <class-ref scheme="cpc">B25C</class-ref>, <class-ref scheme="cpc">B27F</class-ref>; applying labels for packaging purposes <class-ref scheme="cpc">B65B</class-ref>; labels, name-plates <class-ref scheme="cpc">G09F</class-ref> ){(series-printing machines <class-ref scheme="cpc">B41L</class-ref>; containers for the storage or transport of packages <class-ref scheme="cpc">B65D</class-ref>)}</definition-title><definition-statement> <section-title>Definition statement</section-title> <section-body>
+   <paragraph-text type="preamble">This place covers:</paragraph-text>
+   <paragraph-text type="body">Labelling flat essentially rigid surfaces.</paragraph-text>
+   <paragraph-text type="body">Labelling other than flat surfaces, such as bottles, cables or wire.</paragraph-text>
+   <paragraph-text type="body">Labelling fabrics or comparable materials or articles with deformable surfaces, e.g. paper, fabric rolls, stockings, shoes.</paragraph-text>
+   <paragraph-text type="body">Affixing tags.</paragraph-text>
+   <paragraph-text type="body">Details of labelling machines or apparatus.</paragraph-text>
+   <paragraph-text type="body">Manually-controlled or manually-operable label dispensers, e.g. modified for the application of labels to articles.</paragraph-text>
+   </section-body> </definition-statement><references><section-title>References</section-title><informative-references> <section-title>Informative references</section-title> <section-body>
+   <paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+   <table>
+<table-row>
+         <table-column>
+            <paragraph-text type="body">Apparatus for applying lining or sheathing using tubular layers or sheathings</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body"> <class-ref scheme="cpc">B29C63/42</class-ref> and subgroups.</paragraph-text>
+         </table-column>
+      </table-row>
+<table-row>
+         <table-column>
+            <paragraph-text type="body">Making of (adhesive) labels provided on carrier webs</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body"> <class-ref scheme="cpc">B31D1/02</class-ref>.</paragraph-text>
+         </table-column>
+      </table-row>
+<table-row>
+         <table-column>
+            <paragraph-text type="body">Enclosing successive articles in tubular webs/Devices for distending tubes supplied in the flatened state</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body"> <class-ref scheme="cpc">B65B9/14</class-ref> </paragraph-text>
+         </table-column>
+      </table-row>
+<table-row>
+         <table-column>
+            <paragraph-text type="body">Adding cards, coupons or other inserts to package contents</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body"> <class-ref scheme="cpc">B65B61/20</class-ref> </paragraph-text>
+         </table-column>
+      </table-row>
+<table-row>
+         <table-column>
+            <paragraph-text type="body">Handling thin or filamentary material, e.g. webs</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body"> <class-ref scheme="cpc">B65H</class-ref> </paragraph-text>
+         </table-column>
+      </table-row>
+<table-row>
+         <table-column>
+            <paragraph-text type="body">Franking apparatus</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body"> <class-ref scheme="cpc">G07B17/00</class-ref> </paragraph-text>
+         </table-column>
+      </table-row>
+<table-row>
+         <table-column>
+            <paragraph-text type="body">Franking apparatus attaching a label on a mailpiece: </paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body"> <class-ref scheme="cpc">G07B2017/0062</class-ref>.</paragraph-text>
+         </table-column>
+      </table-row>
+<table-row>
+         <table-column>
+            <paragraph-text type="body">Labels or tags as such</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body"> <class-ref scheme="cpc">G09F3/00</class-ref> </paragraph-text>
+         </table-column>
+      </table-row>
+<table-row>
+         <table-column>
+            <paragraph-text type="body">Apparatus or processes specially adapted for marking conductors or cables</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body"> <class-ref scheme="cpc">H01B13/34</class-ref> </paragraph-text>
+         </table-column>
+      </table-row></table>
+   </section-body> </informative-references></references><glossary-of-terms> <section-title>Glossary of terms</section-title> <section-body>
+   <paragraph-text type="preamble">In this place, the following terms or expressions are used with the meaning indicated:</paragraph-text>
+   <table>
+<table-row>
+         <table-column>
+            <paragraph-text>Label</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text>slip of paper, card, linen, metal, etc., for attaching to object and indicating its nature, owner, name, destination, etc.</paragraph-text>
+         </table-column>
+      </table-row></table>
+   </section-body> </glossary-of-terms><synonyms-keywords><section-title>Synonyms and Keywords</section-title><special-meanings>
+   <paragraph-text type="preamble">In patent documents, the following words/expressions are often used with the meaning indicated:</paragraph-text>
+   <table>
+<table-row>
+         <table-column>
+            <paragraph-text type="body">Liner labels (label backing/carrier)</paragraph-text>
+         </table-column>
+         <table-column>
+            <paragraph-text type="body">web/liner/strip/sheet</paragraph-text>
+         </table-column>
+      </table-row></table>
+   </special-meanings></synonyms-keywords></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C1/00</classification-symbol><definition-title>Labelling flat essentially-rigid surfaces  (labelling of fabrics <class-ref scheme="cpc">B65C5/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Affixing labels to one flat surface of articles.</paragraph-text>
+            <paragraph-text type="body">Affixing labels, e.g. wrap-around labels, to two or more flat surfaces of a polyhedral article, e.g. cigarette package.</paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Franking apparatus </paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G07B17/00</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Franking apparatus attaching a label on a mailpiece</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">G07B2017/0062</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C1/02</classification-symbol><definition-title>Affixing labels to one flat surface of articles, e.g. of packages, of flat bands</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Applying a (one) label to one flat surface of an article.</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media0.jpg" file-name="cpc-def-B65C-0000.jpg" type="jpeg" preferred-width="14.63cm" preferred-height="8.3cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C1/04</classification-symbol><definition-title>Affixing labels, e.g. wrap-around labels, to two or more flat surfaces of a polyhedral article</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Applying a (one) label to two or more flat surfaces of a polyhedral article.</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media1.jpg" file-name="cpc-def-B65C-0001.jpg" type="jpeg" preferred-width="6.35cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C3/00</classification-symbol><definition-title>Labelling other than flat surfaces  (of fabrics <class-ref scheme="cpc">B65C5/00</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Affixing labels to elongated objects, e.g. wires, cables.</paragraph-text>
+            <paragraph-text type="body">Affixing labels to short rigid containers., e.g. bottles.</paragraph-text>
+            <paragraph-text type="body">Affixing labels to non-rigid containers, e.g. bottles made of polyethylene, boxes to be inflated by internal air pressure prior to labelling.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C3/02</classification-symbol><definition-title>Affixing labels to elongated objects, e.g. wires, cables, bars, tubes</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media2.jpg" file-name="cpc-def-B65C-0002.jpg" type="jpeg" preferred-width="13.54cm" preferred-height="9.98cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C3/06</classification-symbol><definition-title>Affixing labels to short rigid containers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Applying a (one) label to a rigid container.</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media3.jpg" file-name="cpc-def-B65C-0003.jpg" type="jpeg" preferred-width="6.77cm" preferred-height="9.98cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Apparatus or processes specially adapted for marking conductors or cables</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">H01B13/34</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C3/065</classification-symbol><definition-title>{by placing tubular labels around the container  (applying preformed tubular sheathings of plastics in general <class-ref scheme="cpc">B29C63/18</class-ref>; applying protective covers to closures <class-ref scheme="cpc">B67B5/03</class-ref>)}</definition-title><references><section-title>References</section-title><informative-references>
+         <section-title>Informative references</section-title>
+         <section-body><paragraph-text type="preamble">Attention is drawn to the following places, which may be of interest for search:</paragraph-text>
+            <table>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Apparatus for applying lining or sheathing using tubular layers or sheathings:</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B29C63/42</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row>
+<table-row>
+                  <table-column>
+                     <paragraph-text type="body">Enclosing successive articles in tubular webs/Devices for distending tubes supplied in the flatened state</paragraph-text>
+                  </table-column>
+                  <table-column>
+                     <paragraph-text type="body"> <class-ref scheme="cpc">B65B9/14</class-ref> </paragraph-text>
+                  </table-column>
+               </table-row></table>
+         </section-body>
+      </informative-references></references></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">B65C3/26</classification-symbol><definition-title>Affixing labels to non-rigid containers, e.g. bottles made of polyethylene, boxes to be inflated by internal air pressure prior to labelling</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Applying a label to a non-rigid container or box to be inflated by internal pressure prior, and optionally during, the labelling.</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media4.jpg" file-name="cpc-def-B65C-0004.jpg" type="jpeg" preferred-width="10.3cm" preferred-height="9.99cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media5.jpg" file-name="cpc-def-B65C-0005.jpg" type="jpeg" preferred-width="14.66cm" preferred-height="8.86cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">B65C5/00</classification-symbol><definition-title>Labelling fabrics or comparable materials or articles with deformable surface, e.g. paper, fabric rolls, stockings, shoes  (affixing labels to non-rigid containers <class-ref scheme="cpc">B65C3/26</class-ref>; by sewing <class-ref scheme="cpc">D05B</class-ref> {; applying marks during shoe manufacture <class-ref scheme="cpc">A43D95/14</class-ref>; marking textile materials by attaching tags <class-ref scheme="cpc">D06H1/04</class-ref>})</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Using adhesives.</paragraph-text>
+            <paragraph-text type="body">Using staples.</paragraph-text>
+            <paragraph-text type="body"> <media id="media6.jpg" file-name="cpc-def-B65C-0006.jpg" type="jpeg" preferred-width="14.52cm" preferred-height="9cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media7.jpg" file-name="cpc-def-B65C-0007.jpg" type="jpeg" preferred-width="14.58cm" preferred-height="10.02cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C5/02</classification-symbol><definition-title>using adhesives</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media8.jpg" file-name="cpc-def-B65C-0008.jpg" type="jpeg" preferred-width="14.51cm" preferred-height="9.98cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C5/06</classification-symbol><definition-title>using staples {(man-operated portable stapling tools <class-ref scheme="cpc">B25C5/00</class-ref>; permanently attaching together sheets <class-ref scheme="cpc">B42B4/00</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media9.jpg" file-name="cpc-def-B65C-0009.jpg" type="jpeg" preferred-width="7.7cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C7/00</classification-symbol><definition-title>Affixing tags  (in combination with filling of tea bags <class-ref scheme="cpc">B65B29/04</class-ref> {; multi-step processes for making labels or tags <class-ref scheme="cpc">B31D1/02</class-ref>})</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Using pins having at least one sharp pointed end.</paragraph-text>
+            <paragraph-text type="body">Using paddle-shaped plastic pins.</paragraph-text>
+            <paragraph-text type="body"> <media id="media10.jpg" file-name="cpc-def-B65C-0010.jpg" type="jpeg" preferred-width="7.2cm" preferred-height="9.99cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media11.jpg" file-name="cpc-def-B65C-0011.jpg" type="jpeg" preferred-width="4.46cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item date-revised="2016-08-01"><classification-symbol scheme="cpc">B65C7/001</classification-symbol><definition-title>{using pins having at least one sharp pointed end}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media12.jpg" file-name="cpc-def-B65C-0012.jpg" type="jpeg" preferred-width="11.8cm" preferred-height="9.99cm"/> <media id="media13.jpg" file-name="cpc-def-B65C-0013.jpg" type="jpeg" preferred-width="9.08cm" preferred-height="7.59cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media14.jpg" file-name="cpc-def-B65C-0014.jpg" type="jpeg" preferred-width="14.28cm" preferred-height="8.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C7/003</classification-symbol><definition-title>{using paddle-shaped plastic pins  (using plastic pins for affixing buttons to garments <class-ref scheme="cpc">A41H37/008</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Using paddle-shaped pins, &quot;plastic&quot; is not an essential limiting feature.</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media15.jpg" file-name="cpc-def-B65C-0015.jpg" type="jpeg" preferred-width="6.87cm" preferred-height="10.03cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media16.jpg" file-name="cpc-def-B65C-0016.jpg" type="jpeg" preferred-width="6.78cm" preferred-height="10.03cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/00</classification-symbol><definition-title>Details of labelling machines or apparatus {(attaching articles to carriers <class-ref scheme="cpc">B65B15/00</class-ref>; cards of samples <class-ref scheme="cpc">G09F5/04</class-ref>)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Removing backing sheets.</paragraph-text>
+            <paragraph-text type="body">Preparing the labels or articles, e.g. smoothing, removing air bubbles.</paragraph-text>
+            <paragraph-text type="body">Interchangeable modules of a labelling machine, e.g. different label type or</paragraph-text>
+            <paragraph-text type="body">size dispenser modules. Cutting tubular labels from a web.</paragraph-text>
+            <paragraph-text type="body">Devices for moving articles, e.g. containers, past a labelling station.</paragraph-text>
+            <paragraph-text type="body">Devices for presenting articles in predetermined attitude or position at a labelling station.</paragraph-text>
+            <paragraph-text type="body">Label feeding Gluing the labels or articles.</paragraph-text>
+            <paragraph-text type="body">Devices for applying labels.</paragraph-text>
+            <paragraph-text type="body">Label cooling or drying.</paragraph-text>
+            <paragraph-text type="body">Controls; Safety devices.</paragraph-text>
+            <paragraph-text type="body">Applying date marks, code marks, or the like, to the label during labelling.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/0006</classification-symbol><definition-title>{Removing backing sheets}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media17.jpg" file-name="cpc-def-B65C-0017.jpg" type="jpeg" preferred-width="13.89cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/0015</classification-symbol><definition-title>{Preparing the labels or articles, e.g. smoothing, removing air bubbles}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Preparing the labels or the articles before or during the application of the label to the article, e.g. drying articles, preheating, electrostatic (de-)charging, stretching of labels, etc.</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group:</paragraph-text>
+            <paragraph-text type="body"> <media id="media18.jpg" file-name="cpc-def-B65C-0018.jpg" type="jpeg" preferred-width="11.03cm" preferred-height="8.35cm"/> </paragraph-text>
+            <paragraph-text type="body"> <media id="media19.jpg" file-name="cpc-def-B65C-0019.jpg" type="jpeg" preferred-width="11.74cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/0062</classification-symbol><definition-title>{Interchangeable modules, e.g. applicator heads with label magazines and glue rollers}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media20.jpg" file-name="cpc-def-B65C-0020.jpg" type="jpeg" preferred-width="11.82cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/0065</classification-symbol><definition-title>{Cutting tubular labels from a web}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media21.jpg" file-name="cpc-def-B65C-0021.jpg" type="jpeg" preferred-width="8.81cm" preferred-height="10.02cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/02</classification-symbol><definition-title>Devices for moving articles, e.g. containers, past labelling station</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media22.jpg" file-name="cpc-def-B65C-0022.jpg" type="jpeg" preferred-width="14.16cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/04</classification-symbol><definition-title>having means for rotating the articles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Having means for rotating the articles themselves, i.e. spinning, independently from their conveying direction, i.e. being on a linear conveyor or on a rotating carousel, during the label application.</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media23.jpg" file-name="cpc-def-B65C-0023.jpg" type="jpeg" preferred-width="14.0cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/06</classification-symbol><definition-title>Devices for presenting articles in predetermined attitude or position at labelling station</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Devices for positioning articles prior to label application, for example rotating the articles around their own axis prior to label application, or height adjustment of article support means according to article size.</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/062</classification-symbol><definition-title>{for orienting bottles having swing stoppers, i.e. by means responsive to the position of the swing stoppers}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media24.jpg" file-name="cpc-def-B65C-0024.jpg" type="jpeg" preferred-width="7.4cm" preferred-height="9.98cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/065</classification-symbol><definition-title>{for orienting articles having irregularities in their shape, the irregularities being detected by mechanical means}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media25.jpg" file-name="cpc-def-B65C-0025.jpg" type="jpeg" preferred-width="6.09cm" preferred-height="10.0cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/067</classification-symbol><definition-title>{for orienting articles having irregularities, e.g. holes, spots or markings, e.g. labels or imprints, the irregularities or markings being detected}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media26.jpg" file-name="cpc-def-B65C-0026.jpg" type="jpeg" preferred-width="8.14cm" preferred-height="10.02cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/08</classification-symbol><definition-title>Label feeding</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">This group comprises the following subgroups:</paragraph-text>
+            <paragraph-text type="body">Label magazines</paragraph-text>
+            <paragraph-text type="body">Removing separate labels from stacks</paragraph-text>
+            <paragraph-text type="body">Label feeding from strips</paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/10</classification-symbol><definition-title>Label magazines</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media27.jpg" file-name="cpc-def-B65C-0027.jpg" type="jpeg" preferred-width="14.57cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/12</classification-symbol><definition-title>Removing separate labels from stacks  (for printing <class-ref scheme="cpc">B41F</class-ref>; separating articles from piles in general <class-ref scheme="cpc">B65H</class-ref>) ({multi-step processes for making labels or tags <class-ref scheme="cpc">B31D1/02</class-ref>}; for printing <class-ref scheme="cpc">B41F</class-ref>)</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media28.jpg" file-name="cpc-def-B65C-0028.jpg" type="jpeg" preferred-width="6.8cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/18</classification-symbol><definition-title>Label feeding from strips, e.g. from rolls</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">The labels being cut from a strip.</paragraph-text>
+            <paragraph-text type="body">The labels adhering on a backing strip.</paragraph-text>
+            <paragraph-text type="body">Spools or cassettes for strips.</paragraph-text>
+            <paragraph-text type="body">The labels being torn or burst from a strip.</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media29.jpg" file-name="cpc-def-B65C-0029.jpg" type="jpeg" preferred-width="6.87cm" preferred-height="10.02cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/20</classification-symbol><definition-title>Gluing the labels or articles</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">By wetting, e.g. by applying liquid glue or a liquid to a dry glue coating</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">using spraying means</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">using manipulator arms</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Applying the liquid on the label</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">using liquid rollers or bands</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">using wipers, pallets, or segments</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">By heat</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">by thermo-activating the glue</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media30.jpg" file-name="cpc-def-B65C-0030.jpg" type="jpeg" preferred-width="7.9cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/26</classification-symbol><definition-title>Devices for applying labels</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Specific devices for applying labels to articles in general, not necessarily restricted to a specific surfaces, and for which is normally no other entry.</paragraph-text>
+            <paragraph-text type="body">This group comprises the following subgroups:</paragraph-text>
+            <list>
+               <list-item>
+                  <paragraph-text type="body">Manually operable</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Air blast devices</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Rollers</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Flexible bands</paragraph-text>
+               </list-item>
+               <list-item>
+                  <paragraph-text type="body">Wipers, Pressers</paragraph-text>
+               </list-item>
+            </list>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media31.jpg" file-name="cpc-def-B65C-0031.jpg" type="jpeg" preferred-width="7.52cm" preferred-height="10.02cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/262</classification-symbol><definition-title>{manually operable}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media32.jpg" file-name="cpc-def-B65C-0032.jpg" type="jpeg" preferred-width="14.65cm" preferred-height="9.26cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/28</classification-symbol><definition-title>Air-blast devices</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media33.jpg" file-name="cpc-def-B65C-0033.jpg" type="jpeg" preferred-width="14.64cm" preferred-height="9.39cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/30</classification-symbol><definition-title>Rollers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media34.jpg" file-name="cpc-def-B65C-0034.jpg" type="jpeg" preferred-width="14.64cm" preferred-height="4.57cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/34</classification-symbol><definition-title>Flexible bands</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body"> <media id="media35.jpg" file-name="cpc-def-B65C-0035.jpg" type="jpeg" preferred-width="13.5cm" preferred-height="9.98cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C9/36</classification-symbol><definition-title>Wipers; Pressers</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media36.jpg" file-name="cpc-def-B65C-0036.jpg" type="jpeg" preferred-width="11.71cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/00</classification-symbol><definition-title>Manually-controlled or manually-operable label dispensers, e.g. modified for the application of labels to articles  (special furniture, fittings, or accessories for shops, storehouses, bars, or the like <class-ref scheme="cpc">A47F</class-ref>; for paper napkins, for toilet paper <class-ref scheme="cpc">A47K</class-ref>; for playing cards <class-ref scheme="cpc">A63F</class-ref>; movable-strip writing or reading apparatus <class-ref scheme="cpc">B42D19/00</class-ref>; adhesive tape dispensers <class-ref scheme="cpc">B65H35/002</class-ref>; dispensers for tickets <class-ref scheme="cpc">G07B</class-ref>; coin-operated dispensers for stamps <class-ref scheme="cpc">G07F</class-ref> {; dispensing devices for pamphlets from vehicles <class-ref scheme="cpc">G09F21/22</class-ref>})</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Modified for the application of labels to articles.</paragraph-text>
+            <paragraph-text type="body">Using electrical or electro-mechanical means.</paragraph-text>
+            <paragraph-text type="body">Using pneumatic means.</paragraph-text>
+            <paragraph-text type="body">Having printing equipment.</paragraph-text>
+            <paragraph-text type="body">Having means for moistening the labels.</paragraph-text>
+            <paragraph-text type="body">Having means for heating thermo-activatable labels.</paragraph-text>
+            <paragraph-text type="body"> <media id="media37.jpg" file-name="cpc-def-B65C-0037.jpg" type="jpeg" preferred-width="6.74cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement><special-rules>
+         <section-title>Special rules of classification</section-title>
+         <section-body>
+            <paragraph-text type="body">This group is directed to manually operated devices, whereas <class-ref scheme="cpc">B65C9/08</class-ref> is directed to machine operated devices.</paragraph-text>
+         </section-body>
+      </special-rules></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/002</classification-symbol><definition-title>{modified for the application of labels to articles}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media38.jpg" file-name="cpc-def-B65C-0038.jpg" type="jpeg" preferred-width="9.0cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/006</classification-symbol><definition-title>{using electrical or electro-mechanical means  (<class-ref scheme="cpc">B65C11/0289</class-ref> and <class-ref scheme="cpc">B65C11/066</class-ref> take precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media39.jpg" file-name="cpc-def-B65C-0039.jpg" type="jpeg" preferred-width="14.64cm" preferred-height="9.87cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/008</classification-symbol><definition-title>{using pneumatic means  (<class-ref scheme="cpc">B65C11/0294</class-ref> and <class-ref scheme="cpc">B65C11/068</class-ref> take precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media40.jpg" file-name="cpc-def-B65C-0040.jpg" type="jpeg" preferred-width="12.59cm" preferred-height="10.02cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/02</classification-symbol><definition-title>having printing equipment</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media41.jpg" file-name="cpc-def-B65C-0041.jpg" type="jpeg" preferred-width="14.64cm" preferred-height="8.97cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/0226</classification-symbol><definition-title>{electrically driven}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media42.jpg" file-name="cpc-def-B65C-0042.jpg" type="jpeg" preferred-width="14.16cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/0231</classification-symbol><definition-title>{by actuating a hanbdle manually}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media43.jpg" file-name="cpc-def-B65C-0043.jpg" type="jpeg" preferred-width="14.64cm" preferred-height="5.3cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/0242</classification-symbol><definition-title>{electrically driven}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media44.jpg" file-name="cpc-def-B65C-0044.jpg" type="jpeg" preferred-width="14.17cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/0247</classification-symbol><definition-title>{by actuating a handle manually}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media45.jpg" file-name="cpc-def-B65C-0045.jpg" type="jpeg" preferred-width="14.17cm" preferred-height="10.0cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/0263</classification-symbol><definition-title>{by actuating a handle manually}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media46.jpg" file-name="cpc-def-B65C-0046.jpg" type="jpeg" preferred-width="9.39cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/0273</classification-symbol><definition-title>{electrically driven}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media47.jpg" file-name="cpc-def-B65C-0047.jpg" type="jpeg" preferred-width="9.79cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/0278</classification-symbol><definition-title>{by actuating a handle manually}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media48.jpg" file-name="cpc-def-B65C-0048.jpg" type="jpeg" preferred-width="14.63cm" preferred-height="9.35cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/0284</classification-symbol><definition-title>{Linerless labels}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media49.jpg" file-name="cpc-def-B65C-0049.jpg" type="jpeg" preferred-width="14.64cm" preferred-height="9.21cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/0289</classification-symbol><definition-title>{using electrical or electro-mechanical means  (<class-ref scheme="cpc">B65C11/0205</class-ref> takes precedence)}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media50.jpg" file-name="cpc-def-B65C-0050.jpg" type="jpeg" preferred-width="7.51cm" preferred-height="9.99cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/0294</classification-symbol><definition-title>{using pneumatic means}</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media51.jpg" file-name="cpc-def-B65C-0051.jpg" type="jpeg" preferred-width="7.24cm" preferred-height="10.02cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/04</classification-symbol><definition-title>having means for moistening the labels</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media52.jpg" file-name="cpc-def-B65C-0052.jpg" type="jpeg" preferred-width="14.31cm" preferred-height="5.31cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item>
+<definition-item><classification-symbol scheme="cpc">B65C11/06</classification-symbol><definition-title>having means for heating thermo-activatable labels</definition-title><definition-statement>
+         <section-title>Definition statement</section-title>
+         <section-body><paragraph-text type="preamble">This place covers:</paragraph-text>
+            <paragraph-text type="body">Illustrative example of subject matter classified in this group.</paragraph-text>
+            <paragraph-text type="body"> <media id="media53.jpg" file-name="cpc-def-B65C-0053.jpg" type="jpeg" preferred-width="14.64cm" preferred-height="8.02cm"/> </paragraph-text>
+         </section-body>
+      </definition-statement></definition-item></definitions>
