@@ -52,6 +52,10 @@ const RANKED_PDF_SCALE = 0.6;
 let storedBigQueryResults = null;
 let storedPatentData = null;
 
+// Store CPC analysis results
+let currentPatentsAnalysis = null;
+let schemeDefinitionAnalysis = null;
+
 // DOM elements for ranked patent PDF viewer (will be initialized after DOM loads)
 let rankedPdfViewerContainer = null;
 let rankedPdfCanvas = null;
@@ -1659,7 +1663,7 @@ function stopPdfScanningAnimation() {
 }
 
 // Generic function to stream CPC analysis with SSE
-function streamCpcAnalysis(elementId, endpoint, requestData) {
+function streamCpcAnalysis(elementId, endpoint, requestData, onComplete) {
     const targetElement = document.getElementById(elementId);
     
     // Show loading state
@@ -1722,6 +1726,11 @@ function streamCpcAnalysis(elementId, endpoint, requestData) {
                             targetElement.scrollTop = 0;
                         });
                     }
+                    
+                    // Call the completion callback with the final content
+                    if (onComplete) {
+                        onComplete(finalContent);
+                    }
                     return;
                 }
                 
@@ -1748,6 +1757,11 @@ function streamCpcAnalysis(elementId, endpoint, requestData) {
                                         console.log(`Resetting ${elementId} scroll to top via STREAM_COMPLETE event`);
                                         targetElement.scrollTop = 0;
                                     });
+                                }
+                                
+                                // Call the completion callback with the final content
+                                if (onComplete) {
+                                    onComplete(finalContent);
                                 }
                                 return; // Stop processing this line
                             }
@@ -1812,6 +1826,23 @@ function streamCpcAnalysis(elementId, endpoint, requestData) {
     });
 }
 
+// Function to check if both analyses are complete and trigger final recommendation
+function checkAndTriggerFinalRecommendation() {
+    if (currentPatentsAnalysis && schemeDefinitionAnalysis) {
+        // Both analyses are complete, call the final recommendation
+        const requestData = {
+            current_patents_analysis: currentPatentsAnalysis,
+            scheme_definition_analysis: schemeDefinitionAnalysis
+        };
+        
+        streamCpcAnalysis(
+            'cpcFinalRecommendation',
+            'https://patent-classification-analysis-934163632848.us-central1.run.app/cpc-final-recommendation',
+            requestData
+        );
+    }
+}
+
 // Function to call CPC current patents endpoint with SSE streaming
 function callCpcCurrentPatentsEndpoint() {
     // Check if we have the required data
@@ -1832,7 +1863,15 @@ function callCpcCurrentPatentsEndpoint() {
     streamCpcAnalysis(
         'cpcCurrentPatents',
         'https://patent-classification-analysis-934163632848.us-central1.run.app/cpc-decision-current-patents',
-        requestData
+        requestData,
+        (finalContent) => {
+            // Store the analysis result
+            currentPatentsAnalysis = finalContent;
+            console.log('Current patents analysis complete');
+            
+            // Check if we can trigger final recommendation
+            checkAndTriggerFinalRecommendation();
+        }
     );
 }
 
@@ -1855,32 +1894,23 @@ function callCpcSchemeDefinitionEndpoint() {
     streamCpcAnalysis(
         'cpcSchemeDefinition',
         'https://patent-classification-analysis-934163632848.us-central1.run.app/cpc-decision-scheme-definition',
-        requestData
+        requestData,
+        (finalContent) => {
+            // Store the analysis result
+            schemeDefinitionAnalysis = finalContent;
+            console.log('Scheme definition analysis complete');
+            
+            // Check if we can trigger final recommendation
+            checkAndTriggerFinalRecommendation();
+        }
     );
 }
 
 // Function to call CPC final recommendation endpoint with SSE streaming
 function callCpcFinalRecommendationEndpoint() {
-    // Check if we have the required data
-    if (!storedPatentData || !storedBigQueryResults) {
-        console.error('Missing required data for final CPC recommendation');
-        document.getElementById('cpcFinalRecommendation').textContent = 'Error: Missing patent data or search results';
-        return;
-    }
-    
-    // Prepare request data
-    const requestData = {
-        abstract: storedPatentData.abstract || '',
-        description: storedPatentData.description || '',
-        claims: storedPatentData.claims || '',
-        bigquery_results: storedBigQueryResults
-    };
-    
-    streamCpcAnalysis(
-        'cpcFinalRecommendation',
-        'https://patent-classification-analysis-934163632848.us-central1.run.app/cpc-final-recommendation',
-        requestData
-    );
+    // This function is no longer called directly
+    // It's now triggered by checkAndTriggerFinalRecommendation when both analyses are complete
+    console.log('Final recommendation will be triggered when both analyses complete');
 }
 
 // Format CPC analysis content with proper styling

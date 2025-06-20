@@ -11,6 +11,7 @@ from google import genai
 from google.genai import types
 from google.api_core.client_options import ClientOptions
 from google.cloud import discoveryengine
+from google.cloud import bigquery
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -32,6 +33,42 @@ genai_client = genai.Client(
 client_options = ClientOptions(api_endpoint=f"{LOCATION}-discoveryengine.googleapis.com")
 search_client = discoveryengine.SearchServiceClient(client_options=client_options)
 doc_client = discoveryengine.DocumentServiceClient(client_options=client_options)
+
+# Initialize BigQuery client
+bigquery_client = bigquery.Client(project=PROJECT_ID)
+
+
+def get_ipc_cpc_discordance_table() -> Dict[str, str]:
+    """
+    Query the IPC-CPC discordance table from BigQuery.
+    
+    Returns:
+        Dictionary mapping CPC codes to IPC codes
+    """
+    query = """
+    SELECT 
+        cpc_code,
+        ipc_code
+    FROM 
+        `gemini-med-lit-review.patents.ipc_cpc_discordance`
+    """
+    
+    try:
+        query_job = bigquery_client.query(query)
+        results = query_job.result()
+        
+        # Create a dictionary mapping CPC to IPC
+        discordance_map = {}
+        for row in results:
+            if row.cpc_code and row.ipc_code:
+                discordance_map[row.cpc_code] = row.ipc_code
+        
+        logger.info(f"Retrieved {len(discordance_map)} CPC-IPC mappings from discordance table")
+        return discordance_map
+        
+    except Exception as e:
+        logger.error(f"Error querying IPC-CPC discordance table: {str(e)}")
+        return {}
 
 
 def analyze_cpc_current_patents(patent_data: Dict[str, Any]) -> Generator[str, None, None]:
@@ -69,6 +106,9 @@ Semantic Distance: {result.get('semantic_distance', 'N/A')}
     # Prepare the prompt
     prompt = f"""You are a patent classification expert analyzing a patent application to determine the most appropriate CPC (Cooperative Patent Classification) codes. Your task is to provide a structured analysis that is clear and easy to navigate.
 
+## IMPORTANT INSTRUCTION:
+You must base your CPC classification decisions PRIMARILY on the patterns observed in the similar patents provided below. The Google Search tool should ONLY be used to verify the official definitions of the CPC codes you have already selected based on the historical patent data, NOT to make the initial classification decision.
+
 ## Output Format:
 
 Your response MUST follow this structure exactly:
@@ -86,12 +126,12 @@ Example for Part 1:
 
 **Part 2: Detailed Analysis**
 After the list, provide a detailed analysis for each recommended code.
-- Start this section with the heading "# Recommended CPC Classifications".
+- Start this section with the heading "# Recommended CPC Classifications Based on Historical Patents".
 - For each recommendation, include the CPC code, a "Reasoning" section, and a "Citation" section.
-- Use Google Search to research current CPC classification practices and definitions to support your reasoning.
-- Analyze the pattern of CPC codes in the similar patents provided.
-- Consider the hierarchical structure of CPC codes.
-- Include citations from your Google searches to support your recommendations.
+- In the "Reasoning" section, FIRST explain which similar patents from the list below use this CPC code and why it's relevant based on those patents.
+- In the "Citation" section, primarily cite the similar patents (e.g., "Patent 1", "Patent 3") that justify this classification.
+- Use Google Search ONLY to verify/confirm the official definitions of the CPC codes you've selected based on the patent data.
+- Consider the hierarchical structure of CPC codes as observed in the similar patents.
 
 ## Patent Application Information:
 
@@ -108,7 +148,7 @@ After the list, provide a detailed analysis for each recommended code.
 {cpc_summary}
 
 ## Task:
-Based on the patent application content and the CPC codes from semantically similar patents, determine the most appropriate CPC classification codes for this patent application, following the exact output format specified above."""
+Analyze the CPC codes used in the semantically similar patents above to determine the most appropriate CPC classification codes for this patent application. Base your classification decision on the patterns you observe in these historical patents, NOT on general knowledge. Use Google Search only to verify the definitions of the codes you've selected."""
 
     # Prepare content for Gemini
     contents = [
@@ -513,6 +553,189 @@ Based on the patent application content and the retrieved official CPC scheme de
         yield f"\n\nError during analysis: {str(e)}"
 
 
+def analyze_final_recommendation(patent_data: Dict[str, Any]) -> Generator[str, None, None]:
+    """
+    Generate a final CPC recommendation based on two separate analyses.
+    Uses Gemini 2.5 Pro to synthesize the arguments and provide final recommendation.
+    
+    Args:
+        patent_data: Dictionary containing 'current_patents_analysis' and 'scheme_definition_analysis'
+        
+    Yields:
+        Chunks of response text
+    """
+    # Extract the two analyses
+    current_patents_analysis = patent_data.get('current_patents_analysis', '')
+    scheme_definition_analysis = patent_data.get('scheme_definition_analysis', '')
+    
+    # Get the IPC-CPC discordance table
+    ipc_cpc_mapping = get_ipc_cpc_discordance_table()
+    
+    # Format the discordance table for the prompt
+    discordance_table_text = "## IPC-CPC Discordance Table\n\n"
+    if ipc_cpc_mapping:
+        discordance_table_text += "| CPC Code | IPC Code |\n|----------|----------|\n"
+        for cpc, ipc in sorted(ipc_cpc_mapping.items()):
+            discordance_table_text += f"| {cpc} | {ipc} |\n"
+    else:
+        discordance_table_text += "No discordance mappings available.\n"
+    
+    # Prepare the prompt
+    prompt = f"""You are a senior patent classification expert tasked with making a final recommendation for a patent application. You have been provided with two separate analyses: one based on historical patent data and another based on official CPC scheme definitions.
+
+Your job is to synthesize these two analyses, weigh the arguments presented in each, and produce a single, final, and well-reasoned recommendation.
+
+## IMPORTANT INSTRUCTIONS:
+- Your final recommendation should be a consensus decision that considers both analyses.
+- If the analyses conflict, you must resolve the conflict, explaining why you favor one line of reasoning over the other.
+- Your reasoning should be clear, logical, and directly reference the arguments made in the provided analyses.
+- Do not introduce new CPC codes that were not mentioned in either of the original analyses.
+- Preserve any citations from the original analyses in your final recommendation.
+- **CRITICAL**: Pay special attention to any differences between the historical patent classifications and the scheme definition recommendations. If the scheme definitions suggest different codes than what historical patents are using, this may indicate that those historical patents need their CPC codes updated. Explicitly highlight such discrepancies.
+- **IPC CODE ASSIGNMENT**: For each CPC code you recommend, look it up in the IPC-CPC Discordance Table provided below. If the CPC code is found in the table, use the corresponding IPC code. If the CPC code is NOT in the table, then the IPC code should be the same as the CPC code.
+
+## Output Format:
+
+Your response MUST follow this structure exactly:
+
+**Part 1: Final Classification Codes Table**
+First, provide a markdown table containing the final recommended CPC codes and their corresponding IPC codes.
+- The table should have two columns: "CPC Code" and "IPC Code"
+- For each CPC code, look it up in the IPC-CPC Discordance Table below
+- If the CPC code is in the discordance table, use the corresponding IPC code
+- If the CPC code is NOT in the discordance table, the IPC code is the same as the CPC code
+- Do not include any introductory text before this table
+
+Example for Part 1:
+| CPC Code | IPC Code |
+|----------|----------|
+| G06T 5/00 | G06T 5/00 |
+| G06V 10/98 | G06K 9/62 |
+| H04N 19/00 | H04N 7/26 |
+
+**Part 2: CPC Code Definitions**
+After the table, provide a list of the CPC codes and their official definitions.
+- Each code and its definition should be on a new line.
+- The CPC code itself (e.g., "G06T 5/00") must be enclosed in double asterisks to make it bold.
+
+Example for Part 2:
+**G06T 5/00**: Image enhancement or restoration
+**G06V 10/98**: Detection or correction of errors, e.g. by rescanning the pattern or by human intervention
+**H04N 19/00**: Methods or arrangements for coding, decoding, compressing or decompressing digital video signals
+
+**Part 3: Detailed Final Analysis**
+After the definitions, provide a detailed analysis for each recommended code.
+- Start this section with the heading "# Final Recommendation".
+- For each recommendation, include the CPC code, a "Reasoning" section, and a "Conclusion" section.
+- In the "Reasoning" section, synthesize the arguments from both the "Historical Patents" and "Scheme Definitions" analyses. Discuss how they support or conflict with each other.
+- In the "Conclusion" section, state your final decision for that CPC code and provide a conclusive justification.
+- Include citations from the original analyses where relevant.
+
+**Part 4: Patent Reclassification Insights**
+After the detailed analysis, add a section with the heading "# Patent Reclassification Insights".
+- Identify any significant discrepancies between historical patent classifications and current CPC scheme definitions.
+- For each discrepancy, explain:
+  - Which CPC codes are being used by historical patents
+  - Which CPC codes would be more appropriate according to current scheme definitions
+  - Why this suggests those historical patents may need reclassification
+  - The potential impact of updating these classifications
+- This analysis is crucial for maintaining the integrity and accuracy of the patent classification system.
+
+{discordance_table_text}
+
+## Analysis 1: Based on Historical Patents
+{current_patents_analysis}
+
+## Analysis 2: Based on Scheme Definitions
+{scheme_definition_analysis}
+
+## Task:
+Synthesize the two analyses above to produce a single, final CPC classification recommendation for the patent application. Remember to create the CPC-IPC table as Part 1 of your response, looking up each CPC code in the discordance table provided. Pay special attention to any discrepancies that might indicate historical patents need reclassification. Follow the specified output format precisely."""
+
+    # Prepare content for Gemini
+    contents = [
+        types.Content(
+            role="user",
+            parts=[types.Part.from_text(text=prompt)]
+        )
+    ]
+    
+    # Configure generation settings with thinking mode
+    generate_content_config = types.GenerateContentConfig(
+        temperature=0.8,  # Slightly lower temp for more deterministic synthesis
+        top_p=0.95,
+        seed=0,
+        max_output_tokens=65535,
+        safety_settings=[
+            types.SafetySetting(category="HARM_CATEGORY_HATE_SPEECH", threshold="OFF"),
+            types.SafetySetting(category="HARM_CATEGORY_DANGEROUS_CONTENT", threshold="OFF"),
+            types.SafetySetting(category="HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold="OFF"),
+            types.SafetySetting(category="HARM_CATEGORY_HARASSMENT", threshold="OFF")
+        ],
+        thinking_config=types.ThinkingConfig(
+            thinking_budget=32768,
+            include_thoughts=True  # Include thoughts in streaming
+        ),
+    )
+    
+    # Track state for streaming
+    thinking_complete = False
+    final_text_buffer = []
+    
+    try:
+        # Generate content with streaming
+        response_stream = genai_client.models.generate_content_stream(
+            model="gemini-2.5-pro",
+            contents=contents,
+            config=generate_content_config,
+        )
+        
+        for chunk in response_stream:
+            if not chunk.candidates or not chunk.candidates[0].content:
+                continue
+            
+            # Process parts
+            if chunk.candidates[0].content.parts:
+                for part in chunk.candidates[0].content.parts:
+                    if hasattr(part, 'thought') and part.thought:
+                        # This is thinking content
+                        if not thinking_complete and part.text:
+                            # Stream the thinking with a special marker
+                            yield f"THINKING: {part.text}"
+                    elif part.text:
+                        # This is final content
+                        if not thinking_complete:
+                            thinking_complete = True
+                            # Send a marker to indicate thinking is complete
+                            yield "\n\nTHINKING_COMPLETE\n\n"
+                        
+                        # Collect final text
+                        final_text_buffer.append(part.text)
+        
+        # After collecting all the final text, stream it
+        if final_text_buffer:
+            final_text = ''.join(final_text_buffer)
+            
+            # Stream the formatted text in chunks
+            token_pattern = r'(\[[^\]]+\]\([^)]+(?:\s+\'[^\']+\')?\)|<[^>]+>|[^\s<\[]+|\s+)'
+            tokens = re.findall(token_pattern, final_text)
+            
+            chunk_size = 3
+            buffer = ""
+            
+            for i, token in enumerate(tokens):
+                buffer += token
+                
+                if (i + 1) % chunk_size == 0 or i == len(tokens) - 1:
+                    yield buffer
+                    buffer = ""
+                    time.sleep(0.05)
+                    
+    except Exception as e:
+        logger.error(f"Error in final recommendation analysis: {str(e)}")
+        yield f"\n\nError during analysis: {str(e)}"
+
+
 @functions_framework.http
 def handle_cpc_analysis(request):
     """
@@ -611,26 +834,38 @@ def handle_cpc_analysis(request):
                 logger.error(f"Error processing CPC scheme definition request: {str(e)}")
                 return jsonify({"error": str(e)}), 500, headers
         
-        # Handle final CPC recommendation (placeholder)
+        # Handle final CPC recommendation
         elif request.path == '/cpc-final-recommendation':
             try:
                 request_json = request.get_json()
                 if not request_json:
                     return jsonify({'error': 'No JSON data received'}), 400, headers
                 
-                logger.info("Processing final CPC recommendation (placeholder)")
+                logger.info("Processing final CPC recommendation")
                 
-                # Placeholder response
-                response = {
-                    "status": "placeholder",
-                    "message": "This endpoint will provide final CPC classification recommendations",
-                    "input_received": {
-                        "current_patents_analysis": bool(request_json.get('current_patents_analysis')),
-                        "scheme_definition_analysis": bool(request_json.get('scheme_definition_analysis'))
-                    }
-                }
+                # Set streaming headers
+                headers['Content-Type'] = 'text/event-stream'
+                headers['Cache-Control'] = 'no-cache'
+                headers['X-Accel-Buffering'] = 'no'
                 
-                return jsonify(response), 200, headers
+                def generate():
+                    """Generator function for streaming response"""
+                    try:
+                        for chunk in analyze_final_recommendation(request_json):
+                            # Ensure each SSE message is properly formatted and flushed
+                            data = f"data: {json.dumps({'content': chunk})}\n\n"
+                            yield data.encode('utf-8')
+                        # Signal the end of the stream
+                        yield f"data: {json.dumps({'event': 'STREAM_COMPLETE'})}\n\n".encode('utf-8')
+                    except Exception as e:
+                        logger.error(f"Error in stream generation: {str(e)}")
+                        yield f"data: {json.dumps({'error': str(e)})}\n\n".encode('utf-8')
+                
+                return Response(
+                    stream_with_context(generate()),
+                    mimetype='text/event-stream',
+                    headers=headers
+                )
                 
             except Exception as e:
                 logger.error(f"Error processing final recommendation request: {str(e)}")
