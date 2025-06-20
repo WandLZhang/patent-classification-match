@@ -532,6 +532,9 @@
   font-size: 1rem;
   color: #1a73e8;
   font-weight: 500;
+  max-height: 120px; /* Fixed height for the content area */
+  overflow-y: auto; /* Enable scrolling */
+  padding-right: 5px; /* Add some padding for scrollbar */
 }
 
 /* Animation classes for the transition */

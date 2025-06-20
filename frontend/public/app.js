@@ -23,6 +23,7 @@ const cpcDecisionContainer = document.getElementById('cpcDecisionContainer');
 let isCameraOn = false;
 let mediaStream = null;
 let capturedImage = null;
+let currentPatentRankings = []; // Store rankings for CPC analysis
 
 // PDF.js state variables
 let pdfDoc = null;
@@ -46,6 +47,10 @@ let rankedCurrentPageNum = 1;
 let rankedPageRendering = false;
 let rankedPageNumPending = null;
 const RANKED_PDF_SCALE = 0.6;
+
+// Store BigQuery results for CPC analysis
+let storedBigQueryResults = null;
+let storedPatentData = null;
 
 // DOM elements for ranked patent PDF viewer (will be initialized after DOM loads)
 let rankedPdfViewerContainer = null;
@@ -538,6 +543,9 @@ function confirmPhoto() {
 
 // Function to display patent information
 function displayPatentInformation(patentData) {
+    // Store patent data for later use
+    storedPatentData = patentData;
+    
     // Apply animations for the transition
     const buttonContainer = document.querySelector('.button-container');
     const previewArea = document.getElementById('previewArea');
@@ -969,8 +977,10 @@ function handleRankingsToCpcTransition() {
 
         // After animation completes, load backend data
         setTimeout(() => {
-            // Simulate backend calls
-            document.getElementById('cpcCurrentPatents').textContent = 'Backend function output will appear here';
+            // Call the first endpoint - CPC decision based on current patents
+            callCpcCurrentPatentsEndpoint();
+            
+            // Set placeholders for the other endpoints
             document.getElementById('cpcSchemeDefinition').textContent = 'Backend function output will appear here';
             document.getElementById('cpcFinalRecommendation').textContent = 'Backend function output will appear here';
         }, 800); // Match CSS transition duration
@@ -1121,6 +1131,9 @@ function handleBlueArrowClick() {
     })
     .then(data => {
         console.log('Patent semantic search results:', data);
+        
+        // Store BigQuery results for CPC analysis
+        storedBigQueryResults = data.rankings || [];
         
         // Copy the current image to the rankings image preview
         // If we have a PDF loaded, use the canvas, otherwise use the image preview
@@ -1646,6 +1659,208 @@ function stopPdfScanningAnimation() {
         queueRenderPage(1);
     }
 }
+
+// Function to call CPC current patents endpoint with SSE streaming
+function callCpcCurrentPatentsEndpoint() {
+    const cpcCurrentPatentsElement = document.getElementById('cpcCurrentPatents');
+    
+    // Check if we have the required data
+    if (!storedPatentData || !storedBigQueryResults) {
+        console.error('Missing required data for CPC analysis');
+        cpcCurrentPatentsElement.textContent = 'Error: Missing patent data or search results';
+        return;
+    }
+    
+    // Show loading state
+    cpcCurrentPatentsElement.innerHTML = '<span class="material-symbols-outlined" style="animation: spin 1s linear infinite;">hourglass_empty</span> Analyzing...';
+    
+    // Prepare request data
+    const requestData = {
+        abstract: storedPatentData.abstract || '',
+        description: storedPatentData.description || '',
+        claims: storedPatentData.claims || '',
+        bigquery_results: storedBigQueryResults
+    };
+    
+    // Create EventSource for SSE
+    // Since EventSource doesn't support POST, we'll use fetch with streaming
+    fetch('https://patent-classification-analysis-934163632848.us-central1.run.app/cpc-decision-current-patents', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(requestData)
+    })
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok: ' + response.statusText);
+        }
+        
+        // Read the stream
+        const reader = response.body.getReader();
+        const decoder = new TextDecoder();
+        
+        let thinkingContent = '';
+        let finalContent = '';
+        let isThinking = true;
+        let buffer = '';
+        let isStreaming = true;
+        
+        function processStream() {
+            reader.read().then(({ done, value }) => {
+                if (done) {
+                    isStreaming = false;
+                    
+                    // Process any remaining buffer content
+                    if (buffer.trim()) {
+                        const lines = buffer.split('\n');
+                        lines.forEach(line => {
+                            if (line.startsWith('data: ')) {
+                                try {
+                                    const data = JSON.parse(line.substring(6));
+                                    const content = data.content || '';
+                                    
+                                    if (!isThinking && content) {
+                                        finalContent += content;
+                                        cpcCurrentPatentsElement.innerHTML = formatCpcAnalysis(finalContent);
+                                    }
+                                } catch (e) {
+                                    console.error('Error parsing final buffer data:', e);
+                                }
+                            }
+                        });
+                    }
+                    
+                    // Now scroll to top after all content is processed
+                    // Use requestAnimationFrame to ensure DOM has been updated
+                    if (cpcCurrentPatentsElement) {
+                        requestAnimationFrame(() => {
+                            console.log('Scrolling to top after stream complete');
+                            cpcCurrentPatentsElement.scrollTop = 0;
+                        });
+                    }
+                    return;
+                }
+                
+                // Decode the chunk
+                const chunk = decoder.decode(value, { stream: true });
+                buffer += chunk;
+                
+                // Process complete lines
+                const lines = buffer.split('\n');
+                buffer = lines.pop(); // Keep incomplete line in buffer
+                
+                lines.forEach(line => {
+                    if (line.startsWith('data: ')) {
+                        try {
+                            const data = JSON.parse(line.substring(6));
+                            
+                            // Check for stream complete event
+                            if (data.event === 'STREAM_COMPLETE') {
+                                console.log('STREAM_COMPLETE event received.');
+                                isStreaming = false;
+                                if (cpcCurrentPatentsElement) {
+                                    // Use requestAnimationFrame to ensure DOM has been updated
+                                    requestAnimationFrame(() => {
+                                        console.log('Resetting scroll to top via STREAM_COMPLETE event');
+                                        cpcCurrentPatentsElement.scrollTop = 0;
+                                    });
+                                }
+                                return; // Stop processing this line
+                            }
+                            
+                            const content = data.content || '';
+                            
+                            if (content.startsWith('THINKING: ')) {
+                                // This is thinking content
+                                thinkingContent += content.substring(10) + '\n';
+                                // Display thinking in italics
+                                cpcCurrentPatentsElement.innerHTML = `<em style="color: #666;">${thinkingContent}</em>`;
+                                
+                                // Auto-scroll to bottom while streaming
+                                if (isStreaming) {
+                                    // Use requestAnimationFrame to ensure DOM has updated
+                                    requestAnimationFrame(() => {
+                                        if (cpcCurrentPatentsElement) {
+                                            cpcCurrentPatentsElement.scrollTop = cpcCurrentPatentsElement.scrollHeight;
+                                        }
+                                    });
+                                }
+                            } else if (content.includes('THINKING_COMPLETE')) {
+                                // Thinking is complete, clear thinking display
+                                isThinking = false;
+                                cpcCurrentPatentsElement.innerHTML = '<span class="material-symbols-outlined" style="animation: spin 1s linear infinite;">hourglass_empty</span> Processing analysis...';
+                            } else if (!isThinking) {
+                                // This is final content
+                                finalContent += content;
+                                // Update display with final content as it streams
+                                cpcCurrentPatentsElement.innerHTML = formatCpcAnalysis(finalContent);
+                                
+                                // Auto-scroll to bottom while streaming
+                                if (isStreaming) {
+                                    // Use requestAnimationFrame to ensure DOM has updated
+                                    requestAnimationFrame(() => {
+                                        if (cpcCurrentPatentsElement) {
+                                            cpcCurrentPatentsElement.scrollTop = cpcCurrentPatentsElement.scrollHeight;
+                                        }
+                                    });
+                                }
+                            }
+                        } catch (e) {
+                            console.error('Error parsing SSE data:', e);
+                        }
+                    }
+                });
+                
+                // Continue reading
+                processStream();
+            }).catch(error => {
+                console.error('Error reading stream:', error);
+                cpcCurrentPatentsElement.textContent = 'Error: Failed to process stream';
+            });
+        }
+        
+        // Start processing the stream
+        processStream();
+    })
+    .catch(error => {
+        console.error('Error calling CPC endpoint:', error);
+        cpcCurrentPatentsElement.textContent = `Error: ${error.message}`;
+    });
+}
+
+// Format CPC analysis content with proper styling
+function formatCpcAnalysis(content) {
+    // Convert markdown-style formatting to HTML
+    let formatted = content
+        // Convert markdown links with title [text](url 'title') to HTML
+        .replace(/\[([^\]]+)\]\(([^)]+)\s+'([^']+)'\)/g, '<a href="$2" title="$3" target="_blank" rel="noopener noreferrer">$1</a>')
+        // Convert markdown links without title [text](url) to HTML
+        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>')
+        // Headers
+        .replace(/## (.*?)$/gm, '<h4>$1</h4>')
+        // Bold text
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        // Italic text
+        .replace(/\*(.*?)\*/g, '<em>$1</em>')
+        // Line breaks
+        .replace(/\n/g, '<br>')
+        // Citations section (this won't be needed anymore with inline citations)
+        .replace(/--- CITATIONS ---/g, '<hr><h4>Citations</h4>');
+    
+    // Return just the formatted content without any wrapper
+    return formatted;
+}
+
+// Add CSS animation for spinning hourglass
+const style = document.createElement('style');
+style.textContent = `
+    @keyframes spin {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+    }
+`;
+document.head.appendChild(style);
 
 // Initialize the app
 document.addEventListener('DOMContentLoaded', () => {
