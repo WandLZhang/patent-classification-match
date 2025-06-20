@@ -977,12 +977,10 @@ function handleRankingsToCpcTransition() {
 
         // After animation completes, load backend data
         setTimeout(() => {
-            // Call the first endpoint - CPC decision based on current patents
+            // Call all three CPC analysis endpoints concurrently
             callCpcCurrentPatentsEndpoint();
-            
-            // Set placeholders for the other endpoints
-            document.getElementById('cpcSchemeDefinition').textContent = 'Backend function output will appear here';
-            document.getElementById('cpcFinalRecommendation').textContent = 'Backend function output will appear here';
+            callCpcSchemeDefinitionEndpoint();
+            callCpcFinalRecommendationEndpoint();
         }, 800); // Match CSS transition duration
 
     }, 100); // Small delay for staggering
@@ -1660,31 +1658,16 @@ function stopPdfScanningAnimation() {
     }
 }
 
-// Function to call CPC current patents endpoint with SSE streaming
-function callCpcCurrentPatentsEndpoint() {
-    const cpcCurrentPatentsElement = document.getElementById('cpcCurrentPatents');
-    
-    // Check if we have the required data
-    if (!storedPatentData || !storedBigQueryResults) {
-        console.error('Missing required data for CPC analysis');
-        cpcCurrentPatentsElement.textContent = 'Error: Missing patent data or search results';
-        return;
-    }
+// Generic function to stream CPC analysis with SSE
+function streamCpcAnalysis(elementId, endpoint, requestData) {
+    const targetElement = document.getElementById(elementId);
     
     // Show loading state
-    cpcCurrentPatentsElement.innerHTML = '<span class="material-symbols-outlined" style="animation: spin 1s linear infinite;">hourglass_empty</span> Analyzing...';
-    
-    // Prepare request data
-    const requestData = {
-        abstract: storedPatentData.abstract || '',
-        description: storedPatentData.description || '',
-        claims: storedPatentData.claims || '',
-        bigquery_results: storedBigQueryResults
-    };
+    targetElement.innerHTML = '<span class="material-symbols-outlined" style="animation: spin 1s linear infinite;">hourglass_empty</span> Analyzing...';
     
     // Create EventSource for SSE
     // Since EventSource doesn't support POST, we'll use fetch with streaming
-    fetch('https://patent-classification-analysis-934163632848.us-central1.run.app/cpc-decision-current-patents', {
+    fetch(endpoint, {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
@@ -1722,7 +1705,7 @@ function callCpcCurrentPatentsEndpoint() {
                                     
                                     if (!isThinking && content) {
                                         finalContent += content;
-                                        cpcCurrentPatentsElement.innerHTML = formatCpcAnalysis(finalContent);
+                                        targetElement.innerHTML = formatCpcAnalysis(finalContent);
                                     }
                                 } catch (e) {
                                     console.error('Error parsing final buffer data:', e);
@@ -1733,10 +1716,10 @@ function callCpcCurrentPatentsEndpoint() {
                     
                     // Now scroll to top after all content is processed
                     // Use requestAnimationFrame to ensure DOM has been updated
-                    if (cpcCurrentPatentsElement) {
+                    if (targetElement) {
                         requestAnimationFrame(() => {
-                            console.log('Scrolling to top after stream complete');
-                            cpcCurrentPatentsElement.scrollTop = 0;
+                            console.log(`Scrolling ${elementId} to top after stream complete`);
+                            targetElement.scrollTop = 0;
                         });
                     }
                     return;
@@ -1757,13 +1740,13 @@ function callCpcCurrentPatentsEndpoint() {
                             
                             // Check for stream complete event
                             if (data.event === 'STREAM_COMPLETE') {
-                                console.log('STREAM_COMPLETE event received.');
+                                console.log(`${elementId}: STREAM_COMPLETE event received.`);
                                 isStreaming = false;
-                                if (cpcCurrentPatentsElement) {
+                                if (targetElement) {
                                     // Use requestAnimationFrame to ensure DOM has been updated
                                     requestAnimationFrame(() => {
-                                        console.log('Resetting scroll to top via STREAM_COMPLETE event');
-                                        cpcCurrentPatentsElement.scrollTop = 0;
+                                        console.log(`Resetting ${elementId} scroll to top via STREAM_COMPLETE event`);
+                                        targetElement.scrollTop = 0;
                                     });
                                 }
                                 return; // Stop processing this line
@@ -1775,33 +1758,33 @@ function callCpcCurrentPatentsEndpoint() {
                                 // This is thinking content
                                 thinkingContent += content.substring(10) + '\n';
                                 // Display thinking in italics
-                                cpcCurrentPatentsElement.innerHTML = `<em style="color: #666;">${thinkingContent}</em>`;
+                                targetElement.innerHTML = `<em style="color: #666;">${thinkingContent}</em>`;
                                 
                                 // Auto-scroll to bottom while streaming
                                 if (isStreaming) {
                                     // Use requestAnimationFrame to ensure DOM has updated
                                     requestAnimationFrame(() => {
-                                        if (cpcCurrentPatentsElement) {
-                                            cpcCurrentPatentsElement.scrollTop = cpcCurrentPatentsElement.scrollHeight;
+                                        if (targetElement) {
+                                            targetElement.scrollTop = targetElement.scrollHeight;
                                         }
                                     });
                                 }
                             } else if (content.includes('THINKING_COMPLETE')) {
                                 // Thinking is complete, clear thinking display
                                 isThinking = false;
-                                cpcCurrentPatentsElement.innerHTML = '<span class="material-symbols-outlined" style="animation: spin 1s linear infinite;">hourglass_empty</span> Processing analysis...';
+                                targetElement.innerHTML = '<span class="material-symbols-outlined" style="animation: spin 1s linear infinite;">hourglass_empty</span> Processing analysis...';
                             } else if (!isThinking) {
                                 // This is final content
                                 finalContent += content;
                                 // Update display with final content as it streams
-                                cpcCurrentPatentsElement.innerHTML = formatCpcAnalysis(finalContent);
+                                targetElement.innerHTML = formatCpcAnalysis(finalContent);
                                 
                                 // Auto-scroll to bottom while streaming
                                 if (isStreaming) {
                                     // Use requestAnimationFrame to ensure DOM has updated
                                     requestAnimationFrame(() => {
-                                        if (cpcCurrentPatentsElement) {
-                                            cpcCurrentPatentsElement.scrollTop = cpcCurrentPatentsElement.scrollHeight;
+                                        if (targetElement) {
+                                            targetElement.scrollTop = targetElement.scrollHeight;
                                         }
                                     });
                                 }
@@ -1816,7 +1799,7 @@ function callCpcCurrentPatentsEndpoint() {
                 processStream();
             }).catch(error => {
                 console.error('Error reading stream:', error);
-                cpcCurrentPatentsElement.textContent = 'Error: Failed to process stream';
+                targetElement.textContent = 'Error: Failed to process stream';
             });
         }
         
@@ -1824,9 +1807,80 @@ function callCpcCurrentPatentsEndpoint() {
         processStream();
     })
     .catch(error => {
-        console.error('Error calling CPC endpoint:', error);
-        cpcCurrentPatentsElement.textContent = `Error: ${error.message}`;
+        console.error(`Error calling ${endpoint}:`, error);
+        targetElement.textContent = `Error: ${error.message}`;
     });
+}
+
+// Function to call CPC current patents endpoint with SSE streaming
+function callCpcCurrentPatentsEndpoint() {
+    // Check if we have the required data
+    if (!storedPatentData || !storedBigQueryResults) {
+        console.error('Missing required data for CPC analysis');
+        document.getElementById('cpcCurrentPatents').textContent = 'Error: Missing patent data or search results';
+        return;
+    }
+    
+    // Prepare request data
+    const requestData = {
+        abstract: storedPatentData.abstract || '',
+        description: storedPatentData.description || '',
+        claims: storedPatentData.claims || '',
+        bigquery_results: storedBigQueryResults
+    };
+    
+    streamCpcAnalysis(
+        'cpcCurrentPatents',
+        'https://patent-classification-analysis-934163632848.us-central1.run.app/cpc-decision-current-patents',
+        requestData
+    );
+}
+
+// Function to call CPC scheme definition endpoint with SSE streaming
+function callCpcSchemeDefinitionEndpoint() {
+    // Check if we have the required data
+    if (!storedPatentData) {
+        console.error('Missing required patent data for CPC scheme definition analysis');
+        document.getElementById('cpcSchemeDefinition').textContent = 'Error: Missing patent data';
+        return;
+    }
+    
+    // Prepare request data
+    const requestData = {
+        abstract: storedPatentData.abstract || '',
+        description: storedPatentData.description || '',
+        claims: storedPatentData.claims || ''
+    };
+    
+    streamCpcAnalysis(
+        'cpcSchemeDefinition',
+        'https://patent-classification-analysis-934163632848.us-central1.run.app/cpc-decision-scheme-definition',
+        requestData
+    );
+}
+
+// Function to call CPC final recommendation endpoint with SSE streaming
+function callCpcFinalRecommendationEndpoint() {
+    // Check if we have the required data
+    if (!storedPatentData || !storedBigQueryResults) {
+        console.error('Missing required data for final CPC recommendation');
+        document.getElementById('cpcFinalRecommendation').textContent = 'Error: Missing patent data or search results';
+        return;
+    }
+    
+    // Prepare request data
+    const requestData = {
+        abstract: storedPatentData.abstract || '',
+        description: storedPatentData.description || '',
+        claims: storedPatentData.claims || '',
+        bigquery_results: storedBigQueryResults
+    };
+    
+    streamCpcAnalysis(
+        'cpcFinalRecommendation',
+        'https://patent-classification-analysis-934163632848.us-central1.run.app/cpc-final-recommendation',
+        requestData
+    );
 }
 
 // Format CPC analysis content with proper styling

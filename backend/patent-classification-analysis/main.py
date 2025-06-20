@@ -57,7 +57,31 @@ Semantic Distance: {result.get('semantic_distance', 'N/A')}
     cpc_summary = '\n'.join(cpc_analysis)
     
     # Prepare the prompt
-    prompt = f"""You are a patent classification expert analyzing a patent application to determine the most appropriate CPC (Cooperative Patent Classification) codes.
+    prompt = f"""You are a patent classification expert analyzing a patent application to determine the most appropriate CPC (Cooperative Patent Classification) codes. Your task is to provide a structured analysis that is clear and easy to navigate.
+
+## Output Format:
+
+Your response MUST follow this structure exactly:
+
+**Part 1: CPC Code List**
+First, provide a list of the recommended CPC codes and their official definitions.
+- Each code and its definition should be on a new line.
+- The CPC code itself (e.g., "G06T 5/00") must be enclosed in double asterisks to make it bold.
+- Do not include any introductory text or preface before this list.
+
+Example for Part 1:
+**G06T: IMAGE DATA PROCESSING OR GENERATION, IN GENERAL**
+**G06V 10/98: Detection or correction of errors, e.g. by rescanning the pattern or by human intervention; Evaluation of the quality of the acquired patterns**
+**G06T 5/00: Image enhancement or restoration**
+
+**Part 2: Detailed Analysis**
+After the list, provide a detailed analysis for each recommended code.
+- Start this section with the heading "# Recommended CPC Classifications".
+- For each recommendation, include the CPC code, a "Reasoning" section, and a "Citation" section.
+- Use Google Search to research current CPC classification practices and definitions to support your reasoning.
+- Analyze the pattern of CPC codes in the similar patents provided.
+- Consider the hierarchical structure of CPC codes.
+- Include citations from your Google searches to support your recommendations.
 
 ## Patent Application Information:
 
@@ -74,16 +98,7 @@ Semantic Distance: {result.get('semantic_distance', 'N/A')}
 {cpc_summary}
 
 ## Task:
-Based on the patent application content and the CPC codes from semantically similar patents, determine the most appropriate CPC classification codes for this patent application.
-
-Please:
-1. Use Google Search to research current CPC classification practices and definitions for the relevant technology areas
-2. Analyze the pattern of CPC codes in the similar patents
-3. Consider the hierarchical structure of CPC codes (Section/Class/Subclass/Group/Subgroup)
-4. Provide your top 3-5 recommended CPC codes with detailed reasoning
-5. Include citations from your Google searches to support your recommendations
-
-Focus on being accurate and providing verifiable sources for your CPC code recommendations."""
+Based on the patent application content and the CPC codes from semantically similar patents, determine the most appropriate CPC classification codes for this patent application, following the exact output format specified above."""
 
     # Prepare content for Gemini
     contents = [
