@@ -157,18 +157,38 @@ Focus on being accurate and providing verifiable sources for your CPC code recom
                         final_text_buffer.append(part.text)
         
         # After collecting all the final text, format it with inline citations
-        if final_text_buffer and grounding_metadata:
+        if final_text_buffer:
             # Combine all text chunks
             final_text = ''.join(final_text_buffer)
             
-            # Apply inline citations
-            formatted_text = format_citation_response(final_text, grounding_metadata)
+            # Apply inline citations if we have grounding metadata
+            if grounding_metadata:
+                formatted_text = format_citation_response(final_text, grounding_metadata)
+            else:
+                formatted_text = final_text
             
-            # Send the formatted text with inline citations
-            yield formatted_text
-        elif final_text_buffer:
-            # No grounding metadata, just send the text as is
-            yield ''.join(final_text_buffer)
+            # Stream the formatted text in chunks to simulate streaming
+            # Split by words while preserving HTML tags and markdown links
+            import re
+            import time
+            
+            # Pattern to match complete tokens (words, HTML tags, or markdown links)
+            token_pattern = r'(\[[^\]]+\]\([^)]+(?:\s+\'[^\']+\')?\)|<[^>]+>|[^\s<\[]+|\s+)'
+            tokens = re.findall(token_pattern, formatted_text)
+            
+            # Group tokens into small chunks for better streaming effect
+            chunk_size = 3  # Number of tokens per chunk
+            buffer = ""
+            
+            for i, token in enumerate(tokens):
+                buffer += token
+                
+                # Send chunk when buffer reaches chunk_size tokens or at the end
+                if (i + 1) % chunk_size == 0 or i == len(tokens) - 1:
+                    yield buffer
+                    buffer = ""
+                    # Add delay for streaming effect
+                    time.sleep(0.05)  # 50ms delay between chunks
                     
     except Exception as e:
         logger.error(f"Error in CPC analysis: {str(e)}")
@@ -259,12 +279,14 @@ def handle_cpc_analysis(request):
                     """Generator function for streaming response"""
                     try:
                         for chunk in analyze_cpc_current_patents(request_json):
-                            yield f"data: {json.dumps({'content': chunk})}\n\n"
+                            # Ensure each SSE message is properly formatted and flushed
+                            data = f"data: {json.dumps({'content': chunk})}\n\n"
+                            yield data.encode('utf-8')
                         # Signal the end of the stream
-                        yield f"data: {json.dumps({'event': 'STREAM_COMPLETE'})}\n\n"
+                        yield f"data: {json.dumps({'event': 'STREAM_COMPLETE'})}\n\n".encode('utf-8')
                     except Exception as e:
                         logger.error(f"Error in stream generation: {str(e)}")
-                        yield f"data: {json.dumps({'error': str(e)})}\n\n"
+                        yield f"data: {json.dumps({'error': str(e)})}\n\n".encode('utf-8')
                 
                 return Response(
                     stream_with_context(generate()),
